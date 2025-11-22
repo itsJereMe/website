@@ -1,0 +1,7174 @@
+[
+ {
+   "naam": "'t huis aan de poel",
+   "datum": "2003-12-26 01:35",
+   "grootte": "11K"
+ },
+ {
+   "naam": "'t koetje",
+   "datum": "2003-10-06 02:00",
+   "grootte": "7.5K"
+ },
+ {
+   "naam": "'t nopeind",
+   "datum": "2003-09-05 20:55",
+   "grootte": "8.8K"
+ },
+ {
+   "naam": "1,",
+   "datum": "2003-08-21 23:44",
+   "grootte": "4.5K"
+ },
+ {
+   "naam": "1",
+   "datum": "2003-08-21 23:44",
+   "grootte": "3.6K"
+ },
+ {
+   "naam": "2,",
+   "datum": "2003-08-21 23:44",
+   "grootte": "4.9K"
+ },
+ {
+   "naam": "2",
+   "datum": "2003-08-21 23:44",
+   "grootte": "3.4K"
+ },
+ {
+   "naam": "3,",
+   "datum": "2003-08-21 23:44",
+   "grootte": "3.8K"
+ },
+ {
+   "naam": "3",
+   "datum": "2003-08-21 23:44",
+   "grootte": "2.8K"
+ },
+ {
+   "naam": "3_2",
+   "datum": "2012-12-29 00:32",
+   "grootte": "4.6K"
+ },
+ {
+   "naam": "4,",
+   "datum": "2003-08-21 23:44",
+   "grootte": "4.9K"
+ },
+ {
+   "naam": "4",
+   "datum": "2003-08-21 23:44",
+   "grootte": "4.9K"
+ },
+ {
+   "naam": "4_2",
+   "datum": "2012-12-29 00:32",
+   "grootte": "5.5K"
+ },
+ {
+   "naam": "5,",
+   "datum": "2003-08-21 23:44",
+   "grootte": "5.7K"
+ },
+ {
+   "naam": "5",
+   "datum": "2003-08-21 23:44",
+   "grootte": "4.9K"
+ },
+ {
+   "naam": "5_2",
+   "datum": "2012-12-29 00:32",
+   "grootte": "5.3K"
+ },
+ {
+   "naam": "7,",
+   "datum": "2003-08-21 23:44",
+   "grootte": "6.3K"
+ },
+ {
+   "naam": "7",
+   "datum": "2003-08-21 23:44",
+   "grootte": "5.7K"
+ },
+ {
+   "naam": "7_2",
+   "datum": "2012-12-29 00:32",
+   "grootte": "6.7K"
+ },
+ {
+   "naam": "9,",
+   "datum": "2003-08-21 23:44",
+   "grootte": "6.1K"
+ },
+ {
+   "naam": "9",
+   "datum": "2003-08-21 23:44",
+   "grootte": "5.5K"
+ },
+ {
+   "naam": "9_2",
+   "datum": "2012-12-29 00:32",
+   "grootte": "5.9K"
+ },
+ {
+   "naam": "10,",
+   "datum": "2003-08-21 23:44",
+   "grootte": "4.5K"
+ },
+ {
+   "naam": "10",
+   "datum": "2003-08-21 23:44",
+   "grootte": "3.4K"
+ },
+ {
+   "naam": "10_2",
+   "datum": "2012-12-29 00:32",
+   "grootte": "4.1K"
+ },
+ {
+   "naam": "12,",
+   "datum": "2003-08-21 23:44",
+   "grootte": "6.3K"
+ },
+ {
+   "naam": "12",
+   "datum": "2003-08-21 23:44",
+   "grootte": "5.5K"
+ },
+ {
+   "naam": "12_2",
+   "datum": "2012-12-29 00:32",
+   "grootte": "5.3K"
+ },
+ {
+   "naam": "13,",
+   "datum": "2003-08-21 23:44",
+   "grootte": "6.3K"
+ },
+ {
+   "naam": "13",
+   "datum": "2003-08-21 23:44",
+   "grootte": "5.7K"
+ },
+ {
+   "naam": "13_2",
+   "datum": "2012-12-29 00:32",
+   "grootte": "6.3K"
+ },
+ {
+   "naam": "14,",
+   "datum": "2003-08-21 23:44",
+   "grootte": "6.3K"
+ },
+ {
+   "naam": "14",
+   "datum": "2003-08-21 23:44",
+   "grootte": "6.7K"
+ },
+ {
+   "naam": "14_2",
+   "datum": "2012-12-29 00:32",
+   "grootte": "6.7K"
+ },
+ {
+   "naam": "15,",
+   "datum": "2003-08-21 23:44",
+   "grootte": "6.7K"
+ },
+ {
+   "naam": "15",
+   "datum": "2003-08-21 23:44",
+   "grootte": "6.1K"
+ },
+ {
+   "naam": "16,",
+   "datum": "2003-08-21 23:44",
+   "grootte": "6.7K"
+ },
+ {
+   "naam": "16",
+   "datum": "2003-08-21 23:44",
+   "grootte": "6.9K"
+ },
+ {
+   "naam": "16_2",
+   "datum": "2012-12-29 00:32",
+   "grootte": "6.3K"
+ },
+ {
+   "naam": "17,",
+   "datum": "2003-08-21 23:44",
+   "grootte": "7.5K"
+ },
+ {
+   "naam": "17",
+   "datum": "2003-08-21 23:44",
+   "grootte": "7.5K"
+ },
+ {
+   "naam": "17_2",
+   "datum": "2012-12-29 00:32",
+   "grootte": "6.7K"
+ },
+ {
+   "naam": "18,",
+   "datum": "2003-08-21 23:44",
+   "grootte": "5.7K"
+ },
+ {
+   "naam": "18",
+   "datum": "2003-08-21 23:44",
+   "grootte": "5.7K"
+ },
+ {
+   "naam": "18_2",
+   "datum": "2012-12-29 00:32",
+   "grootte": "6.3K"
+ },
+ {
+   "naam": "19,",
+   "datum": "2003-08-21 23:44",
+   "grootte": "7.7K"
+ },
+ {
+   "naam": "19",
+   "datum": "2003-08-21 23:44",
+   "grootte": "7.5K"
+ },
+ {
+   "naam": "21",
+   "datum": "2003-08-21 23:44",
+   "grootte": "8.3K"
+ },
+ {
+   "naam": "22,",
+   "datum": "2003-08-21 23:44",
+   "grootte": "8.1K"
+ },
+ {
+   "naam": "22",
+   "datum": "2003-08-21 23:44",
+   "grootte": "8.1K"
+ },
+ {
+   "naam": "22_2",
+   "datum": "2012-12-29 00:32",
+   "grootte": "8.8K"
+ },
+ {
+   "naam": "23,",
+   "datum": "2003-08-21 23:44",
+   "grootte": "8.3K"
+ },
+ {
+   "naam": "23",
+   "datum": "2003-08-21 23:44",
+   "grootte": "7.5K"
+ },
+ {
+   "naam": "24,",
+   "datum": "2003-08-21 23:44",
+   "grootte": "8.7K"
+ },
+ {
+   "naam": "24",
+   "datum": "2003-08-21 23:44",
+   "grootte": "8.1K"
+ },
+ {
+   "naam": "24_2",
+   "datum": "2012-12-29 00:32",
+   "grootte": "9.0K"
+ },
+ {
+   "naam": "25,",
+   "datum": "2003-08-21 23:44",
+   "grootte": "8.9K"
+ },
+ {
+   "naam": "25",
+   "datum": "2003-08-21 23:44",
+   "grootte": "8.1K"
+ },
+ {
+   "naam": "25_2",
+   "datum": "2012-12-29 00:32",
+   "grootte": "9.0K"
+ },
+ {
+   "naam": "26",
+   "datum": "2012-12-29 00:32",
+   "grootte": "9.0K"
+ },
+ {
+   "naam": "29",
+   "datum": "2003-08-21 23:44",
+   "grootte": "9.6K"
+ },
+ {
+   "naam": "30",
+   "datum": "2012-12-29 00:32",
+   "grootte": "8.1K"
+ },
+ {
+   "naam": "31",
+   "datum": "2012-12-29 00:32",
+   "grootte": "10K"
+ },
+ {
+   "naam": "32",
+   "datum": "2012-12-29 00:32",
+   "grootte": "9.4K"
+ },
+ {
+   "naam": "33",
+   "datum": "2012-12-29 00:32",
+   "grootte": "10K"
+ },
+ {
+   "naam": "34",
+   "datum": "2012-12-29 00:32",
+   "grootte": "10K"
+ },
+ {
+   "naam": "35",
+   "datum": "2012-12-29 00:32",
+   "grootte": "10K"
+ },
+ {
+   "naam": "36",
+   "datum": "2012-12-29 00:32",
+   "grootte": "10K"
+ },
+ {
+   "naam": "37,",
+   "datum": "2003-08-21 23:44",
+   "grootte": "9.5K"
+ },
+ {
+   "naam": "37",
+   "datum": "2003-08-21 23:44",
+   "grootte": "10K"
+ },
+ {
+   "naam": "37_2",
+   "datum": "2012-12-29 00:32",
+   "grootte": "11K"
+ },
+ {
+   "naam": "38",
+   "datum": "2012-12-29 00:32",
+   "grootte": "9.8K"
+ },
+ {
+   "naam": "39,",
+   "datum": "2003-08-21 23:44",
+   "grootte": "9.1K"
+ },
+ {
+   "naam": "40",
+   "datum": "2012-12-29 00:32",
+   "grootte": "7.9K"
+ },
+ {
+   "naam": "41",
+   "datum": "2012-12-29 00:32",
+   "grootte": "10K"
+ },
+ {
+   "naam": "44",
+   "datum": "2012-12-29 00:32",
+   "grootte": "11K"
+ },
+ {
+   "naam": "45",
+   "datum": "2012-12-29 00:32",
+   "grootte": "11K"
+ },
+ {
+   "naam": "46",
+   "datum": "2012-12-29 00:32",
+   "grootte": "10K"
+ },
+ {
+   "naam": "47",
+   "datum": "2012-12-29 00:32",
+   "grootte": "11K"
+ },
+ {
+   "naam": "48",
+   "datum": "2012-12-29 00:32",
+   "grootte": "10K"
+ },
+ {
+   "naam": "49",
+   "datum": "2012-12-29 00:32",
+   "grootte": "11K"
+ },
+ {
+   "naam": "50",
+   "datum": "2012-12-29 00:32",
+   "grootte": "8.8K"
+ },
+ {
+   "naam": "51",
+   "datum": "2012-12-29 00:32",
+   "grootte": "10K"
+ },
+ {
+   "naam": "53",
+   "datum": "2012-12-29 00:32",
+   "grootte": "12K"
+ },
+ {
+   "naam": "54",
+   "datum": "2012-12-29 00:32",
+   "grootte": "11K"
+ },
+ {
+   "naam": "61",
+   "datum": "2012-12-29 00:32",
+   "grootte": "10K"
+ },
+ {
+   "naam": "62",
+   "datum": "2012-12-29 00:32",
+   "grootte": "9.4K"
+ },
+ {
+   "naam": "63",
+   "datum": "2012-12-29 00:32",
+   "grootte": "15K"
+ },
+ {
+   "naam": "63_2",
+   "datum": "2012-12-29 00:32",
+   "grootte": "14K"
+ },
+ {
+   "naam": "64,",
+   "datum": "2003-08-21 23:44",
+   "grootte": "9.3K"
+ },
+ {
+   "naam": "64",
+   "datum": "2003-08-21 23:44",
+   "grootte": "9.4K"
+ },
+ {
+   "naam": "64_2",
+   "datum": "2012-12-29 00:32",
+   "grootte": "10K"
+ },
+ {
+   "naam": "65",
+   "datum": "2003-08-21 23:44",
+   "grootte": "9.2K"
+ },
+ {
+   "naam": "65_2",
+   "datum": "2012-12-29 00:32",
+   "grootte": "11K"
+ },
+ {
+   "naam": "66",
+   "datum": "2003-08-21 23:44",
+   "grootte": "8.4K"
+ },
+ {
+   "naam": "66_2",
+   "datum": "2012-12-29 00:32",
+   "grootte": "9.6K"
+ },
+ {
+   "naam": "68",
+   "datum": "2003-08-21 23:44",
+   "grootte": "9.0K"
+ },
+ {
+   "naam": "69",
+   "datum": "2012-12-29 00:32",
+   "grootte": "11K"
+ },
+ {
+   "naam": "192",
+   "datum": "2003-08-21 23:44",
+   "grootte": "11K"
+ },
+ {
+   "naam": "192_2",
+   "datum": "2012-12-29 00:32",
+   "grootte": "15K"
+ },
+ {
+   "naam": "195",
+   "datum": "2012-12-29 00:32",
+   "grootte": "16K"
+ },
+ {
+   "naam": "352",
+   "datum": "2012-12-29 00:32",
+   "grootte": "21K"
+ },
+ {
+   "naam": "353",
+   "datum": "2012-12-29 00:32",
+   "grootte": "20K"
+ },
+ {
+   "naam": "354",
+   "datum": "2012-12-29 00:32",
+   "grootte": "21K"
+ },
+ {
+   "naam": "355",
+   "datum": "2012-12-29 00:32",
+   "grootte": "22K"
+ },
+ {
+   "naam": "357",
+   "datum": "2012-12-29 00:32",
+   "grootte": "19K"
+ },
+ {
+   "naam": "358",
+   "datum": "2012-12-29 00:32",
+   "grootte": "21K"
+ },
+ {
+   "naam": "361",
+   "datum": "2012-12-29 00:32",
+   "grootte": "22K"
+ },
+ {
+   "naam": "363",
+   "datum": "2012-12-29 00:32",
+   "grootte": "21K"
+ },
+ {
+   "naam": "369",
+   "datum": "2012-12-29 00:32",
+   "grootte": "22K"
+ },
+ {
+   "naam": "gong",
+   "datum": "2003-08-21 23:23",
+   "grootte": "11K"
+ },
+ {
+   "naam": "a",
+   "datum": "2004-06-21 23:33",
+   "grootte": "2.9K"
+ },
+ {
+   "naam": "aalbersestraat",
+   "datum": "2004-03-25 22:25",
+   "grootte": "9.3K"
+ },
+ {
+   "naam": "aalsmeerplein",
+   "datum": "2004-03-25 22:25",
+   "grootte": "9.5K"
+ },
+ {
+   "naam": "aarschotpad",
+   "datum": "2003-10-06 02:00",
+   "grootte": "10K"
+ },
+ {
+   "naam": "aart van der leeuwstraat",
+   "datum": "2004-03-25 22:25",
+   "grootte": "13K"
+ },
+ {
+   "naam": "abberdaan",
+   "datum": "2003-10-06 02:00",
+   "grootte": "9.2K"
+ },
+ {
+   "naam": "abraham kuijperlaan",
+   "datum": "2004-03-25 22:25",
+   "grootte": "13K"
+ },
+ {
+   "naam": "adam smithplein",
+   "datum": "2011-07-09 04:00",
+   "grootte": "22K"
+ },
+ {
+   "naam": "adelaarsweg",
+   "datum": "2004-03-25 22:25",
+   "grootte": "8.3K"
+ },
+ {
+   "naam": "admiraal de ruyterweg",
+   "datum": "2003-08-21 23:22",
+   "grootte": "13K"
+ },
+ {
+   "naam": "admiraal helfrichstraat",
+   "datum": "2003-08-21 23:22",
+   "grootte": "14K"
+ },
+ {
+   "naam": "adriaan loosjesstraat",
+   "datum": "2004-03-25 22:25",
+   "grootte": "14K"
+ },
+ {
+   "naam": "adrianus van waertweg",
+   "datum": "2004-03-25 22:25",
+   "grootte": "15K"
+ },
+ {
+   "naam": "ad windighof",
+   "datum": "2003-09-23 01:37",
+   "grootte": "13K"
+ },
+ {
+   "naam": "akbarstraat",
+   "datum": "2004-03-25 22:25",
+   "grootte": "8.7K"
+ },
+ {
+   "naam": "albert cuypmarkt",
+   "datum": "2003-08-21 23:22",
+   "grootte": "9.9K"
+ },
+ {
+   "naam": "albert cuypstraat",
+   "datum": "2003-08-21 23:22",
+   "grootte": "10K"
+ },
+ {
+   "naam": "aletta jacobslaan",
+   "datum": "2003-08-21 23:22",
+   "grootte": "12K"
+ },
+ {
+   "naam": "alexanderplein",
+   "datum": "2003-08-21 23:22",
+   "grootte": "8.9K"
+ },
+ {
+   "naam": "alfons arienslaan",
+   "datum": "2004-03-25 23:11",
+   "grootte": "16K"
+ },
+ {
+   "naam": "alhambralaan",
+   "datum": "2003-10-06 02:00",
+   "grootte": "10K"
+ },
+ {
+   "naam": "allenstraat",
+   "datum": "2004-03-25 22:25",
+   "grootte": "8.3K"
+ },
+ {
+   "naam": "allenstraat_2",
+   "datum": "2005-12-03 01:22",
+   "grootte": "10K"
+ },
+ {
+   "naam": "almere centrum ns",
+   "datum": "2003-10-06 02:00",
+   "grootte": "20K"
+ },
+ {
+   "naam": "amc",
+   "datum": "2004-03-25 22:25",
+   "grootte": "7.3K"
+ },
+ {
+   "naam": "amerikahavenweg",
+   "datum": "2004-03-25 22:25",
+   "grootte": "12K"
+ },
+ {
+   "naam": "amstel",
+   "datum": "2004-03-25 22:25",
+   "grootte": "5.7K"
+ },
+ {
+   "naam": "amsteldijk",
+   "datum": "2003-08-21 23:22",
+   "grootte": "8.3K"
+ },
+ {
+   "naam": "amsteldijk 12",
+   "datum": "2004-03-25 22:25",
+   "grootte": "12K"
+ },
+ {
+   "naam": "amsteldijk 45",
+   "datum": "2004-03-25 22:25",
+   "grootte": "16K"
+ },
+ {
+   "naam": "amsteldijk 128",
+   "datum": "2003-10-06 02:00",
+   "grootte": "21K"
+ },
+ {
+   "naam": "amsteldijk 152",
+   "datum": "2004-03-25 22:25",
+   "grootte": "18K"
+ },
+ {
+   "naam": "amsteldijk 199",
+   "datum": "2003-10-06 02:00",
+   "grootte": "23K"
+ },
+ {
+   "naam": "amsteldijk 202",
+   "datum": "2003-10-06 02:00",
+   "grootte": "19K"
+ },
+ {
+   "naam": "amsteldijk 204",
+   "datum": "2003-10-06 02:00",
+   "grootte": "21K"
+ },
+ {
+   "naam": "amsteldijk noord",
+   "datum": "2003-10-06 02:00",
+   "grootte": "18K"
+ },
+ {
+   "naam": "amstelkade",
+   "datum": "2003-08-21 23:22",
+   "grootte": "7.3K"
+ },
+ {
+   "naam": "amstelslag",
+   "datum": "2004-03-25 22:25",
+   "grootte": "8.3K"
+ },
+ {
+   "naam": "amstelstation",
+   "datum": "2003-08-21 23:22",
+   "grootte": "9.7K"
+ },
+ {
+   "naam": "amstelveen centrum",
+   "datum": "2004-06-21 23:33",
+   "grootte": "15K"
+ },
+ {
+   "naam": "amstelveen raadhuis",
+   "datum": "2005-12-03 01:22",
+   "grootte": "15K"
+ },
+ {
+   "naam": "amstelveenseweg",
+   "datum": "2003-08-21 23:22",
+   "grootte": "9.9K"
+ },
+ {
+   "naam": "amsterdam famous street market",
+   "datum": "2012-11-11 01:18",
+   "grootte": "23K"
+ },
+ {
+   "naam": "amsterdams historisch museum",
+   "datum": "2004-06-21 23:33",
+   "grootte": "17K"
+ },
+ {
+   "naam": "ananasplein",
+   "datum": "2004-03-25 22:25",
+   "grootte": "8.5K"
+ },
+ {
+   "naam": "anderlechtlaan",
+   "datum": "2004-06-21 23:33",
+   "grootte": "8.6K"
+ },
+ {
+   "naam": "annie romeinplein",
+   "datum": "2003-10-06 02:00",
+   "grootte": "13K"
+ },
+ {
+   "naam": "anthoni van leeuwenhoekziekenhuis",
+   "datum": "2003-08-21 23:22",
+   "grootte": "16K"
+ },
+ {
+   "naam": "anthony fokkerweg",
+   "datum": "2005-12-03 01:22",
+   "grootte": "12K"
+ },
+ {
+   "naam": "anthony moddermanstraat",
+   "datum": "2004-03-25 22:25",
+   "grootte": "14K"
+ },
+ {
+   "naam": "anton de komplein",
+   "datum": "2009-05-27 15:42",
+   "grootte": "14K"
+ },
+ {
+   "naam": "antwerpenbaan",
+   "datum": "2004-03-25 22:25",
+   "grootte": "9.1K"
+ },
+ {
+   "naam": "apollolaan",
+   "datum": "2003-08-21 23:22",
+   "grootte": "6.7K"
+ },
+ {
+   "naam": "appelweg",
+   "datum": "2004-03-25 23:11",
+   "grootte": "8.1K"
+ },
+ {
+   "naam": "archimedesplantsoen",
+   "datum": "2004-03-25 22:25",
+   "grootte": "11K"
+ },
+ {
+   "naam": "archimedesweg",
+   "datum": "2004-03-25 22:25",
+   "grootte": "10K"
+ },
+ {
+   "naam": "arend janszoon ernststraat",
+   "datum": "2003-08-21 23:22",
+   "grootte": "16K"
+ },
+ {
+   "naam": "arent krijtsstraat",
+   "datum": "2003-08-21 23:22",
+   "grootte": "13K"
+ },
+ {
+   "naam": "arlandaweg",
+   "datum": "2004-03-25 22:25",
+   "grootte": "8.9K"
+ },
+ {
+   "naam": "artis",
+   "datum": "2003-08-21 23:22",
+   "grootte": "5.7K"
+ },
+ {
+   "naam": "artis amsterdam zoo",
+   "datum": "2011-07-09 04:00",
+   "grootte": "19K"
+ },
+ {
+   "naam": "assendelftstraat",
+   "datum": "2004-03-25 22:25",
+   "grootte": "11K"
+ },
+ {
+   "naam": "asterweg",
+   "datum": "2003-10-06 02:00",
+   "grootte": "9.2K"
+ },
+ {
+   "naam": "astronautenweg",
+   "datum": "2011-07-09 04:00",
+   "grootte": "15K"
+ },
+ {
+   "naam": "ataturk",
+   "datum": "2004-03-25 22:25",
+   "grootte": "6.3K"
+ },
+ {
+   "naam": "augustinuspark",
+   "datum": "2003-10-06 02:00",
+   "grootte": "12K"
+ },
+ {
+   "naam": "australiehavenweg",
+   "datum": "2004-03-25 22:25",
+   "grootte": "12K"
+ },
+ {
+   "naam": "azartplein",
+   "datum": "2004-03-25 22:25",
+   "grootte": "8.3K"
+ },
+ {
+   "naam": "aziehavenweg",
+   "datum": "2005-12-03 01:23",
+   "grootte": "11K"
+ },
+ {
+   "naam": "b",
+   "datum": "2004-06-21 23:33",
+   "grootte": "4.6K"
+ },
+ {
+   "naam": "baarsstraat",
+   "datum": "2004-03-25 22:25",
+   "grootte": "9.5K"
+ },
+ {
+   "naam": "backershagen",
+   "datum": "2004-03-25 22:26",
+   "grootte": "8.3K"
+ },
+ {
+   "naam": "baden powellweg",
+   "datum": "2003-08-21 23:23",
+   "grootte": "11K"
+ },
+ {
+   "naam": "badhoevelaan",
+   "datum": "2004-03-25 22:26",
+   "grootte": "7.7K"
+ },
+ {
+   "naam": "bakkerswaal",
+   "datum": "2004-03-25 22:26",
+   "grootte": "7.1K"
+ },
+ {
+   "naam": "baldwinstraat",
+   "datum": "2005-12-03 01:23",
+   "grootte": "8.4K"
+ },
+ {
+   "naam": "bankrashof",
+   "datum": "2004-03-25 22:26",
+   "grootte": "8.5K"
+ },
+ {
+   "naam": "banne buiksloot",
+   "datum": "2004-03-25 22:26",
+   "grootte": "9.7K"
+ },
+ {
+   "naam": "banneplein",
+   "datum": "2004-03-25 22:26",
+   "grootte": "6.9K"
+ },
+ {
+   "naam": "barajasweg",
+   "datum": "2011-07-09 04:00",
+   "grootte": "15K"
+ },
+ {
+   "naam": "barentszplein",
+   "datum": "2004-03-25 22:26",
+   "grootte": "8.5K"
+ },
+ {
+   "naam": "barkpad",
+   "datum": "2004-03-25 22:26",
+   "grootte": "6.7K"
+ },
+ {
+   "naam": "basisweg",
+   "datum": "2004-03-25 22:26",
+   "grootte": "7.9K"
+ },
+ {
+   "naam": "beatrixpark",
+   "datum": "2003-10-06 02:00",
+   "grootte": "12K"
+ },
+ {
+   "naam": "becquerelstraat",
+   "datum": "2004-03-25 23:31",
+   "grootte": "9.5K"
+ },
+ {
+   "naam": "beemsterstraat",
+   "datum": "2004-03-25 22:26",
+   "grootte": "9.1K"
+ },
+ {
+   "naam": "beethovenstraat",
+   "datum": "2003-08-21 23:23",
+   "grootte": "8.9K"
+ },
+ {
+   "naam": "beneluxbaan",
+   "datum": "2004-03-25 22:26",
+   "grootte": "8.5K"
+ },
+ {
+   "naam": "benzolweg",
+   "datum": "2004-03-25 22:26",
+   "grootte": "8.1K"
+ },
+ {
+   "naam": "bert haanstrakade",
+   "datum": "2003-09-05 20:55",
+   "grootte": "14K"
+ },
+ {
+   "naam": "bertha von suttnerlaan",
+   "datum": "2004-03-25 22:26",
+   "grootte": "14K"
+ },
+ {
+   "naam": "bestevaerstraat",
+   "datum": "2005-12-03 01:23",
+   "grootte": "9.6K"
+ },
+ {
+   "naam": "beukenhorst",
+   "datum": "2003-10-06 02:00",
+   "grootte": "10K"
+ },
+ {
+   "naam": "beukenplein",
+   "datum": "2004-03-25 22:26",
+   "grootte": "8.1K"
+ },
+ {
+   "naam": "beukenweg",
+   "datum": "2003-08-21 23:23",
+   "grootte": "7.5K"
+ },
+ {
+   "naam": "biesbosch",
+   "datum": "2009-05-27 15:43",
+   "grootte": "8.6K"
+ },
+ {
+   "naam": "bijlmerpark",
+   "datum": "2004-06-21 23:33",
+   "grootte": "8.6K"
+ },
+ {
+   "naam": "bijlmerplein",
+   "datum": "2004-03-25 22:26",
+   "grootte": "8.1K"
+ },
+ {
+   "naam": "bilderdijkstraat",
+   "datum": "2003-08-21 23:23",
+   "grootte": "9.7K"
+ },
+ {
+   "naam": "binnenhof",
+   "datum": "2004-06-21 23:36",
+   "grootte": "5.7K"
+ },
+ {
+   "naam": "binnenhof_2",
+   "datum": "2004-06-21 23:33",
+   "grootte": "7.0K"
+ },
+ {
+   "naam": "bleyenbeek",
+   "datum": "2003-10-06 02:00",
+   "grootte": "8.8K"
+ },
+ {
+   "naam": "blijkmeer",
+   "datum": "2004-03-25 22:26",
+   "grootte": "7.1K"
+ },
+ {
+   "naam": "bloemenbuurt",
+   "datum": "2003-10-06 02:00",
+   "grootte": "10K"
+ },
+ {
+   "naam": "bloemendalergouw 38",
+   "datum": "2009-05-27 15:43",
+   "grootte": "19K"
+ },
+ {
+   "naam": "bloemendalergouw 42",
+   "datum": "2009-05-27 15:43",
+   "grootte": "22K"
+ },
+ {
+   "naam": "bloemendalergouw 51",
+   "datum": "2009-05-27 15:43",
+   "grootte": "21K"
+ },
+ {
+   "naam": "bloemendalergouw 69",
+   "datum": "2009-05-27 15:43",
+   "grootte": "21K"
+ },
+ {
+   "naam": "bloemendalerweg",
+   "datum": "2009-05-27 15:43",
+   "grootte": "12K"
+ },
+ {
+   "naam": "bloemgracht",
+   "datum": "2003-08-21 23:23",
+   "grootte": "6.5K"
+ },
+ {
+   "naam": "blokland",
+   "datum": "2009-05-27 15:43",
+   "grootte": "8.8K"
+ },
+ {
+   "naam": "bolestein",
+   "datum": "2003-10-06 02:01",
+   "grootte": "9.4K"
+ },
+ {
+   "naam": "bolstoen",
+   "datum": "2004-02-15 21:03",
+   "grootte": "6.5K"
+ },
+ {
+   "naam": "borglandweg",
+   "datum": "2004-02-15 21:03",
+   "grootte": "8.5K"
+ },
+ {
+   "naam": "borneolaan",
+   "datum": "2004-02-15 21:03",
+   "grootte": "8.1K"
+ },
+ {
+   "naam": "bornhout",
+   "datum": "2004-02-15 21:03",
+   "grootte": "7.1K"
+ },
+ {
+   "naam": "bos en lommerplein",
+   "datum": "2003-08-21 23:23",
+   "grootte": "9.7K"
+ },
+ {
+   "naam": "bos en lommerweg",
+   "datum": "2003-08-21 23:23",
+   "grootte": "10K"
+ },
+ {
+   "naam": "botterlaan",
+   "datum": "2003-10-06 02:01",
+   "grootte": "10K"
+ },
+ {
+   "naam": "bouvigne",
+   "datum": "2003-10-06 02:01",
+   "grootte": "7.9K"
+ },
+ {
+   "naam": "bouwmeesterbuurt oost",
+   "datum": "2003-10-06 02:01",
+   "grootte": "17K"
+ },
+ {
+   "naam": "bouwmeesterbuurt west",
+   "datum": "2003-10-06 02:01",
+   "grootte": "17K"
+ },
+ {
+   "naam": "boven-ij ziekenhuis",
+   "datum": "2004-02-15 21:03",
+   "grootte": "13K"
+ },
+ {
+   "naam": "bovenkerkerweg",
+   "datum": "2004-02-15 21:03",
+   "grootte": "10K"
+ },
+ {
+   "naam": "bovenkruier",
+   "datum": "2004-02-15 21:03",
+   "grootte": "9.3K"
+ },
+ {
+   "naam": "bovenrijkersloot",
+   "datum": "2004-02-15 21:03",
+   "grootte": "10K"
+ },
+ {
+   "naam": "bp",
+   "datum": "2003-10-06 02:01",
+   "grootte": "7.7K"
+ },
+ {
+   "naam": "brand dirk oxepark",
+   "datum": "2004-04-13 18:15",
+   "grootte": "17K"
+ },
+ {
+   "naam": "brink",
+   "datum": "2004-06-21 23:33",
+   "grootte": "5.6K"
+ },
+ {
+   "naam": "brinkstraat",
+   "datum": "2003-08-21 23:23",
+   "grootte": "7.5K"
+ },
+ {
+   "naam": "broersepark",
+   "datum": "2004-02-15 21:03",
+   "grootte": "8.9K"
+ },
+ {
+   "naam": "brusselsingel",
+   "datum": "2004-02-15 21:03",
+   "grootte": "8.7K"
+ },
+ {
+   "naam": "buikslotermeerdijk",
+   "datum": "2004-02-15 21:03",
+   "grootte": "12K"
+ },
+ {
+   "naam": "buikslotermeerplein",
+   "datum": "2004-02-15 21:03",
+   "grootte": "13K"
+ },
+ {
+   "naam": "buiksloterwegveer",
+   "datum": "2004-02-15 21:03",
+   "grootte": "11K"
+ },
+ {
+   "naam": "buiten brouwersstraat",
+   "datum": "2004-02-15 21:03",
+   "grootte": "13K"
+ },
+ {
+   "naam": "buiten oranjestraat",
+   "datum": "2004-02-15 21:03",
+   "grootte": "13K"
+ },
+ {
+   "naam": "buitenweg",
+   "datum": "2009-05-27 15:43",
+   "grootte": "9.4K"
+ },
+ {
+   "naam": "bullepad",
+   "datum": "2004-02-15 21:03",
+   "grootte": "6.5K"
+ },
+ {
+   "naam": "bullewijk",
+   "datum": "2004-06-21 23:34",
+   "grootte": "7.0K"
+ },
+ {
+   "naam": "bunuellaan",
+   "datum": "2003-10-06 02:01",
+   "grootte": "8.1K"
+ },
+ {
+   "naam": "burgemeester a colijnweg",
+   "datum": "2004-02-15 21:03",
+   "grootte": "16K"
+ },
+ {
+   "naam": "burgemeester bickerstraat",
+   "datum": "2004-06-21 23:34",
+   "grootte": "16K"
+ },
+ {
+   "naam": "burgemeester de vlugtlaan",
+   "datum": "2003-08-21 23:23",
+   "grootte": "13K"
+ },
+ {
+   "naam": "burgemeester eliasstraat",
+   "datum": "2003-08-21 23:23",
+   "grootte": "15K"
+ },
+ {
+   "naam": "burgemeester fockstraat",
+   "datum": "2003-08-21 23:23",
+   "grootte": "13K"
+ },
+ {
+   "naam": "burgemeester hogguerstraat",
+   "datum": "2003-10-06 02:01",
+   "grootte": "17K"
+ },
+ {
+   "naam": "burgemeester postweg",
+   "datum": "2004-02-15 21:03",
+   "grootte": "13K"
+ },
+ {
+   "naam": "burgemeester reinaldapark",
+   "datum": "2003-10-06 02:01",
+   "grootte": "18K"
+ },
+ {
+   "naam": "burgemeester rendorpstraat",
+   "datum": "2003-08-21 23:23",
+   "grootte": "15K"
+ },
+ {
+   "naam": "burgemeester roellstraat",
+   "datum": "2003-08-21 23:23",
+   "grootte": "14K"
+ },
+ {
+   "naam": "burgemeester van damstraat",
+   "datum": "2004-02-15 21:03",
+   "grootte": "16K"
+ },
+ {
+   "naam": "burgemeester van der pollstraat",
+   "datum": "2004-02-15 21:03",
+   "grootte": "17K"
+ },
+ {
+   "naam": "burgemeester van leeuwenlaan",
+   "datum": "2003-08-21 23:23",
+   "grootte": "13K"
+ },
+ {
+   "naam": "burgemeester vening meineszlaan",
+   "datum": "2011-07-09 04:00",
+   "grootte": "27K"
+ },
+ {
+   "naam": "buslijn X richting X vertrekt over X minuten",
+   "datum": "2004-06-21 23:34",
+   "grootte": "36K"
+ },
+ {
+   "naam": "buslijn X richting X vertrekt over X minuten van baan X",
+   "datum": "2004-06-21 23:34",
+   "grootte": "41K"
+ },
+ {
+   "naam": "buslijn X richting X vertrekt over X minuten van halte X",
+   "datum": "2004-06-21 23:34",
+   "grootte": "47K"
+ },
+ {
+   "naam": "busplatform",
+   "datum": "2004-06-21 23:34",
+   "grootte": "9.0K"
+ },
+ {
+   "naam": "bussluis",
+   "datum": "2004-02-15 21:03",
+   "grootte": "7.1K"
+ },
+ {
+   "naam": "busstation",
+   "datum": "2003-08-21 23:23",
+   "grootte": "6.9K"
+ },
+ {
+   "naam": "busstation amstelveen",
+   "datum": "2004-02-15 21:03",
+   "grootte": "15K"
+ },
+ {
+   "naam": "busstation haarlem",
+   "datum": "2003-10-06 02:01",
+   "grootte": "15K"
+ },
+ {
+   "naam": "c",
+   "datum": "2004-06-21 23:34",
+   "grootte": "4.4K"
+ },
+ {
+   "naam": "camera obscuralaan",
+   "datum": "2004-02-15 21:03",
+   "grootte": "13K"
+ },
+ {
+   "naam": "camperstraat",
+   "datum": "2003-08-21 23:23",
+   "grootte": "7.9K"
+ },
+ {
+   "naam": "camping",
+   "datum": "2004-02-15 21:03",
+   "grootte": "5.3K"
+ },
+ {
+   "naam": "camping amsterdamse bos",
+   "datum": "2004-02-15 21:03",
+   "grootte": "15K"
+ },
+ {
+   "naam": "camping vliegenbos",
+   "datum": "2004-02-15 21:03",
+   "grootte": "13K"
+ },
+ {
+   "naam": "camping zeeburg",
+   "datum": "2004-02-15 21:03",
+   "grootte": "11K"
+ },
+ {
+   "naam": "capriweg",
+   "datum": "2003-10-06 02:01",
+   "grootte": "9.0K"
+ },
+ {
+   "naam": "carolina macgillavrylaan",
+   "datum": "2005-12-03 01:23",
+   "grootte": "16K"
+ },
+ {
+   "naam": "carolina macgillavrylaan_2",
+   "datum": "2005-12-03 01:23",
+   "grootte": "14K"
+ },
+ {
+   "naam": "casparuslaan",
+   "datum": "2009-05-27 15:43",
+   "grootte": "10K"
+ },
+ {
+   "naam": "catering",
+   "datum": "2004-02-15 21:03",
+   "grootte": "5.5K"
+ },
+ {
+   "naam": "catering noord",
+   "datum": "2004-02-15 21:03",
+   "grootte": "12K"
+ },
+ {
+   "naam": "cateringweg",
+   "datum": "2004-02-15 21:03",
+   "grootte": "9.3K"
+ },
+ {
+   "naam": "ceintuurbaan",
+   "datum": "2003-08-21 23:23",
+   "grootte": "7.5K"
+ },
+ {
+   "naam": "centraal station",
+   "datum": "2004-06-21 18:48",
+   "grootte": "11K"
+ },
+ {
+   "naam": "centraal station_2",
+   "datum": "2004-06-21 23:34",
+   "grootte": "11K"
+ },
+ {
+   "naam": "central station",
+   "datum": "2011-07-09 04:00",
+   "grootte": "15K"
+ },
+ {
+   "naam": "charlotte de bourbonstraat",
+   "datum": "2004-02-15 21:03",
+   "grootte": "16K"
+ },
+ {
+   "naam": "chrysantenstraat",
+   "datum": "2004-02-15 21:03",
+   "grootte": "11K"
+ },
+ {
+   "naam": "cindu",
+   "datum": "2003-10-06 02:01",
+   "grootte": "6.3K"
+ },
+ {
+   "naam": "ck eloutstraat",
+   "datum": "2004-02-15 21:03",
+   "grootte": "15K"
+ },
+ {
+   "naam": "clusiusstraat",
+   "datum": "2003-10-06 02:01",
+   "grootte": "11K"
+ },
+ {
+   "naam": "cockspassage",
+   "datum": "2004-03-25 23:31",
+   "grootte": "9.1K"
+ },
+ {
+   "naam": "coenhaven",
+   "datum": "2004-02-15 21:03",
+   "grootte": "7.7K"
+ },
+ {
+   "naam": "coenhavenweg",
+   "datum": "2004-02-15 21:03",
+   "grootte": "8.9K"
+ },
+ {
+   "naam": "comeniusstraat",
+   "datum": "2004-02-15 21:03",
+   "grootte": "10K"
+ },
+ {
+   "naam": "concertgebouw",
+   "datum": "2004-06-21 23:34",
+   "grootte": "8.8K"
+ },
+ {
+   "naam": "concertgebouwplein",
+   "datum": "2004-02-15 21:03",
+   "grootte": "11K"
+ },
+ {
+   "naam": "concert hall",
+   "datum": "2011-07-09 04:00",
+   "grootte": "15K"
+ },
+ {
+   "naam": "confuciusplein",
+   "datum": "2004-02-15 21:03",
+   "grootte": "11K"
+ },
+ {
+   "naam": "contactweg",
+   "datum": "2009-05-27 15:43",
+   "grootte": "9.0K"
+ },
+ {
+   "naam": "corantijnstraat",
+   "datum": "2003-08-21 23:23",
+   "grootte": "9.5K"
+ },
+ {
+   "naam": "cornelis krusemanstraat",
+   "datum": "2004-02-15 21:03",
+   "grootte": "15K"
+ },
+ {
+   "naam": "cornelis lelylaan",
+   "datum": "2004-02-15 21:03",
+   "grootte": "14K"
+ },
+ {
+   "naam": "cornelis schuytstraat",
+   "datum": "2003-08-21 23:23",
+   "grootte": "14K"
+ },
+ {
+   "naam": "cornelis troostplein",
+   "datum": "2003-08-21 23:23",
+   "grootte": "13K"
+ },
+ {
+   "naam": "corsicaweg",
+   "datum": "2004-02-15 21:03",
+   "grootte": "8.7K"
+ },
+ {
+   "naam": "count basiestraat",
+   "datum": "2003-10-06 02:01",
+   "grootte": "13K"
+ },
+ {
+   "naam": "crematorium",
+   "datum": "2003-08-21 23:23",
+   "grootte": "8.3K"
+ },
+ {
+   "naam": "cruqiuskade",
+   "datum": "2003-09-23 01:37",
+   "grootte": "10K"
+ },
+ {
+   "naam": "cruqiusweg",
+   "datum": "2003-10-06 02:01",
+   "grootte": "9.4K"
+ },
+ {
+   "naam": "cyprusweg",
+   "datum": "2004-02-15 21:03",
+   "grootte": "8.5K"
+ },
+ {
+   "naam": "d",
+   "datum": "2004-06-21 23:34",
+   "grootte": "4.6K"
+ },
+ {
+   "naam": "daalwijk",
+   "datum": "2004-02-15 21:03",
+   "grootte": "6.5K"
+ },
+ {
+   "naam": "daalwijkdreef",
+   "datum": "2004-02-15 21:03",
+   "grootte": "9.3K"
+ },
+ {
+   "naam": "dalsteindreef",
+   "datum": "2004-02-15 21:03",
+   "grootte": "9.7K"
+ },
+ {
+   "naam": "damrak",
+   "datum": "2004-06-21 23:34",
+   "grootte": "6.8K"
+ },
+ {
+   "naam": "dam square",
+   "datum": "2011-07-09 04:00",
+   "grootte": "10K"
+ },
+ {
+   "naam": "danswijk",
+   "datum": "2003-10-06 02:01",
+   "grootte": "8.8K"
+ },
+ {
+   "naam": "dappermarkt",
+   "datum": "2004-06-21 23:34",
+   "grootte": "7.6K"
+ },
+ {
+   "naam": "dapperstraat",
+   "datum": "2003-08-21 23:23",
+   "grootte": "7.3K"
+ },
+ {
+   "naam": "darguerestraat",
+   "datum": "2004-03-25 23:31",
+   "grootte": "10K"
+ },
+ {
+   "naam": "de boelelaan-vu",
+   "datum": "2003-08-21 23:23",
+   "grootte": "9.7K"
+ },
+ {
+   "naam": "de boelelaan",
+   "datum": "2004-02-15 21:03",
+   "grootte": "7.5K"
+ },
+ {
+   "naam": "deccaweg",
+   "datum": "2003-10-06 02:01",
+   "grootte": "8.8K"
+ },
+ {
+   "naam": "deccaweg 6",
+   "datum": "2009-05-27 15:43",
+   "grootte": "13K"
+ },
+ {
+   "naam": "de clercqstraat",
+   "datum": "2003-08-21 23:23",
+   "grootte": "8.5K"
+ },
+ {
+   "naam": "de cuserstraat",
+   "datum": "2004-02-15 21:03",
+   "grootte": "9.7K"
+ },
+ {
+   "naam": "de dam",
+   "datum": "2003-08-21 23:23",
+   "grootte": "4.5K"
+ },
+ {
+   "naam": "de diem",
+   "datum": "2004-06-21 23:34",
+   "grootte": "6.4K"
+ },
+ {
+   "naam": "de flinesstraat",
+   "datum": "2011-07-09 04:00",
+   "grootte": "17K"
+ },
+ {
+   "naam": "de funen",
+   "datum": "2003-09-23 01:37",
+   "grootte": "7.9K"
+ },
+ {
+   "naam": "de laatste rit van deze lijn is vertrokken",
+   "datum": "2004-06-21 23:34",
+   "grootte": "22K"
+ },
+ {
+   "naam": "de laatste rit van lijn X is vertrokken",
+   "datum": "2004-06-21 23:34",
+   "grootte": "25K"
+ },
+ {
+   "naam": "de la sallestraat",
+   "datum": "2004-02-15 21:03",
+   "grootte": "11K"
+ },
+ {
+   "naam": "delflandlaan",
+   "datum": "2003-08-21 23:23",
+   "grootte": "8.9K"
+ },
+ {
+   "naam": "de meerpaal",
+   "datum": "2003-10-06 02:01",
+   "grootte": "9.2K"
+ },
+ {
+   "naam": "de nederlandsche bank",
+   "datum": "2004-06-21 23:34",
+   "grootte": "11K"
+ },
+ {
+   "naam": "dennenrode",
+   "datum": "2004-02-15 21:03",
+   "grootte": "8.3K"
+ },
+ {"naam": "de pijp"},
+ {
+   "naam": "de rijpgracht",
+   "datum": "2004-02-15 21:03",
+   "grootte": "8.7K"
+ },
+ {
+   "naam": "de rijpstraat",
+   "datum": "2003-08-21 23:23",
+   "grootte": "8.3K"
+ },
+ {
+   "naam": "derkinderenstraat",
+   "datum": "2003-08-21 23:23",
+   "grootte": "10K"
+ },
+ {
+   "naam": "de ruyterkade",
+   "datum": "2004-02-15 21:03",
+   "grootte": "9.5K"
+ },
+ {
+   "naam": "de savornin lohmanstraat",
+   "datum": "2004-02-15 21:03",
+   "grootte": "17K"
+ },
+ {
+   "naam": "develstein",
+   "datum": "2004-02-15 21:03",
+   "grootte": "8.5K"
+ },
+ {
+   "naam": "de vlugtlaan",
+   "datum": "2004-06-21 23:34",
+   "grootte": "7.6K"
+ },
+ {
+   "naam": "de volgende bus van deze lijn vertrekt over X minuten",
+   "datum": "2004-06-21 23:34",
+   "grootte": "32K"
+ },
+ {
+   "naam": "de volgende tram van deze lijn vertrekt over X minuten",
+   "datum": "2004-06-21 23:34",
+   "grootte": "30K"
+ },
+ {
+   "naam": "de weer",
+   "datum": "2003-10-06 02:01",
+   "grootte": "7.5K"
+ },
+ {
+   "naam": "de wittenkade",
+   "datum": "2003-08-21 23:23",
+   "grootte": "8.1K"
+ },
+ {
+   "naam": "diemen noord",
+   "datum": "2009-05-27 15:43",
+   "grootte": "12K"
+ },
+ {
+   "naam": "diemen sniep",
+   "datum": "2003-08-21 23:23",
+   "grootte": "8.9K"
+ },
+ {
+   "naam": "diemerparklaan",
+   "datum": "2003-10-06 02:01",
+   "grootte": "11K"
+ },
+ {
+   "naam": "dienstweg",
+   "datum": "2004-02-15 21:03",
+   "grootte": "6.5K"
+ },
+ {
+   "naam": "dijkgraafplein",
+   "datum": "2003-08-21 23:23",
+   "grootte": "7.9K"
+ },
+ {
+   "naam": "dijkgravenlaan",
+   "datum": "2004-02-15 21:03",
+   "grootte": "9.7K"
+ },
+ {
+   "naam": "dijkmanshuizenstraat",
+   "datum": "2004-02-15 21:03",
+   "grootte": "12K"
+ },
+ {
+   "naam": "dintelstraat",
+   "datum": "2003-08-21 23:23",
+   "grootte": "8.1K"
+ },
+ {
+   "naam": "distelweg",
+   "datum": "2003-10-06 02:01",
+   "grootte": "9.6K"
+ },
+ {
+   "naam": "distelwegveer",
+   "datum": "2003-10-06 02:01",
+   "grootte": "10K"
+ },
+ {
+   "naam": "dit is lijn 1 richting centraal station",
+   "datum": "2003-08-22 00:02",
+   "grootte": "24K"
+ },
+ {
+   "naam": "dit is lijn 1 richting osdorp de aker",
+   "datum": "2003-08-22 00:02",
+   "grootte": "25K"
+ },
+ {
+   "naam": "dit is lijn 2 richting nieuw sloten",
+   "datum": "2003-08-22 00:03",
+   "grootte": "22K"
+ },
+ {
+   "naam": "dit is lijn 3 richting muiderpoortstation",
+   "datum": "2003-08-22 00:03",
+   "grootte": "24K"
+ },
+ {
+   "naam": "dit is lijn 3 richting zoutkeetsgracht",
+   "datum": "2003-08-22 00:03",
+   "grootte": "24K"
+ },
+ {
+   "naam": "dit is lijn 4 richting centraal station",
+   "datum": "2003-08-22 00:03",
+   "grootte": "24K"
+ },
+ {
+   "naam": "dit is lijn 4 richting station rai",
+   "datum": "2003-08-22 00:03",
+   "grootte": "25K"
+ },
+ {
+   "naam": "dit is lijn 5 richting amstelveen binnenhof",
+   "datum": "2003-08-22 00:03",
+   "grootte": "27K"
+ },
+ {
+   "naam": "dit is lijn 5 richting centraal station",
+   "datum": "2003-08-22 00:03",
+   "grootte": "24K"
+ },
+ {
+   "naam": "dit is lijn 6 richting centraal station",
+   "datum": "2003-08-22 00:03",
+   "grootte": "25K"
+ },
+ {
+   "naam": "dit is lijn 6 richting plantage parklaan",
+   "datum": "2003-08-22 00:03",
+   "grootte": "26K"
+ },
+ {
+   "naam": "dit is lijn 7 richting bos en lommerplein",
+   "datum": "2003-08-22 00:03",
+   "grootte": "26K"
+ },
+ {
+   "naam": "dit is lijn 7 richting flevopark",
+   "datum": "2004-06-21 23:34",
+   "grootte": "26K"
+ },
+ {
+   "naam": "dit is lijn 7 richting javaplein",
+   "datum": "2003-08-22 00:03",
+   "grootte": "23K"
+ },
+ {
+   "naam": "dit is lijn 7 richting surinameplein",
+   "datum": "2003-08-22 00:03",
+   "grootte": "28K"
+ },
+ {
+   "naam": "dit is lijn 9 richting centraal station",
+   "datum": "2003-08-22 00:03",
+   "grootte": "25K"
+ },
+ {
+   "naam": "dit is lijn 9 richting diemen sniep",
+   "datum": "2003-08-22 00:03",
+   "grootte": "23K"
+ },
+ {
+   "naam": "dit is lijn 10 richting azartplein",
+   "datum": "2004-06-21 23:34",
+   "grootte": "25K"
+ },
+ {
+   "naam": "dit is lijn 10 richting javaplein",
+   "datum": "2003-08-22 00:02",
+   "grootte": "22K"
+ },
+ {
+   "naam": "dit is lijn 10 richting van hallstraat",
+   "datum": "2003-08-22 00:02",
+   "grootte": "24K"
+ },
+ {
+   "naam": "dit is lijn 12 richting amstelstation",
+   "datum": "2003-08-22 00:02",
+   "grootte": "24K"
+ },
+ {
+   "naam": "dit is lijn 12 richting station sloterdijk",
+   "datum": "2003-08-22 00:02",
+   "grootte": "28K"
+ },
+ {
+   "naam": "dit is lijn 13 richting centraal station",
+   "datum": "2003-08-22 00:02",
+   "grootte": "25K"
+ },
+ {
+   "naam": "dit is lijn 13 richting geuzenveld",
+   "datum": "2003-08-22 00:02",
+   "grootte": "23K"
+ },
+ {
+   "naam": "dit is lijn 14 richting flevopark",
+   "datum": "2003-08-22 00:02",
+   "grootte": "24K"
+ },
+ {
+   "naam": "dit is lijn 14 richting slotermeer",
+   "datum": "2003-08-22 00:02",
+   "grootte": "24K"
+ },
+ {
+   "naam": "dit is lijn 16 richting centraal station",
+   "datum": "2003-08-22 00:02",
+   "grootte": "25K"
+ },
+ {
+   "naam": "dit is lijn 16 richting stadionplein",
+   "datum": "2003-08-22 00:02",
+   "grootte": "24K"
+ },
+ {
+   "naam": "dit is lijn 17 richting centraal station",
+   "datum": "2003-08-22 00:02",
+   "grootte": "27K"
+ },
+ {
+   "naam": "dit is lijn 17 richting osdorp dijkgraafplein",
+   "datum": "2003-08-22 00:02",
+   "grootte": "30K"
+ },
+ {
+   "naam": "dit is lijn 24 richting centraal station",
+   "datum": "2003-08-22 00:03",
+   "grootte": "29K"
+ },
+ {
+   "naam": "dit is lijn 24 richting stadionplein",
+   "datum": "2003-08-22 00:03",
+   "grootte": "28K"
+ },
+ {
+   "naam": "dit is lijn 25 richting centraal station",
+   "datum": "2003-08-22 00:03",
+   "grootte": "28K"
+ },
+ {
+   "naam": "dit is lijn 25 richting president kennedylaan",
+   "datum": "2003-08-22 00:03",
+   "grootte": "32K"
+ },
+ {
+   "naam": "dit is lijn 50 richting gein",
+   "datum": "2004-06-21 23:34",
+   "grootte": "23K"
+ },
+ {
+   "naam": "dit is lijn 50 richting isolatorweg",
+   "datum": "2004-06-21 23:34",
+   "grootte": "27K"
+ },
+ {
+   "naam": "dit is lijn 51 richting amstelveen poortwachter",
+   "datum": "2004-06-21 23:34",
+   "grootte": "36K"
+ },
+ {
+   "naam": "dit is lijn 51 richting amstelveen westwijk",
+   "datum": "2004-06-21 23:34",
+   "grootte": "37K"
+ },
+ {
+   "naam": "dit is lijn 51 richting centraal station",
+   "datum": "2004-06-21 23:34",
+   "grootte": "33K"
+ },
+ {"naam": "dit is lijn 52 richting noord"},
+ {"naam": "dit is lijn 52 richting zuid"},
+ {
+   "naam": "dit is lijn 53 richting centraal station",
+   "datum": "2004-06-21 23:34",
+   "grootte": "33K"
+ },
+ {
+   "naam": "dit is lijn 53 richting gaasperplas",
+   "datum": "2004-06-21 23:34",
+   "grootte": "30K"
+ },
+ {
+   "naam": "dit is lijn 54 richting centraal station",
+   "datum": "2004-06-21 23:34",
+   "grootte": "33K"
+ },
+ {
+   "naam": "dit is lijn 54 richting gein",
+   "datum": "2004-06-21 23:34",
+   "grootte": "25K"
+ },
+ {
+   "naam": "dit is tevens de laatste rit",
+   "datum": "2004-06-21 23:34",
+   "grootte": "17K"
+ },
+ {
+   "naam": "doctor hendrik colijnstraat",
+   "datum": "2003-08-21 23:23",
+   "grootte": "16K"
+ },
+ {
+   "naam": "doctor martin luther kingstraat",
+   "datum": "2004-02-15 21:03",
+   "grootte": "17K"
+ },
+ {
+   "naam": "doctor plesmanlaan",
+   "datum": "2003-12-27 02:58",
+   "grootte": "11K"
+ },
+ {
+   "naam": "doctor willem dreesweg",
+   "datum": "2003-12-27 02:58",
+   "grootte": "13K"
+ },
+ {
+   "naam": "dodonaeusstraat",
+   "datum": "2003-10-06 02:01",
+   "grootte": "12K"
+ },
+ {
+   "naam": "dolingadreef",
+   "datum": "2004-02-15 21:03",
+   "grootte": "9.7K"
+ },
+ {
+   "naam": "donauweg",
+   "datum": "2003-10-06 02:01",
+   "grootte": "9.4K"
+ },
+ {
+   "naam": "donauweg_2",
+   "datum": "2004-02-15 21:03",
+   "grootte": "7.3K"
+ },
+ {
+   "naam": "doors open on the left-hand side",
+   "datum": "2004-02-15 21:03",
+   "grootte": "513K"
+ },
+ {
+   "naam": "doors open on the right-hand side",
+   "datum": "2004-02-15 21:03",
+   "grootte": "504K"
+ },
+ {
+   "naam": "doorsteek",
+   "datum": "2003-10-06 02:01",
+   "grootte": "9.6K"
+ },
+ {
+   "naam": "dorpsstraat",
+   "datum": "2004-02-15 21:03",
+   "grootte": "7.5K"
+ },
+ {
+   "naam": "dorpsstraat_2",
+   "datum": "2004-06-21 23:34",
+   "grootte": "7.8K"
+ },
+ {
+   "naam": "dorpsweg",
+   "datum": "2004-02-15 21:03",
+   "grootte": "7.5K"
+ },
+ {
+   "naam": "dortmuiden",
+   "datum": "2004-02-15 21:03",
+   "grootte": "7.9K"
+ },
+ {
+   "naam": "dostojevskisingel",
+   "datum": "2003-10-06 02:01",
+   "grootte": "12K"
+ },
+ {
+   "naam": "draaierweg",
+   "datum": "2003-12-27 02:58",
+   "grootte": "7.5K"
+ },
+ {
+   "naam": "drentepark",
+   "datum": "2003-08-21 23:23",
+   "grootte": "7.3K"
+ },
+ {
+   "naam": "drenthepark",
+   "datum": "2004-06-21 23:34",
+   "grootte": "8.6K"
+ },
+ {
+   "naam": "droogbak",
+   "datum": "2003-12-27 02:58",
+   "grootte": "6.7K"
+ },
+ {
+   "naam": "drostenburg",
+   "datum": "2003-12-27 02:58",
+   "grootte": "8.5K"
+ },
+ {
+   "naam": "druivenstraat",
+   "datum": "2003-12-27 02:58",
+   "grootte": "9.3K"
+ },
+ {
+   "naam": "dubbelinkdreef",
+   "datum": "2003-12-27 02:58",
+   "grootte": "9.5K"
+ },
+ {
+   "naam": "durgerdammerdijk 4",
+   "datum": "2009-05-27 15:43",
+   "grootte": "18K"
+ },
+ {
+   "naam": "durgerdammerdijk 36",
+   "datum": "2009-05-27 15:43",
+   "grootte": "21K"
+ },
+ {
+   "naam": "durgerdammerdijk 82",
+   "datum": "2009-05-27 15:43",
+   "grootte": "21K"
+ },
+ {
+   "naam": "durgerdammergouw 20",
+   "datum": "2009-05-27 15:43",
+   "grootte": "18K"
+ },
+ {
+   "naam": "durgerdammergouw 37",
+   "datum": "2009-05-27 15:43",
+   "grootte": "23K"
+ },
+ {
+   "naam": "dynamostraat",
+   "datum": "2003-12-27 02:58",
+   "grootte": "9.9K"
+ },
+ {
+   "naam": "e",
+   "datum": "2004-06-21 23:34",
+   "grootte": "3.3K"
+ },
+ {
+   "naam": "echtenstein",
+   "datum": "2003-12-27 02:58",
+   "grootte": "7.9K"
+ },
+ {
+   "naam": "ecuplein",
+   "datum": "2003-08-21 23:23",
+   "grootte": "8.1K"
+ },
+ {
+   "naam": "eeftink",
+   "datum": "2003-12-27 02:58",
+   "grootte": "6.3K"
+ },
+ {
+   "naam": "eekholt",
+   "datum": "2009-05-27 15:43",
+   "grootte": "6.9K"
+ },
+ {
+   "naam": "eerste constantijn huygensstraat",
+   "datum": "2003-08-21 23:23",
+   "grootte": "16K"
+ },
+ {
+   "naam": "eerste koehoornstraat",
+   "datum": "2004-03-25 22:26",
+   "grootte": "14K"
+ },
+ {
+   "naam": "eerste leeghwaterstraat",
+   "datum": "2004-03-25 22:26",
+   "grootte": "15K"
+ },
+ {
+   "naam": "eerste oosterparkstraat",
+   "datum": "2003-12-27 02:58",
+   "grootte": "16K"
+ },
+ {
+   "naam": "eerste van swindenstraat",
+   "datum": "2003-08-21 23:23",
+   "grootte": "14K"
+ },
+ {
+   "naam": "egeldonk",
+   "datum": "2003-12-27 02:58",
+   "grootte": "7.7K"
+ },
+ {
+   "naam": "egelenburg",
+   "datum": "2003-12-27 02:58",
+   "grootte": "7.9K"
+ },
+ {
+   "naam": "egidiusstraat",
+   "datum": "2003-08-21 23:23",
+   "grootte": "10K"
+ },
+ {
+   "naam": "einde geldigheid schipholpas",
+   "datum": "2004-06-21 23:34",
+   "grootte": "17K"
+ },
+ {
+   "naam": "eindpunt",
+   "datum": "2003-08-21 23:23",
+   "grootte": "5.5K"
+ },
+ {
+   "naam": "elandsgracht",
+   "datum": "2003-08-21 23:23",
+   "grootte": "7.7K"
+ },
+ {
+   "naam": "elbaweg",
+   "datum": "2003-12-27 02:58",
+   "grootte": "7.3K"
+ },
+ {
+   "naam": "elementenstraat",
+   "datum": "2003-12-27 02:58",
+   "grootte": "11K"
+ },
+ {
+   "naam": "elisabeth wolffstraat",
+   "datum": "2003-08-21 23:23",
+   "grootte": "14K"
+ },
+ {
+   "naam": "elzenhof",
+   "datum": "2003-12-27 02:58",
+   "grootte": "7.9K"
+ },
+ {
+   "naam": "emmastraat",
+   "datum": "2003-08-21 23:23",
+   "grootte": "7.3K"
+ },
+ {
+   "naam": "en",
+   "datum": "2012-12-29 00:33",
+   "grootte": "6.7K"
+ },
+ {
+   "naam": "en 5",
+   "datum": "2003-08-21 23:45",
+   "grootte": "6.5K"
+ },
+ {
+   "naam": "en 6",
+   "datum": "2003-08-21 23:45",
+   "grootte": "6.1K"
+ },
+ {
+   "naam": "en 7",
+   "datum": "2003-08-21 23:45",
+   "grootte": "8.8K"
+ },
+ {
+   "naam": "en 10",
+   "datum": "2003-08-21 23:44",
+   "grootte": "5.5K"
+ },
+ {
+   "naam": "en 12",
+   "datum": "2003-08-21 23:45",
+   "grootte": "6.7K"
+ },
+ {
+   "naam": "en 13",
+   "datum": "2003-08-21 23:45",
+   "grootte": "8.4K"
+ },
+ {
+   "naam": "en 14",
+   "datum": "2003-08-21 23:45",
+   "grootte": "6.9K"
+ },
+ {
+   "naam": "en 15",
+   "datum": "2003-08-21 23:45",
+   "grootte": "7.3K"
+ },
+ {
+   "naam": "en 16",
+   "datum": "2003-08-21 23:45",
+   "grootte": "9.0K"
+ },
+ {
+   "naam": "en 17",
+   "datum": "2003-08-21 23:45",
+   "grootte": "7.7K"
+ },
+ {
+   "naam": "en 18",
+   "datum": "2003-08-21 23:45",
+   "grootte": "6.9K"
+ },
+ {
+   "naam": "en 19",
+   "datum": "2003-08-21 23:45",
+   "grootte": "7.9K"
+ },
+ {
+   "naam": "en 21",
+   "datum": "2003-08-21 23:45",
+   "grootte": "8.7K"
+ },
+ {
+   "naam": "en 22",
+   "datum": "2003-08-21 23:45",
+   "grootte": "9.5K"
+ },
+ {
+   "naam": "en 23",
+   "datum": "2003-08-21 23:45",
+   "grootte": "9.3K"
+ },
+ {
+   "naam": "en 24",
+   "datum": "2003-08-21 23:45",
+   "grootte": "9.9K"
+ },
+ {
+   "naam": "en 25",
+   "datum": "2003-08-21 23:45",
+   "grootte": "9.7K"
+ },
+ {
+   "naam": "en 37",
+   "datum": "2003-08-21 23:45",
+   "grootte": "11K"
+ },
+ {
+   "naam": "en 39",
+   "datum": "2003-08-21 23:45",
+   "grootte": "11K"
+ },
+ {
+   "naam": "en 59",
+   "datum": "2003-08-21 23:45",
+   "grootte": "12K"
+ },
+ {
+   "naam": "en 64",
+   "datum": "2003-08-21 23:45",
+   "grootte": "11K"
+ },
+ {
+   "naam": "en 66",
+   "datum": "2003-08-21 23:45",
+   "grootte": "9.9K"
+ },
+ {
+   "naam": "en 68",
+   "datum": "2003-08-21 23:45",
+   "grootte": "11K"
+ },
+ {
+   "naam": "en 192",
+   "datum": "2003-08-21 23:45",
+   "grootte": "13K"
+ },
+ {
+   "naam": "en metrolijn 50",
+   "datum": "2003-08-21 23:45",
+   "grootte": "11K"
+ },
+ {
+   "naam": "en metrolijnen 53 en 54",
+   "datum": "2003-08-21 23:45",
+   "grootte": "24K"
+ },
+ {
+   "naam": "en sneltram 51",
+   "datum": "2003-08-21 23:45",
+   "grootte": "14K"
+ },
+ {
+   "naam": "erasmusgracht",
+   "datum": "2003-08-21 23:23",
+   "grootte": "9.9K"
+ },
+ {
+   "naam": "er zijn momenteel voor deze halte geen vertrektijden bekend",
+   "datum": "2004-06-21 23:34",
+   "grootte": "28K"
+ },
+ {
+   "naam": "escapade",
+   "datum": "2004-06-21 23:34",
+   "grootte": "7.6K"
+ },
+ {
+   "naam": "europaboulevard",
+   "datum": "2003-12-27 02:58",
+   "grootte": "12K"
+ },
+ {
+   "naam": "europaplein",
+   "datum": "2003-08-21 23:23",
+   "grootte": "9.1K"
+ },
+ {
+   "naam": "europaweg",
+   "datum": "2003-10-06 02:01",
+   "grootte": "9.8K"
+ },
+ {
+   "naam": "f",
+   "datum": "2004-06-21 23:34",
+   "grootte": "3.5K"
+ },
+ {
+   "naam": "faculteit",
+   "datum": "2003-12-27 02:58",
+   "grootte": "7.5K"
+ },
+ {
+   "naam": "fanny blankers-koen sportpark",
+   "datum": "2004-03-25 23:31",
+   "grootte": "17K"
+ },
+ {
+   "naam": "faunabuurt",
+   "datum": "2003-10-06 02:01",
+   "grootte": "8.6K"
+ },
+ {
+   "naam": "ferdinand bolstraat",
+   "datum": "2003-08-21 23:23",
+   "grootte": "13K"
+ },
+ {
+   "naam": "filmmuseum eye",
+   "datum": "2012-12-29 00:33",
+   "grootte": "29K"
+ },
+ {
+   "naam": "fizeaustraat",
+   "datum": "2003-12-27 02:58",
+   "grootte": "9.3K"
+ },
+ {
+   "naam": "flamingoweg",
+   "datum": "2003-12-27 02:58",
+   "grootte": "10K"
+ },
+ {
+   "naam": "flea market",
+   "datum": "2011-07-09 04:00",
+   "grootte": "15K"
+ },
+ {
+   "naam": "flevopark",
+   "datum": "2003-08-21 23:23",
+   "grootte": "8.3K"
+ },
+ {
+   "naam": "flevoziekenhuis",
+   "datum": "2003-10-06 02:01",
+   "grootte": "14K"
+ },
+ {
+   "naam": "flierbosdreef",
+   "datum": "2003-09-24 19:26",
+   "grootte": "13K"
+ },
+ {
+   "naam": "floraweg",
+   "datum": "2003-12-27 02:58",
+   "grootte": "7.7K"
+ },
+ {
+   "naam": "florijn",
+   "datum": "2003-12-27 02:58",
+   "grootte": "5.7K"
+ },
+ {
+   "naam": "flower market",
+   "datum": "2011-07-09 04:00",
+   "grootte": "15K"
+ },
+ {
+   "naam": "fluitschipstraat",
+   "datum": "2004-06-21 23:34",
+   "grootte": "11K"
+ },
+ {
+   "naam": "foppingadreef",
+   "datum": "2009-05-27 15:43",
+   "grootte": "14K"
+ },
+ {
+   "naam": "fraunhoferstraat",
+   "datum": "2003-12-27 02:58",
+   "grootte": "12K"
+ },
+ {
+   "naam": "frederik hendrikplantsoen",
+   "datum": "2003-08-21 23:23",
+   "grootte": "15K"
+ },
+ {
+   "naam": "frederiksplein",
+   "datum": "2003-08-21 23:23",
+   "grootte": "8.7K"
+ },
+ {
+   "naam": "freule wittewaalpad",
+   "datum": "2003-12-27 02:58",
+   "grootte": "15K"
+ },
+ {
+   "naam": "frissenstein",
+   "datum": "2003-12-27 02:58",
+   "grootte": "8.5K"
+ },
+ {
+   "naam": "fugaplantsoen",
+   "datum": "2003-09-05 20:55",
+   "grootte": "10K"
+ },
+ {
+   "naam": "gaasp",
+   "datum": "2009-05-27 15:43",
+   "grootte": "9.6K"
+ },
+ {
+   "naam": "gaasperplas",
+   "datum": "2004-06-21 23:34",
+   "grootte": "10K"
+ },
+ {
+   "naam": "galjoen",
+   "datum": "2003-09-24 19:26",
+   "grootte": "7.7K"
+ },
+ {
+   "naam": "gan hasjalom",
+   "datum": "2004-06-21 23:34",
+   "grootte": "11K"
+ },
+ {
+   "naam": "gan hasjalom_2",
+   "datum": "2004-06-21 23:34",
+   "grootte": "8.6K"
+ },
+ {
+   "naam": "ganzenhoef",
+   "datum": "2004-06-21 23:34",
+   "grootte": "8.2K"
+ },
+ {
+   "naam": "garage",
+   "datum": "2003-09-24 19:26",
+   "grootte": "7.5K"
+ },
+ {
+   "naam": "garage noord",
+   "datum": "2003-09-05 20:56",
+   "grootte": "13K"
+ },
+ {
+   "naam": "garage west",
+   "datum": "2003-12-27 02:58",
+   "grootte": "9.7K"
+ },
+ {
+   "naam": "garstkamp",
+   "datum": "2003-12-27 02:58",
+   "grootte": "7.7K"
+ },
+ {
+   "naam": "gas en water",
+   "datum": "2003-12-27 02:58",
+   "grootte": "9.1K"
+ },
+ {
+   "naam": "gebouw 70",
+   "datum": "2003-12-27 02:58",
+   "grootte": "11K"
+ },
+ {
+   "naam": "gebouw 133",
+   "datum": "2003-09-05 20:56",
+   "grootte": "17K"
+ },
+ {
+   "naam": "gebouw atlas",
+   "datum": "2003-12-27 02:58",
+   "grootte": "10K"
+ },
+ {
+   "naam": "gebouw lvb",
+   "datum": "2003-09-24 19:26",
+   "grootte": "15K"
+ },
+ {
+   "naam": "geer ban",
+   "datum": "2003-12-27 02:58",
+   "grootte": "6.1K"
+ },
+ {
+   "naam": "geerdinkhof",
+   "datum": "2009-05-27 15:43",
+   "grootte": "15K"
+ },
+ {
+   "naam": "geijenbreek",
+   "datum": "2003-12-27 02:58",
+   "grootte": "7.9K"
+ },
+ {
+   "naam": "gein",
+   "datum": "2004-06-21 23:34",
+   "grootte": "5.2K"
+ },
+ {
+   "naam": "gein 1",
+   "datum": "2003-12-27 02:58",
+   "grootte": "7.9K"
+ },
+ {
+   "naam": "gein 2",
+   "datum": "2003-12-27 02:58",
+   "grootte": "7.3K"
+ },
+ {
+   "naam": "geinbrug",
+   "datum": "2009-05-27 15:43",
+   "grootte": "7.1K"
+ },
+ {
+   "naam": "geinwijk",
+   "datum": "2003-12-27 02:58",
+   "grootte": "7.3K"
+ },
+ {
+   "naam": "gelderlandplein",
+   "datum": "2003-12-27 02:58",
+   "grootte": "9.9K"
+ },
+ {
+   "naam": "geldershoofd",
+   "datum": "2003-12-27 02:58",
+   "grootte": "9.3K"
+ },
+ {
+   "naam": "gemeenschapspolderweg",
+   "datum": "2009-05-27 15:43",
+   "grootte": "14K"
+ },
+ {
+   "naam": "gemeentehuis",
+   "datum": "2003-12-27 02:58",
+   "grootte": "8.5K"
+ },
+ {
+   "naam": "gentiaanstraat",
+   "datum": "2003-12-27 02:58",
+   "grootte": "9.9K"
+ },
+ {
+   "naam": "gerrit van der veenstraat",
+   "datum": "2003-08-21 23:23",
+   "grootte": "14K"
+ },
+ {
+   "naam": "geuzenveld",
+   "datum": "2003-12-27 02:58",
+   "grootte": "8.3K"
+ },
+ {
+   "naam": "gilles van ledenberchstraat",
+   "datum": "2011-07-09 04:00",
+   "grootte": "21K"
+ },
+ {
+   "naam": "gj scheurleerweg",
+   "datum": "2003-12-27 02:58",
+   "grootte": "13K"
+ },
+ {
+   "naam": "gondel",
+   "datum": "2004-06-21 23:34",
+   "grootte": "5.6K"
+ },
+ {
+   "naam": "gooioord",
+   "datum": "2003-12-27 02:58",
+   "grootte": "7.5K"
+ },
+ {
+   "naam": "graaf aelbrechtlaan",
+   "datum": "2003-12-27 02:58",
+   "grootte": "12K"
+ },
+ {
+   "naam": "graaf florislaan",
+   "datum": "2004-06-21 23:34",
+   "grootte": "13K"
+ },
+ {
+   "naam": "graaf florisstraat",
+   "datum": "2003-09-24 19:26",
+   "grootte": "14K"
+ },
+ {
+   "naam": "graaf florisstraat_2",
+   "datum": "2003-12-27 02:58",
+   "grootte": "12K"
+ },
+ {
+   "naam": "granidastraat",
+   "datum": "2003-12-27 02:58",
+   "grootte": "9.9K"
+ },
+ {
+   "naam": "granidastraat_2",
+   "datum": "2004-06-21 23:34",
+   "grootte": "9.7K"
+ },
+ {
+   "naam": "grasweg",
+   "datum": "2003-09-24 19:26",
+   "grootte": "8.4K"
+ },
+ {
+   "naam": "greta garboplantsoen",
+   "datum": "2003-09-24 19:26",
+   "grootte": "14K"
+ },
+ {
+   "naam": "griendstraat",
+   "datum": "2003-12-27 02:58",
+   "grootte": "8.7K"
+ },
+ {
+   "naam": "groenelaan",
+   "datum": "2003-12-27 02:58",
+   "grootte": "6.9K"
+ },
+ {
+   "naam": "groenhof",
+   "datum": "2003-12-27 02:58",
+   "grootte": "6.9K"
+ },
+ {
+   "naam": "groen van prinsterenlaan",
+   "datum": "2003-12-27 02:58",
+   "grootte": "14K"
+ },
+ {
+   "naam": "grootzeil",
+   "datum": "2003-12-27 02:58",
+   "grootte": "7.3K"
+ },
+ {
+   "naam": "grubbehoeve",
+   "datum": "2003-12-27 02:58",
+   "grootte": "7.3K"
+ },
+ {
+   "naam": "grunder",
+   "datum": "2003-12-27 02:58",
+   "grootte": "5.5K"
+ },
+ {
+   "naam": "guido gezellelaan",
+   "datum": "2003-09-24 19:26",
+   "grootte": "15K"
+ },
+ {
+   "naam": "guido gezellestraat",
+   "datum": "2003-09-24 19:26",
+   "grootte": "16K"
+ },
+ {
+   "naam": "gustav mahlerlaan",
+   "datum": "2003-12-27 02:58",
+   "grootte": "13K"
+ },
+ {
+   "naam": "gyroscoopweg",
+   "datum": "2003-12-27 02:58",
+   "grootte": "9.3K"
+ },
+ {
+   "naam": "haagbeuklaan",
+   "datum": "2003-12-27 02:58",
+   "grootte": "9.5K"
+ },
+ {
+   "naam": "haardstee",
+   "datum": "2003-12-27 02:58",
+   "grootte": "7.9K"
+ },
+ {
+   "naam": "haarlemmermeerstation",
+   "datum": "2003-08-21 23:23",
+   "grootte": "12K"
+ },
+ {
+   "naam": "haarlemmermeerstraat",
+   "datum": "2003-12-27 02:58",
+   "grootte": "12K"
+ },
+ {
+   "naam": "haarlemmerplein",
+   "datum": "2003-08-21 23:23",
+   "grootte": "7.9K"
+ },
+ {
+   "naam": "haarlemmerplein_2",
+   "datum": "2003-12-27 02:58",
+   "grootte": "8.7K"
+ },
+ {
+   "naam": "haarlemmerweg",
+   "datum": "2003-08-21 23:23",
+   "grootte": "8.9K"
+ },
+ {
+   "naam": "hagedoornplein",
+   "datum": "2003-12-27 02:58",
+   "grootte": "10K"
+ },
+ {
+   "naam": "hagedoornweg",
+   "datum": "2004-06-21 23:34",
+   "grootte": "10K"
+ },
+ {
+   "naam": "hageland",
+   "datum": "2003-12-27 02:58",
+   "grootte": "7.5K"
+ },
+ {
+   "naam": "hakfort",
+   "datum": "2003-12-27 02:58",
+   "grootte": "6.5K"
+ },
+ {
+   "naam": "hamerstraat",
+   "datum": "2003-12-27 02:58",
+   "grootte": "9.7K"
+ },
+ {
+   "naam": "hammarskjoldsingel",
+   "datum": "2003-10-06 22:40",
+   "grootte": "11K"
+ },
+ {
+   "naam": "handelsplein",
+   "datum": "2003-09-24 19:26",
+   "grootte": "10K"
+ },
+ {
+   "naam": "hangar 9",
+   "datum": "2003-10-06 22:40",
+   "grootte": "12K"
+ },
+ {
+   "naam": "hangar 11",
+   "datum": "2003-10-06 22:40",
+   "grootte": "11K"
+ },
+ {
+   "naam": "hangar 14",
+   "datum": "2003-10-06 22:40",
+   "grootte": "11K"
+ },
+ {
+   "naam": "hannie schaftstraat",
+   "datum": "2003-10-06 22:40",
+   "grootte": "11K"
+ },
+ {
+   "naam": "hart nibbrigstraat",
+   "datum": "2003-10-06 22:40",
+   "grootte": "11K"
+ },
+ {
+   "naam": "hartveldseweg",
+   "datum": "2003-10-06 22:40",
+   "grootte": "9.1K"
+ },
+ {
+   "naam": "havenmeesterweg",
+   "datum": "2011-07-09 04:00",
+   "grootte": "19K"
+ },
+ {
+   "naam": "havikslaan",
+   "datum": "2003-10-06 22:40",
+   "grootte": "8.3K"
+ },
+ {
+   "naam": "havikstraat",
+   "datum": "2003-10-06 22:40",
+   "grootte": "9.3K"
+ },
+ {
+   "naam": "haydnplantsoen",
+   "datum": "2003-09-24 19:26",
+   "grootte": "11K"
+ },
+ {
+   "naam": "heemstedestraat",
+   "datum": "2003-08-21 23:23",
+   "grootte": "9.7K"
+ },
+ {
+   "naam": "heilige geestkerk",
+   "datum": "2003-09-24 19:26",
+   "grootte": "12K"
+ },
+ {
+   "naam": "heineken experience",
+   "datum": "2012-12-29 00:33",
+   "grootte": "20K"
+ },
+ {
+   "naam": "hek 70",
+   "datum": "2004-06-21 23:34",
+   "grootte": "9.7K"
+ },
+ {
+   "naam": "hempoint",
+   "datum": "2003-10-06 22:40",
+   "grootte": "7.1K"
+ },
+ {
+   "naam": "hempontplein",
+   "datum": "2003-10-06 22:40",
+   "grootte": "9.1K"
+ },
+ {
+   "naam": "hemsterhuisstraat",
+   "datum": "2003-10-06 22:41",
+   "grootte": "12K"
+ },
+ {
+   "naam": "henk sneevlietweg",
+   "datum": "2003-10-06 22:41",
+   "grootte": "12K"
+ },
+ {
+   "naam": "herman bonpad",
+   "datum": "2003-10-06 22:41",
+   "grootte": "11K"
+ },
+ {
+   "naam": "hermitage aan de amstel",
+   "datum": "2011-07-09 04:00",
+   "grootte": "24K"
+ },
+ {
+   "naam": "hermitage museum",
+   "datum": "2011-07-09 04:00",
+   "grootte": "20K"
+ },
+ {
+   "naam": "hermitaglaan",
+   "datum": "2009-05-27 15:43",
+   "grootte": "12K"
+ },
+ {
+   "naam": "herwijk",
+   "datum": "2004-06-21 23:34",
+   "grootte": "6.2K"
+ },
+ {
+   "naam": "het breed",
+   "datum": "2003-10-06 22:41",
+   "grootte": "7.1K"
+ },
+ {
+   "naam": "het funen",
+   "datum": "2003-09-23 01:37",
+   "grootte": "7.1K"
+ },
+ {
+   "naam": "het laagt",
+   "datum": "2003-10-06 22:41",
+   "grootte": "8.7K"
+ },
+ {
+   "naam": "het spui",
+   "datum": "2003-08-21 23:23",
+   "grootte": "6.5K"
+ },
+ {
+   "naam": "hildsven",
+   "datum": "2009-05-27 15:43",
+   "grootte": "6.7K"
+ },
+ {
+   "naam": "hilversumstraat",
+   "datum": "2003-10-06 22:41",
+   "grootte": "10K"
+ },
+ {
+   "naam": "hinderstein",
+   "datum": "2003-10-06 22:41",
+   "grootte": "8.1K"
+ },
+ {
+   "naam": "hobbemastraat",
+   "datum": "2003-08-21 23:23",
+   "grootte": "8.1K"
+ },
+ {
+   "naam": "hoekenes",
+   "datum": "2003-08-21 23:23",
+   "grootte": "6.1K"
+ },
+ {
+   "naam": "hofgeest",
+   "datum": "2003-10-06 22:41",
+   "grootte": "7.7K"
+ },
+ {
+   "naam": "hof van zaenden",
+   "datum": "2003-09-24 19:26",
+   "grootte": "12K"
+ },
+ {
+   "naam": "hoger einde zuid",
+   "datum": "2003-09-24 19:26",
+   "grootte": "14K"
+ },
+ {
+   "naam": "hogeschool holland",
+   "datum": "2003-09-24 19:26",
+   "grootte": "14K"
+ },
+ {
+   "naam": "hogeschool inholland",
+   "datum": "2009-05-27 15:43",
+   "grootte": "15K"
+ },
+ {
+   "naam": "hogevecht",
+   "datum": "2003-10-06 22:41",
+   "grootte": "8.1K"
+ },
+ {
+   "naam": "hogeweg",
+   "datum": "2003-08-21 23:23",
+   "grootte": "6.7K"
+ },
+ {
+   "naam": "hogewerf",
+   "datum": "2003-09-24 19:26",
+   "grootte": "9.2K"
+ },
+ {
+   "naam": "holendrecht",
+   "datum": "2004-06-21 23:34",
+   "grootte": "8.2K"
+ },
+ {
+   "naam": "holendrechtplein",
+   "datum": "2003-10-06 22:41",
+   "grootte": "11K"
+ },
+ {
+   "naam": "holterbergweg",
+   "datum": "2003-10-06 22:41",
+   "grootte": "9.9K"
+ },
+ {
+   "naam": "holysloot",
+   "datum": "2003-09-05 21:01",
+   "grootte": "7.9K"
+ },
+ {
+   "naam": "hondsrugweg",
+   "datum": "2003-10-06 22:41",
+   "grootte": "8.3K"
+ },
+ {
+   "naam": "honthorststraat",
+   "datum": "2003-10-06 22:41",
+   "grootte": "11K"
+ },
+ {
+   "naam": "hoofddorpplein",
+   "datum": "2003-08-21 23:23",
+   "grootte": "8.9K"
+ },
+ {
+   "naam": "hoofdweg",
+   "datum": "2003-08-21 23:23",
+   "grootte": "7.1K"
+ },
+ {
+   "naam": "hoogheemraadweg",
+   "datum": "2003-10-06 22:41",
+   "grootte": "11K"
+ },
+ {
+   "naam": "hoogte kadijk",
+   "datum": "2004-06-21 23:34",
+   "grootte": "9.0K"
+ },
+ {
+   "naam": "hornhaven",
+   "datum": "2003-10-06 22:41",
+   "grootte": "8.3K"
+ },
+ {
+   "naam": "hornweg",
+   "datum": "2003-09-05 21:01",
+   "grootte": "7.1K"
+ },
+ {
+   "naam": "hotel ibis",
+   "datum": "2003-09-24 19:26",
+   "grootte": "13K"
+ },
+ {
+   "naam": "houtmankade",
+   "datum": "2003-10-06 22:41",
+   "grootte": "9.1K"
+ },
+ {
+   "naam": "houtplein",
+   "datum": "2003-09-24 19:26",
+   "grootte": "8.4K"
+ },
+ {
+   "naam": "hugo de grootplein",
+   "datum": "2003-08-21 23:23",
+   "grootte": "12K"
+ },
+ {
+   "naam": "hugo de vrieslaan",
+   "datum": "2003-08-21 23:23",
+   "grootte": "11K"
+ },
+ {
+   "naam": "huigenbos",
+   "datum": "2009-05-27 15:43",
+   "grootte": "8.6K"
+ },
+ {
+   "naam": "hunzestraat",
+   "datum": "2003-08-21 23:23",
+   "grootte": "8.5K"
+ },
+ {
+   "naam": "hygieaplein",
+   "datum": "2003-10-06 22:41",
+   "grootte": "9.9K"
+ },
+ {
+   "naam": "ibm",
+   "datum": "2009-05-27 15:43",
+   "grootte": "7.1K"
+ },
+ {
+   "naam": "icaruslaan",
+   "datum": "2003-10-06 22:41",
+   "grootte": "8.1K"
+ },
+ {
+   "naam": "iera",
+   "datum": "2003-10-06 22:41",
+   "grootte": "4.9K"
+ },
+ {
+   "naam": "ijburg",
+   "datum": "2003-09-24 19:26",
+   "grootte": "6.9K"
+ },
+ {
+   "naam": "ijburg_2",
+   "datum": "2004-06-21 23:34",
+   "grootte": "6.0K"
+ },
+ {
+   "naam": "ijburg_3",
+   "datum": "2004-06-21 23:34",
+   "grootte": "5.2K"
+ },
+ {
+   "naam": "ijburg strand",
+   "datum": "2011-07-09 04:00",
+   "grootte": "18K"
+ },
+ {
+   "naam": "ijdijk",
+   "datum": "2003-10-06 22:41",
+   "grootte": "6.3K"
+ },
+ {
+   "naam": "ijdoorn",
+   "datum": "2003-09-24 19:26",
+   "grootte": "7.1K"
+ },
+ {
+   "naam": "ijsbaanpad",
+   "datum": "2003-10-06 22:41",
+   "grootte": "8.3K"
+ },
+ {
+   "naam": "ijtunnel",
+   "datum": "2003-10-06 22:41",
+   "grootte": "6.7K"
+ },
+ {
+   "naam": "ilperveldstraat",
+   "datum": "2003-10-06 22:41",
+   "grootte": "10K"
+ },
+ {
+   "naam": "inaristraat",
+   "datum": "2003-08-21 23:23",
+   "grootte": "9.5K"
+ },
+ {
+   "naam": "in de wolken",
+   "datum": "2003-10-06 22:41",
+   "grootte": "8.1K"
+ },
+ {
+   "naam": "industrieweg",
+   "datum": "2003-10-06 22:41",
+   "grootte": "8.7K"
+ },
+ {
+   "naam": "ingelandenweg",
+   "datum": "2003-10-06 22:41",
+   "grootte": "9.3K"
+ },
+ {
+   "naam": "ingenieur romplaan",
+   "datum": "2003-10-06 22:41",
+   "grootte": "13K"
+ },
+ {
+   "naam": "insulindeweg",
+   "datum": "2003-08-21 23:23",
+   "grootte": "9.1K"
+ },
+ {
+   "naam": "ipta",
+   "datum": "2004-06-21 23:34",
+   "grootte": "4.6K"
+ },
+ {
+   "naam": "isarweg",
+   "datum": "2003-10-06 22:41",
+   "grootte": "7.1K"
+ },
+ {
+   "naam": "isolatorweg",
+   "datum": "2004-06-21 23:34",
+   "grootte": "9.5K"
+ },
+ {
+   "naam": "jacob cabeliaustraat",
+   "datum": "2003-09-24 19:26",
+   "grootte": "17K"
+ },
+ {
+   "naam": "jacob obrechtstraat",
+   "datum": "2003-08-21 23:24",
+   "grootte": "14K"
+ },
+ {
+   "naam": "jacques veltmanstraat",
+   "datum": "2003-10-06 22:42",
+   "grootte": "13K"
+ },
+ {
+   "naam": "james wattstraat",
+   "datum": "2003-10-06 22:42",
+   "grootte": "12K"
+ },
+ {
+   "naam": "james wattstraat_2",
+   "datum": "2004-06-21 23:34",
+   "grootte": "12K"
+ },
+ {
+   "naam": "jan evertsenstraat",
+   "datum": "2003-08-21 23:24",
+   "grootte": "13K"
+ },
+ {
+   "naam": "jan pieter heijestraat",
+   "datum": "2003-08-21 23:24",
+   "grootte": "13K"
+ },
+ {
+   "naam": "jan rebelstraat",
+   "datum": "2003-10-06 22:42",
+   "grootte": "12K"
+ },
+ {
+   "naam": "jan schaeferbrug",
+   "datum": "2003-09-24 19:26",
+   "grootte": "12K"
+ },
+ {
+   "naam": "jan schaeferbrug_2",
+   "datum": "2005-12-03 01:23",
+   "grootte": "9.2K"
+ },
+ {
+   "naam": "jan tooropstraat",
+   "datum": "2003-08-21 23:24",
+   "grootte": "12K"
+ },
+ {
+   "naam": "jan van galenstraat",
+   "datum": "2003-08-21 23:24",
+   "grootte": "12K"
+ },
+ {
+   "naam": "jan van zutphenplantsoen",
+   "datum": "2003-10-06 22:42",
+   "grootte": "16K"
+ },
+ {
+   "naam": "jan voermanstraat",
+   "datum": "2003-08-21 23:24",
+   "grootte": "13K"
+ },
+ {
+   "naam": "jarmuiden",
+   "datum": "2003-10-06 22:42",
+   "grootte": "8.3K"
+ },
+ {
+   "naam": "javaplein",
+   "datum": "2003-08-21 23:24",
+   "grootte": "8.9K"
+ },
+ {
+   "naam": "j drijverweg",
+   "datum": "2003-10-06 22:42",
+   "grootte": "12K"
+ },
+ {
+   "naam": "jeanne d'arclaan",
+   "datum": "2003-10-06 22:42",
+   "grootte": "10K"
+ },
+ {
+   "naam": "jh van heekweg",
+   "datum": "2003-10-06 22:42",
+   "grootte": "13K"
+ },
+ {
+   "naam": "jm den uylstraat",
+   "datum": "2003-10-06 22:42",
+   "grootte": "15K"
+ },
+ {
+   "naam": "johan huizingalaan",
+   "datum": "2003-08-21 23:24",
+   "grootte": "14K"
+ },
+ {
+   "naam": "johan jongkindstraat",
+   "datum": "2003-10-06 22:42",
+   "grootte": "14K"
+ },
+ {
+   "naam": "johannes calvijnlaan",
+   "datum": "2003-10-06 22:42",
+   "grootte": "14K"
+ },
+ {
+   "naam": "johannes vermeerplein",
+   "datum": "2003-08-21 23:24",
+   "grootte": "14K"
+ },
+ {
+   "naam": "johan van hasseltweg",
+   "datum": "2003-10-06 22:42",
+   "grootte": "14K"
+ },
+ {
+   "naam": "john fernhouthof",
+   "datum": "2004-03-25 23:31",
+   "grootte": "14K"
+ },
+ {
+   "naam": "jordaan district",
+   "datum": "2011-07-09 04:00",
+   "grootte": "18K"
+ },
+ {
+   "naam": "josef israelskade",
+   "datum": "2003-08-21 23:24",
+   "grootte": "15K"
+ },
+ {
+   "naam": "julianapark",
+   "datum": "2003-10-06 22:42",
+   "grootte": "9.9K"
+ },
+ {
+   "naam": "jupiter",
+   "datum": "2003-10-06 22:42",
+   "grootte": "5.7K"
+ },
+ {
+   "naam": "justus lipsiusstraat",
+   "datum": "2003-09-24 19:26",
+   "grootte": "16K"
+ },
+ {
+   "naam": "kabelhuisje",
+   "datum": "2003-10-06 22:42",
+   "grootte": "8.7K"
+ },
+ {
+   "naam": "kabelweg",
+   "datum": "2003-10-06 22:42",
+   "grootte": "7.3K"
+ },
+ {
+   "naam": "kadijksplein",
+   "datum": "2003-10-06 22:42",
+   "grootte": "8.7K"
+ },
+ {
+   "naam": "kadoelenpad",
+   "datum": "2003-10-06 22:42",
+   "grootte": "8.3K"
+ },
+ {
+   "naam": "kajuitweg",
+   "datum": "2003-10-06 22:42",
+   "grootte": "7.3K"
+ },
+ {
+   "naam": "kalfjeslaan",
+   "datum": "2003-10-06 22:42",
+   "grootte": "8.3K"
+ },
+ {
+   "naam": "kapoeasweg",
+   "datum": "2009-05-27 15:43",
+   "grootte": "10K"
+ },
+ {
+   "naam": "karel doormanstraat",
+   "datum": "2003-09-24 19:26",
+   "grootte": "14K"
+ },
+ {
+   "naam": "karel doormanstraat_2",
+   "datum": "2005-12-03 01:23",
+   "grootte": "13K"
+ },
+ {
+   "naam": "karspeldreef",
+   "datum": "2003-10-06 22:42",
+   "grootte": "9.1K"
+ },
+ {
+   "naam": "kastelenstraat",
+   "datum": "2003-09-23 01:27",
+   "grootte": "11K"
+ },
+ {
+   "naam": "kasterleepark",
+   "datum": "2003-08-21 23:24",
+   "grootte": "9.3K"
+ },
+ {
+   "naam": "kastrupstraat",
+   "datum": "2003-09-23 01:27",
+   "grootte": "9.1K"
+ },
+ {
+   "naam": "kattenburg",
+   "datum": "2003-09-23 01:27",
+   "grootte": "6.7K"
+ },
+ {
+   "naam": "kattenburgerplein",
+   "datum": "2003-09-23 01:27",
+   "grootte": "10K"
+ },
+ {
+   "naam": "kattenburgerstraat",
+   "datum": "2003-09-23 01:27",
+   "grootte": "11K"
+ },
+ {
+   "naam": "keerpunt",
+   "datum": "2003-09-23 01:27",
+   "grootte": "6.7K"
+ },
+ {
+   "naam": "keienbergweg",
+   "datum": "2003-09-23 01:27",
+   "grootte": "9.3K"
+ },
+ {
+   "naam": "keienbergweg_2",
+   "datum": "2003-09-24 19:28",
+   "grootte": "9.8K"
+ },
+ {
+   "naam": "keizer karelplein",
+   "datum": "2003-09-23 01:27",
+   "grootte": "12K"
+ },
+ {
+   "naam": "keizersgracht",
+   "datum": "2003-08-21 23:24",
+   "grootte": "9.3K"
+ },
+ {
+   "naam": "kelbergen",
+   "datum": "2003-09-23 01:27",
+   "grootte": "7.3K"
+ },
+ {
+   "naam": "kenaupark",
+   "datum": "2003-09-24 19:26",
+   "grootte": "9.0K"
+ },
+ {
+   "naam": "kerk",
+   "datum": "2003-09-23 01:27",
+   "grootte": "3.8K"
+ },
+ {
+   "naam": "kerkbuurt",
+   "datum": "2003-09-24 19:26",
+   "grootte": "9.2K"
+ },
+ {
+   "naam": "kerkbuurt 192",
+   "datum": "2003-09-24 19:26",
+   "grootte": "19K"
+ },
+ {
+   "naam": "kerkebreek",
+   "datum": "2003-09-23 01:27",
+   "grootte": "7.5K"
+ },
+ {
+   "naam": "kerklaan",
+   "datum": "2005-12-03 01:23",
+   "grootte": "7.4K"
+ },
+ {
+   "naam": "kikkenstein",
+   "datum": "2003-09-23 01:27",
+   "grootte": "7.5K"
+ },
+ {
+   "naam": "kingsfordweg",
+   "datum": "2003-08-21 23:24",
+   "grootte": "9.1K"
+ },
+ {
+   "naam": "kinkerstraat",
+   "datum": "2003-08-21 23:24",
+   "grootte": "7.3K"
+ },
+ {
+   "naam": "kinselmeer",
+   "datum": "2003-09-23 01:27",
+   "grootte": "7.9K"
+ },
+ {
+   "naam": "kiosk",
+   "datum": "2003-09-23 01:27",
+   "grootte": "5.7K"
+ },
+ {
+   "naam": "klaprozenweg",
+   "datum": "2003-09-23 01:27",
+   "grootte": "9.3K"
+ },
+ {
+   "naam": "kleine noorddijk",
+   "datum": "2003-09-24 19:26",
+   "grootte": "12K"
+ },
+ {
+   "naam": "klipperstraat",
+   "datum": "2003-09-24 19:26",
+   "grootte": "9.6K"
+ },
+ {
+   "naam": "klipperweg",
+   "datum": "2009-05-27 15:43",
+   "grootte": "8.6K"
+ },
+ {
+   "naam": "klm hoofdkantoor",
+   "datum": "2003-09-24 19:26",
+   "grootte": "16K"
+ },
+ {
+   "naam": "klokkenbergweg",
+   "datum": "2003-09-23 01:27",
+   "grootte": "9.9K"
+ },
+ {
+   "naam": "klompenmakerij",
+   "datum": "2003-09-23 01:27",
+   "grootte": "9.9K"
+ },
+ {
+   "naam": "knollendamstraat",
+   "datum": "2003-09-23 01:27",
+   "grootte": "12K"
+ },
+ {
+   "naam": "knsm laan",
+   "datum": "2003-09-23 01:27",
+   "grootte": "12K"
+ },
+ {
+   "naam": "koekoekslaan",
+   "datum": "2003-09-24 19:26",
+   "grootte": "8.4K"
+ },
+ {
+   "naam": "koenenkade",
+   "datum": "2003-09-24 19:26",
+   "grootte": "9.2K"
+ },
+ {
+   "naam": "kolkweg",
+   "datum": "2003-09-24 19:26",
+   "grootte": "8.4K"
+ },
+ {
+   "naam": "kollenbergweg",
+   "datum": "2003-09-23 01:27",
+   "grootte": "9.7K"
+ },
+ {
+   "naam": "kometensingel",
+   "datum": "2003-09-23 01:27",
+   "grootte": "9.1K"
+ },
+ {
+   "naam": "kompasweg",
+   "datum": "2003-09-23 01:27",
+   "grootte": "7.9K"
+ },
+ {
+   "naam": "koningin emmalaan",
+   "datum": "2003-09-24 19:26",
+   "grootte": "13K"
+ },
+ {
+   "naam": "koningin wilhelminalaan",
+   "datum": "2005-12-03 01:23",
+   "grootte": "15K"
+ },
+ {
+   "naam": "koningin wilhelminaplein",
+   "datum": "2003-09-23 01:27",
+   "grootte": "15K"
+ },
+ {
+   "naam": "koningsplein",
+   "datum": "2003-08-21 23:24",
+   "grootte": "8.1K"
+ },
+ {
+   "naam": "koninklijk paleis, monument, madame tussaud",
+   "datum": "2005-12-03 01:32",
+   "grootte": "30K"
+ },
+ {
+   "naam": "koogstraat",
+   "datum": "2003-09-24 19:26",
+   "grootte": "9.0K"
+ },
+ {
+   "naam": "koopvaardersplantsoen",
+   "datum": "2003-09-23 01:27",
+   "grootte": "12K"
+ },
+ {
+   "naam": "koornhorst",
+   "datum": "2003-09-23 01:27",
+   "grootte": "7.9K"
+ },
+ {
+   "naam": "koos vorrinkweg",
+   "datum": "2003-09-23 01:27",
+   "grootte": "11K"
+ },
+ {
+   "naam": "kop oostelijke handelskade",
+   "datum": "2004-06-21 23:34",
+   "grootte": "15K"
+ },
+ {
+   "naam": "korenbloemstraat",
+   "datum": "2003-09-23 01:27",
+   "grootte": "9.9K"
+ },
+ {
+   "naam": "korte 's-gravesandestraat",
+   "datum": "2003-08-21 23:24",
+   "grootte": "15K"
+ },
+ {
+   "naam": "kortrijk",
+   "datum": "2003-09-24 19:26",
+   "grootte": "7.9K"
+ },
+ {
+   "naam": "kortverlorenbocht",
+   "datum": "2003-09-24 19:26",
+   "grootte": "13K"
+ },
+ {
+   "naam": "kostverlorenstraat",
+   "datum": "2003-09-23 01:27",
+   "grootte": "11K"
+ },
+ {
+   "naam": "kouwenoord",
+   "datum": "2003-09-23 01:27",
+   "grootte": "7.1K"
+ },
+ {
+   "naam": "kraaiennest",
+   "datum": "2004-06-21 23:34",
+   "grootte": "7.6K"
+ },
+ {
+   "naam": "kraaienplein",
+   "datum": "2003-09-23 01:27",
+   "grootte": "8.5K"
+ },
+ {
+   "naam": "kralenbeek",
+   "datum": "2003-09-23 01:27",
+   "grootte": "7.9K"
+ },
+ {
+   "naam": "kramatweg",
+   "datum": "2003-09-23 01:27",
+   "grootte": "8.3K"
+ },
+ {
+   "naam": "kretaweg",
+   "datum": "2003-09-23 01:27",
+   "grootte": "7.9K"
+ },
+ {
+   "naam": "kronenburg",
+   "datum": "2003-08-21 23:24",
+   "grootte": "7.3K"
+ },
+ {
+   "naam": "krugerplein",
+   "datum": "2003-09-23 01:27",
+   "grootte": "7.7K"
+ },
+ {
+   "naam": "kruidenommegang",
+   "datum": "2003-09-23 01:27",
+   "grootte": "9.9K"
+ },
+ {
+   "naam": "kruidenwijk oost",
+   "datum": "2003-09-24 19:26",
+   "grootte": "14K"
+ },
+ {
+   "naam": "kruidenwijk west",
+   "datum": "2003-09-24 19:26",
+   "grootte": "14K"
+ },
+ {
+   "naam": "kruislaan",
+   "datum": "2003-08-21 23:24",
+   "grootte": "6.9K"
+ },
+ {
+   "naam": "kruislaan 400",
+   "datum": "2009-05-27 15:43",
+   "grootte": "16K"
+ },
+ {
+   "naam": "kruislaan 413",
+   "datum": "2009-05-27 15:43",
+   "grootte": "19K"
+ },
+ {
+   "naam": "kruitfabriek",
+   "datum": "2003-09-24 19:26",
+   "grootte": "8.8K"
+ },
+ {
+   "naam": "kuiperbergweg",
+   "datum": "2003-09-23 01:27",
+   "grootte": "10K"
+ },
+ {
+   "naam": "kwadrantweg",
+   "datum": "2003-09-23 01:27",
+   "grootte": "8.5K"
+ },
+ {
+   "naam": "laan van de helende meesters",
+   "datum": "2003-09-23 01:27",
+   "grootte": "15K"
+ },
+ {
+   "naam": "laan van vlaanderen",
+   "datum": "2003-08-21 23:24",
+   "grootte": "10K"
+ },
+ {
+   "naam": "laan van walcheren",
+   "datum": "2003-09-23 01:27",
+   "grootte": "11K"
+ },
+ {
+   "naam": "laan walcheren",
+   "datum": "2004-06-21 23:34",
+   "grootte": "11K"
+ },
+ {
+   "naam": "laarderhoogtweg",
+   "datum": "2003-09-23 01:27",
+   "grootte": "11K"
+ },
+ {
+   "naam": "laguardiaweg",
+   "datum": "2003-09-23 01:27",
+   "grootte": "11K"
+ },
+ {
+   "naam": "lambertus zijlplein",
+   "datum": "2003-08-21 23:24",
+   "grootte": "12K"
+ },
+ {
+   "naam": "la meye",
+   "datum": "2003-09-24 19:26",
+   "grootte": "7.1K"
+ },
+ {
+   "naam": "landgoederenbuurt",
+   "datum": "2003-09-24 19:26",
+   "grootte": "11K"
+ },
+ {
+   "naam": "landlust",
+   "datum": "2004-06-21 23:34",
+   "grootte": "7.0K"
+ },
+ {
+   "naam": "lange vonder",
+   "datum": "2005-12-03 01:23",
+   "grootte": "6.8K"
+ },
+ {
+   "naam": "langs de akker",
+   "datum": "2003-09-23 01:27",
+   "grootte": "8.7K"
+ },
+ {
+   "naam": "langsom",
+   "datum": "2003-09-23 01:27",
+   "grootte": "8.1K"
+ },
+ {
+   "naam": "langswater",
+   "datum": "2003-09-23 01:27",
+   "grootte": "7.9K"
+ },
+ {
+   "naam": "leeghwaterstraat",
+   "datum": "2003-09-23 01:27",
+   "grootte": "11K"
+ },
+ {
+   "naam": "leerdamhof",
+   "datum": "2003-09-23 01:27",
+   "grootte": "9.5K"
+ },
+ {
+   "naam": "legmeerdijk",
+   "datum": "2003-09-23 01:27",
+   "grootte": "9.5K"
+ },
+ {
+   "naam": "leidseplein",
+   "datum": "2003-08-21 23:24",
+   "grootte": "8.9K"
+ },
+ {
+   "naam": "leidse square entertainment area",
+   "datum": "2011-07-09 04:00",
+   "grootte": "28K"
+ },
+ {
+   "naam": "leusdenhof",
+   "datum": "2003-09-23 01:27",
+   "grootte": "8.9K"
+ },
+ {
+   "naam": "levantplein",
+   "datum": "2003-09-23 01:27",
+   "grootte": "8.5K"
+ },
+ {
+   "naam": "lien gisolflaan",
+   "datum": "2004-06-21 23:34",
+   "grootte": "12K"
+ },
+ {
+   "naam": "liergouw",
+   "datum": "2003-09-23 01:27",
+   "grootte": "7.7K"
+ },
+ {
+   "naam": "lijndenstraat",
+   "datum": "2003-09-23 01:27",
+   "grootte": "9.9K"
+ },
+ {
+   "naam": "lijsbet eelantsplein",
+   "datum": "2009-05-27 15:43",
+   "grootte": "23K"
+ },
+ {
+   "naam": "lindberghplantsoen",
+   "datum": "2003-09-23 01:27",
+   "grootte": "11K"
+ },
+ {
+   "naam": "lindenlaan",
+   "datum": "2003-09-23 01:27",
+   "grootte": "7.3K"
+ },
+ {
+   "naam": "linneausparkweg",
+   "datum": "2003-09-23 01:27",
+   "grootte": "12K"
+ },
+ {
+   "naam": "linneausstraat",
+   "datum": "2003-08-21 23:24",
+   "grootte": "8.7K"
+ },
+ {
+   "naam": "lisweg",
+   "datum": "2003-09-24 19:26",
+   "grootte": "6.7K"
+ },
+ {
+   "naam": "lloydplein",
+   "datum": "2003-09-24 19:26",
+   "grootte": "8.6K"
+ },
+ {
+   "naam": "lodewijk van deysselstraat",
+   "datum": "2003-08-21 23:24",
+   "grootte": "15K"
+ },
+ {
+   "naam": "loevesteinse dwarsweg",
+   "datum": "2003-09-24 19:26",
+   "grootte": "15K"
+ },
+ {
+   "naam": "logger",
+   "datum": "2003-09-23 01:27",
+   "grootte": "5.1K"
+ },
+ {
+   "naam": "loowaard",
+   "datum": "2003-09-23 01:27",
+   "grootte": "6.7K"
+ },
+ {
+   "naam": "lorentzlaan",
+   "datum": "2003-09-23 01:27",
+   "grootte": "8.7K"
+ },
+ {
+   "naam": "louis bouwmeesterstraat",
+   "datum": "2003-09-23 01:27",
+   "grootte": "14K"
+ },
+ {
+   "naam": "louis davidsstraat",
+   "datum": "2003-08-21 23:24",
+   "grootte": "11K"
+ },
+ {
+   "naam": "louis naarstigstraat",
+   "datum": "2003-09-24 19:26",
+   "grootte": "14K"
+ },
+ {
+   "naam": "louweshoek",
+   "datum": "2003-09-24 19:27",
+   "grootte": "8.8K"
+ },
+ {
+   "naam": "louwesweg",
+   "datum": "2003-08-21 23:24",
+   "grootte": "7.3K"
+ },
+ {
+   "naam": "luchtvaartstraat",
+   "datum": "2003-09-24 19:27",
+   "grootte": "11K"
+ },
+ {
+   "naam": "lumierestraat",
+   "datum": "2003-09-05 20:56",
+   "grootte": "11K"
+ },
+ {
+   "naam": "lunaweg",
+   "datum": "2003-09-23 01:27",
+   "grootte": "7.7K"
+ },
+ {
+   "naam": "lutmastraat",
+   "datum": "2003-08-21 23:24",
+   "grootte": "7.9K"
+ },
+ {
+   "naam": "luttenbergweg",
+   "datum": "2009-05-27 15:43",
+   "grootte": "10K"
+ },
+ {
+   "naam": "maanstraat",
+   "datum": "2003-09-23 01:27",
+   "grootte": "8.1K"
+ },
+ {
+   "naam": "maasdrielhof",
+   "datum": "2009-05-27 15:43",
+   "grootte": "9.2K"
+ },
+ {
+   "naam": "maaseikpad",
+   "datum": "2003-09-24 19:27",
+   "grootte": "10K"
+ },
+ {
+   "naam": "maassluisstraat",
+   "datum": "2003-09-23 01:27",
+   "grootte": "9.7K"
+ },
+ {
+   "naam": "maasstraat",
+   "datum": "2003-08-21 23:24",
+   "grootte": "7.7K"
+ },
+ {
+   "naam": "machineweg",
+   "datum": "2003-12-26 01:50",
+   "grootte": "8.3K"
+ },
+ {
+   "naam": "machineweg_2",
+   "datum": "2004-06-21 23:34",
+   "grootte": "7.2K"
+ },
+ {
+   "naam": "mahatma ghandilaan",
+   "datum": "2003-12-26 01:50",
+   "grootte": "13K"
+ },
+ {
+   "naam": "mainhavenweg",
+   "datum": "2003-12-26 01:50",
+   "grootte": "10K"
+ },
+ {
+   "naam": "majanggracht",
+   "datum": "2003-12-26 01:50",
+   "grootte": "8.9K"
+ },
+ {
+   "naam": "mallorcaweg",
+   "datum": "2003-12-26 01:50",
+   "grootte": "8.9K"
+ },
+ {
+   "naam": "maltaweg",
+   "datum": "2003-12-26 01:50",
+   "grootte": "7.9K"
+ },
+ {
+   "naam": "marco polostraat",
+   "datum": "2003-08-21 23:24",
+   "grootte": "13K"
+ },
+ {
+   "naam": "mariendaal",
+   "datum": "2003-12-26 01:50",
+   "grootte": "8.9K"
+ },
+ {
+   "naam": "marinierskade",
+   "datum": "2003-12-26 01:50",
+   "grootte": "11K"
+ },
+ {
+   "naam": "marius bauerstraat",
+   "datum": "2003-12-26 01:50",
+   "grootte": "14K"
+ },
+ {
+   "naam": "markengouw",
+   "datum": "2003-09-24 19:27",
+   "grootte": "8.6K"
+ },
+ {
+   "naam": "markerkant",
+   "datum": "2003-09-24 19:27",
+   "grootte": "10K"
+ },
+ {
+   "naam": "markthallen",
+   "datum": "2003-12-26 01:50",
+   "grootte": "7.9K"
+ },
+ {
+   "naam": "marne",
+   "datum": "2004-06-21 23:34",
+   "grootte": "5.4K"
+ },
+ {
+   "naam": "marnixplein",
+   "datum": "2003-08-21 23:24",
+   "grootte": "9.1K"
+ },
+ {
+   "naam": "marnixstraat",
+   "datum": "2003-08-21 23:24",
+   "grootte": "8.9K"
+ },
+ {
+   "naam": "martelaarsgracht",
+   "datum": "2003-08-21 23:24",
+   "grootte": "11K"
+ },
+ {
+   "naam": "martinair",
+   "datum": "2004-06-21 23:34",
+   "grootte": "6.4K"
+ },
+ {
+   "naam": "masthof",
+   "datum": "2003-12-26 01:50",
+   "grootte": "6.3K"
+ },
+ {
+   "naam": "matterhorn",
+   "datum": "2003-08-21 23:24",
+   "grootte": "7.1K"
+ },
+ {
+   "naam": "mauritskade",
+   "datum": "2003-08-21 23:24",
+   "grootte": "8.7K"
+ },
+ {
+   "naam": "max havelaarlaan",
+   "datum": "2003-12-26 01:50",
+   "grootte": "13K"
+ },
+ {
+   "naam": "maxisweg",
+   "datum": "2011-07-09 04:00",
+   "grootte": "15K"
+ },
+ {
+   "naam": "maxwellstraat",
+   "datum": "2003-12-26 01:50",
+   "grootte": "9.7K"
+ },
+ {
+   "naam": "meent",
+   "datum": "2004-06-21 23:34",
+   "grootte": "4.6K"
+ },
+ {
+   "naam": "meer en vaart",
+   "datum": "2003-08-21 23:24",
+   "grootte": "10K"
+ },
+ {
+   "naam": "meerkoet",
+   "datum": "2009-05-27 15:43",
+   "grootte": "8.4K"
+ },
+ {
+   "naam": "meernhof",
+   "datum": "2003-12-26 01:50",
+   "grootte": "7.9K"
+ },
+ {
+   "naam": "meerweg",
+   "datum": "2003-12-26 01:50",
+   "grootte": "7.5K"
+ },
+ {
+   "naam": "meester visserplein",
+   "datum": "2003-08-21 23:24",
+   "grootte": "11K"
+ },
+ {
+   "naam": "meibergdreef",
+   "datum": "2003-12-26 01:50",
+   "grootte": "11K"
+ },
+ {
+   "naam": "meibergweg",
+   "datum": "2004-03-25 23:11",
+   "grootte": "9.0K"
+ },
+ {
+   "naam": "meidoornplein",
+   "datum": "2003-12-26 01:50",
+   "grootte": "11K"
+ },
+ {
+   "naam": "mekongweg",
+   "datum": "2003-12-26 01:50",
+   "grootte": "8.3K"
+ },
+ {
+   "naam": "mercatorplein",
+   "datum": "2003-08-21 23:24",
+   "grootte": "9.5K"
+ },
+ {
+   "naam": "merelstraat",
+   "datum": "2003-12-26 01:50",
+   "grootte": "9.9K"
+ },
+ {
+   "naam": "meteorensingel",
+   "datum": "2003-12-26 01:50",
+   "grootte": "11K"
+ },
+ {
+   "naam": "meteorenweg",
+   "datum": "2003-12-26 01:50",
+   "grootte": "11K"
+ },
+ {
+   "naam": "metrolijn 50,",
+   "datum": "2003-08-21 23:45",
+   "grootte": "13K"
+ },
+ {
+   "naam": "metrolijn 50",
+   "datum": "2003-08-21 23:45",
+   "grootte": "13K"
+ },
+ {
+   "naam": "middenhoven",
+   "datum": "2003-12-26 01:50",
+   "grootte": "8.5K"
+ },
+ {
+   "naam": "middenweg",
+   "datum": "2003-12-26 01:50",
+   "grootte": "7.3K"
+ },
+ {
+   "naam": "minervaplein",
+   "datum": "2003-08-21 23:24",
+   "grootte": "7.9K"
+ },
+ {
+   "naam": "moezelhavenweg",
+   "datum": "2003-12-26 01:51",
+   "grootte": "11K"
+ },
+ {
+   "naam": "molenaarsweg",
+   "datum": "2003-09-24 19:27",
+   "grootte": "11K"
+ },
+ {
+   "naam": "molenbuurt noord",
+   "datum": "2003-09-24 19:27",
+   "grootte": "14K"
+ },
+ {
+   "naam": "molenbuurt zuid",
+   "datum": "2003-09-24 19:27",
+   "grootte": "15K"
+ },
+ {
+   "naam": "molenlaan",
+   "datum": "2003-09-24 19:27",
+   "grootte": "8.8K"
+ },
+ {
+   "naam": "molenpad",
+   "datum": "2009-05-27 15:43",
+   "grootte": "9.2K"
+ },
+ {
+   "naam": "molenweg",
+   "datum": "2003-12-26 01:51",
+   "grootte": "8.1K"
+ },
+ {
+   "naam": "molenwijk",
+   "datum": "2003-12-26 01:51",
+   "grootte": "8.1K"
+ },
+ {
+   "naam": "molukkenstraat",
+   "datum": "2003-08-21 23:24",
+   "grootte": "8.5K"
+ },
+ {
+   "naam": "mosplein",
+   "datum": "2003-12-26 01:51",
+   "grootte": "7.5K"
+ },
+ {
+   "naam": "motorafdeling",
+   "datum": "2003-12-26 01:51",
+   "grootte": "10K"
+ },
+ {
+   "naam": "mozartplantsoen",
+   "datum": "2003-09-24 19:27",
+   "grootte": "11K"
+ },
+ {
+   "naam": "muiderpoortstation",
+   "datum": "2003-08-21 23:24",
+   "grootte": "12K"
+ },
+ {
+   "naam": "muntbergweg",
+   "datum": "2003-12-26 01:51",
+   "grootte": "10K"
+ },
+ {
+   "naam": "muntplein",
+   "datum": "2003-08-21 23:24",
+   "grootte": "6.5K"
+ },
+ {
+   "naam": "museum district",
+   "datum": "2011-07-09 04:00",
+   "grootte": "13K"
+ },
+ {
+   "naam": "museum district_2",
+   "datum": "2012-12-29 00:33",
+   "grootte": "20K"
+ },
+ {
+   "naam": "museumplein",
+   "datum": "2003-08-21 23:24",
+   "grootte": "8.5K"
+ },
+ {
+   "naam": "museum van der togt",
+   "datum": "2004-03-25 23:31",
+   "grootte": "14K"
+ },
+ {
+   "naam": "muziekgebouw",
+   "datum": "2004-06-21 23:34",
+   "grootte": "8.0K"
+ },
+ {
+   "naam": "n71",
+   "datum": "2012-12-29 00:33",
+   "grootte": "22K"
+ },
+ {
+   "naam": "naaldwijkstraat",
+   "datum": "2003-12-26 01:51",
+   "grootte": "11K"
+ },
+ {
+   "naam": "naardermeerstraat",
+   "datum": "2004-06-21 23:34",
+   "grootte": "13K"
+ },
+ {
+   "naam": "nachtegaalstraat",
+   "datum": "2004-06-21 23:34",
+   "grootte": "11K"
+ },
+ {
+   "naam": "nachtwachtlaan",
+   "datum": "2003-09-24 19:27",
+   "grootte": "9.6K"
+ },
+ {
+   "naam": "nageljongenstraat",
+   "datum": "2003-12-26 01:51",
+   "grootte": "12K"
+ },
+ {
+   "naam": "naritaweg",
+   "datum": "2003-12-26 01:51",
+   "grootte": "9.5K"
+ },
+ {
+   "naam": "nassaukade",
+   "datum": "2003-08-21 23:24",
+   "grootte": "8.5K"
+ },
+ {
+   "naam": "nassauplein",
+   "datum": "2003-12-26 01:51",
+   "grootte": "7.9K"
+ },
+ {
+   "naam": "nederlands hervormde kerk",
+   "datum": "2003-09-24 19:27",
+   "grootte": "14K"
+ },
+ {
+   "naam": "nesserlaan",
+   "datum": "2003-12-26 01:51",
+   "grootte": "7.7K"
+ },
+ {
+   "naam": "nessersluis",
+   "datum": "2003-09-05 20:56",
+   "grootte": "10K"
+ },
+ {
+   "naam": "nicolaaskerk",
+   "datum": "2004-06-21 23:34",
+   "grootte": "9.7K"
+ },
+ {
+   "naam": "nicolaas lublinkstraat",
+   "datum": "2003-08-21 23:24",
+   "grootte": "15K"
+ },
+ {
+   "naam": "nieuwe gouw",
+   "datum": "2003-12-26 01:51",
+   "grootte": "7.5K"
+ },
+ {
+   "naam": "nieuwe hemweg",
+   "datum": "2003-12-26 01:51",
+   "grootte": "9.7K"
+ },
+ {
+   "naam": "nieuwe keizersgracht",
+   "datum": "2003-08-21 23:24",
+   "grootte": "12K"
+ },
+ {
+   "naam": "nieuwe kerkstraat",
+   "datum": "2003-12-26 01:51",
+   "grootte": "11K"
+ },
+ {
+   "naam": "nieuwemeerdijk",
+   "datum": "2011-07-09 04:00",
+   "grootte": "18K"
+ },
+ {
+   "naam": "nieuwe oosterbegraafplaats",
+   "datum": "2003-08-21 23:24",
+   "grootte": "14K"
+ },
+ {
+   "naam": "nieuwe purmerweg",
+   "datum": "2003-09-05 20:56",
+   "grootte": "12K"
+ },
+ {
+   "naam": "nieuwe willemsstraat",
+   "datum": "2003-08-21 23:24",
+   "grootte": "11K"
+ },
+ {
+   "naam": "nieuwezijds kolk",
+   "datum": "2003-08-21 23:24",
+   "grootte": "11K"
+ },
+ {
+   "naam": "nieuw herlaer",
+   "datum": "2003-12-26 01:51",
+   "grootte": "8.7K"
+ },
+ {
+   "naam": "nieuwmarkt",
+   "datum": "2004-06-21 23:34",
+   "grootte": "7.8K"
+ },
+ {
+   "naam": "nolensstraat",
+   "datum": "2003-12-26 01:51",
+   "grootte": "10K"
+ },
+ {"naam": "noord"},
+ {
+   "naam": "noorddammerweg",
+   "datum": "2003-12-26 01:51",
+   "grootte": "11K"
+ },
+ {
+   "naam": "noordeinde",
+   "datum": "2003-09-05 20:56",
+   "grootte": "9.4K"
+ },
+ {
+   "naam": "noorderbegraafplaats",
+   "datum": "2003-12-26 01:51",
+   "grootte": "13K"
+ },
+ {"naam": "noorderpark"},
+ {
+   "naam": "noordhollandstraat",
+   "datum": "2003-12-26 01:51",
+   "grootte": "12K"
+ },
+ {
+   "naam": "noordwachter",
+   "datum": "2003-09-05 20:56",
+   "grootte": "9.8K"
+ },
+ {
+   "naam": "nova zemblastraat",
+   "datum": "2005-12-03 01:23",
+   "grootte": "12K"
+ },
+ {
+   "naam": "oakpark",
+   "datum": "2003-12-26 01:51",
+   "grootte": "7.7K"
+ },
+ {
+   "naam": "octaanweg",
+   "datum": "2003-12-26 01:51",
+   "grootte": "8.5K"
+ },
+ {
+   "naam": "oderweg",
+   "datum": "2003-12-26 01:51",
+   "grootte": "7.5K"
+ },
+ {
+   "naam": "oeverpad",
+   "datum": "2005-12-03 01:23",
+   "grootte": "6.6K"
+ },
+ {
+   "naam": "oldengaarde",
+   "datum": "2003-12-26 01:51",
+   "grootte": "9.9K"
+ },
+ {
+   "naam": "olof palmeplein",
+   "datum": "2003-09-05 20:56",
+   "grootte": "13K"
+ },
+ {
+   "naam": "olympiaplein",
+   "datum": "2003-08-21 23:24",
+   "grootte": "9.5K"
+ },
+ {
+   "naam": "olympiaweg",
+   "datum": "2003-08-21 23:24",
+   "grootte": "8.3K"
+ },
+ {
+   "naam": "onderuit",
+   "datum": "2003-08-21 23:24",
+   "grootte": "6.1K"
+ },
+ {
+   "naam": "onze lieve vrouwe gasthuis",
+   "datum": "2003-08-21 23:24",
+   "grootte": "15K"
+ },
+ {
+   "naam": "ookmeerweg",
+   "datum": "2003-12-26 01:51",
+   "grootte": "8.1K"
+ },
+ {
+   "naam": "oosteinde",
+   "datum": "2003-08-21 23:24",
+   "grootte": "7.7K"
+ },
+ {
+   "naam": "oostelijke handelskade",
+   "datum": "2003-12-26 01:51",
+   "grootte": "14K"
+ },
+ {
+   "naam": "oostenburgergracht",
+   "datum": "2003-12-26 01:51",
+   "grootte": "12K"
+ },
+ {
+   "naam": "oostergouwweg",
+   "datum": "2003-09-05 20:56",
+   "grootte": "9.6K"
+ },
+ {
+   "naam": "oosterlengte",
+   "datum": "2003-12-26 01:51",
+   "grootte": "9.1K"
+ },
+ {
+   "naam": "oostzaanstraat",
+   "datum": "2003-12-26 01:51",
+   "grootte": "11K"
+ },
+ {
+   "naam": "oostzanerdijk",
+   "datum": "2003-12-26 01:51",
+   "grootte": "11K"
+ },
+ {
+   "naam": "oranjebaan",
+   "datum": "2003-08-21 23:24",
+   "grootte": "7.7K"
+ },
+ {
+   "naam": "oranje nassaulaan",
+   "datum": "2003-08-21 23:24",
+   "grootte": "12K"
+ },
+ {
+   "naam": "osdorp de aker",
+   "datum": "2003-09-05 20:56",
+   "grootte": "13K"
+ },
+ {
+   "naam": "osdorper ban",
+   "datum": "2003-12-26 01:51",
+   "grootte": "9.5K"
+ },
+ {
+   "naam": "osdorperweg",
+   "datum": "2003-12-26 01:51",
+   "grootte": "9.3K"
+ },
+ {
+   "naam": "osdorpplein",
+   "datum": "2003-08-21 23:24",
+   "grootte": "7.1K"
+ },
+ {
+   "naam": "ottho heldringstraat",
+   "datum": "2003-12-26 01:51",
+   "grootte": "14K"
+ },
+ {
+   "naam": "oude haagseweg",
+   "datum": "2003-09-05 20:56",
+   "grootte": "12K"
+ },
+ {
+   "naam": "oude karselaan",
+   "datum": "2003-12-26 01:51",
+   "grootte": "11K"
+ },
+ {
+   "naam": "oudenaardeplantsoen",
+   "datum": "2003-08-21 23:24",
+   "grootte": "12K"
+ },
+ {
+   "naam": "oudenaardeplantsoen_2",
+   "datum": "2003-12-26 01:51",
+   "grootte": "12K"
+ },
+ {
+   "naam": "ouderkerkerlaan",
+   "datum": "2003-12-26 01:51",
+   "grootte": "9.9K"
+ },
+ {
+   "naam": "oude waelweg",
+   "datum": "2009-05-27 15:43",
+   "grootte": "12K"
+ },
+ {
+   "naam": "ovcc_don't forget to",
+   "datum": "2011-07-09 04:00",
+   "grootte": "41K"
+ },
+ {
+   "naam": "ovcc_exiting the vehicle",
+   "datum": "2011-07-09 04:00",
+   "grootte": "46K"
+ },
+ {
+   "naam": "ovcc_leaving the vehicle",
+   "datum": "2011-07-09 04:00",
+   "grootte": "51K"
+ },
+ {
+   "naam": "ovcc_please remember to check out",
+   "datum": "2012-12-29 00:33",
+   "grootte": "14K"
+ },
+ {
+   "naam": "ovcc_vergeet niet",
+   "datum": "2011-07-09 04:00",
+   "grootte": "36K"
+ },
+ {
+   "naam": "ovcc_vergeet u straks niet uit te checken",
+   "datum": "2012-12-29 00:33",
+   "grootte": "15K"
+ },
+ {
+   "naam": "ovcc_verlaat u het voertuig",
+   "datum": "2011-07-09 04:00",
+   "grootte": "40K"
+ },
+ {
+   "naam": "overamstel",
+   "datum": "2003-12-26 01:51",
+   "grootte": "8.9K"
+ },
+ {
+   "naam": "overdiemerweg",
+   "datum": "2012-12-29 00:33",
+   "grootte": "17K"
+ },
+ {
+   "naam": "overijsselweg",
+   "datum": "2003-09-05 20:56",
+   "grootte": "11K"
+ },
+ {
+   "naam": "overstappen op",
+   "datum": "2003-08-21 23:45",
+   "grootte": "10K"
+ },
+ {
+   "naam": "overstappen op de lijnen",
+   "datum": "2003-08-21 23:45",
+   "grootte": "14K"
+ },
+ {
+   "naam": "overstappen op lijn",
+   "datum": "2003-08-21 23:45",
+   "grootte": "13K"
+ },
+ {
+   "naam": "overtoom",
+   "datum": "2003-08-21 23:24",
+   "grootte": "7.9K"
+ },
+ {
+   "naam": "overtoomsesluis",
+   "datum": "2003-08-21 23:24",
+   "grootte": "11K"
+ },
+ {
+   "naam": "paasheuvelweg",
+   "datum": "2003-12-26 01:51",
+   "grootte": "9.1K"
+ },
+ {
+   "naam": "pampuslaan",
+   "datum": "2009-05-27 15:43",
+   "grootte": "7.9K"
+ },
+ {
+   "naam": "panamalaan",
+   "datum": "2003-12-26 01:51",
+   "grootte": "8.1K"
+ },
+ {
+   "naam": "pandorinastraat",
+   "datum": "2003-09-23 01:09",
+   "grootte": "11K"
+ },
+ {
+   "naam": "papaverkanaal",
+   "datum": "2003-09-23 01:09",
+   "grootte": "9.9K"
+ },
+ {
+   "naam": "papaverweg",
+   "datum": "2003-09-23 01:09",
+   "grootte": "8.7K"
+ },
+ {
+   "naam": "parelmolen",
+   "datum": "2003-09-05 20:56",
+   "grootte": "9.4K"
+ },
+ {
+   "naam": "parkeerterrein p30",
+   "datum": "2003-09-23 01:09",
+   "grootte": "17K"
+ },
+ {
+   "naam": "parkeerterrein p40",
+   "datum": "2003-09-23 01:09",
+   "grootte": "17K"
+ },
+ {
+   "naam": "parklaan",
+   "datum": "2003-09-23 01:09",
+   "grootte": "6.3K"
+ },
+ {
+   "naam": "parkwijk midden",
+   "datum": "2003-09-05 20:56",
+   "grootte": "11K"
+ },
+ {
+   "naam": "parkwijk zuid",
+   "datum": "2003-09-05 20:56",
+   "grootte": "12K"
+ },
+ {
+   "naam": "parnassusweg",
+   "datum": "2012-11-11 01:18",
+   "grootte": "14K"
+ },
+ {
+   "naam": "passage",
+   "datum": "2003-09-05 20:56",
+   "grootte": "7.5K"
+ },
+ {
+   "naam": "passagiersterminal",
+   "datum": "2004-06-21 23:34",
+   "grootte": "9.9K"
+ },
+ {
+   "naam": "passagiersterminal amsterdam",
+   "datum": "2004-06-21 23:34",
+   "grootte": "17K"
+ },
+ {
+   "naam": "pa verkuijllaan",
+   "datum": "2003-09-05 20:56",
+   "grootte": "13K"
+ },
+ {
+   "naam": "pelikaanweg",
+   "datum": "2003-09-23 01:09",
+   "grootte": "8.9K"
+ },
+ {
+   "naam": "perceel 4",
+   "datum": "2003-09-23 01:09",
+   "grootte": "9.9K"
+ },
+ {
+   "naam": "perceel 20",
+   "datum": "2003-09-23 01:09",
+   "grootte": "11K"
+ },
+ {
+   "naam": "perceel 26",
+   "datum": "2003-09-05 20:56",
+   "grootte": "15K"
+ },
+ {
+   "naam": "perceel 32",
+   "datum": "2003-09-05 20:56",
+   "grootte": "15K"
+ },
+ {
+   "naam": "perceel 36",
+   "datum": "2003-09-23 01:09",
+   "grootte": "13K"
+ },
+ {
+   "naam": "perceel 37",
+   "datum": "2003-09-23 01:09",
+   "grootte": "14K"
+ },
+ {
+   "naam": "perceel 38",
+   "datum": "2003-09-23 01:09",
+   "grootte": "13K"
+ },
+ {
+   "naam": "perceel 42",
+   "datum": "2003-09-23 01:09",
+   "grootte": "13K"
+ },
+ {
+   "naam": "perceel 51",
+   "datum": "2003-09-23 01:09",
+   "grootte": "14K"
+ },
+ {
+   "naam": "perceel 69",
+   "datum": "2003-09-23 01:09",
+   "grootte": "14K"
+ },
+ {
+   "naam": "perceel 82",
+   "datum": "2003-09-23 01:09",
+   "grootte": "13K"
+ },
+ {
+   "naam": "perceel 83",
+   "datum": "2003-09-23 01:09",
+   "grootte": "14K"
+ },
+ {
+   "naam": "perceel 87",
+   "datum": "2003-09-23 01:09",
+   "grootte": "14K"
+ },
+ {
+   "naam": "perceel 143",
+   "datum": "2003-09-23 01:09",
+   "grootte": "16K"
+ },
+ {
+   "naam": "perceel 175",
+   "datum": "2003-09-23 01:09",
+   "grootte": "17K"
+ },
+ {
+   "naam": "perceel 400",
+   "datum": "2003-09-23 01:09",
+   "grootte": "12K"
+ },
+ {
+   "naam": "perceel 413-415",
+   "datum": "2003-09-23 01:09",
+   "grootte": "21K"
+ },
+ {
+   "naam": "petmolen",
+   "datum": "2003-09-23 01:09",
+   "grootte": "6.5K"
+ },
+ {
+   "naam": "petrus steenkampweg",
+   "datum": "2003-09-05 20:56",
+   "grootte": "15K"
+ },
+ {
+   "naam": "pier amerika",
+   "datum": "2003-09-23 01:09",
+   "grootte": "9.5K"
+ },
+ {
+   "naam": "pier azie",
+   "datum": "2003-09-23 01:09",
+   "grootte": "8.7K"
+ },
+ {
+   "naam": "pieter a van heijningestraat",
+   "datum": "2005-12-03 01:23",
+   "grootte": "16K"
+ },
+ {
+   "naam": "pieter calandlaan",
+   "datum": "2003-09-23 01:09",
+   "grootte": "9.9K"
+ },
+ {
+   "naam": "pieter oosterhuisstraat",
+   "datum": "2011-07-09 04:00",
+   "grootte": "25K"
+ },
+ {
+   "naam": "pieter postpad",
+   "datum": "2003-09-23 01:09",
+   "grootte": "9.7K"
+ },
+ {
+   "naam": "pieter van heijningestraat",
+   "datum": "2005-12-03 01:23",
+   "grootte": "12K"
+ },
+ {
+   "naam": "pieter zeemanlaan",
+   "datum": "2003-09-23 01:37",
+   "grootte": "14K"
+ },
+ {
+   "naam": "pieter zeemanlaan_2",
+   "datum": "2004-06-21 23:34",
+   "grootte": "12K"
+ },
+ {
+   "naam": "piet heinkade",
+   "datum": "2003-09-23 01:09",
+   "grootte": "9.3K"
+ },
+ {
+   "naam": "piet heinkade_2",
+   "datum": "2005-12-03 01:23",
+   "grootte": "8.4K"
+ },
+ {
+   "naam": "piet mondriaanstraat",
+   "datum": "2003-09-23 01:09",
+   "grootte": "12K"
+ },
+ {
+   "naam": "piet wiedijkstraat",
+   "datum": "2003-08-21 23:24",
+   "grootte": "10K"
+ },
+ {
+   "naam": "pilatus",
+   "datum": "2003-08-21 23:24",
+   "grootte": "6.7K"
+ },
+ {
+   "naam": "pinksterbloemstraat",
+   "datum": "2003-09-23 01:09",
+   "grootte": "11K"
+ },
+ {
+   "naam": "plantage badlaan",
+   "datum": "2003-08-21 23:24",
+   "grootte": "11K"
+ },
+ {
+   "naam": "plantage doklaan",
+   "datum": "2003-08-21 23:24",
+   "grootte": "12K"
+ },
+ {
+   "naam": "plantage kerklaan",
+   "datum": "2003-08-21 23:24",
+   "grootte": "13K"
+ },
+ {
+   "naam": "plantage parklaan",
+   "datum": "2003-08-21 23:24",
+   "grootte": "14K"
+ },
+ {
+   "naam": "plataanstraat",
+   "datum": "2003-09-23 01:09",
+   "grootte": "9.3K"
+ },
+ {
+   "naam": "plataanweg",
+   "datum": "2003-09-23 01:09",
+   "grootte": "8.3K"
+ },
+ {
+   "naam": "platanenweg",
+   "datum": "2011-07-09 04:00",
+   "grootte": "17K"
+ },
+ {
+   "naam": "pleimuiden",
+   "datum": "2003-09-23 01:09",
+   "grootte": "7.5K"
+ },
+ {
+   "naam": "plein '40-'45",
+   "datum": "2003-08-21 23:25",
+   "grootte": "17K"
+ },
+ {
+   "naam": "plejadenplein",
+   "datum": "2003-09-23 01:09",
+   "grootte": "8.9K"
+ },
+ {
+   "naam": "plesmanlaan",
+   "datum": "2003-09-23 01:09",
+   "grootte": "7.5K"
+ },
+ {
+   "naam": "plesostraat",
+   "datum": "2003-09-23 01:09",
+   "grootte": "9.1K"
+ },
+ {
+   "naam": "polikliniek",
+   "datum": "2003-09-23 01:09",
+   "grootte": "7.3K"
+ },
+ {
+   "naam": "pomonastraat",
+   "datum": "2003-09-23 01:09",
+   "grootte": "9.9K"
+ },
+ {
+   "naam": "pontanusstraat",
+   "datum": "2003-08-21 23:25",
+   "grootte": "9.9K"
+ },
+ {
+   "naam": "poortwachter",
+   "datum": "2003-09-23 01:09",
+   "grootte": "7.7K"
+ },
+ {
+   "naam": "populierenlaan",
+   "datum": "2003-09-23 01:41",
+   "grootte": "10K"
+ },
+ {
+   "naam": "porseleinhuisje",
+   "datum": "2003-09-23 01:41",
+   "grootte": "11K"
+ },
+ {
+   "naam": "postjesweg",
+   "datum": "2003-08-21 23:25",
+   "grootte": "7.5K"
+ },
+ {
+   "naam": "praam",
+   "datum": "2003-09-23 01:09",
+   "grootte": "4.7K"
+ },
+ {
+   "naam": "presanella",
+   "datum": "2003-09-23 01:09",
+   "grootte": "7.3K"
+ },
+ {
+   "naam": "president kennedylaan",
+   "datum": "2003-08-21 23:25",
+   "grootte": "13K"
+ },
+ {
+   "naam": "pretoriusstraat",
+   "datum": "2003-08-21 23:25",
+   "grootte": "9.3K"
+ },
+ {
+   "naam": "prins bernardlaan",
+   "datum": "2003-09-23 01:09",
+   "grootte": "12K"
+ },
+ {
+   "naam": "prins bernardplein",
+   "datum": "2003-09-23 01:09",
+   "grootte": "12K"
+ },
+ {
+   "naam": "prinsengracht",
+   "datum": "2003-08-21 23:25",
+   "grootte": "8.5K"
+ },
+ {
+   "naam": "prinses beatrixlaan",
+   "datum": "2009-05-27 15:43",
+   "grootte": "16K"
+ },
+ {
+   "naam": "prinses irenestraat",
+   "datum": "2003-08-21 23:25",
+   "grootte": "14K"
+ },
+ {
+   "naam": "prins hendrikkade",
+   "datum": "2003-09-23 01:09",
+   "grootte": "11K"
+ },
+ {
+   "naam": "provinciale weg",
+   "datum": "2003-09-23 01:41",
+   "grootte": "11K"
+ },
+ {
+   "naam": "psychiatrisch centrum amc",
+   "datum": "2004-06-21 23:34",
+   "grootte": "19K"
+ },
+ {
+   "naam": "psychiatrisch centrum azua",
+   "datum": "2003-09-23 01:09",
+   "grootte": "17K"
+ },
+ {
+   "naam": "punter",
+   "datum": "2003-09-23 01:09",
+   "grootte": "4.9K"
+ },
+ {
+   "naam": "purmerplein",
+   "datum": "2003-09-23 01:09",
+   "grootte": "8.3K"
+ },
+ {
+   "naam": "purmerweg",
+   "datum": "2003-09-23 01:09",
+   "grootte": "7.7K"
+ },
+ {
+   "naam": "r.j.h. fortuynplein",
+   "datum": "2005-12-03 01:23",
+   "grootte": "17K"
+ },
+ {
+   "naam": "raadhuis",
+   "datum": "2003-09-23 01:09",
+   "grootte": "7.9K"
+ },
+ {
+   "naam": "raaksbrug",
+   "datum": "2003-09-23 01:41",
+   "grootte": "9.4K"
+ },
+ {
+   "naam": "raamplein",
+   "datum": "2003-08-21 23:25",
+   "grootte": "7.3K"
+ },
+ {
+   "naam": "radarweg",
+   "datum": "2003-09-23 01:09",
+   "grootte": "8.7K"
+ },
+ {
+   "naam": "radioweg",
+   "datum": "2003-09-23 01:09",
+   "grootte": "9.1K"
+ },
+ {
+   "naam": "ranonkelkade",
+   "datum": "2003-09-23 01:41",
+   "grootte": "11K"
+ },
+ {
+   "naam": "ransdorp kerk",
+   "datum": "2005-12-03 01:23",
+   "grootte": "12K"
+ },
+ {
+   "naam": "reigersbos",
+   "datum": "2004-06-21 23:34",
+   "grootte": "8.8K"
+ },
+ {
+   "naam": "reigersbroek",
+   "datum": "2009-05-27 15:43",
+   "grootte": "9.0K"
+ },
+ {
+   "naam": "reigersweide",
+   "datum": "2009-05-27 15:43",
+   "grootte": "10K"
+ },
+ {
+   "naam": "reimerswaalstraat",
+   "datum": "2003-09-23 01:09",
+   "grootte": "12K"
+ },
+ {
+   "naam": "reinier engelmanstraat",
+   "datum": "2003-09-23 01:09",
+   "grootte": "15K"
+ },
+ {
+   "naam": "reinier vinkeleskade",
+   "datum": "2003-09-23 01:09",
+   "grootte": "15K"
+ },
+ {
+   "naam": "rembrandtpark",
+   "datum": "2003-09-23 01:09",
+   "grootte": "9.1K"
+ },
+ {
+   "naam": "rembrandtplein",
+   "datum": "2003-08-21 23:25",
+   "grootte": "8.3K"
+ },
+ {
+   "naam": "rembrandt square entertainment area",
+   "datum": "2011-07-09 04:00",
+   "grootte": "29K"
+ },
+ {
+   "naam": "rembrandtweg",
+   "datum": "2003-09-23 01:09",
+   "grootte": "8.3K"
+ },
+ {
+   "naam": "repa",
+   "datum": "2003-09-23 01:09",
+   "grootte": "5.9K"
+ },
+ {
+   "naam": "revalidatiecentrum amsterdam",
+   "datum": "2003-08-21 23:25",
+   "grootte": "18K"
+ },
+ {
+   "naam": "rhenenhof",
+   "datum": "2003-09-23 01:09",
+   "grootte": "8.1K"
+ },
+ {
+   "naam": "rhijnvis feithstraat",
+   "datum": "2003-08-21 23:25",
+   "grootte": "14K"
+ },
+ {
+   "naam": "rhodosweg",
+   "datum": "2009-05-27 15:43",
+   "grootte": "14K"
+ },
+ {
+   "naam": "riek blokland paterlaan",
+   "datum": "2004-06-21 23:34",
+   "grootte": "15K"
+ },
+ {
+   "naam": "riekerhaven",
+   "datum": "2005-12-03 01:23",
+   "grootte": "8.8K"
+ },
+ {
+   "naam": "riekwijkeroordweg",
+   "datum": "2003-09-23 01:09",
+   "grootte": "13K"
+ },
+ {
+   "naam": "rietlandpark",
+   "datum": "2003-09-23 01:09",
+   "grootte": "9.5K"
+ },
+ {
+   "naam": "rietlandpark_2",
+   "datum": "2003-09-23 01:43",
+   "grootte": "11K"
+ },
+ {
+   "naam": "rietzangerweg",
+   "datum": "2009-05-27 15:43",
+   "grootte": "10K"
+ },
+ {
+   "naam": "rijksluchtvaartdienst",
+   "datum": "2003-09-23 01:10",
+   "grootte": "12K"
+ },
+ {
+   "naam": "rijksmuseum",
+   "datum": "2004-06-21 23:34",
+   "grootte": "8.8K"
+ },
+ {
+   "naam": "rijksstraatweg",
+   "datum": "2003-09-23 01:10",
+   "grootte": "11K"
+ },
+ {
+   "naam": "rijstvogelstraat",
+   "datum": "2011-07-09 04:00",
+   "grootte": "17K"
+ },
+ {
+   "naam": "ringvaartbrug",
+   "datum": "2003-09-23 01:42",
+   "grootte": "11K"
+ },
+ {
+   "naam": "ringweg a10",
+   "datum": "2004-06-21 23:34",
+   "grootte": "12K"
+ },
+ {
+   "naam": "rjh fortuynplein",
+   "datum": "2003-09-24 19:32",
+   "grootte": "18K"
+ },
+ {
+   "naam": "robert fruinlaan",
+   "datum": "2003-12-26 01:35",
+   "grootte": "11K"
+ },
+ {
+   "naam": "rode kruisstraat",
+   "datum": "2003-12-26 01:35",
+   "grootte": "12K"
+ },
+ {
+   "naam": "rode paal",
+   "datum": "2003-09-23 01:42",
+   "grootte": "8.8K"
+ },
+ {
+   "naam": "roelof hartplein",
+   "datum": "2003-08-21 23:25",
+   "grootte": "11K"
+ },
+ {
+   "naam": "roetersstraat",
+   "datum": "2003-08-21 23:25",
+   "grootte": "9.1K"
+ },
+ {"naam": "rokin"},
+ {
+   "naam": "romy schneiderweg",
+   "datum": "2003-09-23 01:42",
+   "grootte": "13K"
+ },
+ {
+   "naam": "rooms-katholieke school",
+   "datum": "2005-12-03 01:23",
+   "grootte": "12K"
+ },
+ {
+   "naam": "rooms katholieke kerk",
+   "datum": "2003-09-23 01:42",
+   "grootte": "14K"
+ },
+ {
+   "naam": "royal palace",
+   "datum": "2011-07-09 04:00",
+   "grootte": "13K"
+ },
+ {
+   "naam": "rozengracht",
+   "datum": "2003-08-21 23:25",
+   "grootte": "8.3K"
+ },
+ {
+   "naam": "ruimzicht",
+   "datum": "2003-08-21 23:25",
+   "grootte": "8.1K"
+ },
+ {
+   "naam": "ruisrietstraat",
+   "datum": "2003-09-23 01:42",
+   "grootte": "12K"
+ },
+ {
+   "naam": "rustenburgerlaan",
+   "datum": "2003-09-23 01:42",
+   "grootte": "12K"
+ },
+ {
+   "naam": "ruysdaelkade",
+   "datum": "2003-08-21 23:25",
+   "grootte": "9.9K"
+ },
+ {
+   "naam": "ruysdaelstraat",
+   "datum": "2003-08-21 23:25",
+   "grootte": "10K"
+ },
+ {
+   "naam": "saaftingestraat",
+   "datum": "2003-12-26 01:35",
+   "grootte": "11K"
+ },
+ {
+   "naam": "sacharovlaan",
+   "datum": "2004-06-21 23:34",
+   "grootte": "8.4K"
+ },
+ {
+   "naam": "sam van houtenstraat",
+   "datum": "2003-12-26 01:35",
+   "grootte": "13K"
+ },
+ {
+   "naam": "saskia van uylenburgweg",
+   "datum": "2003-09-05 20:56",
+   "grootte": "18K"
+ },
+ {
+   "naam": "saskia van uylenburgweg_2",
+   "datum": "2003-12-26 01:35",
+   "grootte": "16K"
+ },
+ {
+   "naam": "schaarsbergenstraat",
+   "datum": "2003-12-26 01:35",
+   "grootte": "11K"
+ },
+ {
+   "naam": "scharenburg",
+   "datum": "2003-12-26 01:35",
+   "grootte": "9.1K"
+ },
+ {
+   "naam": "scheepsbouwersweg",
+   "datum": "2003-12-26 01:35",
+   "grootte": "9.7K"
+ },
+ {
+   "naam": "scheepvaartmuseum",
+   "datum": "2012-12-29 00:33",
+   "grootte": "32K"
+ },
+ {
+   "naam": "scheldeplein",
+   "datum": "2003-12-26 01:35",
+   "grootte": "8.3K"
+ },
+ {
+   "naam": "scheldestraat",
+   "datum": "2003-08-21 23:25",
+   "grootte": "9.5K"
+ },
+ {
+   "naam": "schellingwouderdijk 83",
+   "datum": "2009-05-27 15:43",
+   "grootte": "19K"
+ },
+ {
+   "naam": "schellingwouderdijk 175",
+   "datum": "2009-05-27 15:43",
+   "grootte": "22K"
+ },
+ {
+   "naam": "schepenbergweg",
+   "datum": "2003-12-26 01:35",
+   "grootte": "11K"
+ },
+ {
+   "naam": "scherpenzeelstraat",
+   "datum": "2003-12-26 01:35",
+   "grootte": "13K"
+ },
+ {
+   "naam": "schipholgebouw",
+   "datum": "2003-09-05 20:56",
+   "grootte": "10K"
+ },
+ {
+   "naam": "schiphol noord",
+   "datum": "2009-05-27 15:43",
+   "grootte": "20K"
+ },
+ {
+   "naam": "schiphol oost",
+   "datum": "2003-12-26 01:35",
+   "grootte": "12K"
+ },
+ {
+   "naam": "schiphol plaza ns",
+   "datum": "2003-09-05 20:56",
+   "grootte": "18K"
+ },
+ {
+   "naam": "schipholweg",
+   "datum": "2003-12-26 01:35",
+   "grootte": "8.5K"
+ },
+ {
+   "naam": "schiphol zuid p30",
+   "datum": "2003-09-05 20:56",
+   "grootte": "19K"
+ },
+ {
+   "naam": "schoolstraat",
+   "datum": "2003-08-21 23:25",
+   "grootte": "8.3K"
+ },
+ {
+   "naam": "schoonhovendreef",
+   "datum": "2003-12-26 01:35",
+   "grootte": "11K"
+ },
+ {
+   "naam": "schubertstraat",
+   "datum": "2003-12-26 01:35",
+   "grootte": "9.7K"
+ },
+ {
+   "naam": "schuilhoeve",
+   "datum": "2003-09-05 20:56",
+   "grootte": "10K"
+ },
+ {
+   "naam": "schuit",
+   "datum": "2003-09-05 20:56",
+   "grootte": "7.9K"
+ },
+ {
+   "naam": "science park aer",
+   "datum": "2011-07-09 04:00",
+   "grootte": "25K"
+ },
+ {
+   "naam": "sciencepark amsterdam",
+   "datum": "2005-12-03 01:23",
+   "grootte": "15K"
+ },
+ {
+   "naam": "science park aqua",
+   "datum": "2011-07-09 04:00",
+   "grootte": "26K"
+ },
+ {
+   "naam": "science park ignis",
+   "datum": "2011-07-09 04:00",
+   "grootte": "27K"
+ },
+ {
+   "naam": "science park terra",
+   "datum": "2011-07-09 04:00",
+   "grootte": "21K"
+ },
+ {
+   "naam": "seine",
+   "datum": "2003-12-26 01:35",
+   "grootte": "5.3K"
+ },
+ {
+   "naam": "seineweg",
+   "datum": "2003-12-26 01:35",
+   "grootte": "7.7K"
+ },
+ {
+   "naam": "sextantweg",
+   "datum": "2003-12-26 01:35",
+   "grootte": "9.1K"
+ },
+ {
+   "naam": "sicilieweg",
+   "datum": "2003-09-05 20:56",
+   "grootte": "10K"
+ },
+ {
+   "naam": "sijsjesbergweg",
+   "datum": "2003-09-05 20:56",
+   "grootte": "11K"
+ },
+ {
+   "naam": "singel",
+   "datum": "2003-12-26 01:35",
+   "grootte": "5.3K"
+ },
+ {
+   "naam": "sinnigvelderstraat",
+   "datum": "2009-05-27 15:43",
+   "grootte": "19K"
+ },
+ {
+   "naam": "sint lucas-andreasziekenhuis",
+   "datum": "2003-08-21 23:25",
+   "grootte": "18K"
+ },
+ {
+   "naam": "sint nicolaaskerk",
+   "datum": "2004-06-21 23:34",
+   "grootte": "11K"
+ },
+ {
+   "naam": "sky port",
+   "datum": "2003-12-26 01:35",
+   "grootte": "8.9K"
+ },
+ {
+   "naam": "sleepterrein",
+   "datum": "2003-12-26 01:35",
+   "grootte": "7.9K"
+ },
+ {
+   "naam": "slijperweg",
+   "datum": "2003-12-26 01:35",
+   "grootte": "8.9K"
+ },
+ {
+   "naam": "sloten",
+   "datum": "2003-08-21 23:25",
+   "grootte": "6.7K"
+ },
+ {
+   "naam": "slotermeer",
+   "datum": "2003-08-21 23:25",
+   "grootte": "8.3K"
+ },
+ {
+   "naam": "slotermeerlaan",
+   "datum": "2003-08-21 23:25",
+   "grootte": "11K"
+ },
+ {
+   "naam": "sloterparkbad",
+   "datum": "2004-06-21 23:34",
+   "grootte": "9.0K"
+ },
+ {
+   "naam": "slotervaart",
+   "datum": "2003-12-26 01:35",
+   "grootte": "9.5K"
+ },
+ {
+   "naam": "slotervaart ibm",
+   "datum": "2003-09-05 20:56",
+   "grootte": "16K"
+ },
+ {
+   "naam": "slotervaartziekenhuis",
+   "datum": "2003-08-21 23:25",
+   "grootte": "13K"
+ },
+ {
+   "naam": "sluisplein",
+   "datum": "2003-09-05 20:56",
+   "grootte": "8.8K"
+ },
+ {
+   "naam": "sneeuwbalstraat",
+   "datum": "2003-12-26 01:35",
+   "grootte": "11K"
+ },
+ {
+   "naam": "sneeuwbalweg",
+   "datum": "2003-12-26 01:35",
+   "grootte": "9.7K"
+ },
+ {
+   "naam": "sneltram 51,",
+   "datum": "2003-08-21 23:45",
+   "grootte": "15K"
+ },
+ {
+   "naam": "sneltram 51",
+   "datum": "2003-08-21 23:45",
+   "grootte": "15K"
+ },
+ {
+   "naam": "sniep",
+   "datum": "2003-09-05 20:56",
+   "grootte": "5.5K"
+ },
+ {
+   "naam": "snijdersbergweg",
+   "datum": "2003-09-05 20:56",
+   "grootte": "13K"
+ },
+ {
+   "naam": "soembawastraat",
+   "datum": "2003-08-21 23:25",
+   "grootte": "9.9K"
+ },
+ {
+   "naam": "solebaystraat",
+   "datum": "2003-12-26 01:35",
+   "grootte": "11K"
+ },
+ {
+   "naam": "sonthaven",
+   "datum": "2003-12-26 01:35",
+   "grootte": "8.7K"
+ },
+ {
+   "naam": "spaarndammerdijk",
+   "datum": "2003-12-26 01:35",
+   "grootte": "11K"
+ },
+ {
+   "naam": "spaarndammerstraat",
+   "datum": "2003-12-26 01:35",
+   "grootte": "12K"
+ },
+ {
+   "naam": "spaklerweg",
+   "datum": "2004-06-21 23:34",
+   "grootte": "8.4K"
+ },
+ {
+   "naam": "spechtstraat",
+   "datum": "2011-07-09 04:00",
+   "grootte": "14K"
+ },
+ {
+   "naam": "speksnijdersweg",
+   "datum": "2003-12-26 01:35",
+   "grootte": "11K"
+ },
+ {
+   "naam": "spelderholt",
+   "datum": "2003-12-26 01:35",
+   "grootte": "9.5K"
+ },
+ {
+   "naam": "spiegelgracht",
+   "datum": "2003-08-21 23:25",
+   "grootte": "8.7K"
+ },
+ {
+   "naam": "spinnerij",
+   "datum": "2004-06-21 23:34",
+   "grootte": "6.8K"
+ },
+ {
+   "naam": "sportcentrum de meerkamp",
+   "datum": "2003-10-06 02:01",
+   "grootte": "17K"
+ },
+ {
+   "naam": "sportcentrum emergo",
+   "datum": "2003-10-06 02:01",
+   "grootte": "15K"
+ },
+ {
+   "naam": "sportcomplex de kegel",
+   "datum": "2003-10-06 02:01",
+   "grootte": "14K"
+ },
+ {
+   "naam": "sportcomplex escapade",
+   "datum": "2003-10-06 02:01",
+   "grootte": "15K"
+ },
+ {
+   "naam": "sportcomplex het loopveld",
+   "datum": "2003-10-06 02:01",
+   "grootte": "17K"
+ },
+ {
+   "naam": "sportcomplex nieuwe kalfjeslaan",
+   "datum": "2003-10-06 02:01",
+   "grootte": "19K"
+ },
+ {
+   "naam": "sportcomplex noorddammerweg",
+   "datum": "2003-10-06 02:01",
+   "grootte": "17K"
+ },
+ {
+   "naam": "sportcomplex overburg",
+   "datum": "2003-10-06 02:01",
+   "grootte": "15K"
+ },
+ {
+   "naam": "sportcomplex sportlaan",
+   "datum": "2003-10-06 02:01",
+   "grootte": "16K"
+ },
+ {
+   "naam": "sportcomplex startbaan",
+   "datum": "2003-10-06 02:02",
+   "grootte": "15K"
+ },
+ {
+   "naam": "sporthal aetsveld",
+   "datum": "2009-05-27 15:43",
+   "grootte": "17K"
+ },
+ {
+   "naam": "sporthalcentrum bankrashal",
+   "datum": "2003-10-06 02:02",
+   "grootte": "18K"
+ },
+ {
+   "naam": "sporthal de meent",
+   "datum": "2003-10-06 02:02",
+   "grootte": "13K"
+ },
+ {
+   "naam": "sportlaan",
+   "datum": "2004-06-21 23:34",
+   "grootte": "7.6K"
+ },
+ {
+   "naam": "sportpark de diemen",
+   "datum": "2004-06-21 23:34",
+   "grootte": "13K"
+ },
+ {
+   "naam": "spreeuwenpark",
+   "datum": "2003-12-26 01:35",
+   "grootte": "8.7K"
+ },
+ {
+   "naam": "staatsliedenwijk",
+   "datum": "2003-09-05 20:56",
+   "grootte": "11K"
+ },
+ {
+   "naam": "stad-, streekvervoer en trein",
+   "datum": "2012-12-29 00:33",
+   "grootte": "24K"
+ },
+ {
+   "naam": "stad- en streekvervoer",
+   "datum": "2012-12-29 00:33",
+   "grootte": "21K"
+ },
+ {
+   "naam": "stadhouderskade",
+   "datum": "2003-08-21 23:25",
+   "grootte": "9.5K"
+ },
+ {
+   "naam": "stadhuisplein",
+   "datum": "2003-09-05 20:56",
+   "grootte": "11K"
+ },
+ {
+   "naam": "stadionplein",
+   "datum": "2003-08-21 23:25",
+   "grootte": "8.7K"
+ },
+ {
+   "naam": "stadionstraat",
+   "datum": "2003-08-21 23:25",
+   "grootte": "9.7K"
+ },
+ {
+   "naam": "stadionweg",
+   "datum": "2003-08-21 23:25",
+   "grootte": "8.9K"
+ },
+ {
+   "naam": "stadsdeelkantoor",
+   "datum": "2004-03-25 22:43",
+   "grootte": "9.5K"
+ },
+ {
+   "naam": "stadsdeelkantoor_2",
+   "datum": "2004-06-21 23:34",
+   "grootte": "10K"
+ },
+ {
+   "naam": "stadsdeelkantoor zeeburg",
+   "datum": "2003-12-26 01:35",
+   "grootte": "15K"
+ },
+ {
+   "naam": "stadsdeelkantoor zuidoost",
+   "datum": "2003-12-26 01:35",
+   "grootte": "17K"
+ },
+ {
+   "naam": "stadstuinen",
+   "datum": "2011-07-09 04:00",
+   "grootte": "13K"
+ },
+ {
+   "naam": "stadsvervoer en trein",
+   "datum": "2012-12-29 00:33",
+   "grootte": "20K"
+ },
+ {
+   "naam": "staghof",
+   "datum": "2003-12-26 01:35",
+   "grootte": "6.7K"
+ },
+ {
+   "naam": "standerdmolen",
+   "datum": "2003-09-05 20:56",
+   "grootte": "11K"
+ },
+ {
+   "naam": "standerdmolen_2",
+   "datum": "2003-12-26 01:35",
+   "grootte": "10K"
+ },
+ {
+   "naam": "standplaats",
+   "datum": "2003-09-05 20:56",
+   "grootte": "11K"
+ },
+ {
+   "naam": "startbaan",
+   "datum": "2003-12-26 01:35",
+   "grootte": "7.9K"
+ },
+ {
+   "naam": "statenjachtstraat",
+   "datum": "2003-12-26 01:35",
+   "grootte": "12K"
+ },
+ {
+   "naam": "station bijlmer",
+   "datum": "2003-12-26 01:35",
+   "grootte": "11K"
+ },
+ {
+   "naam": "station bijlmer arena",
+   "datum": "2004-06-21 23:34",
+   "grootte": "18K"
+ },
+ {
+   "naam": "station de vlugtlaan",
+   "datum": "2003-09-05 20:56",
+   "grootte": "16K"
+ },
+ {
+   "naam": "station diemen zuid",
+   "datum": "2003-12-26 01:35",
+   "grootte": "15K"
+ },
+ {
+   "naam": "station duivendrecht",
+   "datum": "2003-12-26 01:35",
+   "grootte": "14K"
+ },
+ {
+   "naam": "station gaasperplas",
+   "datum": "2003-12-26 01:35",
+   "grootte": "15K"
+ },
+ {
+   "naam": "station ganzenhoef",
+   "datum": "2003-12-26 01:35",
+   "grootte": "14K"
+ },
+ {
+   "naam": "station gein",
+   "datum": "2003-12-26 01:35",
+   "grootte": "11K"
+ },
+ {
+   "naam": "station holendrecht",
+   "datum": "2003-12-26 01:35",
+   "grootte": "14K"
+ },
+ {
+   "naam": "station kogerveld",
+   "datum": "2003-09-05 20:56",
+   "grootte": "17K"
+ },
+ {
+   "naam": "station kraaiennest",
+   "datum": "2003-12-26 01:35",
+   "grootte": "14K"
+ },
+ {
+   "naam": "station lelylaan",
+   "datum": "2003-08-21 23:25",
+   "grootte": "13K"
+ },
+ {
+   "naam": "station muziekwijk",
+   "datum": "2003-09-05 20:56",
+   "grootte": "15K"
+ },
+ {
+   "naam": "station ns",
+   "datum": "2003-12-26 01:35",
+   "grootte": "12K"
+ },
+ {
+   "naam": "station parkwijk ns",
+   "datum": "2003-09-05 20:56",
+   "grootte": "21K"
+ },
+ {
+   "naam": "station rai",
+   "datum": "2003-08-21 23:25",
+   "grootte": "11K"
+ },
+ {
+   "naam": "station reigersbos",
+   "datum": "2003-12-26 01:35",
+   "grootte": "15K"
+ },
+ {
+   "naam": "station science park",
+   "datum": "2011-07-09 04:00",
+   "grootte": "23K"
+ },
+ {
+   "naam": "station sloterdijk",
+   "datum": "2003-08-21 23:25",
+   "grootte": "14K"
+ },
+ {
+   "naam": "station spaklerweg",
+   "datum": "2004-06-21 23:34",
+   "grootte": "15K"
+ },
+ {
+   "naam": "stationsplein",
+   "datum": "2003-12-26 01:35",
+   "grootte": "11K"
+ },
+ {
+   "naam": "stationsweg",
+   "datum": "2009-05-27 15:43",
+   "grootte": "16K"
+ },
+ {
+   "naam": "station venserpolder",
+   "datum": "2003-12-26 01:35",
+   "grootte": "15K"
+ },
+ {
+   "naam": "station weesp ns",
+   "datum": "2009-05-27 15:43",
+   "grootte": "19K"
+ },
+ {
+   "naam": "station zaandam ns",
+   "datum": "2003-09-05 20:56",
+   "grootte": "21K"
+ },
+ {
+   "naam": "station zuid-wtc",
+   "datum": "2003-08-21 23:25",
+   "grootte": "18K"
+ },
+ {
+   "naam": "station zuid",
+   "datum": "2009-05-27 15:43",
+   "grootte": "25K"
+ },
+ {
+   "naam": "stedelijk museum",
+   "datum": "2012-12-29 00:33",
+   "grootte": "10K"
+ },
+ {
+   "naam": "stedenwijk midden",
+   "datum": "2003-09-05 20:56",
+   "grootte": "13K"
+ },
+ {
+   "naam": "stedenwijk zuid",
+   "datum": "2003-09-05 20:56",
+   "grootte": "15K"
+ },
+ {
+   "naam": "steigereiland",
+   "datum": "2004-06-21 23:34",
+   "grootte": "10K"
+ },
+ {
+   "naam": "stenendokweg",
+   "datum": "2003-09-05 20:56",
+   "grootte": "12K"
+ },
+ {
+   "naam": "stentorstraat",
+   "datum": "2003-09-05 20:57",
+   "grootte": "11K"
+ },
+ {
+   "naam": "straat van messina",
+   "datum": "2003-12-26 01:35",
+   "grootte": "12K"
+ },
+ {
+   "naam": "straat van sicilie",
+   "datum": "2003-12-26 01:35",
+   "grootte": "12K"
+ },
+ {
+   "naam": "strandvliet",
+   "datum": "2004-06-21 23:34",
+   "grootte": "7.8K"
+ },
+ {
+   "naam": "strandvliet arena",
+   "datum": "2004-06-21 23:34",
+   "grootte": "14K"
+ },
+ {
+   "naam": "strawinskylaan",
+   "datum": "2003-12-26 01:35",
+   "grootte": "10K"
+ },
+ {
+   "naam": "streekvervoer",
+   "datum": "2012-12-29 00:33",
+   "grootte": "12K"
+ },
+ {
+   "naam": "streekvervoer en trein",
+   "datum": "2012-12-29 00:33",
+   "grootte": "22K"
+ },
+ {
+   "naam": "sumatrakade",
+   "datum": "2003-12-26 01:35",
+   "grootte": "10K"
+ },
+ {
+   "naam": "surinameplein",
+   "datum": "2003-08-21 23:25",
+   "grootte": "11K"
+ },
+ {
+   "naam": "surinameplein bollenveld",
+   "datum": "2003-09-05 20:57",
+   "grootte": "19K"
+ },
+ {
+   "naam": "suze groeneweglaan",
+   "datum": "2003-09-05 20:57",
+   "grootte": "15K"
+ },
+ {
+   "naam": "talbotstraat",
+   "datum": "2003-09-05 20:57",
+   "grootte": "10K"
+ },
+ {
+   "naam": "tarwekamp",
+   "datum": "2003-12-26 01:35",
+   "grootte": "6.9K"
+ },
+ {
+   "naam": "tegelenpad",
+   "datum": "2003-09-05 20:57",
+   "grootte": "9.6K"
+ },
+ {
+   "naam": "tempelierstraat",
+   "datum": "2003-09-05 20:57",
+   "grootte": "12K"
+ },
+ {
+   "naam": "ten katestraat",
+   "datum": "2003-08-21 23:25",
+   "grootte": "10K"
+ },
+ {
+   "naam": "th. weversweg",
+   "datum": "2003-12-26 01:35",
+   "grootte": "13K"
+ },
+ {
+   "naam": "tijnmuiden",
+   "datum": "2004-03-25 23:31",
+   "grootte": "7.5K"
+ },
+ {
+   "naam": "tjalkstraat",
+   "datum": "2003-12-26 01:35",
+   "grootte": "8.3K"
+ },
+ {
+   "naam": "toekanweg",
+   "datum": "2003-12-26 01:35",
+   "grootte": "7.9K"
+ },
+ {
+   "naam": "tolhuisweg",
+   "datum": "2003-12-26 01:35",
+   "grootte": "8.5K"
+ },
+ {
+   "naam": "tosaristraat",
+   "datum": "2003-09-05 20:57",
+   "grootte": "11K"
+ },
+ {
+   "naam": "tramlijn 26 richting centraal station vertrekt over X minuten",
+   "datum": "2004-06-21 23:34",
+   "grootte": "48K"
+ },
+ {
+   "naam": "tramlijn 26 richting ijburg vertrekt over X minuten",
+   "datum": "2004-06-21 23:34",
+   "grootte": "44K"
+ },
+ {
+   "naam": "tramlijn X richting X vertrekt over X minuten",
+   "datum": "2004-06-21 23:34",
+   "grootte": "38K"
+ },
+ {
+   "naam": "tramlijn X richting X vertrekt over X minuten van spoor X",
+   "datum": "2004-06-21 23:34",
+   "grootte": "43K"
+ },
+ {
+   "naam": "troelstralaan",
+   "datum": "2003-12-26 01:35",
+   "grootte": "8.3K"
+ },
+ {
+   "naam": "tropeninstituut",
+   "datum": "2004-06-21 23:34",
+   "grootte": "10K"
+ },
+ {
+   "naam": "tuigerstraat",
+   "datum": "2003-10-19 10:31",
+   "grootte": "9.1K"
+ },
+ {
+   "naam": "tulpstraat",
+   "datum": "2003-09-05 20:57",
+   "grootte": "10K"
+ },
+ {
+   "naam": "turbinestraat",
+   "datum": "2003-10-19 10:31",
+   "grootte": "11K"
+ },
+ {
+   "naam": "tureluurweg",
+   "datum": "2009-05-27 15:43",
+   "grootte": "10K"
+ },
+ {
+   "naam": "tussendek",
+   "datum": "2003-10-19 10:31",
+   "grootte": "7.1K"
+ },
+ {
+   "naam": "tussen de vaarten",
+   "datum": "2003-09-05 20:57",
+   "grootte": "12K"
+ },
+ {
+   "naam": "tweede van der helststraat",
+   "datum": "2003-08-21 23:25",
+   "grootte": "14K"
+ },
+ {
+   "naam": "twiskeweg",
+   "datum": "2003-09-05 20:57",
+   "grootte": "8.1K"
+ },
+ {
+   "naam": "uilenstede",
+   "datum": "2003-08-21 23:25",
+   "grootte": "7.7K"
+ },
+ {
+   "naam": "uitdammerdijk",
+   "datum": "2003-10-19 10:31",
+   "grootte": "9.5K"
+ },
+ {
+   "naam": "uiterwaardenstraat",
+   "datum": "2003-08-21 23:25",
+   "grootte": "11K"
+ },
+ {
+   "naam": "uithoorn busstation",
+   "datum": "2003-09-05 20:57",
+   "grootte": "15K"
+ },
+ {
+   "naam": "uitstappen linkerzijde",
+   "datum": "2003-09-05 20:57",
+   "grootte": "387K"
+ },
+ {
+   "naam": "uitstappen rechterzijde",
+   "datum": "2003-09-05 20:57",
+   "grootte": "428K"
+ },
+ {
+   "naam": "uiverstraat",
+   "datum": "2011-07-09 04:00",
+   "grootte": "15K"
+ },
+ {
+   "naam": "uiverweg",
+   "datum": "2003-10-19 10:31",
+   "grootte": "7.7K"
+ },
+ {
+   "naam": "valentijnkade",
+   "datum": "2003-10-19 10:31",
+   "grootte": "11K"
+ },
+ {
+   "naam": "valeriusplein",
+   "datum": "2003-08-21 23:25",
+   "grootte": "8.9K"
+ },
+ {
+   "naam": "valkenweg",
+   "datum": "2003-10-19 10:31",
+   "grootte": "8.7K"
+ },
+ {
+   "naam": "valschermkade",
+   "datum": "2003-09-05 20:57",
+   "grootte": "11K"
+ },
+ {
+   "naam": "van baerlestraat",
+   "datum": "2003-08-21 23:25",
+   "grootte": "10K"
+ },
+ {
+   "naam": "van beekstraat",
+   "datum": "2003-09-05 20:57",
+   "grootte": "12K"
+ },
+ {
+   "naam": "van beuningenplein",
+   "datum": "2003-10-19 10:31",
+   "grootte": "11K"
+ },
+ {
+   "naam": "van boshuizenstraat",
+   "datum": "2003-08-21 23:25",
+   "grootte": "12K"
+ },
+ {
+   "naam": "van dam",
+   "datum": "2005-12-03 01:23",
+   "grootte": "6.6K"
+ },
+ {
+   "naam": "van der boechorststraat",
+   "datum": "2003-10-19 10:31",
+   "grootte": "14K"
+ },
+ {
+   "naam": "van der hooplaan",
+   "datum": "2003-10-19 10:31",
+   "grootte": "9.5K"
+ },
+ {
+   "naam": "van der hoopstraat",
+   "datum": "2003-10-19 10:31",
+   "grootte": "11K"
+ },
+ {
+   "naam": "van der madeweg",
+   "datum": "2004-06-21 23:34",
+   "grootte": "9.0K"
+ },
+ {
+   "naam": "van der pekplein",
+   "datum": "2003-09-05 20:57",
+   "grootte": "11K"
+ },
+ {
+   "naam": "van der pekstraat",
+   "datum": "2003-10-19 10:31",
+   "grootte": "10K"
+ },
+ {
+   "naam": "van eesterenlaan",
+   "datum": "2003-10-19 10:31",
+   "grootte": "10K"
+ },
+ {
+   "naam": "van gentstraat",
+   "datum": "2003-10-19 10:31",
+   "grootte": "11K"
+ },
+ {
+   "naam": "van goghmuseum",
+   "datum": "2004-06-21 23:34",
+   "grootte": "9.5K"
+ },
+ {
+   "naam": "van hallstraat",
+   "datum": "2003-08-21 23:25",
+   "grootte": "9.1K"
+ },
+ {
+   "naam": "van heenvlietlaan",
+   "datum": "2003-10-19 10:31",
+   "grootte": "11K"
+ },
+ {
+   "naam": "van houten industriepark",
+   "datum": "2009-05-27 15:43",
+   "grootte": "17K"
+ },
+ {
+   "naam": "van houtenlaan",
+   "datum": "2009-05-27 15:43",
+   "grootte": "11K"
+ },
+ {
+   "naam": "van kinsbergenstraat",
+   "datum": "2003-08-21 23:25",
+   "grootte": "12K"
+ },
+ {
+   "naam": "van limburg stirumstraat",
+   "datum": "2003-08-21 23:25",
+   "grootte": "15K"
+ },
+ {
+   "naam": "van lohuizenlaan",
+   "datum": "2003-10-19 10:31",
+   "grootte": "11K"
+ },
+ {
+   "naam": "van mourik broekmanstraat",
+   "datum": "2003-10-19 10:31",
+   "grootte": "15K"
+ },
+ {
+   "naam": "van nijenrodeweg",
+   "datum": "2003-10-19 10:31",
+   "grootte": "12K"
+ },
+ {
+   "naam": "vanwege een technische storing beschikt dit halteinformatiesysteem...",
+   "datum": "2004-06-21 23:34",
+   "grootte": "52K"
+ },
+ {
+   "naam": "van woustraat",
+   "datum": "2003-08-21 23:25",
+   "grootte": "9.1K"
+ },
+ {
+   "naam": "veelaan",
+   "datum": "2003-10-19 10:31",
+   "grootte": "6.1K"
+ },
+ {
+   "naam": "veemarkt",
+   "datum": "2011-07-09 04:00",
+   "grootte": "16K"
+ },
+ {
+   "naam": "veenendaalplein",
+   "datum": "2003-10-19 10:31",
+   "grootte": "11K"
+ },
+ {
+   "naam": "v en d",
+   "datum": "2003-10-19 10:31",
+   "grootte": "7.3K"
+ },
+ {
+   "naam": "vennepluimstraat",
+   "datum": "2003-09-05 20:57",
+   "grootte": "12K"
+ },
+ {
+   "naam": "venserpolder",
+   "datum": "2004-06-21 23:34",
+   "grootte": "8.8K"
+ },
+ {
+   "naam": "verpleeghuis hogewey",
+   "datum": "2009-05-27 15:43",
+   "grootte": "16K"
+ },
+ {
+   "naam": "verrijn stuartweg",
+   "datum": "2004-06-21 23:34",
+   "grootte": "12K"
+ },
+ {
+   "naam": "verzetswijk",
+   "datum": "2003-09-05 20:57",
+   "grootte": "10K"
+ },
+ {
+   "naam": "viaduct",
+   "datum": "2003-09-05 20:57",
+   "grootte": "9.0K"
+ },
+ {
+   "naam": "victorieplein",
+   "datum": "2003-08-21 23:25",
+   "grootte": "8.5K"
+ },
+ {"naam": "vijzelgracht"},
+ {
+   "naam": "vinkenbrug",
+   "datum": "2011-07-09 04:00",
+   "grootte": "19K"
+ },
+ {
+   "naam": "violette corneliushof",
+   "datum": "2004-03-25 23:31",
+   "grootte": "17K"
+ },
+ {
+   "naam": "vlaardingenlaan",
+   "datum": "2003-10-19 10:31",
+   "grootte": "9.3K"
+ },
+ {
+   "naam": "vliegtuigstraat",
+   "datum": "2003-10-19 10:32",
+   "grootte": "9.7K"
+ },
+ {
+   "naam": "vlimmerenstraat",
+   "datum": "2004-06-21 23:35",
+   "grootte": "9.9K"
+ },
+ {
+   "naam": "vlothavenweg",
+   "datum": "2003-10-19 10:32",
+   "grootte": "9.9K"
+ },
+ {
+   "naam": "vogelweg",
+   "datum": "2009-05-27 15:43",
+   "grootte": "9.2K"
+ },
+ {
+   "naam": "volendammerweg",
+   "datum": "2003-10-19 10:32",
+   "grootte": "9.5K"
+ },
+ {
+   "naam": "volkstuin",
+   "datum": "2003-10-19 10:32",
+   "grootte": "7.5K"
+ },
+ {
+   "naam": "voordek",
+   "datum": "2003-10-19 10:32",
+   "grootte": "7.3K"
+ },
+ {
+   "naam": "vorticellaweg",
+   "datum": "2003-09-05 20:57",
+   "grootte": "11K"
+ },
+ {
+   "naam": "vrachtgebouw",
+   "datum": "2003-10-19 10:32",
+   "grootte": "7.9K"
+ },
+ {
+   "naam": "vredenhof",
+   "datum": "2003-10-19 10:32",
+   "grootte": "7.3K"
+ },
+ {
+   "naam": "vrije geer",
+   "datum": "2004-06-21 23:35",
+   "grootte": "8.2K"
+ },
+ {
+   "naam": "vrijzicht",
+   "datum": "2003-10-19 10:32",
+   "grootte": "7.9K"
+ },
+ {
+   "naam": "vu",
+   "datum": "2004-06-21 23:35",
+   "grootte": "3.5K"
+ },
+ {
+   "naam": "vu de boelelaan",
+   "datum": "2004-06-21 23:35",
+   "grootte": "13K"
+ },
+ {
+   "naam": "vu medisch centrum",
+   "datum": "2003-09-05 20:57",
+   "grootte": "14K"
+ },
+ {
+   "naam": "vu ziekenhuis",
+   "datum": "2003-09-05 20:57",
+   "grootte": "11K"
+ },
+ {
+   "naam": "waalstraat",
+   "datum": "2003-08-21 23:25",
+   "grootte": "7.9K"
+ },
+ {
+   "naam": "waardhuizen",
+   "datum": "2003-09-05 20:57",
+   "grootte": "9.6K"
+ },
+ {
+   "naam": "waddenweg",
+   "datum": "2003-10-19 10:32",
+   "grootte": "7.5K"
+ },
+ {
+   "naam": "wagenerstadion",
+   "datum": "2003-10-19 10:32",
+   "grootte": "12K"
+ },
+ {
+   "naam": "wageningendreef",
+   "datum": "2003-10-19 10:32",
+   "grootte": "11K"
+ },
+ {
+   "naam": "walt disneyplantsoen",
+   "datum": "2003-09-05 20:57",
+   "grootte": "13K"
+ },
+ {
+   "naam": "wamelstraat",
+   "datum": "2003-10-19 10:32",
+   "grootte": "9.9K"
+ },
+ {
+   "naam": "watercirkel",
+   "datum": "2003-10-19 10:32",
+   "grootte": "9.5K"
+ },
+ {
+   "naam": "wateringbrug",
+   "datum": "2003-09-05 20:57",
+   "grootte": "9.8K"
+ },
+ {
+   "naam": "waterlandplein",
+   "datum": "2003-10-19 10:32",
+   "grootte": "11K"
+ },
+ {
+   "naam": "waterlooplein",
+   "datum": "2003-08-21 23:25",
+   "grootte": "9.9K"
+ },
+ {
+   "naam": "waterwijk",
+   "datum": "2003-09-05 20:57",
+   "grootte": "9.8K"
+ },
+ {
+   "naam": "waterwijk oost",
+   "datum": "2003-09-05 20:57",
+   "grootte": "14K"
+ },
+ {
+   "naam": "weerdestein",
+   "datum": "2003-10-19 10:32",
+   "grootte": "8.9K"
+ },
+ {
+   "naam": "weerpad",
+   "datum": "2003-09-05 20:57",
+   "grootte": "10K"
+ },
+ {
+   "naam": "weesperplein",
+   "datum": "2003-08-21 23:25",
+   "grootte": "8.5K"
+ },
+ {
+   "naam": "wenkenbachweg",
+   "datum": "2011-07-09 04:00",
+   "grootte": "15K"
+ },
+ {
+   "naam": "werengouw",
+   "datum": "2003-10-19 10:32",
+   "grootte": "7.9K"
+ },
+ {
+   "naam": "werengouw_2",
+   "datum": "2004-06-21 23:35",
+   "grootte": "8.0K"
+ },
+ {
+   "naam": "werkplaats",
+   "datum": "2003-10-19 10:32",
+   "grootte": "8.7K"
+ },
+ {
+   "naam": "wervershoofstraat",
+   "datum": "2003-10-19 10:32",
+   "grootte": "12K"
+ },
+ {
+   "naam": "westelijke randweg",
+   "datum": "2003-10-19 10:32",
+   "grootte": "12K"
+ },
+ {
+   "naam": "westerdoksdijk",
+   "datum": "2003-10-19 10:32",
+   "grootte": "9.3K"
+ },
+ {
+   "naam": "westergasfabriek",
+   "datum": "2012-12-29 00:33",
+   "grootte": "21K"
+ },
+ {
+   "naam": "westermarkt",
+   "datum": "2003-08-21 23:25",
+   "grootte": "8.7K"
+ },
+ {
+   "naam": "westerwateringtunnel",
+   "datum": "2003-09-05 20:57",
+   "grootte": "13K"
+ },
+ {
+   "naam": "westgaarde",
+   "datum": "2003-08-21 23:25",
+   "grootte": "7.7K"
+ },
+ {
+   "naam": "westhavenweg",
+   "datum": "2003-10-19 10:32",
+   "grootte": "8.9K"
+ },
+ {
+   "naam": "westlandgracht",
+   "datum": "2003-08-21 23:25",
+   "grootte": "10K"
+ },
+ {
+   "naam": "westmallepad",
+   "datum": "2003-10-19 10:32",
+   "grootte": "9.5K"
+ },
+ {
+   "naam": "westpoortweg",
+   "datum": "2009-05-27 15:43",
+   "grootte": "14K"
+ },
+ {
+   "naam": "westwijk",
+   "datum": "2004-06-21 23:35",
+   "grootte": "6.4K"
+ },
+ {
+   "naam": "westwijkplein",
+   "datum": "2003-10-19 10:32",
+   "grootte": "8.9K"
+ },
+ {
+   "naam": "wetenschappelijk centrum watergraafsmeer",
+   "datum": "2003-10-19 10:32",
+   "grootte": "21K"
+ },
+ {
+   "naam": "wetenschapscentrum watergraafsmeer",
+   "datum": "2003-10-19 10:32",
+   "grootte": "20K"
+ },
+ {
+   "naam": "weteringbrugmolen",
+   "datum": "2003-10-19 10:32",
+   "grootte": "11K"
+ },
+ {
+   "naam": "weteringcircuit",
+   "datum": "2003-08-21 23:25",
+   "grootte": "9.1K"
+ },
+ {
+   "naam": "wethouder frankeweg",
+   "datum": "2003-09-23 01:37",
+   "grootte": "14K"
+ },
+ {
+   "naam": "wibautstraat",
+   "datum": "2003-09-05 20:59",
+   "grootte": "10K"
+ },
+ {
+   "naam": "wierdenstraat",
+   "datum": "2009-05-27 15:43",
+   "grootte": "15K"
+ },
+ {
+   "naam": "wijttenbachstraat",
+   "datum": "2003-08-21 23:25",
+   "grootte": "9.9K"
+ },
+ {
+   "naam": "wilgenweg",
+   "datum": "2003-09-05 20:57",
+   "grootte": "9.8K"
+ },
+ {
+   "naam": "wilhelminakade",
+   "datum": "2003-09-05 20:57",
+   "grootte": "12K"
+ },
+ {
+   "naam": "wilhelminaplantsoen",
+   "datum": "2009-05-27 15:43",
+   "grootte": "13K"
+ },
+ {
+   "naam": "willem de zwijgerlaan",
+   "datum": "2003-08-21 23:25",
+   "grootte": "12K"
+ },
+ {
+   "naam": "willem dreesplantsoen",
+   "datum": "2003-10-19 10:32",
+   "grootte": "12K"
+ },
+ {
+   "naam": "willem schoutenstraat",
+   "datum": "2003-08-21 23:25",
+   "grootte": "13K"
+ },
+ {
+   "naam": "willem schoutenstraat_2",
+   "datum": "2003-10-19 10:33",
+   "grootte": "13K"
+ },
+ {
+   "naam": "willem van weldammelaan",
+   "datum": "2003-10-19 10:32",
+   "grootte": "13K"
+ },
+ {
+   "naam": "willinklaan",
+   "datum": "2003-10-19 10:32",
+   "grootte": "8.1K"
+ },
+ {
+   "naam": "wilsonplein",
+   "datum": "2003-09-05 20:57",
+   "grootte": "9.8K"
+ },
+ {
+   "naam": "wiltzanghlaan",
+   "datum": "2003-08-21 23:25",
+   "grootte": "10K"
+ },
+ {
+   "naam": "wim kanplein",
+   "datum": "2003-09-05 20:57",
+   "grootte": "12K"
+ },
+ {
+   "naam": "winkelcentrum",
+   "datum": "2009-05-27 15:43",
+   "grootte": "12K"
+ },
+ {
+   "naam": "witte de withstraat",
+   "datum": "2003-08-21 23:25",
+   "grootte": "11K"
+ },
+ {
+   "naam": "wittenburgergracht",
+   "datum": "2003-10-19 10:32",
+   "grootte": "12K"
+ },
+ {
+   "naam": "wognummerplantsoen",
+   "datum": "2003-10-19 10:32",
+   "grootte": "12K"
+ },
+ {
+   "naam": "wolbrantskerkweg",
+   "datum": "2003-09-05 20:57",
+   "grootte": "13K"
+ },
+ {
+   "naam": "wolbrantskerkweg_2",
+   "datum": "2003-10-19 10:32",
+   "grootte": "11K"
+ },
+ {
+   "naam": "woningbouw",
+   "datum": "2003-09-05 20:57",
+   "grootte": "8.1K"
+ },
+ {
+   "naam": "zaaiersweg",
+   "datum": "2003-09-05 20:57",
+   "grootte": "9.4K"
+ },
+ {
+   "naam": "zaaiersweg_2",
+   "datum": "2003-10-19 10:33",
+   "grootte": "8.1K"
+ },
+ {
+   "naam": "zaanhof",
+   "datum": "2003-10-19 10:32",
+   "grootte": "7.7K"
+ },
+ {
+   "naam": "zaanstraat",
+   "datum": "2003-09-05 20:57",
+   "grootte": "11K"
+ },
+ {
+   "naam": "zagerij",
+   "datum": "2003-09-05 20:57",
+   "grootte": "8.4K"
+ },
+ {
+   "naam": "zamenhofstraat",
+   "datum": "2003-09-05 20:57",
+   "grootte": "11K"
+ },
+ {
+   "naam": "zamenhofstraat_2",
+   "datum": "2003-10-19 10:32",
+   "grootte": "11K"
+ },
+ {
+   "naam": "zeeburgerdijk",
+   "datum": "2003-08-21 23:25",
+   "grootte": "9.1K"
+ },
+ {
+   "naam": "zeeburgerpad",
+   "datum": "2009-05-27 15:43",
+   "grootte": "12K"
+ },
+ {
+   "naam": "zeeburgerstraat",
+   "datum": "2003-10-19 10:32",
+   "grootte": "10K"
+ },
+ {
+   "naam": "zeezigt",
+   "datum": "2009-05-27 15:43",
+   "grootte": "8.4K"
+ },
+ {
+   "naam": "zeilstraat",
+   "datum": "2003-08-21 23:25",
+   "grootte": "7.9K"
+ },
+ {
+   "naam": "zekeringstraat",
+   "datum": "2003-10-19 10:32",
+   "grootte": "9.9K"
+ },
+ {
+   "naam": "zetterij",
+   "datum": "2004-06-21 23:35",
+   "grootte": "6.4K"
+ },
+ {
+   "naam": "zetveld oude dorp",
+   "datum": "2004-03-25 23:31",
+   "grootte": "13K"
+ },
+ {
+   "naam": "ziekenhuis amstelveen",
+   "datum": "2003-09-05 20:57",
+   "grootte": "16K"
+ },
+ {
+   "naam": "ziekenhuis amstelveen_2",
+   "datum": "2003-10-19 10:32",
+   "grootte": "14K"
+ },
+ {
+   "naam": "zonegrens",
+   "datum": "2003-08-21 23:25",
+   "grootte": "6.7K"
+ },
+ {
+   "naam": "zonnestein",
+   "datum": "2003-08-21 23:26",
+   "grootte": "7.1K"
+ },
+ {
+   "naam": "zoutkeetsgracht",
+   "datum": "2003-08-21 23:26",
+   "grootte": "10K"
+ },
+ {
+   "naam": "zuideinde",
+   "datum": "2003-10-06 02:02",
+   "grootte": "7.7K"
+ },
+ {
+   "naam": "zuidermolenweg",
+   "datum": "2003-10-06 02:02",
+   "grootte": "10K"
+ },
+ {
+   "naam": "zuiderzeeweg",
+   "datum": "2003-09-05 20:57",
+   "grootte": "11K"
+ },
+ {
+   "naam": "zuiderzeeweg_2",
+   "datum": "2003-10-06 02:03",
+   "grootte": "10K"
+ },
+ {
+   "naam": "zunderdorp",
+   "datum": "2003-09-05 20:57",
+   "grootte": "9.4K"
+ },
+ {
+   "naam": "zunderdorpergouw",
+   "datum": "2003-09-05 20:57",
+   "grootte": "12K"
+ },
+ {
+   "naam": "zwarte kat",
+   "datum": "2003-09-05 20:57",
+   "grootte": "9.0K"
+ }
+]

@@ -1,0 +1,3 @@
+<filesMatch ".(html|php)$">
+  Header unset Content-Security-Policy
+</filesMatch>

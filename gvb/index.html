@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <title>Halteafroep Marc Klardie - Halteafroeptool</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+          content="Dit is een halteafroeptool ingesproken door Marc Klardie, de omroepstem van het Amsterdamse vervoersbedrijf GVB. Marc Klardie heeft hier tram, bus en metrohaltes voor ingesproken en is de stem van diverse omroepteksten in het voertuig. De omroepen zijn hier te beluisteren en samen te stellen als een echte halteafroep.">
+    <meta name="keywords" content="GVB,Marc Klardie,OV,omroep,afroep,halte,stem,Amsterdam">
+    <link rel="icon" type="image/png" sizes="16x16" href="../assets/favicon.png">
+    <link rel="stylesheet" type="text/css" href="style.css?v=2">
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-M8FYVZ7170"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-M8FYVZ7170');
+    </script>
+</head>
+<body>
+<header>
+    <input type="button" class="play" value="▶ Laat Marc Klardie afroepen">
+
+    <div style="display:inline-block;">
+        <input type="button" class="clear" value="Legen" style="margin-right: 20px;">
+    </div>
+
+    <div style="display:inline-block;">Gong:
+        <input type="radio" name="gongstijl" id="GVB" value="gong" checked><label for="GVB">Aan</label>
+        <input type="radio" name="gongstijl" id="leeg" value=""><label for="leeg">Uit</label>
+    </div>
+
+    <ul id="tags">
+    </ul>
+</header>
+
+<main>
+    <audio id="audio">
+        <source id="audiosource" src="mp3/gong.mp3"/>
+        Your browser does not support the audio tag.
+    </audio>
+    <h1>Halteafroep</h1>
+
+
+    <h2>Voorbeeld</h2>
+    <p style="margin-bottom:5px">
+        Kies een halte:<br>
+        &bull; <i class="addTag">station zuid</i><br>
+        &bull; <i class="addTag">eindpunt</i>
+    </p>
+    <p style="margin:5px 0 5px 0">
+        &bull; <i class="addTag">uitstappen linkerzijde</i><br>
+        &bull; <i class="addTag">doors open on the left-hand side</i>
+    </p>
+    <p style="margin:5px 0 5px 0">
+        &bull; <i class="addTag">overstappen op</i><br>
+        &bull; <i class="addTag">stad-, streekvervoer en trein</i><br>
+    </p>
+    <p style="margin-top:5px">
+        &bull; <i class="addTag">dit is tevens de laatste rit</i><br>
+        &bull; <i class="addTag">ovcc_vergeet u straks niet uit te checken</i><br>
+        &bull; <i class="addTag">ovcc_please remember to check out</i>
+    </p>
+
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3668415239700098"
+            crossorigin="anonymous"></script>
+    <div style="max-height: 250px">
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="ca-pub-3668415239700098"
+         data-ad-slot="7021197820"
+         data-ad-format="auto"
+         data-full-width-responsive="true"></ins>
+    </div>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+
+    <h2>Bus- en tramlijnen</h2>
+    <p>
+        De haltes van deze lijnen zijn te vinden via de zoekfunctie.
+    </p>
+
+    <h2>Metrolijnen</h2>
+    <div class="playlistContainer">
+        <h3>M50 Isolatorweg - Gein <span class="addAll noGong"></span> <span class="addAll withGong"></span></h3>
+        <p>
+            <i class="addTag">Isolatorweg</i>
+            <i class="addTag">Station Sloterdijk</i>
+            <i class="addTag">Burgemeester de Vlugtlaan</i>
+            <i class="addTag">Jan van Galenstraat</i>
+            <i class="addTag">Postjesweg</i>
+            <i class="addTag">Station Lelylaan</i>
+            <i class="addTag">Heemstedestraat</i>
+            <i class="addTag">Henk Sneevlietweg</i>
+            <i class="addTag">Amstelveenseweg</i>
+            <i class="addTag">Station Zuid</i>
+            <i class="addTag">Station RAI</i>
+            <i class="addTag">Overamstel</i>
+            <i class="addTag">Van der Madeweg</i>
+            <i class="addTag">Station Duivendrecht</i>
+            <i class="addTag">Strandvliet</i>
+            <i class="addTag">Station Bijlmer ArenA</i>
+            <i class="addTag">Bullewijk</i>
+            <i class="addTag">Station Holendrecht</i>
+            <i class="addTag">Reigersbos</i>
+            <i class="addTag">Gein</i>
+        </p>
+    </div>
+
+    <div class="playlistContainer">
+        <h3>M51 Amstelveen Westwijk <span class="addAll noGong"></span> <span class="addAll withGong"></span></h3>
+        <p>
+            <i class="addTag">Centraal Station</i>
+            <i class="addTag">Nieuwmarkt</i>
+            <i class="addTag">Waterlooplein</i>
+            <i class="addTag">Weesperplein</i>
+            <i class="addTag">Wibautstraat</i>
+            <i class="addTag">Amstelstation</i>
+            <i class="addTag">Spaklerweg</i>
+            <i class="addTag">Overamstel</i>
+            <i class="addTag">Station RAI</i>
+            <i class="addTag">Station Zuid</i>
+            <i class="addTag">De Boelelaan-VU</i>
+            <i class="addTag">Arend Janszoon Ernststraat</i>
+            <i class="addTag">Van Boshuizenstraat</i>
+            <i class="addTag">Uilenstede</i>
+            <i class="addTag">Kronenburg</i>
+            <i class="addTag">Zonnestein</i>
+            <i class="addTag">Onderuit</i>
+            <i class="addTag">Oranjebaan</i>
+            <i class="addTag">Amstelveen Centrum</i>
+            <i class="addTag">Ouderkerkerlaan</i>
+            <i class="addTag">Sportlaan</i>
+            <i class="addTag">Marne</i>
+            <i class="addTag">Gondel</i>
+            <i class="addTag">Meent</i>
+            <i class="addTag">Brink</i>
+            <i class="addTag">Poortwachter</i>
+            <i class="addTag">Spinnerij</i>
+            <i class="addTag">Sacharovlaan</i>
+            <i class="addTag">Westwijk</i>
+        </p>
+    </div>
+
+    <div class="playlistContainer">
+        <h3>M52 Noord - Station Zuid <span class="addAll noGong"></span> <span class="addAll withGong"></span></h3>
+        <p>
+            <i class="addTag">Noord</i>
+            <i class="addTag">Noorderpark</i>
+            <i class="addTag">Centraal Station</i>
+            <i class="addTag">Rokin</i>
+            <i class="addTag">Vijzelgracht</i>
+            <i class="addTag">De Pijp</i>
+            <i class="addTag">Europaplein</i>
+            <i class="addTag">Station Zuid</i>
+        </p>
+    </div>
+
+    <div class="playlistContainer">
+        <h3>M53 Gaasperplas <span class="addAll noGong"></span> <span class="addAll withGong"></span></h3>
+        <p>
+            <i class="addTag">Centraal Station</i>
+            <i class="addTag">Nieuwmarkt</i>
+            <i class="addTag">Waterlooplein</i>
+            <i class="addTag">Weesperplein</i>
+            <i class="addTag">Wibautstraat</i>
+            <i class="addTag">Amstelstation</i>
+            <i class="addTag">Spaklerweg</i>
+            <i class="addTag">Van der Madeweg</i>
+            <i class="addTag">Venserpolder</i>
+            <i class="addTag">Station Diemen Zuid</i>
+            <i class="addTag">Verrijn Stuartweg</i>
+            <i class="addTag">Station Ganzenhoef</i>
+            <i class="addTag">Station Kraaiennest</i>
+            <i class="addTag">Gaasperplas</i>
+        </p>
+    </div>
+
+    <div class="playlistContainer">
+        <h3>M54 Gein <span class="addAll noGong"></span> <span class="addAll withGong"></span></h3>
+        <p>
+            <i class="addTag">Centraal Station</i>
+            <i class="addTag">Nieuwmarkt</i>
+            <i class="addTag">Waterlooplein</i>
+            <i class="addTag">Weesperplein</i>
+            <i class="addTag">Wibautstraat</i>
+            <i class="addTag">Amstelstation</i>
+            <i class="addTag">Spaklerweg</i>
+            <i class="addTag">Van der Madeweg</i>
+            <i class="addTag">Station Duivendrecht</i>
+            <i class="addTag">Strandvliet</i>
+            <i class="addTag">Station Bijlmer ArenA</i>
+            <i class="addTag">Bullewijk</i>
+            <i class="addTag">Station Holendrecht</i>
+            <i class="addTag">Reigersbos</i>
+            <i class="addTag">Gein</i>
+        </p>
+    </div>
+
+    <p style="font-size:12px;">
+        <a href="gvb-mark-klardie.zip">Download</a> alles als zip-bestand. Met dank aan o.a. <a href="http://www.peterjager.net/gvb/halteafroep">peterjager.net</a>.
+    </p>
+
+</main>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js" type="text/javascript"
+        charset="utf-8"></script>
+<script type="text/javascript" src="tags.js"></script>
+
+<script>
+    'use strict';
+
+    class AllSounds {
+        constructor(data) {
+            this.sounds = [];
+            for (const sound of data) {
+                if (!sound.hasOwnProperty("naam")) {
+                    return;
+                }
+
+                this.sounds.push(new Sound(
+                    sound.naam,
+                    sound.hasOwnProperty("datum") ? sound.datum : null,
+                    sound.hasOwnProperty("grootte") ? sound.grootte : null
+                ));
+            }
+        }
+
+        getSoundNames() {
+            return this.sounds.map(function (sound) {
+                return sound.name;
+            });
+        }
+    }
+
+    class Sound {
+        constructor(name, date, size) {
+            this.name = name;
+            this.date = date;
+            this.size = size;
+        }
+    }
+
+    (function () {
+
+        //AUDIOPLAYER//
+        let wachtrij = [], times = 0;
+        const audioPlayer = document.getElementById('audio');
+        const audioSource = $("#audiosource");
+        const tags = $('#tags');
+        const playButton = document.querySelector("input.play");
+        let isPlaying = false;
+
+        $.getJSON("alles.json", function (data) {
+            const allSounds = new AllSounds(data);
+            console.log(allSounds.getSoundNames());
+            tags.tagit({
+                availableTags: allSounds.getSoundNames(),
+                removeConfirmation: true,
+                allowDuplicates: true,
+                allowSpaces: true,
+                caseSensitive: false,
+                placeholderText: "Halte, overstappen, etc.",
+                animate: false
+            });
+        });
+
+        audioPlayer.onended = function () { // als audioplayer klaar is
+            console.log("times: " + times + " wachtrij: " + wachtrij.length);
+            if (times < wachtrij.length) {
+                audioSource.attr('src', 'mp3/' + wachtrij[times] + ".mp3");
+                audioPlayer.load();
+                audioPlayer.play();
+                times++;
+            } else { //klaarzetten voor volgende keer afspelen
+                stopPlaying();
+            }
+        };
+
+        $('input[name="gongstijl"]').change(function () { //verander gongstijl
+            audioSource.attr('src', 'mp3/' + this.value + '.mp3');
+            audioPlayer.load();
+        });
+
+        document.querySelector("input.play").addEventListener("click", function () {
+            if (isPlaying) {
+                stopPlaying();
+                return;
+            }
+
+            startPlaying();
+        });
+
+        function startPlaying() { //speel wat klaar staat, voeg wachtrij toe
+            isPlaying = true;
+            wachtrij = [];
+            playButton.value = "◼ Stoppen";
+            if (audioSource.attr('src') !== "mp3/.mp3") audioPlayer.play();
+            document.querySelectorAll("#tags .tagit-choice .tagit-label").forEach(function (element) {
+                wachtrij.push(element.textContent);
+            });
+            if (audioSource.attr('src') === "mp3/.mp3") {
+                audioPlayer.onended(undefined);
+            } //geen gong
+            console.log(wachtrij);
+        }
+
+        function stopPlaying() {
+            isPlaying = false;
+            audioPlayer.pause();
+            audioSource.attr('src', 'mp3/' + $('input[name="gongstijl"]:checked').val() + '.mp3');
+            audioPlayer.load();
+            times = 0;
+            playButton.value = "▶ Laat Marc Klardie afroepen";
+        }
+
+        $("input.clear").click(function () { //leeg taglist
+            tags.tagit('removeAll');
+        });
+
+        $(".addTag").click(function () { //voeg inhoud toe aan taglist
+            tags.tagit('createTag', $(this).text().toLowerCase());
+            window.scrollTo({top: 0, behavior: 'smooth'});
+        });
+
+        $(".addAll.noGong").click(function () { //voeg bulkinhoud toe aan taglist
+            $(this).parents(".playlistContainer").find('.addTag').each(function () {
+                tags.tagit('createTag', $(this).text().toLowerCase());
+                window.scrollTo({top: 0, behavior: 'smooth'});
+            });
+
+        });
+
+        $(".addAll.withGong").click(function () { //voeg bulkinhoud toe aan taglist
+            $(this).parents(".playlistContainer").find('.addTag').each(function () {
+                tags.tagit('createTag', $(this).text().toLowerCase());
+                tags.tagit('createTag', $('input[name="gongstijl"]:checked').val());
+                window.scrollTo({top: 0, behavior: 'smooth'});
+            });
+
+        });
+    })(jQuery);
+</script>
+
+</body>
+</html>

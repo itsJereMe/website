@@ -1,0 +1,1723 @@
+<?xml version="1.0" encoding="utf-8"?>
+<visite>
+	
+	<titre_uk>You are in HET HEIJDERBOS</titre_uk>
+	<titre_nl>U bent in HET HEIJDERBOS</titre_nl>
+	<titre_benl>U bent in HET HEIJDERBOS</titre_benl>
+	<titre_befr>Vous êtes à HET HEIJDERBOS</titre_befr>
+	<titre_fr>Vous êtes à HET HEIJDERBOS</titre_fr>
+	<titre_de>Sie sind im Park HET HEIJDERBOS</titre_de>
+	
+	<auto_scroll>1</auto_scroll>
+	<auto_scroll_time>2</auto_scroll_time>
+	<velocite>10</velocite>		
+	<bird>5</bird>
+	<panos>	
+///// 3d
+//domaine
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_12_dome_entrance.swf</filename>
+			<type>pano</type>
+			<name_uk>Entrance Market Dome</name_uk>
+			<name_nl>Ingang Market Dome</name_nl>
+			<name_benl>Ingang Market Dome</name_benl>
+			<name_befr>Entrée Dôme</name_befr>
+			<name_fr>Entrée Dôme</name_fr>
+			<name_de>Eingang Market Dome</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This village is located in the province of Limburg (Soutern part of the Netherlands) in the middle of the ‘Heijense Bos’ (Hijense woodlands).<br/><br/>Take part in an expedition in the Jungle Dome, visit Nijmegen or ride a horse through the ‘Limburgse Maasvallei’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Premium Park ligt in Nederlands Limburg midden in het Heijense Bos.<br/><br/>Ga op expeditie in de Jungle Dome, breng een bezoek aan Nijmegen of maak een rit te paard door de Limburgse Maasvallei.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Premium Park ligt in Nederlands Limburg midden in het Heijense Bos.<br/><br/>Ga op expeditie in de Jungle Dome, breng een bezoek aan Nijmegen of maak een rit te paard door de Limburgse Maasvallei.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé à 30 km de Nimègue, à l'est des Pays-Bas, Het Heijderbos est le Domaine des aventuriers de tous âges.<br/><br/>Son Jungle Dome et sa rivière sauvage ultra rapide vous feront passer le plus surprenant des séjours.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé à 30 km de Nimègue, à l'est des Pays-Bas, Het Heijderbos est le Domaine des aventuriers de tous âges.<br/><br/>Son Jungle Dome et sa rivière sauvage ultra rapide vous feront passer le plus surprenant des séjours.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Wer glaubt, um einen Regenwald zu sehen, muss man stundenlang im Flugzeug sitzen, der irrt.<br/><br/>Denn direkt hinter der deutschen Grenze, in Het Heijderbos, erwarten Sie bereits ein Dschungel und viele Abenteuer.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_11_beach.swf</filename>
+			<type>pano</type>
+			<name_uk>Beach</name_uk>
+			<name_nl>Strand</name_nl>
+			<name_benl>Strand</name_benl>
+			<name_befr>La plage</name_befr>
+			<name_fr>La plage</name_fr>
+			<name_de>Strand</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This village is located in the province of Limburg (Soutern part of the Netherlands) in the middle of the ‘Heijense Bos’ (Hijense woodlands).<br/><br/>Take part in an expedition in the Jungle Dome, visit Nijmegen or ride a horse through the ‘Limburgse Maasvallei’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Premium Park ligt in Nederlands Limburg midden in het Heijense Bos.<br/><br/>Ga op expeditie in de Jungle Dome, breng een bezoek aan Nijmegen of maak een rit te paard door de Limburgse Maasvallei.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Premium Park ligt in Nederlands Limburg midden in het Heijense Bos.<br/><br/>Ga op expeditie in de Jungle Dome, breng een bezoek aan Nijmegen of maak een rit te paard door de Limburgse Maasvallei.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé à 30 km de Nimègue, à l'est des Pays-Bas, Het Heijderbos est le Domaine des aventuriers de tous âges.<br/><br/>Son Jungle Dome et sa rivière sauvage ultra rapide vous feront passer le plus surprenant des séjours.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé à 30 km de Nimègue, à l'est des Pays-Bas, Het Heijderbos est le Domaine des aventuriers de tous âges.<br/><br/>Son Jungle Dome et sa rivière sauvage ultra rapide vous feront passer le plus surprenant des séjours.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Wer glaubt, um einen Regenwald zu sehen, muss man stundenlang im Flugzeug sitzen, der irrt.<br/><br/>Denn direkt hinter der deutschen Grenze, in Het Heijderbos, erwarten Sie bereits ein Dschungel und viele Abenteuer.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_14_reception.swf</filename>
+			<type>pano</type>
+			<name_uk>Reception</name_uk>
+			<name_nl>Receptie</name_nl>
+			<name_benl>Receptie</name_benl>
+			<name_befr>Réception</name_befr>
+			<name_fr>Réception</name_fr>
+			<name_de>Rezeption</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This village is located in the province of Limburg (Soutern part of the Netherlands) in the middle of the ‘Heijense Bos’ (Hijense woodlands).<br/><br/>Take part in an expedition in the Jungle Dome, visit Nijmegen or ride a horse through the ‘Limburgse Maasvallei’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Premium Park ligt in Nederlands Limburg midden in het Heijense Bos.<br/><br/>Ga op expeditie in de Jungle Dome, breng een bezoek aan Nijmegen of maak een rit te paard door de Limburgse Maasvallei.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Premium Park ligt in Nederlands Limburg midden in het Heijense Bos.<br/><br/>Ga op expeditie in de Jungle Dome, breng een bezoek aan Nijmegen of maak een rit te paard door de Limburgse Maasvallei.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé à 30 km de Nimègue, à l'est des Pays-Bas, Het Heijderbos est le Domaine des aventuriers de tous âges.<br/><br/>Son Jungle Dome et sa rivière sauvage ultra rapide vous feront passer le plus surprenant des séjours.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé à 30 km de Nimègue, à l'est des Pays-Bas, Het Heijderbos est le Domaine des aventuriers de tous âges.<br/><br/>Son Jungle Dome et sa rivière sauvage ultra rapide vous feront passer le plus surprenant des séjours.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Wer glaubt, um einen Regenwald zu sehen, muss man stundenlang im Flugzeug sitzen, der irrt.<br/><br/>Denn direkt hinter der deutschen Grenze, in Het Heijderbos, erwarten Sie bereits ein Dschungel und viele Abenteuer.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_13_lake.swf</filename>
+			<type>pano</type>
+			<name_uk>Lake</name_uk>
+			<name_nl>Meer</name_nl>
+			<name_benl>Meer</name_benl>
+			<name_befr>Le lac</name_befr>
+			<name_fr>Le lac</name_fr>
+			<name_de>See</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This village is located in the province of Limburg (Soutern part of the Netherlands) in the middle of the ‘Heijense Bos’ (Hijense woodlands).<br/><br/>Take part in an expedition in the Jungle Dome, visit Nijmegen or ride a horse through the ‘Limburgse Maasvallei’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Premium Park ligt in Nederlands Limburg midden in het Heijense Bos.<br/><br/>Ga op expeditie in de Jungle Dome, breng een bezoek aan Nijmegen of maak een rit te paard door de Limburgse Maasvallei.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Premium Park ligt in Nederlands Limburg midden in het Heijense Bos.<br/><br/>Ga op expeditie in de Jungle Dome, breng een bezoek aan Nijmegen of maak een rit te paard door de Limburgse Maasvallei.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé à 30 km de Nimègue, à l'est des Pays-Bas, Het Heijderbos est le Domaine des aventuriers de tous âges.<br/><br/>Son Jungle Dome et sa rivière sauvage ultra rapide vous feront passer le plus surprenant des séjours.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé à 30 km de Nimègue, à l'est des Pays-Bas, Het Heijderbos est le Domaine des aventuriers de tous âges.<br/><br/>Son Jungle Dome et sa rivière sauvage ultra rapide vous feront passer le plus surprenant des séjours.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Wer glaubt, um einen Regenwald zu sehen, muss man stundenlang im Flugzeug sitzen, der irrt.<br/><br/>Denn direkt hinter der deutschen Grenze, in Het Heijderbos, erwarten Sie bereits ein Dschungel und viele Abenteuer.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound></sound>
+			<filename>sequence_nature2.swf</filename>
+			<type>video</type>
+			<name_uk>Outdoor activities video</name_uk>
+			<name_nl>Outdoor activiteiten video</name_nl>
+			<name_benl>Outdoor activiteiten video</name_benl>
+			<name_befr>Vidéo actions outdoor</name_befr>
+			<name_fr>Vidéo actions outdoor</name_fr>
+			<name_de>Video Outdoor-Aktivitäten</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This village is located in the province of Limburg (Soutern part of the Netherlands) in the middle of the ‘Heijense Bos’ (Hijense woodlands).<br/><br/>Take part in an expedition in the Jungle Dome, visit Nijmegen or ride a horse through the ‘Limburgse Maasvallei’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Premium Park ligt in Nederlands Limburg midden in het Heijense Bos.<br/><br/>Ga op expeditie in de Jungle Dome, breng een bezoek aan Nijmegen of maak een rit te paard door de Limburgse Maasvallei.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Premium Park ligt in Nederlands Limburg midden in het Heijense Bos.<br/><br/>Ga op expeditie in de Jungle Dome, breng een bezoek aan Nijmegen of maak een rit te paard door de Limburgse Maasvallei.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé à 30 km de Nimègue, à l'est des Pays-Bas, Het Heijderbos est le Domaine des aventuriers de tous âges.<br/><br/>Son Jungle Dome et sa rivière sauvage ultra rapide vous feront passer le plus surprenant des séjours.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé à 30 km de Nimègue, à l'est des Pays-Bas, Het Heijderbos est le Domaine des aventuriers de tous âges.<br/><br/>Son Jungle Dome et sa rivière sauvage ultra rapide vous feront passer le plus surprenant des séjours.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Wer glaubt, um einen Regenwald zu sehen, muss man stundenlang im Flugzeug sitzen, der irrt.<br/><br/>Denn direkt hinter der deutschen Grenze, in Het Heijderbos, erwarten Sie bereits ein Dschungel und viele Abenteuer.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound></sound>
+			<filename>sequence_eden_cottages.swf</filename>
+			<type>video</type>
+			<name_uk>Eden Cottage video</name_uk>
+			<name_nl>Eden Cottage video</name_nl>
+			<name_benl>Eden Cottage video</name_benl>
+			<name_befr>Vidéo Eden Cottage</name_befr>
+			<name_fr>Vidéo Eden Cottage</name_fr>
+			<name_de>Video Eden Cottage</name_de>
+			<name_de>Eden Cottage</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This village is located in the province of Limburg (Soutern part of the Netherlands) in the middle of the ‘Heijense Bos’ (Hijense woodlands).<br/><br/>Take part in an expedition in the Jungle Dome, visit Nijmegen or ride a horse through the ‘Limburgse Maasvallei’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Premium Park ligt in Nederlands Limburg midden in het Heijense Bos.<br/><br/>Ga op expeditie in de Jungle Dome, breng een bezoek aan Nijmegen of maak een rit te paard door de Limburgse Maasvallei.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Premium Park ligt in Nederlands Limburg midden in het Heijense Bos.<br/><br/>Ga op expeditie in de Jungle Dome, breng een bezoek aan Nijmegen of maak een rit te paard door de Limburgse Maasvallei.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé à 30 km de Nimègue, à l'est des Pays-Bas, Het Heijderbos est le Domaine des aventuriers de tous âges.<br/><br/>Son Jungle Dome et sa rivière sauvage ultra rapide vous feront passer le plus surprenant des séjours.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé à 30 km de Nimègue, à l'est des Pays-Bas, Het Heijderbos est le Domaine des aventuriers de tous âges.<br/><br/>Son Jungle Dome et sa rivière sauvage ultra rapide vous feront passer le plus surprenant des séjours.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Wer glaubt, um einen Regenwald zu sehen, muss man stundenlang im Flugzeug sitzen, der irrt.<br/><br/>Denn direkt hinter der deutschen Grenze, in Het Heijderbos, erwarten Sie bereits ein Dschungel und viele Abenteuer.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+//activites		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_01_playground.swf</filename>
+			<type>pano</type>
+			<name_uk>Playground</name_uk>
+			<name_nl>Speeltuin</name_nl>
+			<name_benl>Speeltuin</name_benl>
+			<name_befr>Terrain de jeux</name_befr>
+			<name_fr>Terrain de jeux</name_fr>
+			<name_de>Spielplatz</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This village is located in the province of Limburg (Soutern part of the Netherlands) in the middle of the ‘Heijense Bos’ (Hijense woodlands).<br/><br/>Take part in an expedition in the Jungle Dome, visit Nijmegen or ride a horse through the ‘Limburgse Maasvallei’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Premium Park ligt in Nederlands Limburg midden in het Heijense Bos.<br/><br/>Ga op expeditie in de Jungle Dome, breng een bezoek aan Nijmegen of maak een rit te paard door de Limburgse Maasvallei.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Premium Park ligt in Nederlands Limburg midden in het Heijense Bos.<br/><br/>Ga op expeditie in de Jungle Dome, breng een bezoek aan Nijmegen of maak een rit te paard door de Limburgse Maasvallei.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé à 30 km de Nimègue, à l'est des Pays-Bas, Het Heijderbos est le Domaine des aventuriers de tous âges.<br/><br/>Son Jungle Dome et sa rivière sauvage ultra rapide vous feront passer le plus surprenant des séjours.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé à 30 km de Nimègue, à l'est des Pays-Bas, Het Heijderbos est le Domaine des aventuriers de tous âges.<br/><br/>Son Jungle Dome et sa rivière sauvage ultra rapide vous feront passer le plus surprenant des séjours.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Wer glaubt, um einen Regenwald zu sehen, muss man stundenlang im Flugzeug sitzen, der irrt.<br/><br/>Denn direkt hinter der deutschen Grenze, in Het Heijderbos, erwarten Sie bereits ein Dschungel und viele Abenteuer.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_02_childrens_farm.swf</filename>
+			<type>pano</type>
+			<name_uk>Childrens Farm</name_uk>
+			<name_nl>Kinderboerderij</name_nl>
+			<name_benl>Kinderboerderij</name_benl>
+			<name_befr>Ferme pour enfants</name_befr>
+			<name_fr>Ferme pour enfants</name_fr>
+			<name_de>Kinderbauernhof</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This village is located in the province of Limburg (Soutern part of the Netherlands) in the middle of the ‘Heijense Bos’ (Hijense woodlands).<br/><br/>Take part in an expedition in the Jungle Dome, visit Nijmegen or ride a horse through the ‘Limburgse Maasvallei’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Premium Park ligt in Nederlands Limburg midden in het Heijense Bos.<br/><br/>Ga op expeditie in de Jungle Dome, breng een bezoek aan Nijmegen of maak een rit te paard door de Limburgse Maasvallei.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Premium Park ligt in Nederlands Limburg midden in het Heijense Bos.<br/><br/>Ga op expeditie in de Jungle Dome, breng een bezoek aan Nijmegen of maak een rit te paard door de Limburgse Maasvallei.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé à 30 km de Nimègue, à l'est des Pays-Bas, Het Heijderbos est le Domaine des aventuriers de tous âges.<br/><br/>Son Jungle Dome et sa rivière sauvage ultra rapide vous feront passer le plus surprenant des séjours.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé à 30 km de Nimègue, à l'est des Pays-Bas, Het Heijderbos est le Domaine des aventuriers de tous âges.<br/><br/>Son Jungle Dome et sa rivière sauvage ultra rapide vous feront passer le plus surprenant des séjours.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Wer glaubt, um einen Regenwald zu sehen, muss man stundenlang im Flugzeug sitzen, der irrt.<br/><br/>Denn direkt hinter der deutschen Grenze, in Het Heijderbos, erwarten Sie bereits ein Dschungel und viele Abenteuer.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_03_cycle_center.swf</filename>
+			<type>pano</type>
+			<name_uk>Cycle Center</name_uk>
+			<name_nl>Cycle Center</name_nl>
+			<name_benl>Cycle Center</name_benl>
+			<name_befr>Cycle Center</name_befr>
+			<name_fr>Cycle Center</name_fr>
+			<name_de>Cycle Center</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This village is located in the province of Limburg (Soutern part of the Netherlands) in the middle of the ‘Heijense Bos’ (Hijense woodlands).<br/><br/>Take part in an expedition in the Jungle Dome, visit Nijmegen or ride a horse through the ‘Limburgse Maasvallei’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Premium Park ligt in Nederlands Limburg midden in het Heijense Bos.<br/><br/>Ga op expeditie in de Jungle Dome, breng een bezoek aan Nijmegen of maak een rit te paard door de Limburgse Maasvallei.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Premium Park ligt in Nederlands Limburg midden in het Heijense Bos.<br/><br/>Ga op expeditie in de Jungle Dome, breng een bezoek aan Nijmegen of maak een rit te paard door de Limburgse Maasvallei.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé à 30 km de Nimègue, à l'est des Pays-Bas, Het Heijderbos est le Domaine des aventuriers de tous âges.<br/><br/>Son Jungle Dome et sa rivière sauvage ultra rapide vous feront passer le plus surprenant des séjours.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé à 30 km de Nimègue, à l'est des Pays-Bas, Het Heijderbos est le Domaine des aventuriers de tous âges.<br/><br/>Son Jungle Dome et sa rivière sauvage ultra rapide vous feront passer le plus surprenant des séjours.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Wer glaubt, um einen Regenwald zu sehen, muss man stundenlang im Flugzeug sitzen, der irrt.<br/><br/>Denn direkt hinter der deutschen Grenze, in Het Heijderbos, erwarten Sie bereits ein Dschungel und viele Abenteuer.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_04_golf_adventure_view_1.swf</filename>
+			<type>pano</type>
+			<name_uk>Gols Adventure view 1</name_uk>
+			<name_nl>Adventure Golf 1</name_nl>
+			<name_benl>Adventure Golf 1</name_benl>
+			<name_befr>Vue 1 Adventure Golf</name_befr>
+			<name_fr>Vue 1 Adventure Golf</name_fr>
+			<name_de>Abenteuergolf</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This village is located in the province of Limburg (Soutern part of the Netherlands) in the middle of the ‘Heijense Bos’ (Hijense woodlands).<br/><br/>Take part in an expedition in the Jungle Dome, visit Nijmegen or ride a horse through the ‘Limburgse Maasvallei’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Premium Park ligt in Nederlands Limburg midden in het Heijense Bos.<br/><br/>Ga op expeditie in de Jungle Dome, breng een bezoek aan Nijmegen of maak een rit te paard door de Limburgse Maasvallei.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Premium Park ligt in Nederlands Limburg midden in het Heijense Bos.<br/><br/>Ga op expeditie in de Jungle Dome, breng een bezoek aan Nijmegen of maak een rit te paard door de Limburgse Maasvallei.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé à 30 km de Nimègue, à l'est des Pays-Bas, Het Heijderbos est le Domaine des aventuriers de tous âges.<br/><br/>Son Jungle Dome et sa rivière sauvage ultra rapide vous feront passer le plus surprenant des séjours.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé à 30 km de Nimègue, à l'est des Pays-Bas, Het Heijderbos est le Domaine des aventuriers de tous âges.<br/><br/>Son Jungle Dome et sa rivière sauvage ultra rapide vous feront passer le plus surprenant des séjours.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Wer glaubt, um einen Regenwald zu sehen, muss man stundenlang im Flugzeug sitzen, der irrt.<br/><br/>Denn direkt hinter der deutschen Grenze, in Het Heijderbos, erwarten Sie bereits ein Dschungel und viele Abenteuer.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_08_golf_adventure_view_2.swf</filename>
+			<type>pano</type>
+			<name_uk>Gols Adventure view 2</name_uk>
+			<name_nl>Adventure Golf 2</name_nl>
+			<name_benl>Adventure Golf 2</name_benl>
+			<name_befr>Vue 2 Adventure Golf</name_befr>
+			<name_fr>Vue 2 Adventure Golf</name_fr>
+			<name_de>Abenteuergolf 2</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This village is located in the province of Limburg (Soutern part of the Netherlands) in the middle of the ‘Heijense Bos’ (Hijense woodlands).<br/><br/>Take part in an expedition in the Jungle Dome, visit Nijmegen or ride a horse through the ‘Limburgse Maasvallei’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Premium Park ligt in Nederlands Limburg midden in het Heijense Bos.<br/><br/>Ga op expeditie in de Jungle Dome, breng een bezoek aan Nijmegen of maak een rit te paard door de Limburgse Maasvallei.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Premium Park ligt in Nederlands Limburg midden in het Heijense Bos.<br/><br/>Ga op expeditie in de Jungle Dome, breng een bezoek aan Nijmegen of maak een rit te paard door de Limburgse Maasvallei.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé à 30 km de Nimègue, à l'est des Pays-Bas, Het Heijderbos est le Domaine des aventuriers de tous âges.<br/><br/>Son Jungle Dome et sa rivière sauvage ultra rapide vous feront passer le plus surprenant des séjours.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé à 30 km de Nimègue, à l'est des Pays-Bas, Het Heijderbos est le Domaine des aventuriers de tous âges.<br/><br/>Son Jungle Dome et sa rivière sauvage ultra rapide vous feront passer le plus surprenant des séjours.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Wer glaubt, um einen Regenwald zu sehen, muss man stundenlang im Flugzeug sitzen, der irrt.<br/><br/>Denn direkt hinter der deutschen Grenze, in Het Heijderbos, erwarten Sie bereits ein Dschungel und viele Abenteuer.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_05_kids_klub.swf</filename>
+			<type>pano</type>
+			<name_uk>Kids Klub</name_uk>
+			<name_nl>Kids Klub</name_nl>
+			<name_benl>Kids Klub</name_benl>
+			<name_befr>Kids Klub</name_befr>
+			<name_fr>Kids Club</name_fr>
+			<name_de>Kids Klub</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This village is located in the province of Limburg (Soutern part of the Netherlands) in the middle of the ‘Heijense Bos’ (Hijense woodlands).<br/><br/>Take part in an expedition in the Jungle Dome, visit Nijmegen or ride a horse through the ‘Limburgse Maasvallei’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Premium Park ligt in Nederlands Limburg midden in het Heijense Bos.<br/><br/>Ga op expeditie in de Jungle Dome, breng een bezoek aan Nijmegen of maak een rit te paard door de Limburgse Maasvallei.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Premium Park ligt in Nederlands Limburg midden in het Heijense Bos.<br/><br/>Ga op expeditie in de Jungle Dome, breng een bezoek aan Nijmegen of maak een rit te paard door de Limburgse Maasvallei.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé à 30 km de Nimègue, à l'est des Pays-Bas, Het Heijderbos est le Domaine des aventuriers de tous âges.<br/><br/>Son Jungle Dome et sa rivière sauvage ultra rapide vous feront passer le plus surprenant des séjours.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé à 30 km de Nimègue, à l'est des Pays-Bas, Het Heijderbos est le Domaine des aventuriers de tous âges.<br/><br/>Son Jungle Dome et sa rivière sauvage ultra rapide vous feront passer le plus surprenant des séjours.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Wer glaubt, um einen Regenwald zu sehen, muss man stundenlang im Flugzeug sitzen, der irrt.<br/><br/>Denn direkt hinter der deutschen Grenze, in Het Heijderbos, erwarten Sie bereits ein Dschungel und viele Abenteuer.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>1100</x_pos>
+			<vitesse>-5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_06_bergamo_riding_school.swf</filename>
+			<type>pano</type>
+			<name_uk>Bergemo Riding School</name_uk>
+			<name_nl>Manege Bergemo</name_nl>
+			<name_benl>Manege Bergemo</name_benl>
+			<name_befr>Ecole de cavalerie Bergemo</name_befr>
+			<name_fr>Ecole de cavalerie Bergemo</name_fr>
+			<name_de>Reitschule Bergemo</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This village is located in the province of Limburg (Soutern part of the Netherlands) in the middle of the ‘Heijense Bos’ (Hijense woodlands).<br/><br/>Take part in an expedition in the Jungle Dome, visit Nijmegen or ride a horse through the ‘Limburgse Maasvallei’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Premium Park ligt in Nederlands Limburg midden in het Heijense Bos.<br/><br/>Ga op expeditie in de Jungle Dome, breng een bezoek aan Nijmegen of maak een rit te paard door de Limburgse Maasvallei.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Premium Park ligt in Nederlands Limburg midden in het Heijense Bos.<br/><br/>Ga op expeditie in de Jungle Dome, breng een bezoek aan Nijmegen of maak een rit te paard door de Limburgse Maasvallei.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé à 30 km de Nimègue, à l'est des Pays-Bas, Het Heijderbos est le Domaine des aventuriers de tous âges.<br/><br/>Son Jungle Dome et sa rivière sauvage ultra rapide vous feront passer le plus surprenant des séjours.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé à 30 km de Nimègue, à l'est des Pays-Bas, Het Heijderbos est le Domaine des aventuriers de tous âges.<br/><br/>Son Jungle Dome et sa rivière sauvage ultra rapide vous feront passer le plus surprenant des séjours.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Wer glaubt, um einen Regenwald zu sehen, muss man stundenlang im Flugzeug sitzen, der irrt.<br/><br/>Denn direkt hinter der deutschen Grenze, in Het Heijderbos, erwarten Sie bereits ein Dschungel und viele Abenteuer.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>1200</x_pos>
+			<vitesse>-5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_07_bergamo_terrace.swf</filename>
+			<type>pano</type>
+			<name_uk>Bargamo terrace</name_uk>
+			<name_nl>Terras manege Bargamo</name_nl>
+			<name_benl>Terras manege Bargamo</name_benl>
+			<name_befr>Terrasse Bargamo</name_befr>
+			<name_fr>Terrasse Bargamo</name_fr>
+			<name_de>Reitschule Bargamo</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This village is located in the province of Limburg (Soutern part of the Netherlands) in the middle of the ‘Heijense Bos’ (Hijense woodlands).<br/><br/>Take part in an expedition in the Jungle Dome, visit Nijmegen or ride a horse through the ‘Limburgse Maasvallei’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Premium Park ligt in Nederlands Limburg midden in het Heijense Bos.<br/><br/>Ga op expeditie in de Jungle Dome, breng een bezoek aan Nijmegen of maak een rit te paard door de Limburgse Maasvallei.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Premium Park ligt in Nederlands Limburg midden in het Heijense Bos.<br/><br/>Ga op expeditie in de Jungle Dome, breng een bezoek aan Nijmegen of maak een rit te paard door de Limburgse Maasvallei.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé à 30 km de Nimègue, à l'est des Pays-Bas, Het Heijderbos est le Domaine des aventuriers de tous âges.<br/><br/>Son Jungle Dome et sa rivière sauvage ultra rapide vous feront passer le plus surprenant des séjours.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé à 30 km de Nimègue, à l'est des Pays-Bas, Het Heijderbos est le Domaine des aventuriers de tous âges.<br/><br/>Son Jungle Dome et sa rivière sauvage ultra rapide vous feront passer le plus surprenant des séjours.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Wer glaubt, um einen Regenwald zu sehen, muss man stundenlang im Flugzeug sitzen, der irrt.<br/><br/>Denn direkt hinter der deutschen Grenze, in Het Heijderbos, erwarten Sie bereits ein Dschungel und viele Abenteuer.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_09_pedalos_pontoon.swf</filename>
+			<type>pano</type>
+			<name_uk>Pedalos Pontoon</name_uk>
+			<name_nl>Waterfietsen steiger</name_nl>
+			<name_benl>Waterfietsen steiger</name_benl>
+			<name_befr>Ponton Pédalos</name_befr>
+			<name_fr>Ponton Pédalos</name_fr>
+			<name_de>Tretboote</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This village is located in the province of Limburg (Soutern part of the Netherlands) in the middle of the ‘Heijense Bos’ (Hijense woodlands).<br/><br/>Take part in an expedition in the Jungle Dome, visit Nijmegen or ride a horse through the ‘Limburgse Maasvallei’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Premium Park ligt in Nederlands Limburg midden in het Heijense Bos.<br/><br/>Ga op expeditie in de Jungle Dome, breng een bezoek aan Nijmegen of maak een rit te paard door de Limburgse Maasvallei.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Premium Park ligt in Nederlands Limburg midden in het Heijense Bos.<br/><br/>Ga op expeditie in de Jungle Dome, breng een bezoek aan Nijmegen of maak een rit te paard door de Limburgse Maasvallei.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé à 30 km de Nimègue, à l'est des Pays-Bas, Het Heijderbos est le Domaine des aventuriers de tous âges.<br/><br/>Son Jungle Dome et sa rivière sauvage ultra rapide vous feront passer le plus surprenant des séjours.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé à 30 km de Nimègue, à l'est des Pays-Bas, Het Heijderbos est le Domaine des aventuriers de tous âges.<br/><br/>Son Jungle Dome et sa rivière sauvage ultra rapide vous feront passer le plus surprenant des séjours.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Wer glaubt, um einen Regenwald zu sehen, muss man stundenlang im Flugzeug sitzen, der irrt.<br/><br/>Denn direkt hinter der deutschen Grenze, in Het Heijderbos, erwarten Sie bereits ein Dschungel und viele Abenteuer.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_10_pontoon.swf</filename>
+			<type>pano</type>
+			<name_uk>Pontoon</name_uk>
+			<name_nl>Steiger</name_nl>
+			<name_benl>Steiger</name_benl>
+			<name_befr>Ponton</name_befr>
+			<name_fr>Ponton</name_fr>
+			<name_de>Anlegesteg</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This village is located in the province of Limburg (Soutern part of the Netherlands) in the middle of the ‘Heijense Bos’ (Hijense woodlands).<br/><br/>Take part in an expedition in the Jungle Dome, visit Nijmegen or ride a horse through the ‘Limburgse Maasvallei’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Premium Park ligt in Nederlands Limburg midden in het Heijense Bos.<br/><br/>Ga op expeditie in de Jungle Dome, breng een bezoek aan Nijmegen of maak een rit te paard door de Limburgse Maasvallei.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Premium Park ligt in Nederlands Limburg midden in het Heijense Bos.<br/><br/>Ga op expeditie in de Jungle Dome, breng een bezoek aan Nijmegen of maak een rit te paard door de Limburgse Maasvallei.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé à 30 km de Nimègue, à l'est des Pays-Bas, Het Heijderbos est le Domaine des aventuriers de tous âges.<br/><br/>Son Jungle Dome et sa rivière sauvage ultra rapide vous feront passer le plus surprenant des séjours.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé à 30 km de Nimègue, à l'est des Pays-Bas, Het Heijderbos est le Domaine des aventuriers de tous âges.<br/><br/>Son Jungle Dome et sa rivière sauvage ultra rapide vous feront passer le plus surprenant des séjours.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Wer glaubt, um einen Regenwald zu sehen, muss man stundenlang im Flugzeug sitzen, der irrt.<br/><br/>Denn direkt hinter der deutschen Grenze, in Het Heijderbos, erwarten Sie bereits ein Dschungel und viele Abenteuer.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>1000</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+//zone cottage		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_zc_15_cottages_zone_1.swf</filename>
+			<type>pano</type>
+			<name_uk>Zone 1</name_uk>
+			<name_nl>Cottages zone 1</name_nl>
+			<name_benl>Cottages zone 1</name_benl>
+			<name_befr>Zone de cottages 1</name_befr>
+			<name_fr>Zone de cottages 1</name_fr>
+			<name_de>Ferienhäuser im 100er-Bereich</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This village is located in the province of Limburg (Soutern part of the Netherlands) in the middle of the ‘Heijense Bos’ (Hijense woodlands).<br/><br/>Take part in an expedition in the Jungle Dome, visit Nijmegen or ride a horse through the ‘Limburgse Maasvallei’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Premium Park ligt in Nederlands Limburg midden in het Heijense Bos.<br/><br/>Ga op expeditie in de Jungle Dome, breng een bezoek aan Nijmegen of maak een rit te paard door de Limburgse Maasvallei.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Premium Park ligt in Nederlands Limburg midden in het Heijense Bos.<br/><br/>Ga op expeditie in de Jungle Dome, breng een bezoek aan Nijmegen of maak een rit te paard door de Limburgse Maasvallei.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé à 30 km de Nimègue, à l'est des Pays-Bas, Het Heijderbos est le Domaine des aventuriers de tous âges.<br/><br/>Son Jungle Dome et sa rivière sauvage ultra rapide vous feront passer le plus surprenant des séjours.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé à 30 km de Nimègue, à l'est des Pays-Bas, Het Heijderbos est le Domaine des aventuriers de tous âges.<br/><br/>Son Jungle Dome et sa rivière sauvage ultra rapide vous feront passer le plus surprenant des séjours.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Wer glaubt, um einen Regenwald zu sehen, muss man stundenlang im Flugzeug sitzen, der irrt.<br/><br/>Denn direkt hinter der deutschen Grenze, in Het Heijderbos, erwarten Sie bereits ein Dschungel und viele Abenteuer.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>1000</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_zc_16_cottages_zone_2.swf</filename>
+			<type>pano</type>
+			<name_uk>Zone 2</name_uk>
+			<name_nl>Cottages zone 2</name_nl>
+			<name_benl>Cottages zone 2</name_benl>
+			<name_befr>Zone de cottages 2</name_befr>
+			<name_fr>Zone de cottages 2</name_fr>
+			<name_de>Ferienhäuser im 200er-Bereich</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This village is located in the province of Limburg (Soutern part of the Netherlands) in the middle of the ‘Heijense Bos’ (Hijense woodlands).<br/><br/>Take part in an expedition in the Jungle Dome, visit Nijmegen or ride a horse through the ‘Limburgse Maasvallei’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Premium Park ligt in Nederlands Limburg midden in het Heijense Bos.<br/><br/>Ga op expeditie in de Jungle Dome, breng een bezoek aan Nijmegen of maak een rit te paard door de Limburgse Maasvallei.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Premium Park ligt in Nederlands Limburg midden in het Heijense Bos.<br/><br/>Ga op expeditie in de Jungle Dome, breng een bezoek aan Nijmegen of maak een rit te paard door de Limburgse Maasvallei.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé à 30 km de Nimègue, à l'est des Pays-Bas, Het Heijderbos est le Domaine des aventuriers de tous âges.<br/><br/>Son Jungle Dome et sa rivière sauvage ultra rapide vous feront passer le plus surprenant des séjours.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé à 30 km de Nimègue, à l'est des Pays-Bas, Het Heijderbos est le Domaine des aventuriers de tous âges.<br/><br/>Son Jungle Dome et sa rivière sauvage ultra rapide vous feront passer le plus surprenant des séjours.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Wer glaubt, um einen Regenwald zu sehen, muss man stundenlang im Flugzeug sitzen, der irrt.<br/><br/>Denn direkt hinter der deutschen Grenze, in Het Heijderbos, erwarten Sie bereits ein Dschungel und viele Abenteuer.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>600</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_zc_17_cottages_zone_3.swf</filename>
+			<type>pano</type>
+			<name_uk>Zone 3</name_uk>
+			<name_nl>Cottages zone 3</name_nl>
+			<name_benl>Cottages zone 3</name_benl>
+			<name_befr>Zone de cottages 3</name_befr>
+			<name_fr>Zone de cottages 3</name_fr>
+			<name_de>Ferienhäuser im 300er-Bereich</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This village is located in the province of Limburg (Soutern part of the Netherlands) in the middle of the ‘Heijense Bos’ (Hijense woodlands).<br/><br/>Take part in an expedition in the Jungle Dome, visit Nijmegen or ride a horse through the ‘Limburgse Maasvallei’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Premium Park ligt in Nederlands Limburg midden in het Heijense Bos.<br/><br/>Ga op expeditie in de Jungle Dome, breng een bezoek aan Nijmegen of maak een rit te paard door de Limburgse Maasvallei.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Premium Park ligt in Nederlands Limburg midden in het Heijense Bos.<br/><br/>Ga op expeditie in de Jungle Dome, breng een bezoek aan Nijmegen of maak een rit te paard door de Limburgse Maasvallei.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé à 30 km de Nimègue, à l'est des Pays-Bas, Het Heijderbos est le Domaine des aventuriers de tous âges.<br/><br/>Son Jungle Dome et sa rivière sauvage ultra rapide vous feront passer le plus surprenant des séjours.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé à 30 km de Nimègue, à l'est des Pays-Bas, Het Heijderbos est le Domaine des aventuriers de tous âges.<br/><br/>Son Jungle Dome et sa rivière sauvage ultra rapide vous feront passer le plus surprenant des séjours.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Wer glaubt, um einen Regenwald zu sehen, muss man stundenlang im Flugzeug sitzen, der irrt.<br/><br/>Denn direkt hinter der deutschen Grenze, in Het Heijderbos, erwarten Sie bereits ein Dschungel und viele Abenteuer.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>1600</x_pos>
+			<vitesse>-5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_zc_18_cottages_zone_4.swf</filename>
+			<type>pano</type>
+			<name_uk>Zone 4</name_uk>
+			<name_nl>Cottages zone 4</name_nl>
+			<name_benl>Cottages zone 4</name_benl>
+			<name_befr>Zone de cottages 4</name_befr>
+			<name_fr>Zone de cottages 4</name_fr>
+			<name_de>Ferienhäuser im 400er-Bereich</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This village is located in the province of Limburg (Soutern part of the Netherlands) in the middle of the ‘Heijense Bos’ (Hijense woodlands).<br/><br/>Take part in an expedition in the Jungle Dome, visit Nijmegen or ride a horse through the ‘Limburgse Maasvallei’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Premium Park ligt in Nederlands Limburg midden in het Heijense Bos.<br/><br/>Ga op expeditie in de Jungle Dome, breng een bezoek aan Nijmegen of maak een rit te paard door de Limburgse Maasvallei.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Premium Park ligt in Nederlands Limburg midden in het Heijense Bos.<br/><br/>Ga op expeditie in de Jungle Dome, breng een bezoek aan Nijmegen of maak een rit te paard door de Limburgse Maasvallei.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé à 30 km de Nimègue, à l'est des Pays-Bas, Het Heijderbos est le Domaine des aventuriers de tous âges.<br/><br/>Son Jungle Dome et sa rivière sauvage ultra rapide vous feront passer le plus surprenant des séjours.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé à 30 km de Nimègue, à l'est des Pays-Bas, Het Heijderbos est le Domaine des aventuriers de tous âges.<br/><br/>Son Jungle Dome et sa rivière sauvage ultra rapide vous feront passer le plus surprenant des séjours.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Wer glaubt, um einen Regenwald zu sehen, muss man stundenlang im Flugzeug sitzen, der irrt.<br/><br/>Denn direkt hinter der deutschen Grenze, in Het Heijderbos, erwarten Sie bereits ein Dschungel und viele Abenteuer.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_zc_19_cottages_zone_5.swf</filename>
+			<type>pano</type>
+			<name_uk>Zone 5</name_uk>
+			<name_nl>Cottages zone 5</name_nl>
+			<name_benl>Cottages zone 5</name_benl>
+			<name_befr>Zone de cottages 5</name_befr>
+			<name_fr>Zone de cottages 5</name_fr>
+			<name_de>Ferienhäuser im 500er-Bereich</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This village is located in the province of Limburg (Soutern part of the Netherlands) in the middle of the ‘Heijense Bos’ (Hijense woodlands).<br/><br/>Take part in an expedition in the Jungle Dome, visit Nijmegen or ride a horse through the ‘Limburgse Maasvallei’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Premium Park ligt in Nederlands Limburg midden in het Heijense Bos.<br/><br/>Ga op expeditie in de Jungle Dome, breng een bezoek aan Nijmegen of maak een rit te paard door de Limburgse Maasvallei.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Premium Park ligt in Nederlands Limburg midden in het Heijense Bos.<br/><br/>Ga op expeditie in de Jungle Dome, breng een bezoek aan Nijmegen of maak een rit te paard door de Limburgse Maasvallei.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé à 30 km de Nimègue, à l'est des Pays-Bas, Het Heijderbos est le Domaine des aventuriers de tous âges.<br/><br/>Son Jungle Dome et sa rivière sauvage ultra rapide vous feront passer le plus surprenant des séjours.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé à 30 km de Nimègue, à l'est des Pays-Bas, Het Heijderbos est le Domaine des aventuriers de tous âges.<br/><br/>Son Jungle Dome et sa rivière sauvage ultra rapide vous feront passer le plus surprenant des séjours.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Wer glaubt, um einen Regenwald zu sehen, muss man stundenlang im Flugzeug sitzen, der irrt.<br/><br/>Denn direkt hinter der deutschen Grenze, in Het Heijderbos, erwarten Sie bereits ein Dschungel und viele Abenteuer.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_zc_20_cottages_zone_6.swf</filename>
+			<type>pano</type>
+			<name_uk>Zone 6</name_uk>
+			<name_nl>Cottages zone 6</name_nl>
+			<name_benl>Cottages zone 6</name_benl>
+			<name_befr>Zone de cottages 6</name_befr>
+			<name_fr>Zone de cottages 6</name_fr>
+			<name_de>Ferienhäuser im 600er-Bereich</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This village is located in the province of Limburg (Soutern part of the Netherlands) in the middle of the ‘Heijense Bos’ (Hijense woodlands).<br/><br/>Take part in an expedition in the Jungle Dome, visit Nijmegen or ride a horse through the ‘Limburgse Maasvallei’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Premium Park ligt in Nederlands Limburg midden in het Heijense Bos.<br/><br/>Ga op expeditie in de Jungle Dome, breng een bezoek aan Nijmegen of maak een rit te paard door de Limburgse Maasvallei.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Premium Park ligt in Nederlands Limburg midden in het Heijense Bos.<br/><br/>Ga op expeditie in de Jungle Dome, breng een bezoek aan Nijmegen of maak een rit te paard door de Limburgse Maasvallei.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé à 30 km de Nimègue, à l'est des Pays-Bas, Het Heijderbos est le Domaine des aventuriers de tous âges.<br/><br/>Son Jungle Dome et sa rivière sauvage ultra rapide vous feront passer le plus surprenant des séjours.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé à 30 km de Nimègue, à l'est des Pays-Bas, Het Heijderbos est le Domaine des aventuriers de tous âges.<br/><br/>Son Jungle Dome et sa rivière sauvage ultra rapide vous feront passer le plus surprenant des séjours.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Wer glaubt, um einen Regenwald zu sehen, muss man stundenlang im Flugzeug sitzen, der irrt.<br/><br/>Denn direkt hinter der deutschen Grenze, in Het Heijderbos, erwarten Sie bereits ein Dschungel und viele Abenteuer.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>1600</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_zc_22_cottages_zone_8.swf</filename>
+			<type>pano</type>
+			<name_uk>Zone 8</name_uk>
+			<name_nl>Cottages zone 8</name_nl>
+			<name_benl>Cottages zone 8</name_benl>
+			<name_befr>Zone de cottages 8</name_befr>
+			<name_fr>Zone de cottages 8</name_fr>
+			<name_de>Ferienhäuser im 800er-Bereich</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This village is located in the province of Limburg (Soutern part of the Netherlands) in the middle of the ‘Heijense Bos’ (Hijense woodlands).<br/><br/>Take part in an expedition in the Jungle Dome, visit Nijmegen or ride a horse through the ‘Limburgse Maasvallei’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Premium Park ligt in Nederlands Limburg midden in het Heijense Bos.<br/><br/>Ga op expeditie in de Jungle Dome, breng een bezoek aan Nijmegen of maak een rit te paard door de Limburgse Maasvallei.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Premium Park ligt in Nederlands Limburg midden in het Heijense Bos.<br/><br/>Ga op expeditie in de Jungle Dome, breng een bezoek aan Nijmegen of maak een rit te paard door de Limburgse Maasvallei.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé à 30 km de Nimègue, à l'est des Pays-Bas, Het Heijderbos est le Domaine des aventuriers de tous âges.<br/><br/>Son Jungle Dome et sa rivière sauvage ultra rapide vous feront passer le plus surprenant des séjours.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé à 30 km de Nimègue, à l'est des Pays-Bas, Het Heijderbos est le Domaine des aventuriers de tous âges.<br/><br/>Son Jungle Dome et sa rivière sauvage ultra rapide vous feront passer le plus surprenant des séjours.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Wer glaubt, um einen Regenwald zu sehen, muss man stundenlang im Flugzeug sitzen, der irrt.<br/><br/>Denn direkt hinter der deutschen Grenze, in Het Heijderbos, erwarten Sie bereits ein Dschungel und viele Abenteuer.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>1600</x_pos>
+			<vitesse>-5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_zc_23_cottages_zone_9.swf</filename>
+			<type>pano</type>
+			<name_uk>Zone 9</name_uk>
+			<name_nl>Cottages zone 9</name_nl>
+			<name_benl>Cottages zone 9</name_benl>
+			<name_befr>Zone de cottages 9</name_befr>
+			<name_fr>Zone de cottages 9</name_fr>
+			<name_de>Ferienhäuser im 900er-Bereich</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>Het Heijderbos nestles in the picturesque Maas valley in Limburg.<br/><br/>An ideal environment for horse riding And how about the super exciting Jungle Dome ?<br/><br/>Here you can spend hours of adventure and discovery.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In de schilderachtige Limburgse Maasvallei ligt Het Heijderbos.<br/><br/>Een ideale omgeving om te paardrijden, surfen of mountainbiken.<br/><br/>En wat dacht u van de superspannende Jungle Dome?<br/><br/>Hier kunt u heel wat uren op avontuur en ontdekking.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In de schilderachtige Limburgse Maasvallei ligt Het Heijderbos.<br/><br/>Een ideale omgeving om te paardrijden, surfen of mountainbiken.<br/><br/>En wat dacht u van de superspannende Jungle Dome?<br/><br/>Hier kunt u heel wat uren op avontuur en ontdekking.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Het Heijderbos est situé dans la pittoresque vallée de la Meuse limbourgeoise.<br/><br/>Un cadre idéal pour faire du cheval, de la planche à voile ou du VTT.<br/><br/>Et que pensez-vous du Jungle Dôme délirant ?<br/><br/>Ici, vous pouvez partir à l'aventure et en exploration pendant des heures entières.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Het Heijderbos est situé dans la pittoresque vallée de la Meuse limbourgeoise.<br/><br/>Un cadre idéal pour faire du cheval, de la planche à voile ou du VTT.<br/><br/>Et que pensez-vous du Jungle Dôme délirant ?<br/><br/>Ici, vous pouvez partir à l'aventure et en exploration pendant des heures entières.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Im malerischen Limburger Maastal, direkt hinter der deutschen Grenze, liegt Het Heijderbos.<br/><br/>Ob entspannen oder Action im Park, zum Beispiel bei einem Besuch im exotischen Jungle Dome, – Het Heijderbos lässt keine Wünsche offen.<br/><br/>Und erfüllt sogar noch ein paar mehr : Reitunterricht für die Tochter, die schnellste Wildwasserbahn für den Sohn und für die Eltern die Ruhe, die sie sich verdient haben.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+////2d
+//Aquamundo	
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_01_aqua_cafe.swf</filename>
+			<type>pano</type>
+			<name_uk>Aqua Cafe</name_uk>
+			<name_nl>Aqua Café</name_nl>
+			<name_benl>Aqua Café</name_benl>
+			<name_befr>Aqua Café</name_befr>
+			<name_fr>Aqua Café</name_fr>
+			<name_de>Aqua Café</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aqua Mundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains domaines de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aquamundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains parcs de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>600</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_02_coral_bath.swf</filename>
+			<type>pano</type>
+			<name_uk>Coral bath</name_uk>
+			<name_nl>Themabad</name_nl>
+			<name_benl>Themabad</name_benl>
+			<name_befr>Bain corail</name_befr>
+			<name_fr>Coral bath</name_fr>
+			<name_de>Schnorchelbad</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aqua Mundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains domaines de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aquamundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains parcs de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_04_jaccuzi.swf</filename>
+			<type>pano</type>
+			<name_uk>Jacuzzi</name_uk>
+			<name_nl>Whirlpool</name_nl>
+			<name_benl>Whirlpool</name_benl>
+			<name_befr>Jaccuzi</name_befr>
+			<name_fr>Jaccuzi</name_fr>
+			<name_de>Whirlpool</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aqua Mundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains domaines de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aquamundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains parcs de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_05_kids_bath.swf</filename>
+			<type>pano</type>
+			<name_uk>Kids bath</name_uk>
+			<name_nl>Kinder–Doe-Bad</name_nl>
+			<name_benl>Kinder–doe-bad</name_benl>
+			<name_befr>Piscine pour enfants</name_befr>
+			<name_fr>Piscine pour enfants</name_fr>
+			<name_de>Kleinkindbecken</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aqua Mundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains domaines de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aquamundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains parcs de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>900</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_06_paddling_pool.swf</filename>
+			<type>pano</type>
+			<name_uk>Paddling pool</name_uk>
+			<name_nl>Peuterbad</name_nl>
+			<name_benl>Peuterbad</name_benl>
+			<name_befr>Piscine pour Bébé</name_befr>
+			<name_fr>Piscine pour Bébé</name_fr>
+			<name_de>Babybecken</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aqua Mundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains domaines de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aquamundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains parcs de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_07_rapids.swf</filename>
+			<type>pano</type>
+			<name_uk>Wild water rapid</name_uk>
+			<name_nl>Wildwaterbaan</name_nl>
+			<name_benl>Wildwaterbaan</name_benl>
+			<name_befr>Rivière Sauvage</name_befr>
+			<name_fr>Rivière Sauvage</name_fr>
+			<name_de>Wildwasserbahn</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aqua Mundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains domaines de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aquamundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains parcs de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_08_solarium.swf</filename>
+			<type>pano</type>
+			<name_uk>Solarium</name_uk>
+			<name_nl>Solarium</name_nl>
+			<name_benl>Solarium</name_benl>
+			<name_befr>Solarium</name_befr>
+			<name_fr>Solarium</name_fr>
+			<name_de>Sonnenhimmel</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aqua Mundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains domaines de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aquamundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains parcs de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_09_sun_bathing_area.swf</filename>
+			<type>pano</type>
+			<name_uk>Sun bathing area</name_uk>
+			<name_nl>Zonneweide</name_nl>
+			<name_benl>Zonneweide</name_benl>
+			<name_befr>Zone de bronzage</name_befr>
+			<name_fr>Zone de bronzage</name_fr>
+			<name_de>Außenbereich</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aqua Mundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains domaines de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aquamundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains parcs de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_10_waves_swimming_pool_and_toboggan.swf</filename>
+			<type>pano</type>
+			<name_uk>Waves swimming pool and toboggan</name_uk>
+			<name_nl>Golfslagbad</name_nl>
+			<name_benl>Golfslagbad</name_benl>
+			<name_befr>Piscine à vagues</name_befr>
+			<name_fr>Piscine à vagues</name_fr>
+			<name_de>Wellenbad und Wasserrutschen</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aqua Mundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains domaines de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aquamundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains parcs de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_11_toboggans_departure.swf</filename>
+			<type>pano</type>
+			<name_uk>Toboggans departure</name_uk>
+			<name_nl>Begin glijbaan</name_nl>
+			<name_benl>Begin glijbaan</name_benl>
+			<name_befr>Départ toboggans</name_befr>
+			<name_fr>Départ toboggans</name_fr>
+			<name_de>Rundumblick</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aqua Mundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains domaines de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aquamundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains parcs de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_12_waves_swimming_pool_entrance.swf</filename>
+			<type>pano</type>
+			<name_uk>Waves swimming pool entrance</name_uk>
+			<name_nl>Ingang Golfslagbad</name_nl>
+			<name_benl>Ingang Golfslagbad</name_benl>
+			<name_befr>Entrée piscine à vagues</name_befr>
+			<name_fr>Entrée piscine à vagues</name_fr>
+			<name_de>Wellenbad</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aqua Mundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains domaines de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aquamundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains parcs de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_13_waves_swimming_pool_opposite_view.swf</filename>
+			<type>pano</type>
+			<name_uk>Waves swimming pool opposite view</name_uk>
+			<name_nl>Golfslagbad</name_nl>
+			<name_benl>Golfslagbad</name_benl>
+			<name_befr>Vue opposée de la piscine à vagues</name_befr>
+			<name_fr>Vue opposée de la piscine à vagues</name_fr>
+			<name_de>Wellenbad</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aqua Mundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains domaines de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aquamundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains parcs de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>1200</x_pos>
+			<vitesse>-5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_14_wildwater_bath.swf</filename>
+			<type>pano</type>
+			<name_uk>Start wild water rapid</name_uk>
+			<name_nl>Begin wildwaterbaan</name_nl>
+			<name_benl>Begin wildwaterbaan</name_benl>
+			<name_befr>Départ rivière sauvage</name_befr>
+			<name_fr>Départ rivière sauvage</name_fr>
+			<name_de>Beginn wildwasserbahn</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aqua Mundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains domaines de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aquamundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains parcs de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound></sound>
+			<filename>sequence_coralbath.swf</filename>
+			<type>video</type>
+			<name_uk>Coralbath video</name_uk>
+			<name_nl>Koraalbad video</name_nl>
+			<name_benl>Koraalbad video</name_benl>
+			<name_befr>Vidéo bain corail</name_befr>
+			<name_fr>Vidéo bain corail</name_fr>
+			<name_de>Video Schnorchelbad</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aqua Mundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains domaines de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aquamundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains parcs de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+<pano map="2d" plan="aquamundo.swf">
+			<sound></sound>
+			<filename>sequence_wild_water.swf</filename>
+			<type>video</type>
+			<name_uk>Wild Water raften for kids video</name_uk>
+			<name_nl>Wild Water raften voor kinderen video</name_nl>
+			<name_benl>Wild water raften voor kinderen video</name_benl>
+			<name_befr>Vidéo Wild Water rafting pour enfants</name_befr>
+			<name_fr>Vidéo Wild Water rafting pour enfants</name_fr>
+			<name_de>Video Wildwasser-Rafting</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aqua Mundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains domaines de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aquamundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains parcs de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+//marketdome
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_01_apartment_hall.swf</filename>
+			<type>pano</type>
+			<name_uk>Appartment hall</name_uk>
+			<name_nl>Ingang appartementengebouw</name_nl>
+			<name_benl>Ingang appartementengebouw</name_benl>
+			<name_befr>Corridor appartement</name_befr>
+			<name_fr>Corridor appartement</name_fr>
+			<name_de>Foyer Hotel-Apartments</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_02_aqua_mundo_entrance.swf</filename>
+			<type>pano</type>
+			<name_uk>Aquamundo entrance</name_uk>
+			<name_nl>Ingang Aqua Mundo</name_nl>
+			<name_benl>Ingang Aqua Mundo</name_benl>
+			<name_befr>Entrée Aqua Mundo</name_befr>
+			<name_fr>Entrée Aquamundo</name_fr>
+			<name_de>Eingang Aqua Mundo</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_03_bowling.swf</filename>
+			<type>pano</type>
+			<name_uk>Bowling</name_uk>
+			<name_nl>Bowling</name_nl>
+			<name_benl>Bowling</name_benl>
+			<name_befr>Bowling</name_befr>
+			<name_fr>Bowling</name_fr>
+			<name_de>Bowling</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_04_fashion_store.swf</filename>
+			<type>pano</type>
+			<name_uk>Fashion Store</name_uk>
+			<name_nl>Fashion Store</name_nl>
+			<name_benl>Fashion Store</name_benl>
+			<name_befr>Fashion Store</name_befr>
+			<name_fr>Fashion Store</name_fr>
+			<name_de>Fashion Store</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_05_food_store.swf</filename>
+			<type>pano</type>
+			<name_uk>Food store</name_uk>
+			<name_nl>Food Store</name_nl>
+			<name_benl>Food Store</name_benl>
+			<name_befr>Food Store</name_befr>
+			<name_fr>Food Store</name_fr>
+			<name_de>Supermarkt</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_06_footbridge.swf</filename>
+			<type>pano</type>
+			<name_uk>Footbridge</name_uk>
+			<name_nl>Voetbrug</name_nl>
+			<name_benl>Voetbrug</name_benl>
+			<name_befr>Pont piétons</name_befr>
+			<name_fr>Pont piétons</name_fr>
+			<name_de>Brücke</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_07_harolds_restaurant.swf</filename>
+			<type>pano</type>
+			<name_uk>Harold's Family Grill</name_uk>
+			<name_nl>Harold's Family Grill</name_nl>
+			<name_benl>Harold's Family Grill</name_benl>
+			<name_befr>Harold's Family Grill</name_befr>
+			<name_fr>Harold's Family Grill</name_fr>
+			<name_de>Harold's Family Grill</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>1500</x_pos>
+			<vitesse>-5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_08_market_cafe_terrace.swf</filename>
+			<type>pano</type>
+			<name_uk>Market Cafe terrace</name_uk>
+			<name_nl>Terras Market Café</name_nl>
+			<name_benl>Terras Market Café</name_benl>
+			<name_befr>Terrasse Market Café</name_befr>
+			<name_fr>Terrasse Market Café</name_fr>
+			<name_de>Market Café</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_09_market_restaurant.swf</filename>
+			<type>pano</type>
+			<name_uk>Market Restaurant</name_uk>
+			<name_nl>Market Restaurant</name_nl>
+			<name_benl>Market Restaurant</name_benl>
+			<name_befr>Market Restaurant</name_befr>
+			<name_fr>Market Restaurant</name_fr>
+			<name_de>Market Restaurant</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>600</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_10_market_restaurant_buffet.swf</filename>
+			<type>pano</type>
+			<name_uk>Market Restaurant buffet</name_uk>
+			<name_nl>Buffet Market Restaurant</name_nl>
+			<name_benl>Buffet Market Restaurant</name_benl>
+			<name_befr>Buffet Market Restaurant</name_befr>
+			<name_fr>Buffet Market Restaurant</name_fr>
+			<name_de>Buffet im Market Restaurant</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>1600</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_11_market_restaurant_playing_items_for_kids.swf</filename>
+			<type>pano</type>
+			<name_uk>Market restaurant playing items for kids</name_uk>
+			<name_nl>Market restaurant met speeltoestellen</name_nl>
+			<name_benl>Market restaurant met speeltoestellen</name_benl>
+			<name_befr>Jeux d'enfants dans le restaurant</name_befr>
+			<name_fr>Jeux d'enfants dans le restaurant</name_fr>
+			<name_de>Market Restaurant Spielecke</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_12_old_barn_bowling_bar.swf</filename>
+			<type>pano</type>
+			<name_uk>Old Barn Bowling Bar</name_uk>
+			<name_nl>Bowling Old Barn</name_nl>
+			<name_benl>Bowling Old Barn</name_benl>
+			<name_befr>Old Barn Bar & Bowling</name_befr>
+			<name_fr>Old Barn Bar & Bowling</name_fr>
+			<name_de>Old Barn Bar & Bowling</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_14_snack_terrace.swf</filename>
+			<type>pano</type>
+			<name_uk>Snack terrace</name_uk>
+			<name_nl>Terras Snack Corner</name_nl>
+			<name_benl>Terras Snack Corner</name_benl>
+			<name_befr>Terrasse Snack</name_befr>
+			<name_fr>Terrasse Snack</name_fr>
+			<name_de>Snacks & Salads Terrasse</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_15_snacks_and_salads_restaurant.swf</filename>
+			<type>pano</type>
+			<name_uk>Snacks & salads Restaurant</name_uk>
+			<name_nl>Snacks & Salads</name_nl>
+			<name_benl>Snacks & Salads</name_benl>
+			<name_befr>Restaurant Snacks & Salads</name_befr>
+			<name_fr>Restaurant Snacks & Salads</name_fr>
+			<name_de>Snacks & Salads</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>1000</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_16_toys_and_souvenirs_store.swf</filename>
+			<type>pano</type>
+			<name_uk>Toys & Souvenirs store</name_uk>
+			<name_nl>Toys & Souvenirs</name_nl>
+			<name_benl>Toys & Souvenirs</name_benl>
+			<name_befr>Toys & Souvenirs</name_befr>
+			<name_fr>Toys & Souvenirs</name_fr>
+			<name_de>Toys & Souvenirs</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_17_central_view.swf</filename>
+			<type>pano</type>
+			<name_uk>Central view</name_uk>
+			<name_nl>Overzicht Market Dome</name_nl>
+			<name_benl>Overzicht Market Dome</name_benl>
+			<name_befr>Vue centrale</name_befr>
+			<name_fr>Vue centrale</name_fr>
+			<name_de>Rundumblick</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="marketdome.swf">
+			<sound></sound>
+			<filename>sequence_market_dome.swf</filename>
+			<type>video</type>
+			<name_uk>Market Dome podium video</name_uk>
+			<name_nl>Market Dome podium video</name_nl>
+			<name_benl>Market Dome podium video</name_benl>
+			<name_befr>Vidéo scène Market-Dôme</name_befr>
+			<name_fr>Vidéo scène Market-Dôme</name_fr>
+			<name_de>Video Bühne im Market Dome</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+//sporthall
+		<pano map="2d" plan="sporthall.swf">
+			<sound>domaine.swf</sound>
+			<filename>sh_01_house_of_games.swf</filename>
+			<type>pano</type>
+			<name_uk>House of Games</name_uk>
+			<name_nl>Sporthal</name_nl>
+			<name_benl>Sporthal</name_benl>
+			<name_befr>House of Games</name_befr>
+			<name_fr>House of Games</name_fr>
+			<name_de>House of Games</name_de>
+			<edito_uk><![CDATA[<p><titre>SPORT HALL</titre><br/>The Sport Centre is the place for outdoor football, basketball or volleyball.<br/><br/>On sultry summer evenings, this is where you will play the best matches against the neighbours, your friends or your oldest children.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>SPORT CENTER</titre><br/>Het Sport Center is de plek voor outdoor voetbal, basketbal of volleybal.<br/><br/>Op zwoele zomeravonden speelt u hier de beste partijtjes tegen de buren, uw vrienden of uw oudste kinderen.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>SPORTHAL</titre><br/>Het Sport Center is de plek voor outdoor voetbal, basketbal of volleybal.<br/><br/>Op zwoele zomeravonden speelt u hier de beste partijtjes tegen de buren, uw vrienden of uw oudste kinderen.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>SPORT HALL</titre><br/>Le Sport Center est l´ endroit rêvé pour le football, le basket ou le volley outdoor.<br/><br/>Les soirées accablantes d´été, vous y jouerez les meilleures parties contre les voisins, vos amis, ou vos grands enfants.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>SPORT HALL</titre><br/>Le Sport Center est l´ endroit rêvé pour le football, le basket ou le volley outdoor.<br/><br/>Les soirées accablantes d´été, vous y jouerez les meilleures parties contre les voisins, vos amis, ou vos grands enfants.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>SPORTHALLE</titre><br/>Die Sport-Arena bietet Platz für Fußball, Basketball oder Volleyball unter freiem Himmel.<br/><br/>An lauen Sommerabenden treten Sie hier gegen die Nachbarn, Ihre Freunde oder die älteren Kinder an.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>1600</x_pos>
+			<vitesse>-5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="sporthall.swf">
+			<sound>domaine.swf</sound>
+			<filename>sh_02_mini_karts.swf</filename>
+			<type>pano</type>
+			<name_uk>Mini Karts</name_uk>
+			<name_nl>Mini-cars</name_nl>
+			<name_benl>Mini-cars</name_benl>
+			<name_befr>Mini karts</name_befr>
+			<name_fr>Mini karts</name_fr>
+			<name_de>Miniflitzer</name_de>
+			<edito_uk><![CDATA[<p><titre>SPORT HALL</titre><br/>The Sport Centre is the place for outdoor football, basketball or volleyball.<br/><br/>On sultry summer evenings, this is where you will play the best matches against the neighbours, your friends or your oldest children.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>SPORT CENTER</titre><br/>Het Sport Center is de plek voor outdoor voetbal, basketbal of volleybal.<br/><br/>Op zwoele zomeravonden speelt u hier de beste partijtjes tegen de buren, uw vrienden of uw oudste kinderen.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>SPORTHAL</titre><br/>Het Sport Center is de plek voor outdoor voetbal, basketbal of volleybal.<br/><br/>Op zwoele zomeravonden speelt u hier de beste partijtjes tegen de buren, uw vrienden of uw oudste kinderen.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>SPORT HALL</titre><br/>Le Sport Center est l´ endroit rêvé pour le football, le basket ou le volley outdoor.<br/><br/>Les soirées accablantes d´été, vous y jouerez les meilleures parties contre les voisins, vos amis, ou vos grands enfants.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>SPORT HALL</titre><br/>Le Sport Center est l´ endroit rêvé pour le football, le basket ou le volley outdoor.<br/><br/>Les soirées accablantes d´été, vous y jouerez les meilleures parties contre les voisins, vos amis, ou vos grands enfants.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>SPORTHALLE</titre><br/>Die Sport-Arena bietet Platz für Fußball, Basketball oder Volleyball unter freiem Himmel.<br/><br/>An lauen Sommerabenden treten Sie hier gegen die Nachbarn, Ihre Freunde oder die älteren Kinder an.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>900</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="sporthall.swf">
+			<sound>domaine.swf</sound>
+			<filename>sh_03_sport_cafe.swf</filename>
+			<type>pano</type>
+			<name_uk>Sport Cafe</name_uk>
+			<name_nl>Sport Café</name_nl>
+			<name_benl>Sport Café</name_benl>
+			<name_befr>Sport Café</name_befr>
+			<name_fr>Sport Café</name_fr>
+			<name_de>Sports Café</name_de>
+			<edito_uk><![CDATA[<p><titre>SPORT HALL</titre><br/>The Sport Centre is the place for outdoor football, basketball or volleyball.<br/><br/>On sultry summer evenings, this is where you will play the best matches against the neighbours, your friends or your oldest children.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>SPORT CENTER</titre><br/>Het Sport Center is de plek voor outdoor voetbal, basketbal of volleybal.<br/><br/>Op zwoele zomeravonden speelt u hier de beste partijtjes tegen de buren, uw vrienden of uw oudste kinderen.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>SPORTHAL</titre><br/>Het Sport Center is de plek voor outdoor voetbal, basketbal of volleybal.<br/><br/>Op zwoele zomeravonden speelt u hier de beste partijtjes tegen de buren, uw vrienden of uw oudste kinderen.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>SPORT HALL</titre><br/>Le Sport Center est l´ endroit rêvé pour le football, le basket ou le volley outdoor.<br/><br/>Les soirées accablantes d´été, vous y jouerez les meilleures parties contre les voisins, vos amis, ou vos grands enfants.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>SPORT HALL</titre><br/>Le Sport Center est l´ endroit rêvé pour le football, le basket ou le volley outdoor.<br/><br/>Les soirées accablantes d´été, vous y jouerez les meilleures parties contre les voisins, vos amis, ou vos grands enfants.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>SPORTHALLE</titre><br/>Die Sport-Arena bietet Platz für Fußball, Basketball oder Volleyball unter freiem Himmel.<br/><br/>An lauen Sommerabenden treten Sie hier gegen die Nachbarn, Ihre Freunde oder die älteren Kinder an.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>800</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="sporthall.swf">
+			<sound>domaine.swf</sound>
+			<filename>sh_04_sport_hall_terrace.swf</filename>
+			<type>pano</type>
+			<name_uk>Sport hall terrace</name_uk>
+			<name_nl>Terras Sport Center</name_nl>
+			<name_benl>Terras Sport Center</name_benl>
+			<name_befr>Terrasse Sport Hall</name_befr>
+			<name_fr>Terrasse Sport Hall</name_fr>
+			<name_de>Terrasse der Sporthalle</name_de>
+			<edito_uk><![CDATA[<p><titre>SPORT HALL</titre><br/>The Sport Centre is the place for outdoor football, basketball or volleyball.<br/><br/>On sultry summer evenings, this is where you will play the best matches against the neighbours, your friends or your oldest children.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>SPORT CENTER</titre><br/>Het Sport Center is de plek voor outdoor voetbal, basketbal of volleybal.<br/><br/>Op zwoele zomeravonden speelt u hier de beste partijtjes tegen de buren, uw vrienden of uw oudste kinderen.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>SPORTHAL</titre><br/>Het Sport Center is de plek voor outdoor voetbal, basketbal of volleybal.<br/><br/>Op zwoele zomeravonden speelt u hier de beste partijtjes tegen de buren, uw vrienden of uw oudste kinderen.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>SPORT HALL</titre><br/>Le Sport Center est l´ endroit rêvé pour le football, le basket ou le volley outdoor.<br/><br/>Les soirées accablantes d´été, vous y jouerez les meilleures parties contre les voisins, vos amis, ou vos grands enfants.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>SPORT HALL</titre><br/>Le Sport Center est l´ endroit rêvé pour le football, le basket ou le volley outdoor.<br/><br/>Les soirées accablantes d´été, vous y jouerez les meilleures parties contre les voisins, vos amis, ou vos grands enfants.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>SPORTHALLE</titre><br/>Die Sport-Arena bietet Platz für Fußball, Basketball oder Volleyball unter freiem Himmel.<br/><br/>An lauen Sommerabenden treten Sie hier gegen die Nachbarn, Ihre Freunde oder die älteren Kinder an.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="sporthall.swf">
+			<sound>domaine.swf</sound>
+			<filename>sh_05_tennis_and_badminton.swf</filename>
+			<type>pano</type>
+			<name_uk>Tennis and Badminton</name_uk>
+			<name_nl>Tennis en badminton</name_nl>
+			<name_benl>Tennis en badminton</name_benl>
+			<name_befr>Tennis et badminton</name_befr>
+			<name_fr>Tennis et badminton</name_fr>
+			<name_de>Tennis und Badminton</name_de>
+			<edito_uk><![CDATA[<p><titre>SPORT HALL</titre><br/>The Sport Centre is the place for outdoor football, basketball or volleyball.<br/><br/>On sultry summer evenings, this is where you will play the best matches against the neighbours, your friends or your oldest children.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>SPORT CENTER</titre><br/>Het Sport Center is de plek voor outdoor voetbal, basketbal of volleybal.<br/><br/>Op zwoele zomeravonden speelt u hier de beste partijtjes tegen de buren, uw vrienden of uw oudste kinderen.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>SPORTHAL</titre><br/>Het Sport Center is de plek voor outdoor voetbal, basketbal of volleybal.<br/><br/>Op zwoele zomeravonden speelt u hier de beste partijtjes tegen de buren, uw vrienden of uw oudste kinderen.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>SPORT HALL</titre><br/>Le Sport Center est l´ endroit rêvé pour le football, le basket ou le volley outdoor.<br/><br/>Les soirées accablantes d´été, vous y jouerez les meilleures parties contre les voisins, vos amis, ou vos grands enfants.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>SPORT HALL</titre><br/>Le Sport Center est l´ endroit rêvé pour le football, le basket ou le volley outdoor.<br/><br/>Les soirées accablantes d´été, vous y jouerez les meilleures parties contre les voisins, vos amis, ou vos grands enfants.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>SPORTHALLE</titre><br/>Die Sport-Arena bietet Platz für Fußball, Basketball oder Volleyball unter freiem Himmel.<br/><br/>An lauen Sommerabenden treten Sie hier gegen die Nachbarn, Ihre Freunde oder die älteren Kinder an.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+//jungledome
+
+		<pano map="2d" plan="jungledome.swf">
+			<sound>domaine.swf</sound>
+			<filename>jd_01_entrance.swf</filename>
+			<type>pano</type>
+			<name_uk>Entrance</name_uk>
+			<name_nl>Ingang Jungle Dome</name_nl>
+			<name_benl>Ingang Jungle Dome</name_benl>
+			<name_befr>Entrée</name_befr>
+			<name_fr>Entrée</name_fr>
+			<name_de>Eingang Jungle Dome</name_de>
+			<edito_uk><![CDATA[<p><titre>JUNGLE EXPEDITION</titre><br/>The indoor Jungle Dome is a unique piece of tropics.<br/><br/>On a Jungle Expedition through the unspoilt nature you will fall from one surprise into another. </p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>JUNGLE DOME</titre><br/>In samenwerking met het Wereld Natuur Fonds realiseerden we de Jungle Expedition in de Jungle Dome.<br/><br/>Maak een unieke ontdekkingsreis door dit grote, indoor oerwoud met tropische bomen, exotische dieren, touwbruggen en een waterval. </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>JUNGLE EXPEDITION</titre><br/>In samenwerking met het Wereld Natuur Fonds realiseerden we de Jungle Expedition in de Jungle Dome.<br/><br/>Maak een unieke ontdekkingsreis door dit grote, indoor oerwoud met tropische bomen, exotische dieren, touwbruggen en een waterval. </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>JUNGLE EXPEDITION</titre><br/>Entrez dans le Jungle Dôme et découvrez un petit bout de jungle sauvage au coeur des Pays-Bas.<br/>Surprenant! Dans cet espace couvert, plantes tropicales et animaux exotiques se laissent observer pour le bonheur de tous.<br/>Avec la jungle expedition, partez à la découverte des secrets de la nature, en collaboration avec WWF.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>Entrez dans le Jungle Dôme et découvrez un petit bout de jungle sauvage au coeur des Pays-Bas.<br/>Surprenant! Dans cet espace couvert, plantes tropicales et animaux exotiques se laissent observer pour le bonheur de tous.<br/>Avec la jungle expedition, partez à la découverte des secrets de la nature, en collaboration avec WWF.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>JUNGLE EXPEDITION</titre><br/>Ein Stück Tropen im Limburger Maastal, das ist der wetterunabhängige Jungle Dome.<br/>Vorbei an exotischen Pflanzen und seltenen Vogelarten, durch tropische Regenschauer und über wackelige Hängebrücken führt Sie die Jungle Expedition, eine spannende und lehrreiche Tour durch den Regenwald.<br/>Diese entstand in Zusammenarbeit mit dem niederländischen WWF. </p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+			
+		<pano map="2d" plan="jungledome.swf">
+			<sound>domaine.swf</sound>
+			<filename>jd_02_waterfall.swf</filename>
+			<type>pano</type>
+			<name_uk>Waterfall</name_uk>
+			<name_nl>Waterval</name_nl>
+			<name_benl>Waterval</name_benl>
+			<name_befr>Cascade</name_befr>
+			<name_fr>Cascade</name_fr>
+			<name_de>Wasserfall</name_de>
+			<edito_uk><![CDATA[<p><titre>JUNGLE EXPEDITION</titre><br/>You no longer need to leave the country for a trip to the jungle.<br/><br/>Let Center Parcs take you on a Jungle Expedition in the Jungle Dome in collaboration with the World Wildlife Funds.<br/><br/>A taste of the jungle with exotic animals, plenty of rope bridges and lianes.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>JUNGLE DOME</titre><br/>Voor een jungletocht hoeft u het land niet meer uit.<br/><br/>Want in de Jungle Dome neemt Center Parcs u in samenwerking met het Wereld Natuur Fonds mee op Jungle Expedition.<br/><br/>Een stukje jungle met exotische dieren, vol touwbruggen en lianen.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>JUNGLE EXPEDITION</titre><br/>Voor een jungletocht hoeft u het land niet meer uit.<br/><br/>Want in de Jungle Dome neemt Center Parcs u in samenwerking met het Wereld Natuur Fonds mee op Jungle Expedition.<br/><br/>Een stukje jungle met exotische dieren, vol touwbruggen en lianen.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>JUNGLE EXPEDITION</titre><br/>Le Jungle Dôme est un univers à thème tropical couvert avec des ponts suspendus,<br/>des lianes, des animaux exotiques…<br/><br/>Vous pouvez y partir en Jungle Expedition.<br/><br/>Cette exploration fait découvrir aux personnes de tout âge, l’univers mystérieux de la jungle de manière ludique et interactive.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>JUNGLE EXPEDITION</titre><br/>Le Jungle Dôme est un univers à thème tropical couvert avec des ponts suspendus,<br/>des lianes, des animaux exotiques…<br/><br/>Vous pouvez y partir en Jungle Expedition.<br/><br/>Cette exploration fait découvrir aux personnes de tout âge, l’univers mystérieux de la jungle de manière ludique et interactive.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>JUNGLE EXPEDITION</titre><br/>Über 8.000 exotische Pflanzen und viele seltene Vogelarten bestimmen das Bild des abenteuerlichen Jungle Domes:<br/><br/>Hier müssen Sie tiefe Schluchten überwinden, wackelige Hängebrücken meistern und können nach Gold schürfen.<br/><br/>Sind Sie bereit für so viel Nervenkitzel ? </p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+			
+		<pano map="2d" plan="jungledome.swf">
+			<sound>domaine.swf</sound>
+			<filename>jd_03_expedition_shop.swf</filename>
+			<type>pano</type>
+			<name_uk>Expedition shop</name_uk>
+			<name_nl>Expedition shop</name_nl>
+			<name_benl>Expedition shop</name_benl>
+			<name_befr>Shop expédition</name_befr>
+			<name_fr>Shop expédition</name_fr>
+			<name_de>Expedition Shop im Jungle Dome</name_de>
+			<edito_uk><![CDATA[<p><titre>JUNGLE EXPEDITION</titre><br/>You no longer need to leave the country for a trip to the jungle.<br/><br/>Let Center Parcs take you on a Jungle Expedition in the Jungle Dome in collaboration with the World Wildlife Funds.<br/><br/>A taste of the jungle with exotic animals, plenty of rope bridges and lianes.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>JUNGLE DOME</titre><br/>Voor een jungletocht hoeft u het land niet meer uit.<br/><br/>Want in de Jungle Dome neemt Center Parcs u in samenwerking met het Wereld Natuur Fonds mee op Jungle Expedition.<br/><br/>Een stukje jungle met exotische dieren, vol touwbruggen en lianen.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>JUNGLE EXPEDITION</titre><br/>Voor een jungletocht hoeft u het land niet meer uit.<br/><br/>Want in de Jungle Dome neemt Center Parcs u in samenwerking met het Wereld Natuur Fonds mee op Jungle Expedition.<br/><br/>Een stukje jungle met exotische dieren, vol touwbruggen en lianen.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>JUNGLE EXPEDITION</titre><br/>Le Jungle Dôme est un univers à thème tropical couvert avec des ponts suspendus,<br/>des lianes, des animaux exotiques…<br/><br/>Vous pouvez y partir en Jungle Expedition.<br/><br/>Cette exploration fait découvrir aux personnes de tout âge, l’univers mystérieux de la jungle de manière ludique et interactive.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>JUNGLE EXPEDITION</titre><br/>Le Jungle Dôme est un univers à thème tropical couvert avec des ponts suspendus,<br/>des lianes, des animaux exotiques…<br/><br/>Vous pouvez y partir en Jungle Expedition.<br/><br/>Cette exploration fait découvrir aux personnes de tout âge, l’univers mystérieux de la jungle de manière ludique et interactive.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>JUNGLE EXPEDITION</titre><br/>Über 8.000 exotische Pflanzen und viele seltene Vogelarten bestimmen das Bild des abenteuerlichen Jungle Domes:<br/><br/>Hier müssen Sie tiefe Schluchten überwinden, wackelige Hängebrücken meistern und können nach Gold schürfen.<br/><br/>Sind Sie bereit für so viel Nervenkitzel ? </p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+			
+		<pano map="2d" plan="jungledome.swf">
+			<sound>domaine.swf</sound>
+			<filename>jd_04_jungle_bar.swf</filename>
+			<type>pano</type>
+			<name_uk>Safari Camp</name_uk>
+			<name_nl>Safari Camp Dome</name_nl>
+			<name_benl>Safari Camp Dome</name_benl>
+			<name_befr>Safari Camp</name_befr>
+			<name_fr>Safari Camp</name_fr>
+			<name_de>Safari Camp</name_de>
+			<edito_uk><![CDATA[<p><titre>JUNGLE EXPEDITION</titre><br/>You no longer need to leave the country for a trip to the jungle.<br/><br/>Let Center Parcs take you on a Jungle Expedition in the Jungle Dome in collaboration with the World Wildlife Funds.<br/><br/>A taste of the jungle with exotic animals, plenty of rope bridges and lianes.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>JUNGLE DOME</titre><br/>Voor een jungletocht hoeft u het land niet meer uit.<br/><br/>Want in de Jungle Dome neemt Center Parcs u in samenwerking met het Wereld Natuur Fonds mee op Jungle Expedition.<br/><br/>Een stukje jungle met exotische dieren, vol touwbruggen en lianen.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>JUNGLE EXPEDITION</titre><br/>Voor een jungletocht hoeft u het land niet meer uit.<br/><br/>Want in de Jungle Dome neemt Center Parcs u in samenwerking met het Wereld Natuur Fonds mee op Jungle Expedition.<br/><br/>Een stukje jungle met exotische dieren, vol touwbruggen en lianen.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>JUNGLE EXPEDITION</titre><br/>Le Jungle Dôme est un univers à thème tropical couvert avec des ponts suspendus,<br/>des lianes, des animaux exotiques…<br/><br/>Vous pouvez y partir en Jungle Expedition.<br/><br/>Cette exploration fait découvrir aux personnes de tout âge, l’univers mystérieux de la jungle de manière ludique et interactive.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>JUNGLE EXPEDITION</titre><br/>Le Jungle Dôme est un univers à thème tropical couvert avec des ponts suspendus,<br/>des lianes, des animaux exotiques…<br/><br/>Vous pouvez y partir en Jungle Expedition.<br/><br/>Cette exploration fait découvrir aux personnes de tout âge, l’univers mystérieux de la jungle de manière ludique et interactive.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>JUNGLE EXPEDITION</titre><br/>Über 8.000 exotische Pflanzen und viele seltene Vogelarten bestimmen das Bild des abenteuerlichen Jungle Domes:<br/><br/>Hier müssen Sie tiefe Schluchten überwinden, wackelige Hängebrücken meistern und können nach Gold schürfen.<br/><br/>Sind Sie bereit für so viel Nervenkitzel ? </p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>1000</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="jungledome.swf">
+			<sound>domaine.swf</sound>
+			<filename>jd_05_pink_flamingo_bridge.swf</filename>
+			<type>pano</type>
+			<name_uk>Pink Flamingo bridge</name_uk>
+			<name_nl>Roze flamingo brug</name_nl>
+			<name_benl>Roze flamingo brug</name_benl>
+			<name_befr>Pont flamant rose</name_befr>
+			<name_fr>Pont flamant rose</name_fr>
+			<name_de>Hängebrücke</name_de>
+			<edito_uk><![CDATA[<p><titre>JUNGLE EXPEDITION</titre><br/>You no longer need to leave the country for a trip to the jungle.<br/><br/>Let Center Parcs take you on a Jungle Expedition in the Jungle Dome in collaboration with the World Wildlife Funds.<br/><br/>A taste of the jungle with exotic animals, plenty of rope bridges and lianes.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>JUNGLE DOME</titre><br/>Voor een jungletocht hoeft u het land niet meer uit.<br/><br/>Want in de Jungle Dome neemt Center Parcs u in samenwerking met het Wereld Natuur Fonds mee op Jungle Expedition.<br/><br/>Een stukje jungle met exotische dieren, vol touwbruggen en lianen.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>JUNGLE EXPEDITION</titre><br/>Voor een jungletocht hoeft u het land niet meer uit.<br/><br/>Want in de Jungle Dome neemt Center Parcs u in samenwerking met het Wereld Natuur Fonds mee op Jungle Expedition.<br/><br/>Een stukje jungle met exotische dieren, vol touwbruggen en lianen.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>JUNGLE EXPEDITION</titre><br/>Le Jungle Dôme est un univers à thème tropical couvert avec des ponts suspendus,<br/>des lianes, des animaux exotiques…<br/><br/>Vous pouvez y partir en Jungle Expedition.<br/><br/>Cette exploration fait découvrir aux personnes de tout âge, l’univers mystérieux de la jungle de manière ludique et interactive.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>JUNGLE EXPEDITION</titre><br/>Le Jungle Dôme est un univers à thème tropical couvert avec des ponts suspendus,<br/>des lianes, des animaux exotiques…<br/><br/>Vous pouvez y partir en Jungle Expedition.<br/><br/>Cette exploration fait découvrir aux personnes de tout âge, l’univers mystérieux de la jungle de manière ludique et interactive.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>JUNGLE EXPEDITION</titre><br/>Über 8.000 exotische Pflanzen und viele seltene Vogelarten bestimmen das Bild des abenteuerlichen Jungle Domes:<br/><br/>Hier müssen Sie tiefe Schluchten überwinden, wackelige Hängebrücken meistern und können nach Gold schürfen.<br/><br/>Sind Sie bereit für so viel Nervenkitzel ? </p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="jungledome.swf">
+			<sound>domaine.swf</sound>
+			<filename>jd_06_maya_poort.swf</filename>
+			<type>pano</type>
+			<name_uk>Maya Gateway</name_uk>
+			<name_nl>Maya Poort</name_nl>
+			<name_benl>Maya Poort</name_benl>
+			<name_befr>Porte Maya</name_befr>
+			<name_fr>Porte Maya</name_fr>
+			<name_de>Maya Pforte</name_de>
+			<edito_uk><![CDATA[<p><titre>JUNGLE EXPEDITION</titre><br/>You no longer need to leave the country for a trip to the jungle.<br/><br/>Let Center Parcs take you on a Jungle Expedition in the Jungle Dome in collaboration with the World Wildlife Funds.<br/><br/>A taste of the jungle with exotic animals, plenty of rope bridges and lianes.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>JUNGLE DOME</titre><br/>Voor een jungletocht hoeft u het land niet meer uit.<br/><br/>Want in de Jungle Dome neemt Center Parcs u in samenwerking met het Wereld Natuur Fonds mee op Jungle Expedition.<br/><br/>Een stukje jungle met exotische dieren, vol touwbruggen en lianen.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>JUNGLE EXPEDITION</titre><br/>Voor een jungletocht hoeft u het land niet meer uit.<br/><br/>Want in de Jungle Dome neemt Center Parcs u in samenwerking met het Wereld Natuur Fonds mee op Jungle Expedition.<br/><br/>Een stukje jungle met exotische dieren, vol touwbruggen en lianen.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>JUNGLE EXPEDITION</titre><br/>Le Jungle Dôme est un univers à thème tropical couvert avec des ponts suspendus,<br/>des lianes, des animaux exotiques…<br/><br/>Vous pouvez y partir en Jungle Expedition.<br/><br/>Cette exploration fait découvrir aux personnes de tout âge, l’univers mystérieux de la jungle de manière ludique et interactive.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>JUNGLE EXPEDITION</titre><br/>Le Jungle Dôme est un univers à thème tropical couvert avec des ponts suspendus,<br/>des lianes, des animaux exotiques…<br/><br/>Vous pouvez y partir en Jungle Expedition.<br/><br/>Cette exploration fait découvrir aux personnes de tout âge, l’univers mystérieux de la jungle de manière ludique et interactive.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>JUNGLE EXPEDITION</titre><br/>Über 8.000 exotische Pflanzen und viele seltene Vogelarten bestimmen das Bild des abenteuerlichen Jungle Domes:<br/><br/>Hier müssen Sie tiefe Schluchten überwinden, wackelige Hängebrücken meistern und können nach Gold schürfen.<br/><br/>Sind Sie bereit für so viel Nervenkitzel ? </p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="jungledome.swf">
+			<sound>domaine.swf</sound>
+			<filename>jd_07_footbridge.swf</filename>
+			<type>pano</type>
+			<name_uk>Food Bridge</name_uk>
+			<name_nl>Voetbrug</name_nl>
+			<name_benl>Voetbrug</name_benl>
+			<name_befr>Pont piétons</name_befr>
+			<name_fr>Pont piétons</name_fr>
+			<name_de>Hängebrücke</name_de>
+			<edito_uk><![CDATA[<p><titre>JUNGLE EXPEDITION</titre><br/>You no longer need to leave the country for a trip to the jungle.<br/><br/>Let Center Parcs take you on a Jungle Expedition in the Jungle Dome in collaboration with the World Wildlife Funds.<br/><br/>A taste of the jungle with exotic animals, plenty of rope bridges and lianes.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>JUNGLE DOME</titre><br/>Voor een jungletocht hoeft u het land niet meer uit.<br/><br/>Want in de Jungle Dome neemt Center Parcs u in samenwerking met het Wereld Natuur Fonds mee op Jungle Expedition.<br/><br/>Een stukje jungle met exotische dieren, vol touwbruggen en lianen.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>JUNGLE EXPEDITION</titre><br/>Voor een jungletocht hoeft u het land niet meer uit.<br/><br/>Want in de Jungle Dome neemt Center Parcs u in samenwerking met het Wereld Natuur Fonds mee op Jungle Expedition.<br/><br/>Een stukje jungle met exotische dieren, vol touwbruggen en lianen.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>JUNGLE EXPEDITION</titre><br/>Le Jungle Dôme est un univers à thème tropical couvert avec des ponts suspendus,<br/>des lianes, des animaux exotiques…<br/><br/>Vous pouvez y partir en Jungle Expedition.<br/><br/>Cette exploration fait découvrir aux personnes de tout âge, l’univers mystérieux de la jungle de manière ludique et interactive.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>JUNGLE EXPEDITION</titre><br/>Le Jungle Dôme est un univers à thème tropical couvert avec des ponts suspendus,<br/>des lianes, des animaux exotiques…<br/><br/>Vous pouvez y partir en Jungle Expedition.<br/><br/>Cette exploration fait découvrir aux personnes de tout âge, l’univers mystérieux de la jungle de manière ludique et interactive.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>JUNGLE EXPEDITION</titre><br/>Über 8.000 exotische Pflanzen und viele seltene Vogelarten bestimmen das Bild des abenteuerlichen Jungle Domes:<br/><br/>Hier müssen Sie tiefe Schluchten überwinden, wackelige Hängebrücken meistern und können nach Gold schürfen.<br/><br/>Sind Sie bereit für so viel Nervenkitzel ? </p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="jungledome.swf">
+			<sound>domaine.swf</sound>
+			<filename>jd_08_stream.swf</filename>
+			<type>pano</type>
+			<name_uk>Stream</name_uk>
+			<name_nl>Stroom</name_nl>
+			<name_benl>Stroom</name_benl>
+			<name_befr>Courant</name_befr>
+			<name_fr>Courant</name_fr>
+			<name_de>Strom</name_de>
+			<edito_uk><![CDATA[<p><titre>JUNGLE EXPEDITION</titre><br/>You no longer need to leave the country for a trip to the jungle.<br/><br/>Let Center Parcs take you on a Jungle Expedition in the Jungle Dome in collaboration with the World Wildlife Funds.<br/><br/>A taste of the jungle with exotic animals, plenty of rope bridges and lianes.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>JUNGLE DOME</titre><br/>Voor een jungletocht hoeft u het land niet meer uit.<br/><br/>Want in de Jungle Dome neemt Center Parcs u in samenwerking met het Wereld Natuur Fonds mee op Jungle Expedition.<br/><br/>Een stukje jungle met exotische dieren, vol touwbruggen en lianen.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>JUNGLE EXPEDITION</titre><br/>Voor een jungletocht hoeft u het land niet meer uit.<br/><br/>Want in de Jungle Dome neemt Center Parcs u in samenwerking met het Wereld Natuur Fonds mee op Jungle Expedition.<br/><br/>Een stukje jungle met exotische dieren, vol touwbruggen en lianen.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>JUNGLE EXPEDITION</titre><br/>Le Jungle Dôme est un univers à thème tropical couvert avec des ponts suspendus,<br/>des lianes, des animaux exotiques…<br/><br/>Vous pouvez y partir en Jungle Expedition.<br/><br/>Cette exploration fait découvrir aux personnes de tout âge, l’univers mystérieux de la jungle de manière ludique et interactive.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>JUNGLE EXPEDITION</titre><br/>Le Jungle Dôme est un univers à thème tropical couvert avec des ponts suspendus,<br/>des lianes, des animaux exotiques…<br/><br/>Vous pouvez y partir en Jungle Expedition.<br/><br/>Cette exploration fait découvrir aux personnes de tout âge, l’univers mystérieux de la jungle de manière ludique et interactive.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>JUNGLE EXPEDITION</titre><br/>Über 8.000 exotische Pflanzen und viele seltene Vogelarten bestimmen das Bild des abenteuerlichen Jungle Domes:<br/><br/>Hier müssen Sie tiefe Schluchten überwinden, wackelige Hängebrücken meistern und können nach Gold schürfen.<br/><br/>Sind Sie bereit für so viel Nervenkitzel ? </p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="jungledome.swf">
+			<sound>domaine.swf</sound>
+			<filename>jd_09_tijdreizen.swf</filename>
+			<type>pano</type>
+			<name_uk>Tijdreizien</name_uk>
+			<name_nl>Tijdreizen</name_nl>
+			<name_benl>Tijdreizen</name_benl>
+			<name_befr>Voyager dans le temps</name_befr>
+			<name_fr>Voyager dans le temps</name_fr>
+			<name_de>Klettergerüst</name_de>
+			<edito_uk><![CDATA[<p><titre>JUNGLE EXPEDITION</titre><br/>You no longer need to leave the country for a trip to the jungle.<br/><br/>Let Center Parcs take you on a Jungle Expedition in the Jungle Dome in collaboration with the World Wildlife Funds.<br/><br/>A taste of the jungle with exotic animals, plenty of rope bridges and lianes.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>JUNGLE DOME</titre><br/>Voor een jungletocht hoeft u het land niet meer uit.<br/><br/>Want in de Jungle Dome neemt Center Parcs u in samenwerking met het Wereld Natuur Fonds mee op Jungle Expedition.<br/><br/>Een stukje jungle met exotische dieren, vol touwbruggen en lianen.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>JUNGLE EXPEDITION</titre><br/>Voor een jungletocht hoeft u het land niet meer uit.<br/><br/>Want in de Jungle Dome neemt Center Parcs u in samenwerking met het Wereld Natuur Fonds mee op Jungle Expedition.<br/><br/>Een stukje jungle met exotische dieren, vol touwbruggen en lianen.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>JUNGLE EXPEDITION</titre><br/>Le Jungle Dôme est un univers à thème tropical couvert avec des ponts suspendus,<br/>des lianes, des animaux exotiques…<br/><br/>Vous pouvez y partir en Jungle Expedition.<br/><br/>Cette exploration fait découvrir aux personnes de tout âge, l’univers mystérieux de la jungle de manière ludique et interactive.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>JUNGLE EXPEDITION</titre><br/>Le Jungle Dôme est un univers à thème tropical couvert avec des ponts suspendus,<br/>des lianes, des animaux exotiques…<br/><br/>Vous pouvez y partir en Jungle Expedition.<br/><br/>Cette exploration fait découvrir aux personnes de tout âge, l’univers mystérieux de la jungle de manière ludique et interactive.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>JUNGLE EXPEDITION</titre><br/>Über 8.000 exotische Pflanzen und viele seltene Vogelarten bestimmen das Bild des abenteuerlichen Jungle Domes:<br/><br/>Hier müssen Sie tiefe Schluchten überwinden, wackelige Hängebrücken meistern und können nach Gold schürfen.<br/><br/>Sind Sie bereit für so viel Nervenkitzel ? </p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="jungledome.swf">
+			<sound></sound>
+			<filename>sequence_jungle_dome.swf</filename>
+			<type>video</type>
+			<name_uk>Jungle Dome video</name_uk>
+			<name_nl>Jungle Dome video</name_nl>
+			<name_benl>Jungle Dome video</name_benl>
+			<name_befr>Vidéo Jungle-Dôme</name_befr>
+			<name_fr>Vidéo Jungle-Dôme</name_fr>
+			<name_de>Video Jungle Dome</name_de>
+			<edito_uk><![CDATA[<p><titre>JUNGLE EXPEDITION</titre><br/>You no longer need to leave the country for a trip to the jungle.<br/><br/>Let Center Parcs take you on a Jungle Expedition in the Jungle Dome in collaboration with the World Wildlife Funds.<br/><br/>A taste of the jungle with exotic animals, plenty of rope bridges and lianes.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>JUNGLE DOME</titre><br/>Voor een jungletocht hoeft u het land niet meer uit.<br/><br/>Want in de Jungle Dome neemt Center Parcs u in samenwerking met het Wereld Natuur Fonds mee op Jungle Expedition.<br/><br/>Een stukje jungle met exotische dieren, vol touwbruggen en lianen.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>JUNGLE EXPEDITION</titre><br/>Voor een jungletocht hoeft u het land niet meer uit.<br/><br/>Want in de Jungle Dome neemt Center Parcs u in samenwerking met het Wereld Natuur Fonds mee op Jungle Expedition.<br/><br/>Een stukje jungle met exotische dieren, vol touwbruggen en lianen.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>JUNGLE EXPEDITION</titre><br/>Le Jungle Dôme est un univers à thème tropical couvert avec des ponts suspendus,<br/>des lianes, des animaux exotiques…<br/><br/>Vous pouvez y partir en Jungle Expedition.<br/><br/>Cette exploration fait découvrir aux personnes de tout âge, l’univers mystérieux de la jungle de manière ludique et interactive.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>JUNGLE EXPEDITION</titre><br/>Le Jungle Dôme est un univers à thème tropical couvert avec des ponts suspendus,<br/>des lianes, des animaux exotiques…<br/><br/>Vous pouvez y partir en Jungle Expedition.<br/><br/>Cette exploration fait découvrir aux personnes de tout âge, l’univers mystérieux de la jungle de manière ludique et interactive.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>JUNGLE EXPEDITION</titre><br/>Über 8.000 exotische Pflanzen und viele seltene Vogelarten bestimmen das Bild des abenteuerlichen Jungle Domes:<br/><br/>Hier müssen Sie tiefe Schluchten überwinden, wackelige Hängebrücken meistern und können nach Gold schürfen.<br/><br/>Sind Sie bereit für so viel Nervenkitzel ? </p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+//businesscenter
+		<pano map="2d" plan="businesscenter.swf">
+			<sound>domaine.swf</sound>
+			<filename>bc_01_entrance.swf</filename>
+			<type>pano</type>
+			<name_uk>Entrance</name_uk>
+			<name_nl>Ingang Business Center</name_nl>
+			<name_benl>Ingang Business Center</name_benl>
+			<name_befr>Entrée</name_befr>
+			<name_fr>Entrée</name_fr>
+			<name_de>Eingang Business Center</name_de>
+			<edito_uk><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In our Business Centers you can keep meetings, brainstorming sessions and presentations undisturbed and in a quiet atmosphere.<br/><br/>All meeting rooms contain the latest technical innovations and can accommodate even the largest conferences.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In onze Business Centers kunt u in alle rust vergaderen, brainstormen en presentaties houden.<br/><br/>De vele zalen zijn voorzien van de nieuwste technische snufjes en wanneer de zalen geschakeld worden kunnen zij plaats bieden aan grote gezelschapen.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In onze Business Centers kunt u in alle rust vergaderen, brainstormen en presentaties houden.<br/><br/>De vele zalen zijn voorzien van de nieuwste technische snufjes en wanneer de zalen geschakeld worden kunnen zij plaats bieden aan grote gezelschapen.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>Dans nos Business Centers, vous pouvez vous réunir, faire du brainstorming et organiser des présentations en toute tranquillité.<br/><br/>Les nombreuses salles sont équipées des dernières technologies de pointe et lorsque les salles sont reliées entre elles, elle peuvent offrir de la place à des groupes importants.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>Dans nos Business Centers, vous pouvez vous réunir, faire du brainstorming et organiser des présentations en toute tranquillité.<br/><br/>Les nombreuses salles sont équipées des dernières technologies de pointe et lorsque les salles sont reliées entre elles, elle peuvent offrir de la place à des groupes importants.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In unseren Business Centern können Sie in aller Ruhe Ihre Versammlungen, Brainstorming und Präsentationen abhalten.<br/>Die variablen Räume sind mit den neuesten technischen Highlights ausgestattet und bieten Ihnen alles, was Sie zu einer professionellen Veranstaltung benötigen.<br/>Wir inszenieren Ihr (individuelles) Event von 5 bis zu 3.000 Personen.<br/>Fordern Sie uns!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="2d" plan="businesscenter.swf">
+			<sound>domaine.swf</sound>
+			<filename>bc_02_business_hall.swf</filename>
+			<type>pano</type>
+			<name_uk>Business hall</name_uk>
+			<name_nl>Hal Business Center</name_nl>
+			<name_benl>Hal Business Center</name_benl>
+			<name_befr>Salle de Business hall</name_befr>
+			<name_fr>Salle de Business hall</name_fr>
+			<name_de>Foyer</name_de>
+			<edito_uk><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In our Business Centers you can keep meetings, brainstorming sessions and presentations undisturbed and in a quiet atmosphere.<br/><br/>All meeting rooms contain the latest technical innovations and can accommodate even the largest conferences.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In onze Business Centers kunt u in alle rust vergaderen, brainstormen en presentaties houden.<br/><br/>De vele zalen zijn voorzien van de nieuwste technische snufjes en wanneer de zalen geschakeld worden kunnen zij plaats bieden aan grote gezelschapen.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In onze Business Centers kunt u in alle rust vergaderen, brainstormen en presentaties houden.<br/><br/>De vele zalen zijn voorzien van de nieuwste technische snufjes en wanneer de zalen geschakeld worden kunnen zij plaats bieden aan grote gezelschapen.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>Dans nos Business Centers, vous pouvez vous réunir, faire du brainstorming et organiser des présentations en toute tranquillité.<br/><br/>Les nombreuses salles sont équipées des dernières technologies de pointe et lorsque les salles sont reliées entre elles, elle peuvent offrir de la place à des groupes importants.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>Dans nos Business Centers, vous pouvez vous réunir, faire du brainstorming et organiser des présentations en toute tranquillité.<br/><br/>Les nombreuses salles sont équipées des dernières technologies de pointe et lorsque les salles sont reliées entre elles, elle peuvent offrir de la place à des groupes importants.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In unseren Business Centern können Sie in aller Ruhe Ihre Versammlungen, Brainstorming und Präsentationen abhalten.<br/>Die variablen Räume sind mit den neuesten technischen Highlights ausgestattet und bieten Ihnen alles, was Sie zu einer professionellen Veranstaltung benötigen.<br/>Wir inszenieren Ihr (individuelles) Event von 5 bis zu 3.000 Personen.<br/>Fordern Sie uns!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="2d" plan="businesscenter.swf">
+			<sound>domaine.swf</sound>
+			<filename>bc_03_business_lounge.swf</filename>
+			<type>pano</type>
+			<name_uk>Business lounge</name_uk>
+			<name_nl>Lounge Business Center</name_nl>
+			<name_benl>Lounge Business Center</name_benl>
+			<name_befr>Salon Business</name_befr>
+			<name_fr>Salon Business</name_fr>
+			<name_de>Business Lounge</name_de>
+			<edito_uk><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In our Business Centers you can keep meetings, brainstorming sessions and presentations undisturbed and in a quiet atmosphere.<br/><br/>All meeting rooms contain the latest technical innovations and can accommodate even the largest conferences.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In onze Business Centers kunt u in alle rust vergaderen, brainstormen en presentaties houden.<br/><br/>De vele zalen zijn voorzien van de nieuwste technische snufjes en wanneer de zalen geschakeld worden kunnen zij plaats bieden aan grote gezelschapen.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In onze Business Centers kunt u in alle rust vergaderen, brainstormen en presentaties houden.<br/><br/>De vele zalen zijn voorzien van de nieuwste technische snufjes en wanneer de zalen geschakeld worden kunnen zij plaats bieden aan grote gezelschapen.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>Dans nos Business Centers, vous pouvez vous réunir, faire du brainstorming et organiser des présentations en toute tranquillité.<br/><br/>Les nombreuses salles sont équipées des dernières technologies de pointe et lorsque les salles sont reliées entre elles, elle peuvent offrir de la place à des groupes importants.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>Dans nos Business Centers, vous pouvez vous réunir, faire du brainstorming et organiser des présentations en toute tranquillité.<br/><br/>Les nombreuses salles sont équipées des dernières technologies de pointe et lorsque les salles sont reliées entre elles, elle peuvent offrir de la place à des groupes importants.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In unseren Business Centern können Sie in aller Ruhe Ihre Versammlungen, Brainstorming und Präsentationen abhalten.<br/>Die variablen Räume sind mit den neuesten technischen Highlights ausgestattet und bieten Ihnen alles, was Sie zu einer professionellen Veranstaltung benötigen.<br/>Wir inszenieren Ihr (individuelles) Event von 5 bis zu 3.000 Personen.<br/>Fordern Sie uns!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="2d" plan="businesscenter.swf">
+			<sound>domaine.swf</sound>
+			<filename>bc_04_large_meeting_room.swf</filename>
+			<type>pano</type>
+			<name_uk>Large meeting room</name_uk>
+			<name_nl>Grote vergaderruimte Business Center</name_nl>
+			<name_benl>Grote vergaderruimte Business Center</name_benl>
+			<name_befr>Grande salle de réunion</name_befr>
+			<name_fr>Grande salle de réunion</name_fr>
+			<name_de>Tagungsraum</name_de>
+			<edito_uk><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In our Business Centers you can keep meetings, brainstorming sessions and presentations undisturbed and in a quiet atmosphere.<br/><br/>All meeting rooms contain the latest technical innovations and can accommodate even the largest conferences.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In onze Business Centers kunt u in alle rust vergaderen, brainstormen en presentaties houden.<br/><br/>De vele zalen zijn voorzien van de nieuwste technische snufjes en wanneer de zalen geschakeld worden kunnen zij plaats bieden aan grote gezelschapen.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In onze Business Centers kunt u in alle rust vergaderen, brainstormen en presentaties houden.<br/><br/>De vele zalen zijn voorzien van de nieuwste technische snufjes en wanneer de zalen geschakeld worden kunnen zij plaats bieden aan grote gezelschapen.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>Dans nos Business Centers, vous pouvez vous réunir, faire du brainstorming et organiser des présentations en toute tranquillité.<br/><br/>Les nombreuses salles sont équipées des dernières technologies de pointe et lorsque les salles sont reliées entre elles, elle peuvent offrir de la place à des groupes importants.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>Dans nos Business Centers, vous pouvez vous réunir, faire du brainstorming et organiser des présentations en toute tranquillité.<br/><br/>Les nombreuses salles sont équipées des dernières technologies de pointe et lorsque les salles sont reliées entre elles, elle peuvent offrir de la place à des groupes importants.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In unseren Business Centern können Sie in aller Ruhe Ihre Versammlungen, Brainstorming und Präsentationen abhalten.<br/>Die variablen Räume sind mit den neuesten technischen Highlights ausgestattet und bieten Ihnen alles, was Sie zu einer professionellen Veranstaltung benötigen.<br/>Wir inszenieren Ihr (individuelles) Event von 5 bis zu 3.000 Personen.<br/>Fordern Sie uns!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="businesscenter.swf">
+			<sound>domaine.swf</sound>
+			<filename>bc_05_medium_meeting_room.swf</filename>
+			<type>pano</type>
+			<name_uk>Medium meeting room</name_uk>
+			<name_nl>Vergaderruimte Business Center</name_nl>
+			<name_benl>Vergaderruimte Business Center</name_benl>
+			<name_befr>Salle moyenne de réunion</name_befr>
+			<name_fr>Salle moyenne de réunion</name_fr>
+			<name_de>Tagungsraum</name_de>
+			<edito_uk><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In our Business Centers you can keep meetings, brainstorming sessions and presentations undisturbed and in a quiet atmosphere.<br/><br/>All meeting rooms contain the latest technical innovations and can accommodate even the largest conferences.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In onze Business Centers kunt u in alle rust vergaderen, brainstormen en presentaties houden.<br/><br/>De vele zalen zijn voorzien van de nieuwste technische snufjes en wanneer de zalen geschakeld worden kunnen zij plaats bieden aan grote gezelschapen.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In onze Business Centers kunt u in alle rust vergaderen, brainstormen en presentaties houden.<br/><br/>De vele zalen zijn voorzien van de nieuwste technische snufjes en wanneer de zalen geschakeld worden kunnen zij plaats bieden aan grote gezelschapen.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>Dans nos Business Centers, vous pouvez vous réunir, faire du brainstorming et organiser des présentations en toute tranquillité.<br/><br/>Les nombreuses salles sont équipées des dernières technologies de pointe et lorsque les salles sont reliées entre elles, elle peuvent offrir de la place à des groupes importants.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>Dans nos Business Centers, vous pouvez vous réunir, faire du brainstorming et organiser des présentations en toute tranquillité.<br/><br/>Les nombreuses salles sont équipées des dernières technologies de pointe et lorsque les salles sont reliées entre elles, elle peuvent offrir de la place à des groupes importants.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In unseren Business Centern können Sie in aller Ruhe Ihre Versammlungen, Brainstorming und Präsentationen abhalten.<br/>Die variablen Räume sind mit den neuesten technischen Highlights ausgestattet und bieten Ihnen alles, was Sie zu einer professionellen Veranstaltung benötigen.<br/>Wir inszenieren Ihr (individuelles) Event von 5 bis zu 3.000 Personen.<br/>Fordern Sie uns!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="2d" plan="businesscenter.swf">
+			<sound>domaine.swf</sound>
+			<filename>bc_06_small_meeting_room.swf</filename>
+			<type>pano</type>
+			<name_uk>Small meeting room</name_uk>
+			<name_nl>Kleine vergaderruimte Business Center</name_nl>
+			<name_benl>Kleine vergaderruimte Business Center</name_benl>
+			<name_befr>Petite salle de réunion</name_befr>
+			<name_fr>Petite salle de réunion</name_fr>
+			<name_de>Tagungsraum</name_de>
+			<edito_uk><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In our Business Centers you can keep meetings, brainstorming sessions and presentations undisturbed and in a quiet atmosphere.<br/><br/>All meeting rooms contain the latest technical innovations and can accommodate even the largest conferences.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In onze Business Centers kunt u in alle rust vergaderen, brainstormen en presentaties houden.<br/><br/>De vele zalen zijn voorzien van de nieuwste technische snufjes en wanneer de zalen geschakeld worden kunnen zij plaats bieden aan grote gezelschapen.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In onze Business Centers kunt u in alle rust vergaderen, brainstormen en presentaties houden.<br/><br/>De vele zalen zijn voorzien van de nieuwste technische snufjes en wanneer de zalen geschakeld worden kunnen zij plaats bieden aan grote gezelschapen.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>Dans nos Business Centers, vous pouvez vous réunir, faire du brainstorming et organiser des présentations en toute tranquillité.<br/><br/>Les nombreuses salles sont équipées des dernières technologies de pointe et lorsque les salles sont reliées entre elles, elle peuvent offrir de la place à des groupes importants.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>Dans nos Business Centers, vous pouvez vous réunir, faire du brainstorming et organiser des présentations en toute tranquillité.<br/><br/>Les nombreuses salles sont équipées des dernières technologies de pointe et lorsque les salles sont reliées entre elles, elle peuvent offrir de la place à des groupes importants.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In unseren Business Centern können Sie in aller Ruhe Ihre Versammlungen, Brainstorming und Präsentationen abhalten.<br/>Die variablen Räume sind mit den neuesten technischen Highlights ausgestattet und bieten Ihnen alles, was Sie zu einer professionellen Veranstaltung benötigen.<br/>Wir inszenieren Ihr (individuelles) Event von 5 bis zu 3.000 Personen.<br/>Fordern Sie uns!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+	</panos>
+</visite>

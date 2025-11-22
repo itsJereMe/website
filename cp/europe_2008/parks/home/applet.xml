@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<visite>
+	<titre_uk>Discover our villages in France !</titre_uk>
+	<titre_nl>Ontdek onze parken en Europa !</titre_nl>
+	<titre_benl>Ontdek onze parken en Europa !</titre_benl>
+	<titre_befr>Découvrez nos Domaines en Europe !</titre_befr>
+	<titre_fr>Découvrez nos Domaines en France !</titre_fr>
+	<titre_de>Entdecken Sie unsere Parks in Europa!</titre_de>
+	<auto_scroll>1</auto_scroll>
+	<auto_scroll_time>2</auto_scroll_time>
+	<velocite>10</velocite>		
+	<panos>
+		<pano>
+			<sound>domaine.swf</sound>
+			<filename>home.swf</filename>
+			<type>photo</type>
+			<name_uk>Welcome to the world of Center Parcs</name_uk>
+			<name_nl>Welkom in de wereld van Center Parcs</name_nl>
+			<name_benl>Welkom in de wereld van Center Parcs</name_benl>
+			<name_befr>Bienvenue dans le monde de Center Parcs</name_befr>
+			<name_fr>Bienvenue dans le monde de Center Parcs</name_fr>
+			<name_de>Willkommen in der Welt von Center Parcs</name_de>
+			<edito_uk><![CDATA[<p><titre>Enjoy Center Parcs</titre><br/>Beautiful nature, adventurous sporting activities and a comfortable private cottage.<br/><br/>At all our villages you can really get away from it all for a few days.<br/><br/>Together, with friends or with the entire family.<br/><br/>Feel like a short break ? Pay a virtual visit to Center Parcs in advance !</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>Genieten bij Center Parcs</titre><br/>Prachtige natuur, avontuurlijke sportieve activiteiten en een comfortabele privé-cottage.<br/><br/>Op al onze parken bent u er een paar dagen echt tussenuit.<br/><br/>Samen, met vrienden of met het hele gezin.<br/><br/>Zin in een korte break ? Breng alvast een virtueel bezoekje aan Center Parcs.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>Genieten bij Center Parcs</titre><br/>Prachtige natuur, avontuurlijke sportieve activiteiten en een comfortabele privé-cottage.<br/><br/>Op al onze parken bent u er een paar dagen echt tussenuit.<br/><br/>Samen, met vrienden of met het hele gezin.<br/><br/>Zin in een korte break ? Breng alvast een virtueel bezoekje aan Center Parcs.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>Profiter de la vie chez Center Parcs</titre><br/>Une nature splendide, des activités aventureuses et sportives et un cottage privé confortable.<br/><br/>Dans tous nos Domaines, vous vivez une évasion totale durant quelques jours. En bonne compagnie, avec des amis ou avec toute la famille.<br/><br/>Envie de courtes vacances ? Visitez déjà Center Parcs virtuellement.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>Profiter de la vie chez Center Parcs</titre><br/>Une nature splendide, des activités aventureuses et sportives et un cottage privé confortable.<br/><br/>Dans tous nos Domaines, vous vivez une évasion totale durant quelques jours. En bonne compagnie, avec des amis ou avec toute la famille.<br/><br/>Envie de courtes vacances ? Visitez déjà Center Parcs virtuellement.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>Willkommen in der Welt von Center Parcs</titre><br/>Entdecken Sie 14 individuelle Parks virtuell!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>5</pano_change_timer>
+		</pano>	
+		
+		<pano>
+			<sound>domaine.swf</sound>
+			<filename>home.swf</filename>
+			<type>photo</type>
+			<name_uk>Welcome to the world of Center Parcs</name_uk>
+			<name_nl>Welkom in de wereld van Center Parcs</name_nl>
+			<name_benl>Welkom in de wereld van Center Parcs</name_benl>
+			<name_befr>Bienvenue dans le monde de Center Parcs</name_befr>
+			<name_fr>Bienvenue dans le monde de Center Parcs</name_fr>
+			<name_de>Willkommen in der Welt von Center Parcs</name_de>
+			<edito_uk><![CDATA[<p><titre>Enjoy Center Parcs</titre><br/>Beautiful nature, adventurous sporting activities and a comfortable private cottage.<br/><br/>At all our villages you can really get away from it all for a few days.<br/><br/>Together, with friends or with the entire family.<br/><br/>Feel like a short break ? Pay a virtual visit to Center Parcs in advance !</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>Genieten bij Center Parcs</titre><br/>Prachtige natuur, avontuurlijke sportieve activiteiten en een comfortabele privé-cottage.<br/><br/>Op al onze parken bent u er een paar dagen echt tussenuit.<br/><br/>Samen, met vrienden of met het hele gezin.<br/><br/>Zin in een korte break ? Breng alvast een virtueel bezoekje aan Center Parcs.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>Genieten bij Center Parcs</titre><br/>Prachtige natuur, avontuurlijke sportieve activiteiten en een comfortabele privé-cottage.<br/><br/>Op al onze parken bent u er een paar dagen echt tussenuit.<br/><br/>Samen, met vrienden of met het hele gezin.<br/><br/>Zin in een korte break ? Breng alvast een virtueel bezoekje aan Center Parcs.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>Profiter de la vie chez Center Parcs</titre><br/>Une nature splendide, des activités aventureuses et sportives et un cottage privé confortable.<br/><br/>Dans tous nos Domaines, vous vivez une évasion totale durant quelques jours. En bonne compagnie, avec des amis ou avec toute la famille.<br/><br/>Envie de courtes vacances ? Visitez déjà Center Parcs virtuellement.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>Profiter de la vie chez Center Parcs</titre><br/>Une nature splendide, des activités aventureuses et sportives et un cottage privé confortable.<br/><br/>Dans tous nos Domaines, vous vivez une évasion totale durant quelques jours. En bonne compagnie, avec des amis ou avec toute la famille.<br/><br/>Envie de courtes vacances ? Visitez déjà Center Parcs virtuellement.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>Willkommen in der Welt von Center Parcs</titre><br/>Entdecken Sie 14 individuelle Parks virtuell!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>5</pano_change_timer>
+		</pano>	
+		
+		<pano>ATTENTION DE NE PAS OUBLIER CET ELEMENT PANNEAU VIDE</pano>
+	</panos>
+</visite>

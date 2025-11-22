@@ -1,0 +1,1701 @@
+<?xml version="1.0" encoding="utf-8"?>
+<visite>
+
+	<titre_uk>You are in DE HUTTENHEUGTE</titre_uk>
+	<titre_nl>U bent in DE HUTTENHEUGTE</titre_nl>
+	<titre_benl>U bent in DE HUTTENHEUGTE</titre_benl>
+	<titre_befr>Vous êtes à DE HUTTENHEUGTE</titre_befr>
+	<titre_fr>Vous êtes à DE HUTTENHEUGTE</titre_fr>
+	<titre_de>Sie sind im Park DE HUTTENHEUGTE</titre_de>
+	
+	<auto_scroll>1</auto_scroll>
+	<auto_scroll_time>2</auto_scroll_time>
+	<velocite>10</velocite>		
+	<bird>5</bird>
+	<panos>	
+///// 3d
+//domaine
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_02_market_dome_entrance_view_2.swf</filename>
+			<type>pano</type>
+			<name_uk>Market Dome entrance view 1</name_uk>
+			<name_nl>Ingang Market Dome 1</name_nl>
+			<name_benl>Ingang Market Dome 1</name_benl>
+			<name_befr>Entrée Market Dôme 1</name_befr>
+			<name_fr>Entrée Market Dôme 1</name_fr>
+			<name_de>Eingang Market Dome</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>The ‘De Huttenheugte’ Family Park is located in the North East of the Netherlands.<br/>This is a children’s paradise with lots of activities and a Children’s farm.<br/>Gaze at the stars in the observatory or come and relax in the sauna.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Kinder haben in diesem Park die beste Zeit ihres Lebens.<br/><br/>Mit der Action Factory, der Adventure Island und dem Aktivitätenprogramm Wannabe wird Langeweile zum Fremdwort.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_01_market_dome_entrance_view_1.swf</filename>
+			<type>pano</type>
+			<name_uk>Market Dome entrance view 2</name_uk>
+			<name_nl>Ingang Market Dome 2</name_nl>
+			<name_benl>Ingang Market Dome 2</name_benl>
+			<name_befr>Entrée Market Dôme 2</name_befr>
+			<name_fr>Entrée Market Dôme 2</name_fr>
+			<name_de>Eingang Market Dome</name_de><name_de>Eingang Market Dome</name_de>
+				<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>The ‘De Huttenheugte’ Family Park is located in the North East of the Netherlands.<br/>This is a children’s paradise with lots of activities and a Children’s farm.<br/>Gaze at the stars in the observatory or come and relax in the sauna.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Kinder haben in diesem Park die beste Zeit ihres Lebens.<br/><br/>Mit der Action Factory, der Adventure Island und dem Aktivitätenprogramm Wannabe wird Langeweile zum Fremdwort.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>1100</x_pos>
+			<vitesse>-5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_03_action_factory_terrace.swf</filename>
+			<type>pano</type>
+			<name_uk>Action Factory terrace</name_uk>
+			<name_nl>Terras Action Factory</name_nl>
+			<name_benl>Terras Action Factory</name_benl>
+			<name_befr>Terrasse Action Factory</name_befr>
+			<name_fr>Terrasse Action Factory</name_fr>
+			<name_de>Terrasse Action Factory</name_de><name_de>Eingang Market Dome</name_de>
+				<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>The ‘De Huttenheugte’ Family Park is located in the North East of the Netherlands.<br/>This is a children’s paradise with lots of activities and a Children’s farm.<br/>Gaze at the stars in the observatory or come and relax in the sauna.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Kinder haben in diesem Park die beste Zeit ihres Lebens.<br/><br/>Mit der Action Factory, der Adventure Island und dem Aktivitätenprogramm Wannabe wird Langeweile zum Fremdwort.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>400</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_04_mystery_mission_adventure_island_entrance.swf</filename>
+			<type>pano</type>
+			<name_uk>Mystery mission Adventure Island entrance</name_uk>
+			<name_nl>Ingang Mystery Mission - Adventure Island</name_nl>
+			<name_benl>Ingang Mystery Mission - Adventure Island</name_benl>
+			<name_befr>Entrée Mystery Mission</name_befr>
+			<name_fr>Entrée Mystery Mission</name_fr>
+			<name_de>Mystery Mission/Adventure Island</name_de><name_de>Eingang Market Dome</name_de>
+				<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>The ‘De Huttenheugte’ Family Park is located in the North East of the Netherlands.<br/>This is a children’s paradise with lots of activities and a Children’s farm.<br/>Gaze at the stars in the observatory or come and relax in the sauna.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Kinder haben in diesem Park die beste Zeit ihres Lebens.<br/><br/>Mit der Action Factory, der Adventure Island und dem Aktivitätenprogramm Wannabe wird Langeweile zum Fremdwort.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_05_bridge_view_on_adventure_island.swf</filename>
+			<type>pano</type>
+			<name_uk>Bridge view 1 on Adventure Island</name_uk>
+			<name_nl>Zicht op Adventure Island 1</name_nl>
+			<name_benl>Zicht op Adventure Island 1</name_benl>
+			<name_befr>Vue 1 du pont sur l'île d'aventure</name_befr>
+			<name_fr>Vue 1 du pont sur l'île d'aventure</name_fr>
+			<name_de>Adventure Island</name_de><name_de>Eingang Market Dome</name_de>
+				<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>The ‘De Huttenheugte’ Family Park is located in the North East of the Netherlands.<br/>This is a children’s paradise with lots of activities and a Children’s farm.<br/>Gaze at the stars in the observatory or come and relax in the sauna.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Kinder haben in diesem Park die beste Zeit ihres Lebens.<br/><br/>Mit der Action Factory, der Adventure Island und dem Aktivitätenprogramm Wannabe wird Langeweile zum Fremdwort.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_06_bridge_view_2_on_adventure_island.swf</filename>
+			<type>pano</type>
+			<name_uk>Bridge view 2 on Adventure Island</name_uk>
+			<name_nl>Zicht op Adventure Island 2</name_nl>
+			<name_benl>Zicht op Adventure Island 2</name_benl>
+			<name_befr>Vue 2 du pont sur l'île d'aventure</name_befr>
+			<name_fr>Vue 2 du pont sur l'île d'aventure</name_fr>
+			<name_de>Adventure Island</name_de><name_de>Eingang Market Dome</name_de>
+				<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>The ‘De Huttenheugte’ Family Park is located in the North East of the Netherlands.<br/>This is a children’s paradise with lots of activities and a Children’s farm.<br/>Gaze at the stars in the observatory or come and relax in the sauna.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Kinder haben in diesem Park die beste Zeit ihres Lebens.<br/><br/>Mit der Action Factory, der Adventure Island und dem Aktivitätenprogramm Wannabe wird Langeweile zum Fremdwort.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_07_adventure_island_entrance.swf</filename>
+			<type>pano</type>
+			<name_uk>Adventure Island entrance</name_uk>
+			<name_nl>Ingang Adventure Island</name_nl>
+			<name_benl>Ingang Adventure Island</name_benl>
+			<name_befr>Entrée Adventure Island</name_befr>
+			<name_fr>Entrée Adventure Island</name_fr>
+			<name_de>Adventure Island</name_de><name_de>Eingang Market Dome</name_de>
+				<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>The ‘De Huttenheugte’ Family Park is located in the North East of the Netherlands.<br/>This is a children’s paradise with lots of activities and a Children’s farm.<br/>Gaze at the stars in the observatory or come and relax in the sauna.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Kinder haben in diesem Park die beste Zeit ihres Lebens.<br/><br/>Mit der Action Factory, der Adventure Island und dem Aktivitätenprogramm Wannabe wird Langeweile zum Fremdwort.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_08_panoramic_view_zone_7.swf</filename>
+			<type>pano</type>
+			<name_uk>Panoramic view zone 7</name_uk>
+			<name_nl>Panoramaoverzicht zone 7</name_nl>
+			<name_benl>Panoramaoverzicht zone 7</name_benl>
+			<name_befr>Vue panoramique zone 7</name_befr>
+			<name_fr>Vue panoramique zone 7</name_fr>
+			<name_de>Panoramablick</name_de><name_de>Eingang Market Dome</name_de>
+				<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>The ‘De Huttenheugte’ Family Park is located in the North East of the Netherlands.<br/>This is a children’s paradise with lots of activities and a Children’s farm.<br/>Gaze at the stars in the observatory or come and relax in the sauna.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Kinder haben in diesem Park die beste Zeit ihres Lebens.<br/><br/>Mit der Action Factory, der Adventure Island und dem Aktivitätenprogramm Wannabe wird Langeweile zum Fremdwort.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_09_small_beach.swf</filename>
+			<type>pano</type>
+			<name_uk>Small beach</name_uk>
+			<name_nl>Strandje</name_nl>
+			<name_benl>Strandje</name_benl>
+			<name_befr>Petite plage</name_befr>
+			<name_fr>Petite plage</name_fr>
+			<name_de>Strand</name_de><name_de>Eingang Market Dome</name_de>
+				<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>The ‘De Huttenheugte’ Family Park is located in the North East of the Netherlands.<br/>This is a children’s paradise with lots of activities and a Children’s farm.<br/>Gaze at the stars in the observatory or come and relax in the sauna.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Kinder haben in diesem Park die beste Zeit ihres Lebens.<br/><br/>Mit der Action Factory, der Adventure Island und dem Aktivitätenprogramm Wannabe wird Langeweile zum Fremdwort.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_10_lake_view_1.swf</filename>
+			<type>pano</type>
+			<name_uk>Lake view 1</name_uk>
+			<name_nl>Overzicht meer 1</name_nl>
+			<name_benl>Overzicht meer 1</name_benl>
+			<name_befr>Vue sur lac 1</name_befr>
+			<name_fr>Vue sur lac 1</name_fr>
+			<name_de>Seeblick</name_de><name_de>Eingang Market Dome</name_de>
+				<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>The ‘De Huttenheugte’ Family Park is located in the North East of the Netherlands.<br/>This is a children’s paradise with lots of activities and a Children’s farm.<br/>Gaze at the stars in the observatory or come and relax in the sauna.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Kinder haben in diesem Park die beste Zeit ihres Lebens.<br/><br/>Mit der Action Factory, der Adventure Island und dem Aktivitätenprogramm Wannabe wird Langeweile zum Fremdwort.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_11_lake_view_2.swf</filename>
+			<type>pano</type>
+			<name_uk>Lake view 2</name_uk>
+			<name_nl>Overzicht meer 2</name_nl>
+			<name_benl>Overzicht meer 2</name_benl>
+			<name_befr>Vue sur lac 2</name_befr>
+			<name_fr>>Vue sur lac 2</name_fr>
+			<name_de>Seeblick</name_de><name_de>Eingang Market Dome</name_de>
+				<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>The ‘De Huttenheugte’ Family Park is located in the North East of the Netherlands.<br/>This is a children’s paradise with lots of activities and a Children’s farm.<br/>Gaze at the stars in the observatory or come and relax in the sauna.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Kinder haben in diesem Park die beste Zeit ihres Lebens.<br/><br/>Mit der Action Factory, der Adventure Island und dem Aktivitätenprogramm Wannabe wird Langeweile zum Fremdwort.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound></sound>
+			<filename>sequence_nature.swf</filename>
+			<type>video</type>
+			<name_uk>Nature, walking, biking video</name_uk>
+			<name_nl>Natuur, wandelen, fietsen video</name_nl>
+			<name_benl>Natuur, wandelen, fietsen video</name_benl>
+			<name_befr>Vidéo nature, balades à pied et à vélo</name_befr>
+			<name_fr>Vidéo nature, balades à pied et à vélo</name_fr>
+			<name_de>Video Natur</name_de><name_de>Eingang Market Dome</name_de>
+				<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>The ‘De Huttenheugte’ Family Park is located in the North East of the Netherlands.<br/>This is a children’s paradise with lots of activities and a Children’s farm.<br/>Gaze at the stars in the observatory or come and relax in the sauna.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Kinder haben in diesem Park die beste Zeit ihres Lebens.<br/><br/>Mit der Action Factory, der Adventure Island und dem Aktivitätenprogramm Wannabe wird Langeweile zum Fremdwort.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound></sound>
+			<filename>sequence_nature2.swf</filename>
+			<type>video</type>
+			<name_uk>Outdoor activities video</name_uk>
+			<name_nl>Outdoor activiteiten video</name_nl>
+			<name_benl>Outdoor activiteiten video</name_benl>
+			<name_befr>Vidéo actions outdoor</name_befr>
+			<name_fr>Vidéo actions outdoor</name_fr>
+			<name_de>Video Outdoor-Aktivitäten</name_de><name_de>Eingang Market Dome</name_de>
+				<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>The ‘De Huttenheugte’ Family Park is located in the North East of the Netherlands.<br/>This is a children’s paradise with lots of activities and a Children’s farm.<br/>Gaze at the stars in the observatory or come and relax in the sauna.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Kinder haben in diesem Park die beste Zeit ihres Lebens.<br/><br/>Mit der Action Factory, der Adventure Island und dem Aktivitätenprogramm Wannabe wird Langeweile zum Fremdwort.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+//activites		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_12_adventure_golf_general_view.swf</filename>
+			<type>pano</type>
+			<name_uk>Adventure Golf general view</name_uk>
+			<name_nl>Overzicht Adventure Golf</name_nl>
+			<name_benl>Overzicht Adventure Golf</name_benl>
+			<name_befr>Vue générale Adventure Golf</name_befr>
+			<name_fr>Vue générale Adventure Golf</name_fr>
+			<name_de>Abenteuergolf</name_de><name_de>Eingang Market Dome</name_de>
+				<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>The ‘De Huttenheugte’ Family Park is located in the North East of the Netherlands.<br/>This is a children’s paradise with lots of activities and a Children’s farm.<br/>Gaze at the stars in the observatory or come and relax in the sauna.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Kinder haben in diesem Park die beste Zeit ihres Lebens.<br/><br/>Mit der Action Factory, der Adventure Island und dem Aktivitätenprogramm Wannabe wird Langeweile zum Fremdwort.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_13_adventure_golf.swf</filename>
+			<type>pano</type>
+			<name_uk>Adventure Golf</name_uk>
+			<name_nl>Adventure Golf</name_nl>
+			<name_benl>Adventure Golf</name_benl>
+			<name_befr>Adventure Golf</name_befr>
+			<name_fr>Adventure Golf</name_fr>
+			<name_de>Abenteuergolf</name_de><name_de>Eingang Market Dome</name_de>
+				<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>The ‘De Huttenheugte’ Family Park is located in the North East of the Netherlands.<br/>This is a children’s paradise with lots of activities and a Children’s farm.<br/>Gaze at the stars in the observatory or come and relax in the sauna.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Kinder haben in diesem Park die beste Zeit ihres Lebens.<br/><br/>Mit der Action Factory, der Adventure Island und dem Aktivitätenprogramm Wannabe wird Langeweile zum Fremdwort.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_14_adventure_island_playground.swf</filename>
+			<type>pano</type>
+			<name_uk>Adventure Island playground</name_uk>
+			<name_nl>Speeltuin Adventure Island</name_nl>
+			<name_benl>Speeltuin Adventure Island</name_benl>
+			<name_befr>Adventure Island terrain de jeu </name_befr>
+			<name_fr>Adventure Island terrain de jeu </name_fr>
+			<name_de>Adventure Island</name_de><name_de>Eingang Market Dome</name_de>
+				<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>The ‘De Huttenheugte’ Family Park is located in the North East of the Netherlands.<br/>This is a children’s paradise with lots of activities and a Children’s farm.<br/>Gaze at the stars in the observatory or come and relax in the sauna.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Kinder haben in diesem Park die beste Zeit ihres Lebens.<br/><br/>Mit der Action Factory, der Adventure Island und dem Aktivitätenprogramm Wannabe wird Langeweile zum Fremdwort.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_15_pedalos.swf</filename>
+			<type>pano</type>
+			<name_uk>Pedalos</name_uk>
+			<name_nl>Waterfietsen</name_nl>
+			<name_benl>Waterfietsen</name_benl>
+			<name_befr>Pédalos</name_befr>
+			<name_fr>Pédalos</name_fr>
+			<name_de>Tretboote</name_de><name_de>Eingang Market Dome</name_de>
+				<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>The ‘De Huttenheugte’ Family Park is located in the North East of the Netherlands.<br/>This is a children’s paradise with lots of activities and a Children’s farm.<br/>Gaze at the stars in the observatory or come and relax in the sauna.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Kinder haben in diesem Park die beste Zeit ihres Lebens.<br/><br/>Mit der Action Factory, der Adventure Island und dem Aktivitätenprogramm Wannabe wird Langeweile zum Fremdwort.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_17_outside_tennis.swf</filename>
+			<type>pano</type>
+			<name_uk>Outside tennis</name_uk>
+			<name_nl>Tennisbaan buiten</name_nl>
+			<name_benl>Tennisbaan buiten</name_benl>
+			<name_befr>Tennis extérieur</name_befr>
+			<name_fr>Tennis extérieur</name_fr>
+			<name_de>Tennis outdoor</name_de><name_de>Eingang Market Dome</name_de>
+				<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>The ‘De Huttenheugte’ Family Park is located in the North East of the Netherlands.<br/>This is a children’s paradise with lots of activities and a Children’s farm.<br/>Gaze at the stars in the observatory or come and relax in the sauna.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Kinder haben in diesem Park die beste Zeit ihres Lebens.<br/><br/>Mit der Action Factory, der Adventure Island und dem Aktivitätenprogramm Wannabe wird Langeweile zum Fremdwort.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_18_childens_farm_playground.swf</filename>
+			<type>pano</type>
+			<name_uk>Childrens farm playground 1</name_uk>
+			<name_nl>Speeltuin Kinderboerderij 1</name_nl>
+			<name_benl>Speeltuin Kinderboerderij 1</name_benl>
+			<name_befr>Terrain de jeu dans la ferme pour enfants 1</name_befr>
+			<name_fr>Terrain de jeu dans la ferme pour enfants 1</name_fr>
+			<name_de>Kinderbauernhof</name_de><name_de>Eingang Market Dome</name_de>
+				<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>The ‘De Huttenheugte’ Family Park is located in the North East of the Netherlands.<br/>This is a children’s paradise with lots of activities and a Children’s farm.<br/>Gaze at the stars in the observatory or come and relax in the sauna.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Kinder haben in diesem Park die beste Zeit ihres Lebens.<br/><br/>Mit der Action Factory, der Adventure Island und dem Aktivitätenprogramm Wannabe wird Langeweile zum Fremdwort.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_20_childens_farm_donkeys.swf</filename>
+			<type>pano</type>
+			<name_uk>Childrens farm playground 2</name_uk>
+			<name_nl>Speeltuin Kinderboerderij 2</name_nl>
+			<name_benl>Speeltuin Kinderboerderij</name_benl>
+			<name_befr>Terrain de jeu dans la ferme pour enfants 2</name_befr>
+			<name_fr>Terrain de jeu dans la ferme pour enfants 2</name_fr>
+			<name_de>Kinderbauernhof</name_de><name_de>Eingang Market Dome</name_de>
+				<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>The ‘De Huttenheugte’ Family Park is located in the North East of the Netherlands.<br/>This is a children’s paradise with lots of activities and a Children’s farm.<br/>Gaze at the stars in the observatory or come and relax in the sauna.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Kinder haben in diesem Park die beste Zeit ihres Lebens.<br/><br/>Mit der Action Factory, der Adventure Island und dem Aktivitätenprogramm Wannabe wird Langeweile zum Fremdwort.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_19_cycle_center.swf</filename>
+			<type>pano</type>
+			<name_uk>Cycle Center</name_uk>
+			<name_nl>Cycle Center</name_nl>
+			<name_benl>Cycle Center</name_benl>
+			<name_befr>Cycle Center</name_befr>
+			<name_fr>Cycle Center</name_fr>
+			<name_de>Cycle Center</name_de><name_de>Eingang Market Dome</name_de>
+				<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>The ‘De Huttenheugte’ Family Park is located in the North East of the Netherlands.<br/>This is a children’s paradise with lots of activities and a Children’s farm.<br/>Gaze at the stars in the observatory or come and relax in the sauna.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Kinder haben in diesem Park die beste Zeit ihres Lebens.<br/><br/>Mit der Action Factory, der Adventure Island und dem Aktivitätenprogramm Wannabe wird Langeweile zum Fremdwort.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>1500</x_pos>
+			<vitesse>-5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_21_playground.swf</filename>
+			<type>pano</type>
+			<name_uk>Playground</name_uk>
+			<name_nl>Speeltuin</name_nl>
+			<name_benl>Speeltuin</name_benl>
+			<name_befr>Terrain de jeu</name_befr>
+			<name_fr>Terrain de jeu</name_fr>
+			<name_de>Spielplatz</name_de><name_de>Eingang Market Dome</name_de>
+				<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>The ‘De Huttenheugte’ Family Park is located in the North East of the Netherlands.<br/>This is a children’s paradise with lots of activities and a Children’s farm.<br/>Gaze at the stars in the observatory or come and relax in the sauna.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Kinder haben in diesem Park die beste Zeit ihres Lebens.<br/><br/>Mit der Action Factory, der Adventure Island und dem Aktivitätenprogramm Wannabe wird Langeweile zum Fremdwort.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_22_indoor_tennis.swf</filename>
+			<type>pano</type>
+			<name_uk>Indoor tennis</name_uk>
+			<name_nl>Tennisbaan binnen</name_nl>
+			<name_benl>Tennisbaan binnen</name_benl>
+			<name_befr>Tennis intérieur</name_befr>
+			<name_fr>Tennis intérieur</name_fr>
+			<name_de>Tennis indoor</name_de><name_de>Eingang Market Dome</name_de>
+				<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>The ‘De Huttenheugte’ Family Park is located in the North East of the Netherlands.<br/>This is a children’s paradise with lots of activities and a Children’s farm.<br/>Gaze at the stars in the observatory or come and relax in the sauna.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Kinder haben in diesem Park die beste Zeit ihres Lebens.<br/><br/>Mit der Action Factory, der Adventure Island und dem Aktivitätenprogramm Wannabe wird Langeweile zum Fremdwort.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_23_football_ground.swf</filename>
+			<type>pano</type>
+			<name_uk>Football ground</name_uk>
+			<name_nl>Voetbalveld</name_nl>
+			<name_benl>Voetbalveld</name_benl>
+			<name_befr>Terrain de football</name_befr>
+			<name_fr>Terrain de football</name_fr>
+			<name_de>Fußballplatz</name_de><name_de>Eingang Market Dome</name_de>
+				<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>The ‘De Huttenheugte’ Family Park is located in the North East of the Netherlands.<br/>This is a children’s paradise with lots of activities and a Children’s farm.<br/>Gaze at the stars in the observatory or come and relax in the sauna.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Kinder haben in diesem Park die beste Zeit ihres Lebens.<br/><br/>Mit der Action Factory, der Adventure Island und dem Aktivitätenprogramm Wannabe wird Langeweile zum Fremdwort.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>500</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_24_archery.swf</filename>
+			<type>pano</type>
+			<name_uk>Archery</name_uk>
+			<name_nl>Boogschieten</name_nl>
+			<name_benl>Boogschieten</name_benl>
+			<name_befr>Tir à l'arc</name_befr>
+			<name_fr>Tir à l'arc</name_fr>
+			<name_de>Bogenschießen</name_de><name_de>Eingang Market Dome</name_de>
+				<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>The ‘De Huttenheugte’ Family Park is located in the North East of the Netherlands.<br/>This is a children’s paradise with lots of activities and a Children’s farm.<br/>Gaze at the stars in the observatory or come and relax in the sauna.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Kinder haben in diesem Park die beste Zeit ihres Lebens.<br/><br/>Mit der Action Factory, der Adventure Island und dem Aktivitätenprogramm Wannabe wird Langeweile zum Fremdwort.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+//zone cottage		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_zc_26_cottages_zone_1.swf</filename>
+			<type>pano</type>
+			<name_uk>Zone 1</name_uk>
+			<name_nl>Cottages zone 1</name_nl>
+			<name_benl>Cottages zone 1</name_benl>
+			<name_befr>Zone de cottages 1</name_befr>
+			<name_fr>Zone de cottages 1</name_fr>
+			<name_de>Ferienhäuser im 100er-Bereich</name_de><name_de>Eingang Market Dome</name_de>
+				<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>The ‘De Huttenheugte’ Family Park is located in the North East of the Netherlands.<br/>This is a children’s paradise with lots of activities and a Children’s farm.<br/>Gaze at the stars in the observatory or come and relax in the sauna.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Kinder haben in diesem Park die beste Zeit ihres Lebens.<br/><br/>Mit der Action Factory, der Adventure Island und dem Aktivitätenprogramm Wannabe wird Langeweile zum Fremdwort.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_zc_29_cottages_zone_3.swf</filename>
+			<type>pano</type>
+			<name_uk>Zone 3</name_uk>
+			<name_nl>Cottages zone 3</name_nl>
+			<name_benl>Cottages zone 3</name_benl>
+			<name_befr>Zone de cottages 3</name_befr>
+			<name_fr>Zone de cottages 3</name_fr>
+			<name_de>Ferienhäuser im 300er-Bereich</name_de><name_de>Eingang Market Dome</name_de>
+				<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>The ‘De Huttenheugte’ Family Park is located in the North East of the Netherlands.<br/>This is a children’s paradise with lots of activities and a Children’s farm.<br/>Gaze at the stars in the observatory or come and relax in the sauna.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Kinder haben in diesem Park die beste Zeit ihres Lebens.<br/><br/>Mit der Action Factory, der Adventure Island und dem Aktivitätenprogramm Wannabe wird Langeweile zum Fremdwort.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_zc_30_cottages_zone_5.swf</filename>
+			<type>pano</type>
+			<name_uk>Zone 5</name_uk>
+			<name_nl>Cottages zone 5</name_nl>
+			<name_benl>Cottages zone 5</name_benl>
+			<name_befr>Zone de cottages 5</name_befr>
+			<name_fr>Zone de cottages 5</name_fr>
+			<name_de>Ferienhäuser im 500er-Bereich</name_de><name_de>Eingang Market Dome</name_de>
+				<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>The ‘De Huttenheugte’ Family Park is located in the North East of the Netherlands.<br/>This is a children’s paradise with lots of activities and a Children’s farm.<br/>Gaze at the stars in the observatory or come and relax in the sauna.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Kinder haben in diesem Park die beste Zeit ihres Lebens.<br/><br/>Mit der Action Factory, der Adventure Island und dem Aktivitätenprogramm Wannabe wird Langeweile zum Fremdwort.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>1500</x_pos>
+			<vitesse>-5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_zc_28_cottages_zone_7.swf</filename>
+			<type>pano</type>
+			<name_uk>Zone 7</name_uk>
+			<name_nl>Cottages zone 7</name_nl>
+			<name_benl>Cottages zone 7</name_benl>
+			<name_befr>Zone de cottages 7</name_befr>
+			<name_fr>Zone de cottages 7</name_fr>
+			<name_de>Ferienhäuser im 700er-Bereich</name_de><name_de>Eingang Market Dome</name_de>
+				<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>The ‘De Huttenheugte’ Family Park is located in the North East of the Netherlands.<br/>This is a children’s paradise with lots of activities and a Children’s farm.<br/>Gaze at the stars in the observatory or come and relax in the sauna.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Kinder haben in diesem Park die beste Zeit ihres Lebens.<br/><br/>Mit der Action Factory, der Adventure Island und dem Aktivitätenprogramm Wannabe wird Langeweile zum Fremdwort.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_zc_27_cottages_zone_8.swf</filename>
+			<type>pano</type>
+			<name_uk>Zone 8</name_uk>
+			<name_nl>Cottages zone 8</name_nl>
+			<name_benl>Cottages zone 8</name_benl>
+			<name_befr>Zone de cottages 8</name_befr>
+			<name_fr>Zone de cottages 8</name_fr>
+			<name_de>Ferienhäuser im 800er-Bereich</name_de><name_de>Eingang Market Dome</name_de>
+				<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>The ‘De Huttenheugte’ Family Park is located in the North East of the Netherlands.<br/>This is a children’s paradise with lots of activities and a Children’s farm.<br/>Gaze at the stars in the observatory or come and relax in the sauna.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Kinder haben in diesem Park die beste Zeit ihres Lebens.<br/><br/>Mit der Action Factory, der Adventure Island und dem Aktivitätenprogramm Wannabe wird Langeweile zum Fremdwort.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>1400</x_pos>
+			<vitesse>-5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_zc_25_cottages_zone_9.swf</filename>
+			<type>pano</type>
+			<name_uk>Zone 9</name_uk>
+			<name_nl>Cottages zone 9</name_nl>
+			<name_benl>Cottages zone 9</name_benl>
+			<name_befr>Zone de cottages 9</name_befr>
+			<name_fr>Zone de cottages 9</name_fr>
+			<name_de>Ferienhäuser im 900er-Bereich</name_de><name_de>Eingang Market Dome</name_de>
+				<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>The ‘De Huttenheugte’ Family Park is located in the North East of the Netherlands.<br/>This is a children’s paradise with lots of activities and a Children’s farm.<br/>Gaze at the stars in the observatory or come and relax in the sauna.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>In Drente ligt het Family Park De Huttenheugte, een paradijs voor kinderen.<br/>Met veel activiteiten en een kinderboerderij.<br/>Bekijk de sterren bij de Sterrenwacht of kom even heerlijk bij in de sauna.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Avec l'Action Factory et ses mini-voitures, l'Adventure Island et son observatoire, le kids Klub et son programme d'activités, le Domaine de De Huttenheugte est le paradis des enfants.<br/><br/>C'est le cadre idéal pour passer un séjour en famille, en pleine nature.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Kinder haben in diesem Park die beste Zeit ihres Lebens.<br/><br/>Mit der Action Factory, der Adventure Island und dem Aktivitätenprogramm Wannabe wird Langeweile zum Fremdwort.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+////2d
+//Marketdome	
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_01_market_restaurant_buffet.swf</filename>
+			<type>pano</type>
+			<name_uk>Market Restaurant buffet</name_uk>
+			<name_nl>Buffet Market Restaurant</name_nl>
+			<name_benl>Buffet Market Restaurant</name_benl>
+			<name_befr>Buffet Market Restaurant</name_befr>
+			<name_fr>Buffet Market Restaurant</name_fr>
+			<name_de>Buffet im Market Restaurant</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_02_market_restaurant.swf</filename>
+			<type>pano</type>
+			<name_uk>Market Restaurant</name_uk>
+			<name_nl>Market Restaurant</name_nl>
+			<name_benl>Market Restaurant</name_benl>
+			<name_befr>Market Restaurant</name_befr>
+			<name_fr>Market Restaurant</name_fr>
+			<name_de>Market Restaurant</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_03_bakery.swf</filename>
+			<type>pano</type>
+			<name_uk>Bakery</name_uk>
+			<name_nl>Boulangerie</name_nl>
+			<name_benl>Boulangerie</name_benl>
+			<name_befr>Boulangerie</name_befr>
+			<name_fr>Boulangerie</name_fr>
+			<name_de>Bäckerei</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_04_market_cafe_terrace.swf</filename>
+			<type>pano</type>
+			<name_uk>Market Café terrace</name_uk>
+			<name_nl>Terras Market Café</name_nl>
+			<name_benl>Terras Market Café</name_benl>
+			<name_befr>Terrasse Market Café</name_befr>
+			<name_fr>Terrasse Market Café</name_fr>
+			<name_de>Market Café</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_05_market_cafe.swf</filename>
+			<type>pano</type>
+			<name_uk>Market Cafe</name_uk>
+			<name_nl>Market Café</name_nl>
+			<name_benl>Market Café</name_benl>
+			<name_befr>Market Café</name_befr>
+			<name_fr>Market Café</name_fr>
+			<name_de>Market Café</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_06_main_cross_road.swf</filename>
+			<type>pano</type>
+			<name_uk>Main cross road</name_uk>
+			<name_nl>Hoofdweg</name_nl>
+			<name_benl>Hoofdweg</name_benl>
+			<name_befr>Carrefour principal</name_befr>
+			<name_fr>Carrefour principal</name_fr>
+			<name_de>Market Dome</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_07_snack_corner.swf</filename>
+			<type>pano</type>
+			<name_uk>Snack Corner</name_uk>
+			<name_nl>Snack Corner</name_nl>
+			<name_benl>Snack Corner</name_benl>
+			<name_befr>Snack Corner</name_befr>
+			<name_fr>Snack Corner</name_fr>
+			<name_de>Snack Corner</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_08_harvey_s_family_restaurant_terrace.swf</filename>
+			<type>pano</type>
+			<name_uk>Harvey's Family restaurant terrace</name_uk>
+			<name_nl>Terras Harvey's Family Restaurant</name_nl>
+			<name_benl>Terras Harvey's Family Restaurant</name_benl>
+			<name_befr>Terrasse Harvey's Family Restaurant</name_befr>
+			<name_fr>Terrasse Harvey's Family Restaurant</name_fr>
+			<name_de>Harvey´s Family Restaurant</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_09_harvey_s_familly_restaurant.swf</filename>
+			<type>pano</type>
+			<name_uk>Harvey´s Family Restaurant</name_uk>
+			<name_nl>Harvey´s Family Restaurant</name_nl>
+			<name_benl>Harvey´s Family Restaurant</name_benl>
+			<name_befr>Harvey's Family Restaurant</name_befr>
+			<name_fr>Harvey's Family Restaurant</name_fr>
+			<name_de>Harvey´s Family Restaurant</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_10_fashion_store_entrance.swf</filename>
+			<type>pano</type>
+			<name_uk>Fashion Store entrance</name_uk>
+			<name_nl>Ingang Fashion Store</name_nl>
+			<name_benl>Ingang Fashion Store</name_benl>
+			<name_befr>Entrée Fashion Store</name_befr>
+			<name_fr>Entrée Fashion Store</name_fr>
+			<name_de>Fashion Store</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_13_fashion_store_inside.swf</filename>
+			<type>pano</type>
+			<name_uk>Fashion Store inside</name_uk>
+			<name_nl>Interieur Fashion Store</name_nl>
+			<name_benl>Interieur Fashion Store</name_benl>
+			<name_befr>Dans le Fashion Store</name_befr>
+			<name_fr>Dans le Fashion Store</name_fr>
+			<name_de>Fashion Store</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_12_toys_and_souvenirs_outside.swf</filename>
+			<type>pano</type>
+			<name_uk>Toys & Souvenirs outside</name_uk>
+			<name_nl>Exterieur Toys & Souvenirs</name_nl>
+			<name_benl>Exterieur Toys & Souvenirs</name_benl>
+			<name_befr>Toys & Souvenirs extérieur</name_befr>
+			<name_fr>Toys & Souvenirs extérieur</name_fr>
+			<name_de>Toys & Souvenirs</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_14_toys_and_souvenirs_inside.swf</filename>
+			<type>pano</type>
+			<name_uk>Toys & Souvenirs inside</name_uk>
+			<name_nl>Interieur Toys & Souvenirs</name_nl>
+			<name_benl>Interieur Toys & Souvenirs</name_benl>
+			<name_befr>Dans le Toys & Souvenirs</name_befr>
+			<name_fr>Dans le Toys & Souvenirs</name_fr>
+			<name_de>Toys & Souvenirs</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_11_woxy_s_restaurant.swf</filename>
+			<type>pano</type>
+			<name_uk>Pizza&Pasta Restaurant</name_uk>
+			<name_nl>Pizza&Pasta restaurant</name_nl>
+			<name_benl>Pizza&Pasta restaurant</name_benl>
+			<name_befr>Restaurant Pizza&Pasta</name_befr>
+			<name_fr>Restaurant Pizza&Pasta</name_fr>
+			<name_de>Pizza&Pasta Restaurant</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_15_market_restaurant_entrance.swf</filename>
+			<type>pano</type>
+			<name_uk>Market Restaurant entrance</name_uk>
+			<name_nl>Ingang Market Restaurant</name_nl>
+			<name_benl>Ingang Market Restaurant</name_benl>
+			<name_befr>Entrée Market Restaurant</name_befr>
+			<name_fr>Entrée Market Restaurant</name_fr>
+			<name_de>Market Restaurant</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_16_market_dome_entrance.swf</filename>
+			<type>pano</type>
+			<name_uk>Market Dome entrance</name_uk>
+			<name_nl>Ingang Market Dome</name_nl>
+			<name_benl>Ingang Market Dome</name_benl>
+			<name_befr>Entrée Market Dôme</name_befr>
+			<name_fr>Entrée Market Dôme</name_fr>
+			<name_de>Eingang Market Dome</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_17_childrens_pancake_house.swf</filename>
+			<type>pano</type>
+			<name_uk>Childrens Pancake House</name_uk>
+			<name_nl>Pannenkoekenhuisje</name_nl>
+			<name_benl>Pannenkoekenhuisje</name_benl>
+			<name_befr>Crêperie pour enfants</name_befr>
+			<name_fr>Crêperie pour enfants</name_fr>
+			<name_de>Pfannkuchen-Haus</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+//Aquamundo	
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_01_kids_pool.swf</filename>
+			<type>pano</type>
+			<name_uk>Kids pool</name_uk>
+			<name_nl>Kinder–Doe-Bad</name_nl>
+			<name_benl>Kinder–doe-bad</name_benl>
+			<name_befr>Piscine enfants</name_befr>
+			<name_fr>Piscine enfants</name_fr>
+			<name_de>Kleinkindbecken</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_03_tobogan_arrival.swf</filename>
+			<type>pano</type>
+			<name_uk>Tobogan arrival</name_uk>
+			<name_nl>Uitgang glijbaan</name_nl>
+			<name_benl>Uitgang glijbaan</name_benl>
+			<name_befr>Arrivée toboggan</name_befr>
+			<name_fr>Arrivée toboggan</name_fr>
+			<name_de>Wasserrutsche</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_04_large_basin.swf</filename>
+			<type>pano</type>
+			<name_uk>Large basin</name_uk>
+			<name_nl>Grote bad</name_nl>
+			<name_benl>Groot bad</name_benl>
+			<name_befr>Grand bassin</name_befr>
+			<name_fr>Grand bassin</name_fr>
+			<name_de>Pool</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_05_small_basin.swf</filename>
+			<type>pano</type>
+			<name_uk>Small basin</name_uk>
+			<name_nl>Kleine bad</name_nl>
+			<name_benl>Klein bad</name_benl>
+			<name_befr>Petit bassin</name_befr>
+			<name_fr>Petit bassin</name_fr>
+			<name_de>Pool</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>1300</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_06_wild_river_arrival.swf</filename>
+			<type>pano</type>
+			<name_uk>Wild River arrival</name_uk>
+			<name_nl>Begin Wildwaterbaan</name_nl>
+			<name_benl>Begin wildwaterbaan</name_benl>
+			<name_befr>Arrivée rivière sauvage</name_befr>
+			<name_fr>Arrivée rivière sauvage</name_fr>
+			<name_de>Wildwasserbahn</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>0</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_07_wild_river_outside.swf</filename>
+			<type>pano</type>
+			<name_uk>Wild River outside</name_uk>
+			<name_nl>Wildwaterbaan buiten</name_nl>
+			<name_benl>Wildwaterbaan buiten</name_benl>
+			<name_befr>Rivière sauvage extérieur</name_befr>
+			<name_fr>Rivière sauvage extérieur</name_fr>
+			<name_de>Wildwasserbahn</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_08_wild_river.swf</filename>
+			<type>pano</type>
+			<name_uk>Wild River</name_uk>
+			<name_nl>Wildwaterbaan</name_nl>
+			<name_benl>Wildwaterbaan</name_benl>
+			<name_befr>Rivière sauvage</name_befr>
+			<name_fr>Rivière sauvage</name_fr>
+			<name_de>Wildwasserbahn</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_09_wild_river_terrace.swf</filename>
+			<type>pano</type>
+			<name_uk>Wild River terrace</name_uk>
+			<name_nl>Terras Wildwaterbaan</name_nl>
+			<name_benl>Terras wildwaterbaan</name_benl>
+			<name_befr>Terrasse Rivière sauvage</name_befr>
+			<name_fr>Terrasse Rivière sauvage</name_fr>
+			<name_de>Terrasse</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>1300</x_pos>
+			<vitesse>-5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_10_outside_basin.swf</filename>
+			<type>pano</type>
+			<name_uk>Outside basin</name_uk>
+			<name_nl>Buitenbad</name_nl>
+			<name_benl>Buitenbad</name_benl>
+			<name_befr>Bassin extérieur</name_befr>
+			<name_fr>Bassin extérieur</name_fr>
+			<name_de>Außenbecken</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_11_outside_terrace.swf</filename>
+			<type>pano</type>
+			<name_uk>Outside terrace</name_uk>
+			<name_nl>Terras buiten</name_nl>
+			<name_benl>Terras buiten</name_benl>
+			<name_befr>Terrasse extérieur</name_befr>
+			<name_fr>Terrasse extérieur</name_fr>
+			<name_de>Terrasse</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_12_general_view.swf</filename>
+			<type>pano</type>
+			<name_uk>General view</name_uk>
+			<name_nl>Overzicht Aqua Mundo</name_nl>
+			<name_benl>Overzicht Aqua Mundo</name_benl>
+			<name_befr>Vue générale</name_befr>
+			<name_fr>Vue générale</name_fr>
+			<name_de>Aqua Mundo</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_13_aquacafe.swf</filename>
+			<type>pano</type>
+			<name_uk>Aqua Cafe</name_uk>
+			<name_nl>Aqua Café</name_nl>
+			<name_benl>Aqua Café</name_benl>
+			<name_befr>Aqua Café</name_befr>
+			<name_fr>Aqua Café</name_fr>
+			<name_de>Aqua Café</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>1600</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_14_jacuzzi.swf</filename>
+			<type>pano</type>
+			<name_uk>Jacuzzi</name_uk>
+			<name_nl>Whirlpool</name_nl>
+			<name_benl>Whirlpool</name_benl>
+			<name_befr>Jacuzzi</name_befr>
+			<name_fr>Jacuzzi</name_fr>
+			<name_de>Whirlpool</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_15_solarium.swf</filename>
+			<type>pano</type>
+			<name_uk>Solarium</name_uk>
+			<name_nl>Solarium</name_nl>
+			<name_benl>Solarium</name_benl>
+			<name_befr>Solarium</name_befr>
+			<name_fr>Solarium</name_fr>
+			<name_de>Sonnenhimmel</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound></sound>
+			<filename>sequence_wild_water.swf</filename>
+			<type>video</type>
+			<name_uk>Wild Water raften for kids video</name_uk>
+			<name_nl>Wild Water raften voor kinderen video</name_nl>
+			<name_benl>Wild water raften voor kinderen video</name_benl>
+			<name_befr>Vidéo Wild Water rafting pour enfants</name_befr>
+			<name_fr>Vidéo Wild Water rafting pour enfants</name_fr>
+			<name_de>Video Wildwasser-Rafting</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+//aquasana
+		<pano map="2d" plan="aquasana.swf">
+			<sound>domaine.swf</sound>
+			<filename>sa_01_whirpool_bath_entrance.swf</filename>
+			<type>pano</type>
+			<name_uk>Whirpool bath entrance</name_uk>
+			<name_nl>Ingang Bruisbad</name_nl>
+			<name_benl>Ingang Jacuzzi</name_benl>
+			<name_befr>Entrée Jacuzzi</name_befr>
+			<name_fr>Entrée Jacuzzi</name_fr>
+			<name_de>Sprudelbad</name_de>
+			<edito_uk><![CDATA[<p><titre>SAUNA</titre><br/>Pure relaxation: the sauna with Turkish bath and sauna meadow.<br/>You particularly visit the sauna for physical relaxation, health and improvement of your wellbeing.<br/>Moreover the sauna also has a purifying function.<br/><br/>As a result you will have more resistance and less stress.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>SAUNA</titre><br/>Puur relaxen: sauna met Turks stoombad en saunaweide.<br/>U bezoekt de sauna vooral voor lichamelijke ontspanning, gezondheid en verbetering van het welzijn.<br/>Daarnaast heeft de sauna ook een reinigende werking.<br/><br/>Met als gevolg: meer weerstand en minder stress.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>SAUNA</titre><br/>Puur relaxen: sauna met Turks stoombad en saunaweide.<br/>U bezoekt de sauna vooral voor lichamelijke ontspanning, gezondheid en verbetering van het welzijn.<br/>Daarnaast heeft de sauna ook een reinigende werking.<br/><br/>Met als gevolg: meer weerstand en minder stress.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>SAUNA</titre><br/>Pour une pure relaxation : sauna avec hammam oriental.<br/>Un moment de détente absolu pour votre corps, votre santé et votre bien-être.<br/><br/>Le sauna possède des vertus purifiantes : vous deviendrez plus résistant au stress.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>SAUNA</titre><br/>Pour une pure relaxation : sauna avec hammam oriental.<br/>Un moment de détente absolu pour votre corps, votre santé et votre bien-être.<br/><br/>Le sauna possède des vertus purifiantes : vous deviendrez plus résistant au stress.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>SAUNA</titre><br/>Pure Entspannung erwartet Sie in der Sauna mit türkischem Dampfbad und Whirlpool.<br/><br/>Sie werden sehen, spätestens nach der Abkühlung sind die Lebensgeister geweckt, der Stress ist verschwunden und Ihr Wohlbefinden hat sich gesteigert.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>1100</x_pos>
+			<vitesse>-5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquasana.swf">
+			<sound>domaine.swf</sound>
+			<filename>sa_02_relaxing_area.swf</filename>
+			<type>pano</type>
+			<name_uk>Relaxing area</name_uk>
+			<name_nl>Relaxruimte</name_nl>
+			<name_benl>Relaxruimte</name_benl>
+			<name_befr>Zone relaxante</name_befr>
+			<name_fr>Zone relaxante</name_fr>
+			<name_de>Ruhebereich</name_de>
+			<edito_uk><![CDATA[<p><titre>SAUNA</titre><br/>Pure relaxation: the sauna with Turkish bath and sauna meadow.<br/>You particularly visit the sauna for physical relaxation, health and improvement of your wellbeing.<br/>Moreover the sauna also has a purifying function.<br/><br/>As a result you will have more resistance and less stress.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>SAUNA</titre><br/>Puur relaxen: sauna met Turks stoombad en saunaweide.<br/>U bezoekt de sauna vooral voor lichamelijke ontspanning, gezondheid en verbetering van het welzijn.<br/>Daarnaast heeft de sauna ook een reinigende werking.<br/><br/>Met als gevolg: meer weerstand en minder stress.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>SAUNA</titre><br/>Puur relaxen: sauna met Turks stoombad en saunaweide.<br/>U bezoekt de sauna vooral voor lichamelijke ontspanning, gezondheid en verbetering van het welzijn.<br/>Daarnaast heeft de sauna ook een reinigende werking.<br/><br/>Met als gevolg: meer weerstand en minder stress.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>SAUNA</titre><br/>Pour une pure relaxation : sauna avec hammam oriental.<br/>Un moment de détente absolu pour votre corps, votre santé et votre bien-être.<br/><br/>Le sauna possède des vertus purifiantes : vous deviendrez plus résistant au stress.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>SAUNA</titre><br/>Pour une pure relaxation : sauna avec hammam oriental.<br/>Un moment de détente absolu pour votre corps, votre santé et votre bien-être.<br/><br/>Le sauna possède des vertus purifiantes : vous deviendrez plus résistant au stress.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>SAUNA</titre><br/>Pure Entspannung erwartet Sie in der Sauna mit türkischem Dampfbad und Whirlpool.<br/><br/>Sie werden sehen, spätestens nach der Abkühlung sind die Lebensgeister geweckt, der Stress ist verschwunden und Ihr Wohlbefinden hat sich gesteigert.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquasana.swf">
+			<sound>domaine.swf</sound>
+			<filename>sa_03_showers.swf</filename>
+			<type>pano</type>
+			<name_uk>Showers</name_uk>
+			<name_nl>Douches</name_nl>
+			<name_benl>Douches</name_benl>
+			<name_befr>Douches</name_befr>
+			<name_fr>Douches</name_fr>
+			<name_de>Duschen</name_de>
+			<edito_uk><![CDATA[<p><titre>SAUNA</titre><br/>Pure relaxation: the sauna with Turkish bath and sauna meadow.<br/>You particularly visit the sauna for physical relaxation, health and improvement of your wellbeing.<br/>Moreover the sauna also has a purifying function.<br/><br/>As a result you will have more resistance and less stress.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>SAUNA</titre><br/>Puur relaxen: sauna met Turks stoombad en saunaweide.<br/>U bezoekt de sauna vooral voor lichamelijke ontspanning, gezondheid en verbetering van het welzijn.<br/>Daarnaast heeft de sauna ook een reinigende werking.<br/><br/>Met als gevolg: meer weerstand en minder stress.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>SAUNA</titre><br/>Puur relaxen: sauna met Turks stoombad en saunaweide.<br/>U bezoekt de sauna vooral voor lichamelijke ontspanning, gezondheid en verbetering van het welzijn.<br/>Daarnaast heeft de sauna ook een reinigende werking.<br/><br/>Met als gevolg: meer weerstand en minder stress.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>SAUNA</titre><br/>Pour une pure relaxation : sauna avec hammam oriental.<br/>Un moment de détente absolu pour votre corps, votre santé et votre bien-être.<br/><br/>Le sauna possède des vertus purifiantes : vous deviendrez plus résistant au stress.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>SAUNA</titre><br/>Pour une pure relaxation : sauna avec hammam oriental.<br/>Un moment de détente absolu pour votre corps, votre santé et votre bien-être.<br/><br/>Le sauna possède des vertus purifiantes : vous deviendrez plus résistant au stress.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>SAUNA</titre><br/>Pure Entspannung erwartet Sie in der Sauna mit türkischem Dampfbad und Whirlpool.<br/><br/>Sie werden sehen, spätestens nach der Abkühlung sind die Lebensgeister geweckt, der Stress ist verschwunden und Ihr Wohlbefinden hat sich gesteigert.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquasana.swf">
+			<sound>domaine.swf</sound>
+			<filename>sa_04_jacuzzi.swf</filename>
+			<type>pano</type>
+			<name_uk>Whirlpool bath</name_uk>
+			<name_nl>Bruisbad</name_nl>
+			<name_benl>Jacuzzi</name_benl>
+			<name_befr>Jacuzzi</name_befr>
+			<name_fr>Jacuzzi</name_fr>
+			<name_de>Sprudelbad</name_de>
+			<edito_uk><![CDATA[<p><titre>SAUNA</titre><br/>Pure relaxation: the sauna with Turkish bath and sauna meadow.<br/>You particularly visit the sauna for physical relaxation, health and improvement of your wellbeing.<br/>Moreover the sauna also has a purifying function.<br/><br/>As a result you will have more resistance and less stress.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>SAUNA</titre><br/>Puur relaxen: sauna met Turks stoombad en saunaweide.<br/>U bezoekt de sauna vooral voor lichamelijke ontspanning, gezondheid en verbetering van het welzijn.<br/>Daarnaast heeft de sauna ook een reinigende werking.<br/><br/>Met als gevolg: meer weerstand en minder stress.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>SAUNA</titre><br/>Puur relaxen: sauna met Turks stoombad en saunaweide.<br/>U bezoekt de sauna vooral voor lichamelijke ontspanning, gezondheid en verbetering van het welzijn.<br/>Daarnaast heeft de sauna ook een reinigende werking.<br/><br/>Met als gevolg: meer weerstand en minder stress.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>SAUNA</titre><br/>Pour une pure relaxation : sauna avec hammam oriental.<br/>Un moment de détente absolu pour votre corps, votre santé et votre bien-être.<br/><br/>Le sauna possède des vertus purifiantes : vous deviendrez plus résistant au stress.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>SAUNA</titre><br/>Pour une pure relaxation : sauna avec hammam oriental.<br/>Un moment de détente absolu pour votre corps, votre santé et votre bien-être.<br/><br/>Le sauna possède des vertus purifiantes : vous deviendrez plus résistant au stress.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>SAUNA</titre><br/>Pure Entspannung erwartet Sie in der Sauna mit türkischem Dampfbad und Whirlpool.<br/><br/>Sie werden sehen, spätestens nach der Abkühlung sind die Lebensgeister geweckt, der Stress ist verschwunden und Ihr Wohlbefinden hat sich gesteigert.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+//actionfactory
+		<pano map="2d" plan="actionfactory.swf">
+			<sound>domaine.swf</sound>
+			<filename>af_01_bar.swf</filename>
+			<type>pano</type>
+			<name_uk>Bar</name_uk>
+			<name_nl>Bar</name_nl>
+			<name_benl>Bar</name_benl>
+			<name_befr>Bar</name_befr>
+			<name_fr>Bar</name_fr>
+			<name_de>Bar</name_de>
+			<edito_uk><![CDATA[<p><titre>ACTION FACTORY</titre><br/>The weather is always nice at the indoor Action Factory.<br/><br/>This sports and entertainment center is a guarantee for hours of fun. </p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In de overdekte Action Factory is het altijd mooi weer.<br/><br/>Dit sport- en uitgaanscentrum garandeert u urenlang plezier. </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In de overdekte Action Factory is het altijd mooi weer.<br/><br/>Dit sport- en uitgaanscentrum garandeert u urenlang plezier.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Action Factory est un espace couvert dédié aux sports et aux loisirs pour toute la famille.<br/>Jouez aux jeux videos dans la House of Games, faites une partie de ping-pong, de mini golf ou de bowling virtuel, puis récupérez tranquillement en sirotant un verre en terrasse tout en regardant le spectacle du jour.<br/>Les enfants préféreront peut-être se dépenser à la Kids Disco.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Action Factory est un espace couvert dédié aux sports et aux loisirs pour toute la famille.<br/>Jouez aux jeux videos dans la House of Games, faites une partie de ping-pong, de mini golf ou de bowling virtuel, puis récupérez tranquillement en sirotant un verre en terrasse tout en regardant le spectacle du jour.<br/>Les enfants préféreront peut-être se dépenser à la Kids Disco. </p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In der überdachten Action Factory ist das ganze Jahr über Sommer.<br/>Hier können Sie Sport treiben, gemütlich zusammen sitzen und das Unterhaltungsprogramm genießen.<br/>Natürlich kommt auch der Nachwuchs nicht zu kurz. </p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="actionfactory.swf">
+			<sound>domaine.swf</sound>
+			<filename>af_02_billiards.swf</filename>
+			<type>pano</type>
+			<name_uk>Billiards</name_uk>
+			<name_nl>Biljard</name_nl>
+			<name_benl>Biljart</name_benl>
+			<name_befr>Billard</name_befr>
+			<name_fr>Billard</name_fr>
+			<name_de>Billard</name_de>
+			<edito_uk><![CDATA[<p><titre>ACTION FACTORY</titre><br/>The weather is always nice at the indoor Action Factory.<br/><br/>This sports and entertainment center is a guarantee for hours of fun. </p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In de overdekte Action Factory is het altijd mooi weer.<br/><br/>Dit sport- en uitgaanscentrum garandeert u urenlang plezier. </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In de overdekte Action Factory is het altijd mooi weer.<br/><br/>Dit sport- en uitgaanscentrum garandeert u urenlang plezier.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Action Factory est un espace couvert dédié aux sports et aux loisirs pour toute la famille.<br/>Jouez aux jeux videos dans la House of Games, faites une partie de ping-pong, de mini golf ou de bowling virtuel, puis récupérez tranquillement en sirotant un verre en terrasse tout en regardant le spectacle du jour.<br/>Les enfants préféreront peut-être se dépenser à la Kids Disco.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Action Factory est un espace couvert dédié aux sports et aux loisirs pour toute la famille.<br/>Jouez aux jeux videos dans la House of Games, faites une partie de ping-pong, de mini golf ou de bowling virtuel, puis récupérez tranquillement en sirotant un verre en terrasse tout en regardant le spectacle du jour.<br/>Les enfants préféreront peut-être se dépenser à la Kids Disco. </p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In der überdachten Action Factory ist das ganze Jahr über Sommer.<br/>Hier können Sie Sport treiben, gemütlich zusammen sitzen und das Unterhaltungsprogramm genießen.<br/>Natürlich kommt auch der Nachwuchs nicht zu kurz. </p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="actionfactory.swf">
+			<sound>domaine.swf</sound>
+			<filename>af_03_bowling.swf</filename>
+			<type>pano</type>
+			<name_uk>Bowling</name_uk>
+			<name_nl>Bowling</name_nl>
+			<name_benl>Bowling</name_benl>
+			<name_befr>Bowling</name_befr>
+			<name_fr>Bowling</name_fr>
+			<name_de>Bowling</name_de>
+			<edito_uk><![CDATA[<p><titre>ACTION FACTORY</titre><br/>The weather is always nice at the indoor Action Factory.<br/><br/>This sports and entertainment center is a guarantee for hours of fun. </p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In de overdekte Action Factory is het altijd mooi weer.<br/><br/>Dit sport- en uitgaanscentrum garandeert u urenlang plezier. </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In de overdekte Action Factory is het altijd mooi weer.<br/><br/>Dit sport- en uitgaanscentrum garandeert u urenlang plezier.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Action Factory est un espace couvert dédié aux sports et aux loisirs pour toute la famille.<br/>Jouez aux jeux videos dans la House of Games, faites une partie de ping-pong, de mini golf ou de bowling virtuel, puis récupérez tranquillement en sirotant un verre en terrasse tout en regardant le spectacle du jour.<br/>Les enfants préféreront peut-être se dépenser à la Kids Disco.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Action Factory est un espace couvert dédié aux sports et aux loisirs pour toute la famille.<br/>Jouez aux jeux videos dans la House of Games, faites une partie de ping-pong, de mini golf ou de bowling virtuel, puis récupérez tranquillement en sirotant un verre en terrasse tout en regardant le spectacle du jour.<br/>Les enfants préféreront peut-être se dépenser à la Kids Disco. </p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In der überdachten Action Factory ist das ganze Jahr über Sommer.<br/>Hier können Sie Sport treiben, gemütlich zusammen sitzen und das Unterhaltungsprogramm genießen.<br/>Natürlich kommt auch der Nachwuchs nicht zu kurz. </p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>1300</x_pos>
+			<vitesse>-5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="actionfactory.swf">
+			<sound>domaine.swf</sound>
+			<filename>af_04_general_view.swf</filename>
+			<type>pano</type>
+			<name_uk>General view</name_uk>
+			<name_nl>Overzicht Action Factory</name_nl>
+			<name_benl>Overzicht Action Factory</name_benl>
+			<name_befr>Vue générale</name_befr>
+			<name_fr>Vue générale</name_fr>
+			<name_de>Action Factory</name_de>
+			<edito_uk><![CDATA[<p><titre>ACTION FACTORY</titre><br/>The weather is always nice at the indoor Action Factory.<br/><br/>This sports and entertainment center is a guarantee for hours of fun. </p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In de overdekte Action Factory is het altijd mooi weer.<br/><br/>Dit sport- en uitgaanscentrum garandeert u urenlang plezier. </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In de overdekte Action Factory is het altijd mooi weer.<br/><br/>Dit sport- en uitgaanscentrum garandeert u urenlang plezier.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Action Factory est un espace couvert dédié aux sports et aux loisirs pour toute la famille.<br/>Jouez aux jeux videos dans la House of Games, faites une partie de ping-pong, de mini golf ou de bowling virtuel, puis récupérez tranquillement en sirotant un verre en terrasse tout en regardant le spectacle du jour.<br/>Les enfants préféreront peut-être se dépenser à la Kids Disco.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Action Factory est un espace couvert dédié aux sports et aux loisirs pour toute la famille.<br/>Jouez aux jeux videos dans la House of Games, faites une partie de ping-pong, de mini golf ou de bowling virtuel, puis récupérez tranquillement en sirotant un verre en terrasse tout en regardant le spectacle du jour.<br/>Les enfants préféreront peut-être se dépenser à la Kids Disco. </p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In der überdachten Action Factory ist das ganze Jahr über Sommer.<br/>Hier können Sie Sport treiben, gemütlich zusammen sitzen und das Unterhaltungsprogramm genießen.<br/>Natürlich kommt auch der Nachwuchs nicht zu kurz. </p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="actionfactory.swf">
+			<sound>domaine.swf</sound>
+			<filename>af_05_house_of_games.swf</filename>
+			<type>pano</type>
+			<name_uk>House of Games</name_uk>
+			<name_nl>House of Games</name_nl>
+			<name_benl>House of Games</name_benl>
+			<name_befr>House of Games</name_befr>
+			<name_fr>House of Games</name_fr>
+			<name_de>House of Games</name_de>
+			<edito_uk><![CDATA[<p><titre>ACTION FACTORY</titre><br/>The weather is always nice at the indoor Action Factory.<br/><br/>This sports and entertainment center is a guarantee for hours of fun. </p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In de overdekte Action Factory is het altijd mooi weer.<br/><br/>Dit sport- en uitgaanscentrum garandeert u urenlang plezier. </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In de overdekte Action Factory is het altijd mooi weer.<br/><br/>Dit sport- en uitgaanscentrum garandeert u urenlang plezier.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Action Factory est un espace couvert dédié aux sports et aux loisirs pour toute la famille.<br/>Jouez aux jeux videos dans la House of Games, faites une partie de ping-pong, de mini golf ou de bowling virtuel, puis récupérez tranquillement en sirotant un verre en terrasse tout en regardant le spectacle du jour.<br/>Les enfants préféreront peut-être se dépenser à la Kids Disco.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Action Factory est un espace couvert dédié aux sports et aux loisirs pour toute la famille.<br/>Jouez aux jeux videos dans la House of Games, faites une partie de ping-pong, de mini golf ou de bowling virtuel, puis récupérez tranquillement en sirotant un verre en terrasse tout en regardant le spectacle du jour.<br/>Les enfants préféreront peut-être se dépenser à la Kids Disco. </p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In der überdachten Action Factory ist das ganze Jahr über Sommer.<br/>Hier können Sie Sport treiben, gemütlich zusammen sitzen und das Unterhaltungsprogramm genießen.<br/>Natürlich kommt auch der Nachwuchs nicht zu kurz. </p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="actionfactory.swf">
+			<sound>domaine.swf</sound>
+			<filename>af_06_karting.swf</filename>
+			<type>pano</type>
+			<name_uk>Karting</name_uk>
+			<name_nl>Mini-cars</name_nl>
+			<name_benl>Mini-cars</name_benl>
+			<name_befr>Karting</name_befr>
+			<name_fr>Karting</name_fr>
+			<name_de>Miniflitzer</name_de>
+			<edito_uk><![CDATA[<p><titre>ACTION FACTORY</titre><br/>The weather is always nice at the indoor Action Factory.<br/><br/>This sports and entertainment center is a guarantee for hours of fun. </p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In de overdekte Action Factory is het altijd mooi weer.<br/><br/>Dit sport- en uitgaanscentrum garandeert u urenlang plezier. </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In de overdekte Action Factory is het altijd mooi weer.<br/><br/>Dit sport- en uitgaanscentrum garandeert u urenlang plezier.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Action Factory est un espace couvert dédié aux sports et aux loisirs pour toute la famille.<br/>Jouez aux jeux videos dans la House of Games, faites une partie de ping-pong, de mini golf ou de bowling virtuel, puis récupérez tranquillement en sirotant un verre en terrasse tout en regardant le spectacle du jour.<br/>Les enfants préféreront peut-être se dépenser à la Kids Disco.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Action Factory est un espace couvert dédié aux sports et aux loisirs pour toute la famille.<br/>Jouez aux jeux videos dans la House of Games, faites une partie de ping-pong, de mini golf ou de bowling virtuel, puis récupérez tranquillement en sirotant un verre en terrasse tout en regardant le spectacle du jour.<br/>Les enfants préféreront peut-être se dépenser à la Kids Disco. </p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In der überdachten Action Factory ist das ganze Jahr über Sommer.<br/>Hier können Sie Sport treiben, gemütlich zusammen sitzen und das Unterhaltungsprogramm genießen.<br/>Natürlich kommt auch der Nachwuchs nicht zu kurz. </p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>1000</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="actionfactory.swf">
+			<sound>domaine.swf</sound>
+			<filename>af_07_kids_club.swf</filename>
+			<type>pano</type>
+			<name_uk>Kids Club</name_uk>
+			<name_nl>Kids Klub</name_nl>
+			<name_benl>Kids Klub</name_benl>
+			<name_befr>Kids Klub</name_befr>
+			<name_fr>Kids Club</name_fr>
+			<name_de>Kids Klub</name_de>
+			<edito_uk><![CDATA[<p><titre>ACTION FACTORY</titre><br/>The weather is always nice at the indoor Action Factory.<br/><br/>This sports and entertainment center is a guarantee for hours of fun. </p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In de overdekte Action Factory is het altijd mooi weer.<br/><br/>Dit sport- en uitgaanscentrum garandeert u urenlang plezier. </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In de overdekte Action Factory is het altijd mooi weer.<br/><br/>Dit sport- en uitgaanscentrum garandeert u urenlang plezier.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Action Factory est un espace couvert dédié aux sports et aux loisirs pour toute la famille.<br/>Jouez aux jeux videos dans la House of Games, faites une partie de ping-pong, de mini golf ou de bowling virtuel, puis récupérez tranquillement en sirotant un verre en terrasse tout en regardant le spectacle du jour.<br/>Les enfants préféreront peut-être se dépenser à la Kids Disco.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Action Factory est un espace couvert dédié aux sports et aux loisirs pour toute la famille.<br/>Jouez aux jeux videos dans la House of Games, faites une partie de ping-pong, de mini golf ou de bowling virtuel, puis récupérez tranquillement en sirotant un verre en terrasse tout en regardant le spectacle du jour.<br/>Les enfants préféreront peut-être se dépenser à la Kids Disco. </p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In der überdachten Action Factory ist das ganze Jahr über Sommer.<br/>Hier können Sie Sport treiben, gemütlich zusammen sitzen und das Unterhaltungsprogramm genießen.<br/>Natürlich kommt auch der Nachwuchs nicht zu kurz. </p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="actionfactory.swf">
+			<sound>domaine.swf</sound>
+			<filename>af_08_ping_pong.swf</filename>
+			<type>pano</type>
+			<name_uk>Ping pong</name_uk>
+			<name_nl>Tafeltennis</name_nl>
+			<name_benl>Tafeltennis</name_benl>
+			<name_befr>Ping pong</name_befr>
+			<name_fr>Ping pong</name_fr>
+			<name_de>Tischtennis</name_de>
+			<edito_uk><![CDATA[<p><titre>ACTION FACTORY</titre><br/>The weather is always nice at the indoor Action Factory.<br/><br/>This sports and entertainment center is a guarantee for hours of fun. </p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In de overdekte Action Factory is het altijd mooi weer.<br/><br/>Dit sport- en uitgaanscentrum garandeert u urenlang plezier. </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In de overdekte Action Factory is het altijd mooi weer.<br/><br/>Dit sport- en uitgaanscentrum garandeert u urenlang plezier.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Action Factory est un espace couvert dédié aux sports et aux loisirs pour toute la famille.<br/>Jouez aux jeux videos dans la House of Games, faites une partie de ping-pong, de mini golf ou de bowling virtuel, puis récupérez tranquillement en sirotant un verre en terrasse tout en regardant le spectacle du jour.<br/>Les enfants préféreront peut-être se dépenser à la Kids Disco.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Action Factory est un espace couvert dédié aux sports et aux loisirs pour toute la famille.<br/>Jouez aux jeux videos dans la House of Games, faites une partie de ping-pong, de mini golf ou de bowling virtuel, puis récupérez tranquillement en sirotant un verre en terrasse tout en regardant le spectacle du jour.<br/>Les enfants préféreront peut-être se dépenser à la Kids Disco. </p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In der überdachten Action Factory ist das ganze Jahr über Sommer.<br/>Hier können Sie Sport treiben, gemütlich zusammen sitzen und das Unterhaltungsprogramm genießen.<br/>Natürlich kommt auch der Nachwuchs nicht zu kurz. </p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="actionfactory.swf">
+			<sound>domaine.swf</sound>
+			<filename>af_09_stage.swf</filename>
+			<type>pano</type>
+			<name_uk>Stage</name_uk>
+			<name_nl>Podium</name_nl>
+			<name_benl>Podium</name_benl>
+			<name_befr>Scène</name_befr>
+			<name_fr>Scène</name_fr>
+			<name_de>Bühne</name_de>
+			<edito_uk><![CDATA[<p><titre>ACTION FACTORY</titre><br/>The weather is always nice at the indoor Action Factory.<br/><br/>This sports and entertainment center is a guarantee for hours of fun. </p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In de overdekte Action Factory is het altijd mooi weer.<br/><br/>Dit sport- en uitgaanscentrum garandeert u urenlang plezier. </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In de overdekte Action Factory is het altijd mooi weer.<br/><br/>Dit sport- en uitgaanscentrum garandeert u urenlang plezier.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Action Factory est un espace couvert dédié aux sports et aux loisirs pour toute la famille.<br/>Jouez aux jeux videos dans la House of Games, faites une partie de ping-pong, de mini golf ou de bowling virtuel, puis récupérez tranquillement en sirotant un verre en terrasse tout en regardant le spectacle du jour.<br/>Les enfants préféreront peut-être se dépenser à la Kids Disco.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Action Factory est un espace couvert dédié aux sports et aux loisirs pour toute la famille.<br/>Jouez aux jeux videos dans la House of Games, faites une partie de ping-pong, de mini golf ou de bowling virtuel, puis récupérez tranquillement en sirotant un verre en terrasse tout en regardant le spectacle du jour.<br/>Les enfants préféreront peut-être se dépenser à la Kids Disco. </p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In der überdachten Action Factory ist das ganze Jahr über Sommer.<br/>Hier können Sie Sport treiben, gemütlich zusammen sitzen und das Unterhaltungsprogramm genießen.<br/>Natürlich kommt auch der Nachwuchs nicht zu kurz. </p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="2d" plan="actionfactory.swf">
+			<sound>domaine.swf</sound>
+			<filename>af_10_terrace_bar.swf</filename>
+			<type>pano</type>
+			<name_uk>Terrace Bar</name_uk>
+			<name_nl>Bar terras</name_nl>
+			<name_benl>Bar terras</name_benl>
+			<name_befr>Terrasse Bar</name_befr>
+			<name_fr>Terrasse Bar</name_fr>
+			<name_de>Rundumblick</name_de>
+			<edito_uk><![CDATA[<p><titre>ACTION FACTORY</titre><br/>The weather is always nice at the indoor Action Factory.<br/><br/>This sports and entertainment center is a guarantee for hours of fun. </p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In de overdekte Action Factory is het altijd mooi weer.<br/><br/>Dit sport- en uitgaanscentrum garandeert u urenlang plezier. </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In de overdekte Action Factory is het altijd mooi weer.<br/><br/>Dit sport- en uitgaanscentrum garandeert u urenlang plezier.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Action Factory est un espace couvert dédié aux sports et aux loisirs pour toute la famille.<br/>Jouez aux jeux videos dans la House of Games, faites une partie de ping-pong, de mini golf ou de bowling virtuel, puis récupérez tranquillement en sirotant un verre en terrasse tout en regardant le spectacle du jour.<br/>Les enfants préféreront peut-être se dépenser à la Kids Disco.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Action Factory est un espace couvert dédié aux sports et aux loisirs pour toute la famille.<br/>Jouez aux jeux videos dans la House of Games, faites une partie de ping-pong, de mini golf ou de bowling virtuel, puis récupérez tranquillement en sirotant un verre en terrasse tout en regardant le spectacle du jour.<br/>Les enfants préféreront peut-être se dépenser à la Kids Disco. </p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In der überdachten Action Factory ist das ganze Jahr über Sommer.<br/>Hier können Sie Sport treiben, gemütlich zusammen sitzen und das Unterhaltungsprogramm genießen.<br/>Natürlich kommt auch der Nachwuchs nicht zu kurz. </p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+	</panos>
+</visite>

@@ -1,0 +1,1388 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<visite>
+
+	<titre_uk>You are in HET MEERDAL</titre_uk>
+	<titre_nl>U bent in HET MEERDAL</titre_nl>
+	<titre_benl>U bent in HET MEERDAL</titre_benl>
+	<titre_befr>Vous êtes à HET MEERDAL</titre_befr>
+	<titre_fr>Vous êtes à HET MEERDAL</titre_fr>
+	<titre_de>Sie sind im Park HET MEERDAL</titre_de>
+	
+	<auto_scroll>1</auto_scroll>
+	<auto_scroll_time>2</auto_scroll_time>
+	<velocite>10</velocite>
+	<bird>5</bird>
+	<panos>
+	
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_13_market_dome_entrance_2.swf</filename>
+			<type>pano</type>
+			<name_uk>Market Dome entrance</name_uk>
+			<name_nl>Ingang Market Dome</name_nl>
+			<name_benl>Ingang Market Dome</name_benl>
+			<name_befr>Entrée Market Dôme</name_befr>
+			<name_fr>Entrée Market Dôme</name_fr>
+			<name_de>Eingang Market Dome</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>A family favourite.<br/><br/>The ‘Het Meerdal’ family village is located in the province of Limburg (Soutern part of the Netherlands) close to the nature reserve ‘Limburgse Peel’.<br/>You and your family will be able to enjoy lots of activities in the park.<br/>You can also visit the ‘Toverland’ theme park.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Het Family Park Het Meerdal ligt in Nederlands Limburg vlakbij de Limburgse Peel.<br/>U kan er met het hele gezin genieten van volop activiteiten op het park.<br/>Of bezoek het attractiepark Toverland. </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Het Family Park Het Meerdal ligt in Nederlands Limburg vlakbij de Limburgse Peel.<br/>U kan er met het hele gezin genieten van volop activiteiten op het park.<br/>Of bezoek het attractiepark Toverland.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Dans le Nord-Limbourg néerlandais, tout près de la réserve naturelle De Peel, le Domaine de Het Meerdal vous accueille pour un séjour inoubliable.<br/><br/>Son spectaculaire Aqua Mundo, qui dispose d'un immense toboggan de 101 m de long, enchantera toute la famille.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Dans le Nord-Limbourg néerlandais, tout près de la réserve naturelle De Peel, le Domaine de Het Meerdal vous accueille pour un séjour inoubliable.<br/><br/>Son spectaculaire Aqua Mundo, qui dispose d'un immense toboggan de 101 m de long, enchantera toute la famille.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Im Park Het Meerdal hat die ganze Familie ihren Spaß.<br/><br/>Fast alle Einrichtungen und Aktivitäten sind hier unter einem Dach vereint: im Market Dome.
+</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_11_beach.swf</filename>
+			<type>pano</type>
+			<name_uk>Beach</name_uk>
+			<name_nl>Strand</name_nl>
+			<name_benl>Strand</name_benl>
+			<name_befr>Plage</name_befr>
+			<name_fr>Plage</name_fr>
+			<name_de>Strand</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>A family favourite.<br/><br/>Het Meerdal is a wonderful holiday park in the middle of beautiful Peel.<br/><br/>Have fun cycling in the forest and then enjoy the endless waterslide.<br/><br/>There is even a real skating rink in winter.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Favoriet bij gezinnen.<br/><br/>Het Meerdal is een heerlijk vakantiepark midden in de prachtige Peel.<br/><br/>Lekker fietsen in de bossen en daarna van de ellenlange waterglijbaan. ’s Winters is er zelfs een echte ijsbaan, niet veranderd.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Favoriet bij gezinnen.<br/><br/>Het Meerdal is een heerlijk vakantiepark midden in de prachtige Peel.<br/><br/>Lekker fietsen in de bossen en daarna van de ellenlange waterglijbaan. ’s Winters is er zelfs een echte ijsbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>C'est le favori des familles.<br/>Het Meerdal est un superbe Domaine de vacances situé au coeur de la splendide région de Peel.<br/><br/>Faites une belle promenade en vélo dans les bois et ensuite glissez le long de l'interminable toboggan d'eau.<br/><br/>En hiver, il y a même une véritable patinoire !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>C'est le favori des familles.<br/>Het Meerdal est un superbe Domaine de vacances situé au coeur de la splendide région de Peel.<br/><br/>Faites une belle promenade en vélo dans les bois et ensuite glissez le long de l'interminable toboggan d'eau.<br/><br/>En hiver, il y a même une véritable patinoire !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der Liebling der Familien: Het Meerdal ist ein herrlicher Urlaubspark inmitten des wunderschönen Naturschutzgebietes De Peel.<br/><br/>Gemütlich durch die Wälder radeln und danach über die ellenlange Wasserrutsche sausen.<br/><br/>Im Winter können Sie sogar Schlittschuh fahren.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_12_playground_entrance.swf</filename>
+			<type>pano</type>
+			<name_uk>Playground entrance</name_uk>
+			<name_nl>Ingang speeltuin</name_nl>
+			<name_benl>Ingang speeltuin</name_benl>
+			<name_befr>Entrée terrain de jeu</name_befr>
+			<name_fr>Entrée terrain de jeu</name_fr>
+			<name_de>Spielplatz</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>A family favourite.<br/><br/>Het Meerdal is a wonderful holiday park in the middle of beautiful Peel.<br/><br/>Have fun cycling in the forest and then enjoy the endless waterslide.<br/><br/>There is even a real skating rink in winter.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Favoriet bij gezinnen.<br/><br/>Het Meerdal is een heerlijk vakantiepark midden in de prachtige Peel.<br/><br/>Lekker fietsen in de bossen en daarna van de ellenlange waterglijbaan. ’s Winters is er zelfs een echte ijsbaan, niet veranderd.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Favoriet bij gezinnen.<br/><br/>Het Meerdal is een heerlijk vakantiepark midden in de prachtige Peel.<br/><br/>Lekker fietsen in de bossen en daarna van de ellenlange waterglijbaan. ’s Winters is er zelfs een echte ijsbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>C'est le favori des familles.<br/>Het Meerdal est un superbe Domaine de vacances situé au coeur de la splendide région de Peel.<br/><br/>Faites une belle promenade en vélo dans les bois et ensuite glissez le long de l'interminable toboggan d'eau.<br/><br/>En hiver, il y a même une véritable patinoire !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>C'est le favori des familles.<br/>Het Meerdal est un superbe Domaine de vacances situé au coeur de la splendide région de Peel.<br/><br/>Faites une belle promenade en vélo dans les bois et ensuite glissez le long de l'interminable toboggan d'eau.<br/><br/>En hiver, il y a même une véritable patinoire !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der Liebling der Familien: Het Meerdal ist ein herrlicher Urlaubspark inmitten des wunderschönen Naturschutzgebietes De Peel.<br/><br/>Gemütlich durch die Wälder radeln und danach über die ellenlange Wasserrutsche sausen.<br/><br/>Im Winter können Sie sogar Schlittschuh fahren.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_14_market_dome_entrance_1.swf</filename>
+			<type>pano</type>
+			<name_uk>Market Dome entrance 2</name_uk>
+			<name_nl>Ingang Market Dome 2</name_nl>
+			<name_benl>Ingang Market Dome 2</name_benl>
+			<name_befr>Entrée Market Dôme 2</name_befr>
+			<name_fr>Entrée Market Dôme 2</name_fr>
+			<name_de>Eingang Market Dome 2</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>A family favourite.<br/><br/>Het Meerdal is a wonderful holiday park in the middle of beautiful Peel.<br/><br/>Have fun cycling in the forest and then enjoy the endless waterslide.<br/><br/>There is even a real skating rink in winter.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Favoriet bij gezinnen.<br/><br/>Het Meerdal is een heerlijk vakantiepark midden in de prachtige Peel.<br/><br/>Lekker fietsen in de bossen en daarna van de ellenlange waterglijbaan. ’s Winters is er zelfs een echte ijsbaan, niet veranderd.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Favoriet bij gezinnen.<br/><br/>Het Meerdal is een heerlijk vakantiepark midden in de prachtige Peel.<br/><br/>Lekker fietsen in de bossen en daarna van de ellenlange waterglijbaan. ’s Winters is er zelfs een echte ijsbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>C'est le favori des familles.<br/>Het Meerdal est un superbe Domaine de vacances situé au coeur de la splendide région de Peel.<br/><br/>Faites une belle promenade en vélo dans les bois et ensuite glissez le long de l'interminable toboggan d'eau.<br/><br/>En hiver, il y a même une véritable patinoire !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>C'est le favori des familles.<br/>Het Meerdal est un superbe Domaine de vacances situé au coeur de la splendide région de Peel.<br/><br/>Faites une belle promenade en vélo dans les bois et ensuite glissez le long de l'interminable toboggan d'eau.<br/><br/>En hiver, il y a même une véritable patinoire !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der Liebling der Familien: Het Meerdal ist ein herrlicher Urlaubspark inmitten des wunderschönen Naturschutzgebietes De Peel.<br/><br/>Gemütlich durch die Wälder radeln und danach über die ellenlange Wasserrutsche sausen.<br/><br/>Im Winter können Sie sogar Schlittschuh fahren.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_15_view_from_the_bridge.swf</filename>
+			<type>pano</type>
+			<name_uk>View from the bridge</name_uk>
+			<name_nl>Overzicht vanaf brug</name_nl>
+			<name_benl>Overzicht vanaf brug</name_benl>
+			<name_befr>Vue du pont</name_befr>
+			<name_fr>Vue du pont</name_fr>
+			<name_de>Blick von einer Brücke</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>A family favourite.<br/><br/>Het Meerdal is a wonderful holiday park in the middle of beautiful Peel.<br/><br/>Have fun cycling in the forest and then enjoy the endless waterslide.<br/><br/>There is even a real skating rink in winter.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Favoriet bij gezinnen.<br/><br/>Het Meerdal is een heerlijk vakantiepark midden in de prachtige Peel.<br/><br/>Lekker fietsen in de bossen en daarna van de ellenlange waterglijbaan. ’s Winters is er zelfs een echte ijsbaan, niet veranderd.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Favoriet bij gezinnen.<br/><br/>Het Meerdal is een heerlijk vakantiepark midden in de prachtige Peel.<br/><br/>Lekker fietsen in de bossen en daarna van de ellenlange waterglijbaan. ’s Winters is er zelfs een echte ijsbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>C'est le favori des familles.<br/>Het Meerdal est un superbe Domaine de vacances situé au coeur de la splendide région de Peel.<br/><br/>Faites une belle promenade en vélo dans les bois et ensuite glissez le long de l'interminable toboggan d'eau.<br/><br/>En hiver, il y a même une véritable patinoire !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>C'est le favori des familles.<br/>Het Meerdal est un superbe Domaine de vacances situé au coeur de la splendide région de Peel.<br/><br/>Faites une belle promenade en vélo dans les bois et ensuite glissez le long de l'interminable toboggan d'eau.<br/><br/>En hiver, il y a même une véritable patinoire !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der Liebling der Familien: Het Meerdal ist ein herrlicher Urlaubspark inmitten des wunderschönen Naturschutzgebietes De Peel.<br/><br/>Gemütlich durch die Wälder radeln und danach über die ellenlange Wasserrutsche sausen.<br/><br/>Im Winter können Sie sogar Schlittschuh fahren.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>1500</x_pos>
+			<vitesse>-5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound></sound>
+			<filename>sequence_nature.swf</filename>
+			<type>video</type>
+			<name_uk>Nature, walking, biking video</name_uk>
+			<name_nl>Natuur, wandelen, fietsen video</name_nl>
+			<name_benl>Natuur, wandelen, fietsen video</name_benl>
+			<name_befr>Vidéo nature, balades à pied et à vélo</name_befr>
+			<name_fr>Vidéo nature, balades à pied et à vélo</name_fr>
+			<name_de>Video Natur</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>A family favourite.<br/><br/>Het Meerdal is a wonderful holiday park in the middle of beautiful Peel.<br/><br/>Have fun cycling in the forest and then enjoy the endless waterslide.<br/><br/>There is even a real skating rink in winter.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Favoriet bij gezinnen.<br/><br/>Het Meerdal is een heerlijk vakantiepark midden in de prachtige Peel.<br/><br/>Lekker fietsen in de bossen en daarna van de ellenlange waterglijbaan. ’s Winters is er zelfs een echte ijsbaan, niet veranderd.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Favoriet bij gezinnen.<br/><br/>Het Meerdal is een heerlijk vakantiepark midden in de prachtige Peel.<br/><br/>Lekker fietsen in de bossen en daarna van de ellenlange waterglijbaan. ’s Winters is er zelfs een echte ijsbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>C'est le favori des familles.<br/>Het Meerdal est un superbe Domaine de vacances situé au coeur de la splendide région de Peel.<br/><br/>Faites une belle promenade en vélo dans les bois et ensuite glissez le long de l'interminable toboggan d'eau.<br/><br/>En hiver, il y a même une véritable patinoire !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>C'est le favori des familles.<br/>Het Meerdal est un superbe Domaine de vacances situé au coeur de la splendide région de Peel.<br/><br/>Faites une belle promenade en vélo dans les bois et ensuite glissez le long de l'interminable toboggan d'eau.<br/><br/>En hiver, il y a même une véritable patinoire !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der Liebling der Familien: Het Meerdal ist ein herrlicher Urlaubspark inmitten des wunderschönen Naturschutzgebietes De Peel.<br/><br/>Gemütlich durch die Wälder radeln und danach über die ellenlange Wasserrutsche sausen.<br/><br/>Im Winter können Sie sogar Schlittschuh fahren.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>100</pano_change_timer>
+		</pano>
+
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_01_childrens_farm.swf</filename>
+			<type>pano</type>
+			<name_uk>Childrens Farm</name_uk>
+			<name_nl>Kinderboerderij</name_nl>
+			<name_benl>Kinderboerderij</name_benl>
+			<name_befr>Ferme pour enfants</name_befr>
+			<name_fr>Ferme pour enfants</name_fr>
+			<name_de>Kinderbauernhof</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>A family favourite.<br/><br/>Het Meerdal is a wonderful holiday park in the middle of beautiful Peel.<br/><br/>Have fun cycling in the forest and then enjoy the endless waterslide.<br/><br/>There is even a real skating rink in winter.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Favoriet bij gezinnen.<br/><br/>Het Meerdal is een heerlijk vakantiepark midden in de prachtige Peel.<br/><br/>Lekker fietsen in de bossen en daarna van de ellenlange waterglijbaan. ’s Winters is er zelfs een echte ijsbaan, niet veranderd.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Favoriet bij gezinnen.<br/><br/>Het Meerdal is een heerlijk vakantiepark midden in de prachtige Peel.<br/><br/>Lekker fietsen in de bossen en daarna van de ellenlange waterglijbaan. ’s Winters is er zelfs een echte ijsbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>C'est le favori des familles.<br/>Het Meerdal est un superbe Domaine de vacances situé au coeur de la splendide région de Peel.<br/><br/>Faites une belle promenade en vélo dans les bois et ensuite glissez le long de l'interminable toboggan d'eau.<br/><br/>En hiver, il y a même une véritable patinoire !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>C'est le favori des familles.<br/>Het Meerdal est un superbe Domaine de vacances situé au coeur de la splendide région de Peel.<br/><br/>Faites une belle promenade en vélo dans les bois et ensuite glissez le long de l'interminable toboggan d'eau.<br/><br/>En hiver, il y a même une véritable patinoire !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der Liebling der Familien: Het Meerdal ist ein herrlicher Urlaubspark inmitten des wunderschönen Naturschutzgebietes De Peel.<br/><br/>Gemütlich durch die Wälder radeln und danach über die ellenlange Wasserrutsche sausen.<br/><br/>Im Winter können Sie sogar Schlittschuh fahren.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_02_archery.swf</filename>
+			<type>pano</type>
+			<name_uk>Archery</name_uk>
+			<name_nl>Boogschieten</name_nl>
+			<name_benl>Boogschieten</name_benl>
+			<name_befr>Tire à l'arc</name_befr>
+			<name_fr>Tire à l'arc</name_fr>
+			<name_de>Bogenschießen</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>A family favourite.<br/><br/>Het Meerdal is a wonderful holiday park in the middle of beautiful Peel.<br/><br/>Have fun cycling in the forest and then enjoy the endless waterslide.<br/><br/>There is even a real skating rink in winter.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Favoriet bij gezinnen.<br/><br/>Het Meerdal is een heerlijk vakantiepark midden in de prachtige Peel.<br/><br/>Lekker fietsen in de bossen en daarna van de ellenlange waterglijbaan. ’s Winters is er zelfs een echte ijsbaan, niet veranderd.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Favoriet bij gezinnen.<br/><br/>Het Meerdal is een heerlijk vakantiepark midden in de prachtige Peel.<br/><br/>Lekker fietsen in de bossen en daarna van de ellenlange waterglijbaan. ’s Winters is er zelfs een echte ijsbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>C'est le favori des familles.<br/>Het Meerdal est un superbe Domaine de vacances situé au coeur de la splendide région de Peel.<br/><br/>Faites une belle promenade en vélo dans les bois et ensuite glissez le long de l'interminable toboggan d'eau.<br/><br/>En hiver, il y a même une véritable patinoire !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>C'est le favori des familles.<br/>Het Meerdal est un superbe Domaine de vacances situé au coeur de la splendide région de Peel.<br/><br/>Faites une belle promenade en vélo dans les bois et ensuite glissez le long de l'interminable toboggan d'eau.<br/><br/>En hiver, il y a même une véritable patinoire !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der Liebling der Familien: Het Meerdal ist ein herrlicher Urlaubspark inmitten des wunderschönen Naturschutzgebietes De Peel.<br/><br/>Gemütlich durch die Wälder radeln und danach über die ellenlange Wasserrutsche sausen.<br/><br/>Im Winter können Sie sogar Schlittschuh fahren.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_03_cycle_center.swf</filename>
+			<type>pano</type>
+			<name_uk>Cycle Center</name_uk>
+			<name_nl>Cycle Center</name_nl>
+			<name_benl>Cycle Center</name_benl>
+			<name_befr>Cycle Center</name_befr>
+			<name_fr>Cycle Center</name_fr>
+			<name_de>Cycle Center</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>A family favourite.<br/><br/>Het Meerdal is a wonderful holiday park in the middle of beautiful Peel.<br/><br/>Have fun cycling in the forest and then enjoy the endless waterslide.<br/><br/>There is even a real skating rink in winter.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Favoriet bij gezinnen.<br/><br/>Het Meerdal is een heerlijk vakantiepark midden in de prachtige Peel.<br/><br/>Lekker fietsen in de bossen en daarna van de ellenlange waterglijbaan. ’s Winters is er zelfs een echte ijsbaan, niet veranderd.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Favoriet bij gezinnen.<br/><br/>Het Meerdal is een heerlijk vakantiepark midden in de prachtige Peel.<br/><br/>Lekker fietsen in de bossen en daarna van de ellenlange waterglijbaan. ’s Winters is er zelfs een echte ijsbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>C'est le favori des familles.<br/>Het Meerdal est un superbe Domaine de vacances situé au coeur de la splendide région de Peel.<br/><br/>Faites une belle promenade en vélo dans les bois et ensuite glissez le long de l'interminable toboggan d'eau.<br/><br/>En hiver, il y a même une véritable patinoire !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>C'est le favori des familles.<br/>Het Meerdal est un superbe Domaine de vacances situé au coeur de la splendide région de Peel.<br/><br/>Faites une belle promenade en vélo dans les bois et ensuite glissez le long de l'interminable toboggan d'eau.<br/><br/>En hiver, il y a même une véritable patinoire !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der Liebling der Familien: Het Meerdal ist ein herrlicher Urlaubspark inmitten des wunderschönen Naturschutzgebietes De Peel.<br/><br/>Gemütlich durch die Wälder radeln und danach über die ellenlange Wasserrutsche sausen.<br/><br/>Im Winter können Sie sogar Schlittschuh fahren.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_04_pedalos.swf</filename>
+			<type>pano</type>
+			<name_uk>Pedalos</name_uk>
+			<name_nl>Waterfietsen</name_nl>
+			<name_benl>Waterfietsen</name_benl>
+			<name_befr>Pédalos</name_befr>
+			<name_fr>Pédalos</name_fr>
+			<name_de>Tretboote</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>A family favourite.<br/><br/>Het Meerdal is a wonderful holiday park in the middle of beautiful Peel.<br/><br/>Have fun cycling in the forest and then enjoy the endless waterslide.<br/><br/>There is even a real skating rink in winter.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Favoriet bij gezinnen.<br/><br/>Het Meerdal is een heerlijk vakantiepark midden in de prachtige Peel.<br/><br/>Lekker fietsen in de bossen en daarna van de ellenlange waterglijbaan. ’s Winters is er zelfs een echte ijsbaan, niet veranderd.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Favoriet bij gezinnen.<br/><br/>Het Meerdal is een heerlijk vakantiepark midden in de prachtige Peel.<br/><br/>Lekker fietsen in de bossen en daarna van de ellenlange waterglijbaan. ’s Winters is er zelfs een echte ijsbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>C'est le favori des familles.<br/>Het Meerdal est un superbe Domaine de vacances situé au coeur de la splendide région de Peel.<br/><br/>Faites une belle promenade en vélo dans les bois et ensuite glissez le long de l'interminable toboggan d'eau.<br/><br/>En hiver, il y a même une véritable patinoire !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>C'est le favori des familles.<br/>Het Meerdal est un superbe Domaine de vacances situé au coeur de la splendide région de Peel.<br/><br/>Faites une belle promenade en vélo dans les bois et ensuite glissez le long de l'interminable toboggan d'eau.<br/><br/>En hiver, il y a même une véritable patinoire !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der Liebling der Familien: Het Meerdal ist ein herrlicher Urlaubspark inmitten des wunderschönen Naturschutzgebietes De Peel.<br/><br/>Gemütlich durch die Wälder radeln und danach über die ellenlange Wasserrutsche sausen.<br/><br/>Im Winter können Sie sogar Schlittschuh fahren.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_05_kiosk_and_lake.swf</filename>
+			<type>pano</type>
+			<name_uk>Kiosk and lake</name_uk>
+			<name_nl>Kiosk en meer</name_nl>
+			<name_benl>Kiosk en meer</name_benl>
+			<name_befr>Kiosque et lac</name_befr>
+			<name_fr>Kiosque et lac</name_fr>
+			<name_de>Kiosk und See</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>A family favourite.<br/><br/>Het Meerdal is a wonderful holiday park in the middle of beautiful Peel.<br/><br/>Have fun cycling in the forest and then enjoy the endless waterslide.<br/><br/>There is even a real skating rink in winter.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Favoriet bij gezinnen.<br/><br/>Het Meerdal is een heerlijk vakantiepark midden in de prachtige Peel.<br/><br/>Lekker fietsen in de bossen en daarna van de ellenlange waterglijbaan. ’s Winters is er zelfs een echte ijsbaan, niet veranderd.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Favoriet bij gezinnen.<br/><br/>Het Meerdal is een heerlijk vakantiepark midden in de prachtige Peel.<br/><br/>Lekker fietsen in de bossen en daarna van de ellenlange waterglijbaan. ’s Winters is er zelfs een echte ijsbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>C'est le favori des familles.<br/>Het Meerdal est un superbe Domaine de vacances situé au coeur de la splendide région de Peel.<br/><br/>Faites une belle promenade en vélo dans les bois et ensuite glissez le long de l'interminable toboggan d'eau.<br/><br/>En hiver, il y a même une véritable patinoire !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>C'est le favori des familles.<br/>Het Meerdal est un superbe Domaine de vacances situé au coeur de la splendide région de Peel.<br/><br/>Faites une belle promenade en vélo dans les bois et ensuite glissez le long de l'interminable toboggan d'eau.<br/><br/>En hiver, il y a même une véritable patinoire !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der Liebling der Familien: Het Meerdal ist ein herrlicher Urlaubspark inmitten des wunderschönen Naturschutzgebietes De Peel.<br/><br/>Gemütlich durch die Wälder radeln und danach über die ellenlange Wasserrutsche sausen.<br/><br/>Im Winter können Sie sogar Schlittschuh fahren.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_06_midget_golf.swf</filename>
+			<type>pano</type>
+			<name_uk>Midget golf</name_uk>
+			<name_nl>Midgetgolf</name_nl>
+			<name_benl>Midgetgolf</name_benl>
+			<name_befr>Mini-Golf</name_befr>
+			<name_fr>Mini-Golf</name_fr>
+			<name_de>Minigolf</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>A family favourite.<br/><br/>Het Meerdal is a wonderful holiday park in the middle of beautiful Peel.<br/><br/>Have fun cycling in the forest and then enjoy the endless waterslide.<br/><br/>There is even a real skating rink in winter.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Favoriet bij gezinnen.<br/><br/>Het Meerdal is een heerlijk vakantiepark midden in de prachtige Peel.<br/><br/>Lekker fietsen in de bossen en daarna van de ellenlange waterglijbaan. ’s Winters is er zelfs een echte ijsbaan, niet veranderd.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Favoriet bij gezinnen.<br/><br/>Het Meerdal is een heerlijk vakantiepark midden in de prachtige Peel.<br/><br/>Lekker fietsen in de bossen en daarna van de ellenlange waterglijbaan. ’s Winters is er zelfs een echte ijsbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>C'est le favori des familles.<br/>Het Meerdal est un superbe Domaine de vacances situé au coeur de la splendide région de Peel.<br/><br/>Faites une belle promenade en vélo dans les bois et ensuite glissez le long de l'interminable toboggan d'eau.<br/><br/>En hiver, il y a même une véritable patinoire !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>C'est le favori des familles.<br/>Het Meerdal est un superbe Domaine de vacances situé au coeur de la splendide région de Peel.<br/><br/>Faites une belle promenade en vélo dans les bois et ensuite glissez le long de l'interminable toboggan d'eau.<br/><br/>En hiver, il y a même une véritable patinoire !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der Liebling der Familien: Het Meerdal ist ein herrlicher Urlaubspark inmitten des wunderschönen Naturschutzgebietes De Peel.<br/><br/>Gemütlich durch die Wälder radeln und danach über die ellenlange Wasserrutsche sausen.<br/><br/>Im Winter können Sie sogar Schlittschuh fahren.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_07_playground_and_lake.swf</filename>
+			<type>pano</type>
+			<name_uk>Playground and lake</name_uk>
+			<name_nl>Speeltuin en meer</name_nl>
+			<name_benl>Speeltuin en meer</name_benl>
+			<name_befr>Terrain de jeu et lac</name_befr>
+			<name_fr>Terrain de jeu et lac</name_fr>
+			<name_de>Spielplatz am See</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>A family favourite.<br/><br/>Het Meerdal is a wonderful holiday park in the middle of beautiful Peel.<br/><br/>Have fun cycling in the forest and then enjoy the endless waterslide.<br/><br/>There is even a real skating rink in winter.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Favoriet bij gezinnen.<br/><br/>Het Meerdal is een heerlijk vakantiepark midden in de prachtige Peel.<br/><br/>Lekker fietsen in de bossen en daarna van de ellenlange waterglijbaan. ’s Winters is er zelfs een echte ijsbaan, niet veranderd.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Favoriet bij gezinnen.<br/><br/>Het Meerdal is een heerlijk vakantiepark midden in de prachtige Peel.<br/><br/>Lekker fietsen in de bossen en daarna van de ellenlange waterglijbaan. ’s Winters is er zelfs een echte ijsbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>C'est le favori des familles.<br/>Het Meerdal est un superbe Domaine de vacances situé au coeur de la splendide région de Peel.<br/><br/>Faites une belle promenade en vélo dans les bois et ensuite glissez le long de l'interminable toboggan d'eau.<br/><br/>En hiver, il y a même une véritable patinoire !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>C'est le favori des familles.<br/>Het Meerdal est un superbe Domaine de vacances situé au coeur de la splendide région de Peel.<br/><br/>Faites une belle promenade en vélo dans les bois et ensuite glissez le long de l'interminable toboggan d'eau.<br/><br/>En hiver, il y a même une véritable patinoire !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der Liebling der Familien: Het Meerdal ist ein herrlicher Urlaubspark inmitten des wunderschönen Naturschutzgebietes De Peel.<br/><br/>Gemütlich durch die Wälder radeln und danach über die ellenlange Wasserrutsche sausen.<br/><br/>Im Winter können Sie sogar Schlittschuh fahren.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_08_tennis.swf</filename>
+			<type>pano</type>
+			<name_uk>Tennis</name_uk>
+			<name_nl>Tennis</name_nl>
+			<name_benl>Tennis</name_benl>
+			<name_befr>Tennis</name_befr>
+			<name_fr>Tennis</name_fr>
+			<name_de>Tennisplätze</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>A family favourite.<br/><br/>Het Meerdal is a wonderful holiday park in the middle of beautiful Peel.<br/><br/>Have fun cycling in the forest and then enjoy the endless waterslide.<br/><br/>There is even a real skating rink in winter.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Favoriet bij gezinnen.<br/><br/>Het Meerdal is een heerlijk vakantiepark midden in de prachtige Peel.<br/><br/>Lekker fietsen in de bossen en daarna van de ellenlange waterglijbaan. ’s Winters is er zelfs een echte ijsbaan, niet veranderd.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Favoriet bij gezinnen.<br/><br/>Het Meerdal is een heerlijk vakantiepark midden in de prachtige Peel.<br/><br/>Lekker fietsen in de bossen en daarna van de ellenlange waterglijbaan. ’s Winters is er zelfs een echte ijsbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>C'est le favori des familles.<br/>Het Meerdal est un superbe Domaine de vacances situé au coeur de la splendide région de Peel.<br/><br/>Faites une belle promenade en vélo dans les bois et ensuite glissez le long de l'interminable toboggan d'eau.<br/><br/>En hiver, il y a même une véritable patinoire !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>C'est le favori des familles.<br/>Het Meerdal est un superbe Domaine de vacances situé au coeur de la splendide région de Peel.<br/><br/>Faites une belle promenade en vélo dans les bois et ensuite glissez le long de l'interminable toboggan d'eau.<br/><br/>En hiver, il y a même une véritable patinoire !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der Liebling der Familien: Het Meerdal ist ein herrlicher Urlaubspark inmitten des wunderschönen Naturschutzgebietes De Peel.<br/><br/>Gemütlich durch die Wälder radeln und danach über die ellenlange Wasserrutsche sausen.<br/><br/>Im Winter können Sie sogar Schlittschuh fahren.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>1500</x_pos>
+			<vitesse>-5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_09_football_ground.swf</filename>
+			<type>pano</type>
+			<name_uk>Football ground</name_uk>
+			<name_nl>Voetbalveld</name_nl>
+			<name_benl>Voetbalveld</name_benl>
+			<name_befr>Terrain de football</name_befr>
+			<name_fr>Terrain de football</name_fr>
+			<name_de>Bolzplatz</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>A family favourite.<br/><br/>Het Meerdal is a wonderful holiday park in the middle of beautiful Peel.<br/><br/>Have fun cycling in the forest and then enjoy the endless waterslide.<br/><br/>There is even a real skating rink in winter.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Favoriet bij gezinnen.<br/><br/>Het Meerdal is een heerlijk vakantiepark midden in de prachtige Peel.<br/><br/>Lekker fietsen in de bossen en daarna van de ellenlange waterglijbaan. ’s Winters is er zelfs een echte ijsbaan, niet veranderd.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Favoriet bij gezinnen.<br/><br/>Het Meerdal is een heerlijk vakantiepark midden in de prachtige Peel.<br/><br/>Lekker fietsen in de bossen en daarna van de ellenlange waterglijbaan. ’s Winters is er zelfs een echte ijsbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>C'est le favori des familles.<br/>Het Meerdal est un superbe Domaine de vacances situé au coeur de la splendide région de Peel.<br/><br/>Faites une belle promenade en vélo dans les bois et ensuite glissez le long de l'interminable toboggan d'eau.<br/><br/>En hiver, il y a même une véritable patinoire !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>C'est le favori des familles.<br/>Het Meerdal est un superbe Domaine de vacances situé au coeur de la splendide région de Peel.<br/><br/>Faites une belle promenade en vélo dans les bois et ensuite glissez le long de l'interminable toboggan d'eau.<br/><br/>En hiver, il y a même une véritable patinoire !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der Liebling der Familien: Het Meerdal ist ein herrlicher Urlaubspark inmitten des wunderschönen Naturschutzgebietes De Peel.<br/><br/>Gemütlich durch die Wälder radeln und danach über die ellenlange Wasserrutsche sausen.<br/><br/>Im Winter können Sie sogar Schlittschuh fahren.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_zc_16_cottages_zone_1.swf</filename>
+			<type>pano</type>
+			<name_uk>Zone 1</name_uk>
+			<name_nl>Cottages zone 1</name_nl>
+			<name_benl>Cottages zone 1</name_benl>
+			<name_befr>Zone de cottages 1</name_befr>
+			<name_fr>Zone de cottages 1</name_fr>
+			<name_de>Ferienhäuser im 100er-Bereich</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>A family favourite.<br/><br/>Het Meerdal is a wonderful holiday park in the middle of beautiful Peel.<br/><br/>Have fun cycling in the forest and then enjoy the endless waterslide.<br/><br/>There is even a real skating rink in winter.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Favoriet bij gezinnen.<br/><br/>Het Meerdal is een heerlijk vakantiepark midden in de prachtige Peel.<br/><br/>Lekker fietsen in de bossen en daarna van de ellenlange waterglijbaan. ’s Winters is er zelfs een echte ijsbaan, niet veranderd.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Favoriet bij gezinnen.<br/><br/>Het Meerdal is een heerlijk vakantiepark midden in de prachtige Peel.<br/><br/>Lekker fietsen in de bossen en daarna van de ellenlange waterglijbaan. ’s Winters is er zelfs een echte ijsbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>C'est le favori des familles.<br/>Het Meerdal est un superbe Domaine de vacances situé au coeur de la splendide région de Peel.<br/><br/>Faites une belle promenade en vélo dans les bois et ensuite glissez le long de l'interminable toboggan d'eau.<br/><br/>En hiver, il y a même une véritable patinoire !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>C'est le favori des familles.<br/>Het Meerdal est un superbe Domaine de vacances situé au coeur de la splendide région de Peel.<br/><br/>Faites une belle promenade en vélo dans les bois et ensuite glissez le long de l'interminable toboggan d'eau.<br/><br/>En hiver, il y a même une véritable patinoire !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der Liebling der Familien: Het Meerdal ist ein herrlicher Urlaubspark inmitten des wunderschönen Naturschutzgebietes De Peel.<br/><br/>Gemütlich durch die Wälder radeln und danach über die ellenlange Wasserrutsche sausen.<br/><br/>Im Winter können Sie sogar Schlittschuh fahren.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_zc_17_cottages_zone_2.swf</filename>
+			<type>pano</type>
+			<name_uk>Zone 2</name_uk>
+			<name_nl>Cottages zone 2</name_nl>
+			<name_benl>Cottages zone 2</name_benl>
+			<name_befr>Zone de cottages 2</name_befr>
+			<name_fr>Zone de cottages 2</name_fr>
+			<name_de>Ferienhäuser im 200er-Bereich</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>A family favourite.<br/><br/>Het Meerdal is a wonderful holiday park in the middle of beautiful Peel.<br/><br/>Have fun cycling in the forest and then enjoy the endless waterslide.<br/><br/>There is even a real skating rink in winter.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Favoriet bij gezinnen.<br/><br/>Het Meerdal is een heerlijk vakantiepark midden in de prachtige Peel.<br/><br/>Lekker fietsen in de bossen en daarna van de ellenlange waterglijbaan. ’s Winters is er zelfs een echte ijsbaan, niet veranderd.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Favoriet bij gezinnen.<br/><br/>Het Meerdal is een heerlijk vakantiepark midden in de prachtige Peel.<br/><br/>Lekker fietsen in de bossen en daarna van de ellenlange waterglijbaan. ’s Winters is er zelfs een echte ijsbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>C'est le favori des familles.<br/>Het Meerdal est un superbe Domaine de vacances situé au coeur de la splendide région de Peel.<br/><br/>Faites une belle promenade en vélo dans les bois et ensuite glissez le long de l'interminable toboggan d'eau.<br/><br/>En hiver, il y a même une véritable patinoire !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>C'est le favori des familles.<br/>Het Meerdal est un superbe Domaine de vacances situé au coeur de la splendide région de Peel.<br/><br/>Faites une belle promenade en vélo dans les bois et ensuite glissez le long de l'interminable toboggan d'eau.<br/><br/>En hiver, il y a même une véritable patinoire !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der Liebling der Familien: Het Meerdal ist ein herrlicher Urlaubspark inmitten des wunderschönen Naturschutzgebietes De Peel.<br/><br/>Gemütlich durch die Wälder radeln und danach über die ellenlange Wasserrutsche sausen.<br/><br/>Im Winter können Sie sogar Schlittschuh fahren.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_zc_18_cottages_zone_3.swf</filename>
+			<type>pano</type>
+			<name_uk>Zone 3</name_uk>
+			<name_nl>Cottages zone 3</name_nl>
+			<name_benl>Cottages zone 3</name_benl>
+			<name_befr>Zone de cottages 3</name_befr>
+			<name_fr>Zone de cottages 3</name_fr>
+			<name_de>Ferienhäuser im 300er-Bereich</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>A family favourite.<br/><br/>Het Meerdal is a wonderful holiday park in the middle of beautiful Peel.<br/><br/>Have fun cycling in the forest and then enjoy the endless waterslide.<br/><br/>There is even a real skating rink in winter.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Favoriet bij gezinnen.<br/><br/>Het Meerdal is een heerlijk vakantiepark midden in de prachtige Peel.<br/><br/>Lekker fietsen in de bossen en daarna van de ellenlange waterglijbaan. ’s Winters is er zelfs een echte ijsbaan, niet veranderd.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Favoriet bij gezinnen.<br/><br/>Het Meerdal is een heerlijk vakantiepark midden in de prachtige Peel.<br/><br/>Lekker fietsen in de bossen en daarna van de ellenlange waterglijbaan. ’s Winters is er zelfs een echte ijsbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>C'est le favori des familles.<br/>Het Meerdal est un superbe Domaine de vacances situé au coeur de la splendide région de Peel.<br/><br/>Faites une belle promenade en vélo dans les bois et ensuite glissez le long de l'interminable toboggan d'eau.<br/><br/>En hiver, il y a même une véritable patinoire !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>C'est le favori des familles.<br/>Het Meerdal est un superbe Domaine de vacances situé au coeur de la splendide région de Peel.<br/><br/>Faites une belle promenade en vélo dans les bois et ensuite glissez le long de l'interminable toboggan d'eau.<br/><br/>En hiver, il y a même une véritable patinoire !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der Liebling der Familien: Het Meerdal ist ein herrlicher Urlaubspark inmitten des wunderschönen Naturschutzgebietes De Peel.<br/><br/>Gemütlich durch die Wälder radeln und danach über die ellenlange Wasserrutsche sausen.<br/><br/>Im Winter können Sie sogar Schlittschuh fahren.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_zc_19_cottages_zone_4.swf</filename>
+			<type>pano</type>
+			<name_uk>Zone 4</name_uk>
+			<name_nl>Cottages zone 4</name_nl>
+			<name_benl>Cottages zone 4</name_benl>
+			<name_befr>Zone de cottages 4</name_befr>
+			<name_fr>Zone de cottages 4</name_fr>
+			<name_de>Ferienhäuser im 400er-Bereich</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>A family favourite.<br/><br/>Het Meerdal is a wonderful holiday park in the middle of beautiful Peel.<br/><br/>Have fun cycling in the forest and then enjoy the endless waterslide.<br/><br/>There is even a real skating rink in winter.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Favoriet bij gezinnen.<br/><br/>Het Meerdal is een heerlijk vakantiepark midden in de prachtige Peel.<br/><br/>Lekker fietsen in de bossen en daarna van de ellenlange waterglijbaan. ’s Winters is er zelfs een echte ijsbaan, niet veranderd.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Favoriet bij gezinnen.<br/><br/>Het Meerdal is een heerlijk vakantiepark midden in de prachtige Peel.<br/><br/>Lekker fietsen in de bossen en daarna van de ellenlange waterglijbaan. ’s Winters is er zelfs een echte ijsbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>C'est le favori des familles.<br/>Het Meerdal est un superbe Domaine de vacances situé au coeur de la splendide région de Peel.<br/><br/>Faites une belle promenade en vélo dans les bois et ensuite glissez le long de l'interminable toboggan d'eau.<br/><br/>En hiver, il y a même une véritable patinoire !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>C'est le favori des familles.<br/>Het Meerdal est un superbe Domaine de vacances situé au coeur de la splendide région de Peel.<br/><br/>Faites une belle promenade en vélo dans les bois et ensuite glissez le long de l'interminable toboggan d'eau.<br/><br/>En hiver, il y a même une véritable patinoire !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der Liebling der Familien: Het Meerdal ist ein herrlicher Urlaubspark inmitten des wunderschönen Naturschutzgebietes De Peel.<br/><br/>Gemütlich durch die Wälder radeln und danach über die ellenlange Wasserrutsche sausen.<br/><br/>Im Winter können Sie sogar Schlittschuh fahren.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>2000</x_pos>
+			<vitesse>-5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_zc_20_cottages_zone_5.swf</filename>
+			<type>pano</type>
+			<name_uk>Zone 5</name_uk>
+			<name_nl>Cottages zone 5</name_nl>
+			<name_benl>Cottages zone 5</name_benl>
+			<name_befr>Zone de cottages 5</name_befr>
+			<name_fr>Zone de cottages 5</name_fr>
+			<name_de>Ferienhäuser im 500er-Bereich</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>A family favourite.<br/><br/>Het Meerdal is a wonderful holiday park in the middle of beautiful Peel.<br/><br/>Have fun cycling in the forest and then enjoy the endless waterslide.<br/><br/>There is even a real skating rink in winter.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Favoriet bij gezinnen.<br/><br/>Het Meerdal is een heerlijk vakantiepark midden in de prachtige Peel.<br/><br/>Lekker fietsen in de bossen en daarna van de ellenlange waterglijbaan. ’s Winters is er zelfs een echte ijsbaan, niet veranderd.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Favoriet bij gezinnen.<br/><br/>Het Meerdal is een heerlijk vakantiepark midden in de prachtige Peel.<br/><br/>Lekker fietsen in de bossen en daarna van de ellenlange waterglijbaan. ’s Winters is er zelfs een echte ijsbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>C'est le favori des familles.<br/>Het Meerdal est un superbe Domaine de vacances situé au coeur de la splendide région de Peel.<br/><br/>Faites une belle promenade en vélo dans les bois et ensuite glissez le long de l'interminable toboggan d'eau.<br/><br/>En hiver, il y a même une véritable patinoire !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>C'est le favori des familles.<br/>Het Meerdal est un superbe Domaine de vacances situé au coeur de la splendide région de Peel.<br/><br/>Faites une belle promenade en vélo dans les bois et ensuite glissez le long de l'interminable toboggan d'eau.<br/><br/>En hiver, il y a même une véritable patinoire !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der Liebling der Familien: Het Meerdal ist ein herrlicher Urlaubspark inmitten des wunderschönen Naturschutzgebietes De Peel.<br/><br/>Gemütlich durch die Wälder radeln und danach über die ellenlange Wasserrutsche sausen.<br/><br/>Im Winter können Sie sogar Schlittschuh fahren.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>400</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_zc_21_cottages_zone_6.swf</filename>
+			<type>pano</type>
+			<name_uk>Zone 6</name_uk>
+			<name_nl>Cottages zone 6</name_nl>
+			<name_benl>Cottages zone 6</name_benl>
+			<name_befr>Zone de cottages 6</name_befr>
+			<name_fr>Zone de cottages 6</name_fr>
+			<name_de>Ferienhäuser im 600er-Bereich</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>A family favourite.<br/><br/>Het Meerdal is a wonderful holiday park in the middle of beautiful Peel.<br/><br/>Have fun cycling in the forest and then enjoy the endless waterslide.<br/><br/>There is even a real skating rink in winter.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Favoriet bij gezinnen.<br/><br/>Het Meerdal is een heerlijk vakantiepark midden in de prachtige Peel.<br/><br/>Lekker fietsen in de bossen en daarna van de ellenlange waterglijbaan. ’s Winters is er zelfs een echte ijsbaan, niet veranderd.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Favoriet bij gezinnen.<br/><br/>Het Meerdal is een heerlijk vakantiepark midden in de prachtige Peel.<br/><br/>Lekker fietsen in de bossen en daarna van de ellenlange waterglijbaan. ’s Winters is er zelfs een echte ijsbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>C'est le favori des familles.<br/>Het Meerdal est un superbe Domaine de vacances situé au coeur de la splendide région de Peel.<br/><br/>Faites une belle promenade en vélo dans les bois et ensuite glissez le long de l'interminable toboggan d'eau.<br/><br/>En hiver, il y a même une véritable patinoire !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>C'est le favori des familles.<br/>Het Meerdal est un superbe Domaine de vacances situé au coeur de la splendide région de Peel.<br/><br/>Faites une belle promenade en vélo dans les bois et ensuite glissez le long de l'interminable toboggan d'eau.<br/><br/>En hiver, il y a même une véritable patinoire !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der Liebling der Familien: Het Meerdal ist ein herrlicher Urlaubspark inmitten des wunderschönen Naturschutzgebietes De Peel.<br/><br/>Gemütlich durch die Wälder radeln und danach über die ellenlange Wasserrutsche sausen.<br/><br/>Im Winter können Sie sogar Schlittschuh fahren.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_zc_22_cottages_zone_7.swf</filename>
+			<type>pano</type>
+			<name_uk>Zone 7</name_uk>
+			<name_nl>Cottages zone 7</name_nl>
+			<name_benl>Cottages zone 7</name_benl>
+			<name_befr>Zone de cottages 7</name_befr>
+			<name_fr>Zone de cottages 7</name_fr>
+			<name_de>Ferienhäuser im 700er-Bereich</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>A family favourite.<br/><br/>Het Meerdal is a wonderful holiday park in the middle of beautiful Peel.<br/><br/>Have fun cycling in the forest and then enjoy the endless waterslide.<br/><br/>There is even a real skating rink in winter.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Favoriet bij gezinnen.<br/><br/>Het Meerdal is een heerlijk vakantiepark midden in de prachtige Peel.<br/><br/>Lekker fietsen in de bossen en daarna van de ellenlange waterglijbaan. ’s Winters is er zelfs een echte ijsbaan, niet veranderd.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Favoriet bij gezinnen.<br/><br/>Het Meerdal is een heerlijk vakantiepark midden in de prachtige Peel.<br/><br/>Lekker fietsen in de bossen en daarna van de ellenlange waterglijbaan. ’s Winters is er zelfs een echte ijsbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>C'est le favori des familles.<br/>Het Meerdal est un superbe Domaine de vacances situé au coeur de la splendide région de Peel.<br/><br/>Faites une belle promenade en vélo dans les bois et ensuite glissez le long de l'interminable toboggan d'eau.<br/><br/>En hiver, il y a même une véritable patinoire !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>C'est le favori des familles.<br/>Het Meerdal est un superbe Domaine de vacances situé au coeur de la splendide région de Peel.<br/><br/>Faites une belle promenade en vélo dans les bois et ensuite glissez le long de l'interminable toboggan d'eau.<br/><br/>En hiver, il y a même une véritable patinoire !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der Liebling der Familien: Het Meerdal ist ein herrlicher Urlaubspark inmitten des wunderschönen Naturschutzgebietes De Peel.<br/><br/>Gemütlich durch die Wälder radeln und danach über die ellenlange Wasserrutsche sausen.<br/><br/>Im Winter können Sie sogar Schlittschuh fahren.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_zc_23_cottages_zone_8.swf</filename>
+			<type>pano</type>
+			<name_uk>Zone 8</name_uk>
+			<name_nl>Cottages zone 8</name_nl>
+			<name_benl>Cottages zone 8</name_benl>
+			<name_befr>Zone de cottages 8</name_befr>
+			<name_fr>Zone de cottages 8</name_fr>
+			<name_de>Ferienhäuser im 800er-Bereich</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>A family favourite.<br/><br/>Het Meerdal is a wonderful holiday park in the middle of beautiful Peel.<br/><br/>Have fun cycling in the forest and then enjoy the endless waterslide.<br/><br/>There is even a real skating rink in winter.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Favoriet bij gezinnen.<br/><br/>Het Meerdal is een heerlijk vakantiepark midden in de prachtige Peel.<br/><br/>Lekker fietsen in de bossen en daarna van de ellenlange waterglijbaan. ’s Winters is er zelfs een echte ijsbaan, niet veranderd.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Favoriet bij gezinnen.<br/><br/>Het Meerdal is een heerlijk vakantiepark midden in de prachtige Peel.<br/><br/>Lekker fietsen in de bossen en daarna van de ellenlange waterglijbaan. ’s Winters is er zelfs een echte ijsbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>C'est le favori des familles.<br/>Het Meerdal est un superbe Domaine de vacances situé au coeur de la splendide région de Peel.<br/><br/>Faites une belle promenade en vélo dans les bois et ensuite glissez le long de l'interminable toboggan d'eau.<br/><br/>En hiver, il y a même une véritable patinoire !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>C'est le favori des familles.<br/>Het Meerdal est un superbe Domaine de vacances situé au coeur de la splendide région de Peel.<br/><br/>Faites une belle promenade en vélo dans les bois et ensuite glissez le long de l'interminable toboggan d'eau.<br/><br/>En hiver, il y a même une véritable patinoire !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der Liebling der Familien: Het Meerdal ist ein herrlicher Urlaubspark inmitten des wunderschönen Naturschutzgebietes De Peel.<br/><br/>Gemütlich durch die Wälder radeln und danach über die ellenlange Wasserrutsche sausen.<br/><br/>Im Winter können Sie sogar Schlittschuh fahren.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>2000</x_pos>
+			<vitesse>-5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_zc_24_cottages_zone_9.swf</filename>
+			<type>pano</type>
+			<name_uk>Zone 9</name_uk>
+			<name_nl>Cottages zone 9</name_nl>
+			<name_benl>Cottages zone 9</name_benl>
+			<name_befr>Zone de cottages 9</name_befr>
+			<name_fr>Zone de cottages 9</name_fr>
+			<name_de>Spielplatz im 900er-Bereich</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>A family favourite.<br/><br/>Het Meerdal is a wonderful holiday park in the middle of beautiful Peel.<br/><br/>Have fun cycling in the forest and then enjoy the endless waterslide.<br/><br/>There is even a real skating rink in winter.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Favoriet bij gezinnen.<br/><br/>Het Meerdal is een heerlijk vakantiepark midden in de prachtige Peel.<br/><br/>Lekker fietsen in de bossen en daarna van de ellenlange waterglijbaan. ’s Winters is er zelfs een echte ijsbaan, niet veranderd.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Favoriet bij gezinnen.<br/><br/>Het Meerdal is een heerlijk vakantiepark midden in de prachtige Peel.<br/><br/>Lekker fietsen in de bossen en daarna van de ellenlange waterglijbaan. ’s Winters is er zelfs een echte ijsbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>C'est le favori des familles.<br/>Het Meerdal est un superbe Domaine de vacances situé au coeur de la splendide région de Peel.<br/><br/>Faites une belle promenade en vélo dans les bois et ensuite glissez le long de l'interminable toboggan d'eau.<br/><br/>En hiver, il y a même une véritable patinoire !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>C'est le favori des familles.<br/>Het Meerdal est un superbe Domaine de vacances situé au coeur de la splendide région de Peel.<br/><br/>Faites une belle promenade en vélo dans les bois et ensuite glissez le long de l'interminable toboggan d'eau.<br/><br/>En hiver, il y a même une véritable patinoire !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der Liebling der Familien: Het Meerdal ist ein herrlicher Urlaubspark inmitten des wunderschönen Naturschutzgebietes De Peel.<br/><br/>Gemütlich durch die Wälder radeln und danach über die ellenlange Wasserrutsche sausen.<br/><br/>Im Winter können Sie sogar Schlittschuh fahren.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>2000</x_pos>
+			<vitesse>-5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+// Aquamundo
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_07_swimming_pool.swf</filename>
+			<type>pano</type>
+			<name_uk>Swimming pool</name_uk>
+			<name_nl>Aqua Mundo</name_nl>
+			<name_benl>Aqua Mundo</name_benl>
+			<name_befr>Piscine</name_befr>
+			<name_fr>Piscine</name_fr>
+			<name_de>Pool</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_02_toboggans_departure.swf</filename>
+			<type>pano</type>
+			<name_uk>Toboggans departure</name_uk>
+			<name_nl>Uitgang glijbaane</name_nl>
+			<name_benl>Uitgang glijbaan</name_benl>
+			<name_befr>Départ toboggans</name_befr>
+			<name_fr>Départ toboggans</name_fr>
+			<name_de>Wasserrutschen</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_03_hydrajets.swf</filename>
+			<type>pano</type>
+			<name_uk>Hydrajets</name_uk>
+			<name_nl>Hydrojets</name_nl>
+			<name_benl>Hydrojets</name_benl>
+			<name_befr>Hydrajets</name_befr>
+			<name_fr>Hydrajets</name_fr>
+			<name_de>Rundumblick</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_04_jaccuzi.swf</filename>
+			<type>pano</type>
+			<name_uk>Jacuzzi</name_uk>
+			<name_nl>Whirlpool</name_nl>
+			<name_benl>Whirlpool</name_benl>
+			<name_befr>Jacuzzi</name_befr>
+			<name_fr>Jacuzzi</name_fr>
+			<name_de>Whirlpool</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_05_kids_pool.swf</filename>
+			<type>pano</type>
+			<name_uk>Kids pool</name_uk>
+			<name_nl>Kinder–Doe-Bad</name_nl>
+			<name_benl>Kinder–doe-bad</name_benl>
+			<name_befr>Piscine pour enfants</name_befr>
+			<name_fr>Piscine pour enfants</name_fr>
+			<name_de>Kinderbecken</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_06_outside_swimming_pool.swf</filename>
+			<type>pano</type>
+			<name_uk>Outside swimming pool</name_uk>
+			<name_nl>Buitenzwembad</name_nl>
+			<name_benl>Buitenzwembad</name_benl>
+			<name_befr>Piscine extérieur</name_befr>
+			<name_fr>Piscine extérieur</name_fr>
+			<name_de>Außenbecken</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_08_rapids_river.swf</filename>
+			<type>pano</type>
+			<name_uk>Rapids river</name_uk>
+			<name_nl>Wildwaterbaan</name_nl>
+			<name_benl>Wildwaterbaan</name_benl>
+			<name_befr>Rivière sauvage</name_befr>
+			<name_fr>Rivière sauvage</name_fr>
+			<name_de>Wildwasserbahn</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_09_solarium.swf</filename>
+			<type>pano</type>
+			<name_uk>Solarium</name_uk>
+			<name_nl>Solarium</name_nl>
+			<name_benl>Solarium</name_benl>
+			<name_befr>Solarium</name_befr>
+			<name_fr>Solarium</name_fr>
+			<name_de>Pool</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_10_spicy_swimming_pool.swf</filename>
+			<type>pano</type>
+			<name_uk>Spicy swimming pool</name_uk>
+			<name_nl>Kruidenbad</name_nl>
+			<name_benl>Kruidenbad</name_benl>
+			<name_befr>Piscine spicy</name_befr>
+			<name_fr>Piscine spicy</name_fr>
+			<name_de>Kräuterbad</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_11_waves_swimming_pool.swf</filename>
+			<type>pano</type>
+			<name_uk>Waves swimming pool</name_uk>
+			<name_nl>Golfslagbad</name_nl>
+			<name_benl>Golfslagbad</name_benl>
+			<name_befr>Piscine à vagues</name_befr>
+			<name_fr>Piscine à vagues</name_fr>
+			<name_de>Wellenbad</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_01_aqua_cafe.swf</filename>
+			<type>pano</type>
+			<name_uk>Aqua Cafe</name_uk>
+			<name_nl>Aqua Café</name_nl>
+			<name_benl>Aqua Café</name_benl>
+			<name_befr>Aqua Café</name_befr>
+			<name_fr>Aqua Café</name_fr>
+			<name_de>Aqua Café</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound></sound>
+			<filename>sequence_wild_water.swf</filename>
+			<type>video</type>
+			<name_uk>Wild Water raften for kids video</name_uk>
+			<name_nl>Wild Water raften voor kinderen video</name_nl>
+			<name_benl>Wild water raften voor kinderen video</name_benl>
+			<name_befr>Vidéo Wild Water rafting pour enfants</name_befr>
+			<name_fr>Vidéo Wild Water rafting pour enfants</name_fr>
+			<name_de>Video Wildwasser-Rafting</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+// Club-House
+
+		<pano map="2d" plan="clubhouse.swf">
+			<sound>domaine.swf</sound>
+			<filename>ch_01_beach_volley.swf</filename>
+			<type>pano</type>
+			<name_uk>Beach volley</name_uk>
+			<name_nl>Beachvolleybal</name_nl>
+			<name_benl>Beach volleybal</name_benl>
+			<name_befr>Beach volley</name_befr>
+			<name_fr>Beach volley</name_fr>
+			<name_de>Beachvolleyball</name_de>
+			<edito_uk><![CDATA[<p><titre>CLUB-HOUSE</titre><br/>At the Kids Disco your children will dance to the beat of the DJ.<br/><br/>Of course the parents are also invited to dance along.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>CLUB-HOUSE</titre><br/>In de Kids Disco dansen uw kinderen op de beat van de dj.<br/><br/>Natuurlijk zijn ook de ouders uitgenodigd om mee te dansen.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>CLUB-HOUSE</titre><br/>In de Kids Disco dansen uw kinderen op de beat van de dj.<br/><br/>Natuurlijk zijn ook de ouders uitgenodigd om mee te dansen.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>CLUB-HOUSE</titre><br/>Dans le Kids Disco, vos enfants danseront au rythme du DJ.<br/><br/>Les parents sont bien évidemment invités à danser.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>CLUB-HOUSE</titre><br/>Dans le Kids Disco, vos enfants danseront au rythme du DJ.<br/><br/>Les parents sont bien évidemment invités à danser.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>CLUB-HOUSE</titre><br/>In der Kids Disco tanzen Ihre Kinder zum Beat des DJ.<br/><br/>Natürlich sind auch die Eltern zum Mittanzen eingeladen.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="2d" plan="clubhouse.swf">
+			<sound>domaine.swf</sound>
+			<filename>ch_02_boowling_sports_cafe.swf</filename>
+			<type>pano</type>
+			<name_uk>Bowling Sports Cafe</name_uk>
+			<name_nl>Sports Café - Bowling</name_nl>
+			<name_benl>Sports Café - Bowling</name_benl>
+			<name_befr>Bowling dans le Sports Café</name_befr>
+			<name_fr>Bowling dans le Sports Café</name_fr>
+			<name_de>Bowlingbahnen</name_de>
+			<edito_uk><![CDATA[<p><titre>CLUB-HOUSE</titre><br/>At the Kids Disco your children will dance to the beat of the DJ.<br/><br/>Of course the parents are also invited to dance along.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>CLUB-HOUSE</titre><br/>In de Kids Disco dansen uw kinderen op de beat van de dj.<br/><br/>Natuurlijk zijn ook de ouders uitgenodigd om mee te dansen.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>CLUB-HOUSE</titre><br/>In de Kids Disco dansen uw kinderen op de beat van de dj.<br/><br/>Natuurlijk zijn ook de ouders uitgenodigd om mee te dansen.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>CLUB-HOUSE</titre><br/>Dans le Kids Disco, vos enfants danseront au rythme du DJ.<br/><br/>Les parents sont bien évidemment invités à danser.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>CLUB-HOUSE</titre><br/>Dans le Kids Disco, vos enfants danseront au rythme du DJ.<br/><br/>Les parents sont bien évidemment invités à danser.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>CLUB-HOUSE</titre><br/>In der Kids Disco tanzen Ihre Kinder zum Beat des DJ.<br/><br/>Natürlich sind auch die Eltern zum Mittanzen eingeladen.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="2d" plan="clubhouse.swf">
+			<sound>domaine.swf</sound>
+			<filename>ch_03_bowling.swf</filename>
+			<type>pano</type>
+			<name_uk>Bowling</name_uk>
+			<name_nl>Bowling</name_nl>
+			<name_benl>Bowling</name_benl>
+			<name_befr>Bowling</name_befr>
+			<name_fr>Bowling</name_fr>
+			<name_de>Bowlingbahnen</name_de>
+			<edito_uk><![CDATA[<p><titre>CLUB-HOUSE</titre><br/>At the Kids Disco your children will dance to the beat of the DJ.<br/><br/>Of course the parents are also invited to dance along.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>CLUB-HOUSE</titre><br/>In de Kids Disco dansen uw kinderen op de beat van de dj.<br/><br/>Natuurlijk zijn ook de ouders uitgenodigd om mee te dansen.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>CLUB-HOUSE</titre><br/>In de Kids Disco dansen uw kinderen op de beat van de dj.<br/><br/>Natuurlijk zijn ook de ouders uitgenodigd om mee te dansen.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>CLUB-HOUSE</titre><br/>Dans le Kids Disco, vos enfants danseront au rythme du DJ.<br/><br/>Les parents sont bien évidemment invités à danser.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>CLUB-HOUSE</titre><br/>Dans le Kids Disco, vos enfants danseront au rythme du DJ.<br/><br/>Les parents sont bien évidemment invités à danser.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>CLUB-HOUSE</titre><br/>In der Kids Disco tanzen Ihre Kinder zum Beat des DJ.<br/><br/>Natürlich sind auch die Eltern zum Mittanzen eingeladen.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="2d" plan="clubhouse.swf">
+			<sound>domaine.swf</sound>
+			<filename>ch_04_house_of_games.swf</filename>
+			<type>pano</type>
+			<name_uk>House of Games</name_uk>
+			<name_nl>House of Games</name_nl>
+			<name_benl>House of Games</name_benl>
+			<name_befr>House of Games</name_befr>
+			<name_fr>House of Games</name_fr>
+			<name_de>House of Games</name_de>
+			<edito_uk><![CDATA[<p><titre>CLUB-HOUSE</titre><br/>At the Kids Disco your children will dance to the beat of the DJ.<br/><br/>Of course the parents are also invited to dance along.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>CLUB-HOUSE</titre><br/>In de Kids Disco dansen uw kinderen op de beat van de dj.<br/><br/>Natuurlijk zijn ook de ouders uitgenodigd om mee te dansen.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>CLUB-HOUSE</titre><br/>In de Kids Disco dansen uw kinderen op de beat van de dj.<br/><br/>Natuurlijk zijn ook de ouders uitgenodigd om mee te dansen.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>CLUB-HOUSE</titre><br/>Dans le Kids Disco, vos enfants danseront au rythme du DJ.<br/><br/>Les parents sont bien évidemment invités à danser.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>CLUB-HOUSE</titre><br/>Dans le Kids Disco, vos enfants danseront au rythme du DJ.<br/><br/>Les parents sont bien évidemment invités à danser.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>CLUB-HOUSE</titre><br/>In der Kids Disco tanzen Ihre Kinder zum Beat des DJ.<br/><br/>Natürlich sind auch die Eltern zum Mittanzen eingeladen.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="2d" plan="clubhouse.swf">
+			<sound>domaine.swf</sound>
+			<filename>ch_05_pools_and_archery.swf</filename>
+			<type>pano</type>
+			<name_uk>Pools and Archery</name_uk>
+			<name_nl>Poolbiljard en boogschieten</name_nl>
+			<name_benl>Poolbiljart en boogschieten</name_benl>
+			<name_befr>Billards et tirs à l'arc</name_befr>
+			<name_fr>Billards et tirs à l'arc</name_fr>
+			<name_de>Bogenschießen und Billard</name_de>
+			<edito_uk><![CDATA[<p><titre>CLUB-HOUSE</titre><br/>At the Kids Disco your children will dance to the beat of the DJ.<br/><br/>Of course the parents are also invited to dance along.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>CLUB-HOUSE</titre><br/>In de Kids Disco dansen uw kinderen op de beat van de dj.<br/><br/>Natuurlijk zijn ook de ouders uitgenodigd om mee te dansen.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>CLUB-HOUSE</titre><br/>In de Kids Disco dansen uw kinderen op de beat van de dj.<br/><br/>Natuurlijk zijn ook de ouders uitgenodigd om mee te dansen.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>CLUB-HOUSE</titre><br/>Dans le Kids Disco, vos enfants danseront au rythme du DJ.<br/><br/>Les parents sont bien évidemment invités à danser.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>CLUB-HOUSE</titre><br/>Dans le Kids Disco, vos enfants danseront au rythme du DJ.<br/><br/>Les parents sont bien évidemment invités à danser.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>CLUB-HOUSE</titre><br/>In der Kids Disco tanzen Ihre Kinder zum Beat des DJ.<br/><br/>Natürlich sind auch die Eltern zum Mittanzen eingeladen.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="2d" plan="clubhouse.swf">
+			<sound>domaine.swf</sound>
+			<filename>ch_06_tennis_badminton.swf</filename>
+			<type>pano</type>
+			<name_uk>Tennis Badminton</name_uk>
+			<name_nl>Tennis en badminton</name_nl>
+			<name_benl>Tennis en badminton</name_benl>
+			<name_befr>Tennis et badminton</name_befr>
+			<name_fr>Tennis et badminton</name_fr>
+			<name_de>Tennis und Badminton</name_de>
+			<edito_uk><![CDATA[<p><titre>CLUB-HOUSE</titre><br/>At the Kids Disco your children will dance to the beat of the DJ.<br/><br/>Of course the parents are also invited to dance along.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>CLUB-HOUSE</titre><br/>In de Kids Disco dansen uw kinderen op de beat van de dj.<br/><br/>Natuurlijk zijn ook de ouders uitgenodigd om mee te dansen.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>CLUB-HOUSE</titre><br/>In de Kids Disco dansen uw kinderen op de beat van de dj.<br/><br/>Natuurlijk zijn ook de ouders uitgenodigd om mee te dansen.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>CLUB-HOUSE</titre><br/>Dans le Kids Disco, vos enfants danseront au rythme du DJ.<br/><br/>Les parents sont bien évidemment invités à danser.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>CLUB-HOUSE</titre><br/>Dans le Kids Disco, vos enfants danseront au rythme du DJ.<br/><br/>Les parents sont bien évidemment invités à danser.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>CLUB-HOUSE</titre><br/>In der Kids Disco tanzen Ihre Kinder zum Beat des DJ.<br/><br/>Natürlich sind auch die Eltern zum Mittanzen eingeladen.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="2d" plan="clubhouse.swf">
+			<sound>domaine.swf</sound>
+			<filename>ch_07_tennis_ping_pong.swf</filename>
+			<type>pano</type>
+			<name_uk>Tennis and ping pong</name_uk>
+			<name_nl>Tennis en tafeltennis</name_nl>
+			<name_benl>Tennis en tafeltennis</name_benl>
+			<name_befr>Tennis et ping pong</name_befr>
+			<name_fr>Tennis et ping pong</name_fr>
+			<name_de>Tennis und Tischtennis</name_de>
+			<edito_uk><![CDATA[<p><titre>CLUB-HOUSE</titre><br/>At the Kids Disco your children will dance to the beat of the DJ.<br/><br/>Of course the parents are also invited to dance along.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>CLUB-HOUSE</titre><br/>In de Kids Disco dansen uw kinderen op de beat van de dj.<br/><br/>Natuurlijk zijn ook de ouders uitgenodigd om mee te dansen.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>CLUB-HOUSE</titre><br/>In de Kids Disco dansen uw kinderen op de beat van de dj.<br/><br/>Natuurlijk zijn ook de ouders uitgenodigd om mee te dansen.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>CLUB-HOUSE</titre><br/>Dans le Kids Disco, vos enfants danseront au rythme du DJ.<br/><br/>Les parents sont bien évidemment invités à danser.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>CLUB-HOUSE</titre><br/>Dans le Kids Disco, vos enfants danseront au rythme du DJ.<br/><br/>Les parents sont bien évidemment invités à danser.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>CLUB-HOUSE</titre><br/>In der Kids Disco tanzen Ihre Kinder zum Beat des DJ.<br/><br/>Natürlich sind auch die Eltern zum Mittanzen eingeladen.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="2d" plan="clubhouse.swf">
+			<sound>domaine.swf</sound>
+			<filename>ch_08_caribbean_bar.swf</filename>
+			<type>pano</type>
+			<name_uk>Caribbean Bar</name_uk>
+			<name_nl>Caribbean Bar</name_nl>
+			<name_benl>Caribbean Bar</name_benl>
+			<name_befr>Caribbean Bar</name_befr>
+			<name_fr>Caribbean Bar</name_fr>
+			<name_de>Caribbean Bar</name_de>
+			<edito_uk><![CDATA[<p><titre>CLUB-HOUSE</titre><br/>At the Kids Disco your children will dance to the beat of the DJ.<br/><br/>Of course the parents are also invited to dance along.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>CLUB-HOUSE</titre><br/>In de Kids Disco dansen uw kinderen op de beat van de dj.<br/><br/>Natuurlijk zijn ook de ouders uitgenodigd om mee te dansen.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>CLUB-HOUSE</titre><br/>In de Kids Disco dansen uw kinderen op de beat van de dj.<br/><br/>Natuurlijk zijn ook de ouders uitgenodigd om mee te dansen.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>CLUB-HOUSE</titre><br/>Dans le Kids Disco, vos enfants danseront au rythme du DJ.<br/><br/>Les parents sont bien évidemment invités à danser.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>CLUB-HOUSE</titre><br/>Dans le Kids Disco, vos enfants danseront au rythme du DJ.<br/><br/>Les parents sont bien évidemment invités à danser.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>CLUB-HOUSE</titre><br/>In der Kids Disco tanzen Ihre Kinder zum Beat des DJ.<br/><br/>Natürlich sind auch die Eltern zum Mittanzen eingeladen.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+// Market Dome
+		
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_15_reception.swf</filename>
+			<type>pano</type>
+			<name_uk>Reception</name_uk>
+			<name_nl>Receptie</name_nl>
+			<name_benl>Receptie</name_benl>
+			<name_befr>Réception</name_befr>
+			<name_fr>Réception</name_fr>
+			<name_de>Rezeption</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_01_central_bassin.swf</filename>
+			<type>pano</type>
+			<name_uk>Central basin</name_uk>
+			<name_nl>Market Dome</name_nl>
+			<name_benl>Market Dome</name_benl>
+			<name_befr>Bassin central</name_befr>
+			<name_fr>Bassin central</name_fr>
+			<name_de>Wasserläufe</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_02_bakery_food_shop.swf</filename>
+			<type>pano</type>
+			<name_uk>Bakery & food shop</name_uk>
+			<name_nl>Boulangerie - Food Store</name_nl>
+			<name_benl>Boulangerie - Food Store</name_benl>
+			<name_befr>Boulangerie et Food Store</name_befr>
+			<name_fr>Boulangerie et Food Store</name_fr>
+			<name_de>Bäckerei und Supermarkt</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_05_fashion_store_entrance.swf</filename>
+			<type>pano</type>
+			<name_uk>Fashion store entrance</name_uk>
+			<name_nl>Ingang Fashion Store</name_nl>
+			<name_benl>Ingang Fashion Store</name_benl>
+			<name_befr>Entrée Fashion Store</name_befr>
+			<name_fr>Entrée Fashion Store</name_fr>
+			<name_de>Fashion Store</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_06_inside_fashion_store.swf</filename>
+			<type>pano</type>
+			<name_uk>Inside Fashion store</name_uk>
+			<name_nl>Interieur Fashion Store</name_nl>
+			<name_benl>Interieur Fashion Store</name_benl>
+			<name_befr>Au Fashion Store</name_befr>
+			<name_fr>Au Fashion Store</name_fr>
+			<name_de>Fashion Store</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_07_fontain.swf</filename>
+			<type>pano</type>
+			<name_uk>Fontain</name_uk>
+			<name_nl>Fontein</name_nl>
+			<name_benl>Fontein</name_benl>
+			<name_befr>Fontaine</name_befr>
+			<name_fr>Fontaine</name_fr>
+			<name_de>Springbrunnen</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_08_harry_s_family_restaurant.swf</filename>
+			<type>pano</type>
+			<name_uk>Harry´s Family restaurant</name_uk>
+			<name_nl>Harry´s Family Restaurant</name_nl>
+			<name_benl>Harry´s Family Restaurant</name_benl>
+			<name_befr>Restaurant Harry's Family</name_befr>
+			<name_fr>Restaurant Harry's Family</name_fr>
+			<name_de>Harry´s Family Restaurant</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_09_kids_klub.swf</filename>
+			<type>pano</type>
+			<name_uk>Kids Club</name_uk>
+			<name_nl>Kids Klub</name_nl>
+			<name_benl>Kids Klub</name_benl>
+			<name_befr>Kids Klub</name_befr>
+			<name_fr>Kids Club</name_fr>
+			<name_de>Kids Klub</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_10_market_cafe.swf</filename>
+			<type>pano</type>
+			<name_uk>Market Cafe</name_uk>
+			<name_nl>Market Café</name_nl>
+			<name_benl>Market Café</name_benl>
+			<name_befr>Market Café</name_befr>
+			<name_fr>Market Café</name_fr>
+			<name_de>Market Café</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_11_market_cafe_terrace.swf</filename>
+			<type>pano</type>
+			<name_uk>Market Cafe terrace</name_uk>
+			<name_nl>Terras Market Café</name_nl>
+			<name_benl>Terras Market Café</name_benl>
+			<name_befr>Terrasse Market Café</name_befr>
+			<name_fr>Terrasse Market Café</name_fr>
+			<name_de>Market Café</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_19_market_cafe_terrace.swf</filename>
+			<type>pano</type>
+			<name_uk>Market Cafe terrace</name_uk>
+			<name_nl>Terras Market Café</name_nl>
+			<name_benl>Terras Market Café</name_benl>
+			<name_befr>Terrasse Market Café</name_befr>
+			<name_fr>Terrasse Market Café</name_fr>
+			<name_de>Market Café</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_12_market_restaurant.swf</filename>
+			<type>pano</type>
+			<name_uk>Market Restaurant</name_uk>
+			<name_nl>Market Restaurant</name_nl>
+			<name_benl>Market Restaurant</name_benl>
+			<name_befr>Market Restaurant</name_befr>
+			<name_fr>Market Restaurant</name_fr>
+			<name_de>Market Restaurant</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_13_market_restaurant_playing_items_for_kids.swf</filename>
+			<type>pano</type>
+			<name_uk>Market Restaurant playing items for kids</name_uk>
+			<name_nl>Market restaurant met speeltoestellen</name_nl>
+			<name_benl>Market restaurant met speeltoestellen</name_benl>
+			<name_befr>Jeux pour enfants dans le Market Restaurant</name_befr>
+			<name_fr>Jeux pour enfants dans le Market Restaurant</name_fr>
+			<name_de>Spielelemente im Market Restaurant</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_14_market_restaurant_buffet.swf</filename>
+			<type>pano</type>
+			<name_uk>Market Restaurant buffet</name_uk>
+			<name_nl>Buffet Market Restaurant</name_nl>
+			<name_benl>Buffet Market Restaurant</name_benl>
+			<name_befr>Buffet Market Restaurant</name_befr>
+			<name_fr>Buffet Market Restaurant</name_fr>
+			<name_de>Buffet im Market Restaurant</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_16_le_savoy_restaurant.swf</filename>
+			<type>pano</type>
+			<name_uk>Grand Restaurant Pizze & Pasta</name_uk>
+			<name_nl>Grand Restaurant Pizze & Pasta</name_nl>
+			<name_benl>Grand Restaurant Pizze & Pasta</name_benl>
+			<name_befr>Grand Restaurant Pizze & Pasta</name_befr>
+			<name_fr>Grand Restaurant Pizze & Pasta</name_fr>
+			<name_de>Grand Restaurant Pizze & Pasta</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_18_snack_corner_entrance.swf</filename>
+			<type>pano</type>
+			<name_uk>Snack Corner entrance</name_uk>
+			<name_nl>Ingang Snack Corner</name_nl>
+			<name_benl>Ingang Snack Corner</name_benl>
+			<name_befr>Entrée Snack Corner</name_befr>
+			<name_fr>Entrée Snack Corner</name_fr>
+			<name_de>Snack Corner</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_17_snack_corner.swf</filename>
+			<type>pano</type>
+			<name_uk>Snack Corner</name_uk>
+			<name_nl>Snack Corner</name_nl>
+			<name_benl>Snack Corner</name_benl>
+			<name_befr>Snack Corner</name_befr>
+			<name_fr>Snack Corner</name_fr>
+			<name_de>Snack Corner</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>		
+
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_20_toys_and_souvenirs_store.swf</filename>
+			<type>pano</type>
+			<name_uk>Toys and Souvenirs store</name_uk>
+			<name_nl>Toys & Souvenirs</name_nl>
+			<name_benl>Toys & Souvenirs</name_benl>
+			<name_befr>Toys & Souvenirs</name_befr>
+			<name_fr>Toys & Souvenirs</name_fr>
+			<name_de>Toys & Souvenirs</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+	</panos>
+</visite>

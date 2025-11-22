@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="nl" style="height: 100%">
+<head>
+    <title>Center Parcs Virtuele Tour 2008 - 2015</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+          content="Dit is de oude, originele virtuele tour van Center Parcs">
+    <meta name="keywords" content="Center,Parcs,Virtuele,Tour,Oude">
+    <base href="/cp/europe_2008/" target="_self">
+    <link rel="icon" type="image/png" sizes="16x16" href="../assets/favicon.png">
+    <link rel="stylesheet" type="text/css" href="../style.css?v=2">
+    <script>
+
+        addEventListener("DOMContentLoaded", () => {
+            const ruffle = RufflePlayer.newest();
+            const player = ruffle.createPlayer();
+            player.config = {
+                "autoplay": "on",
+                "unmuteOverlay": "hidden",
+                "splashScreen": true,
+                "openUrlMode": "deny",
+                "polyfills": false
+            };
+            player.style.width = "100%";
+            player.style.height = "auto";
+            player.style.display = "block";
+            player.style.maxWidth = "732px";
+            player.style.maxHeight = "659px";
+            player.style.aspectRatio = "auto 732 / 659";
+            const container = document.getElementById("container");
+            container.appendChild(player);
+            player.load("../europe_2008/launch_main.swf");
+        });
+    </script>
+    <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-M8FYVZ7170"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-M8FYVZ7170');
+    </script>
+</head>
+<body style="height: 100%; display: flex; flex-direction: column;">
+<header>
+    <h1>Virtuele tour</h1>
+</header>
+
+<main style="height: 100%">
+    <div id="container" style="height: 100%; display: flex; align-items: center; justify-content: center; margin: 0 -20px;"></div>
+</main>
+
+<div style="opacity: 0.5; font-size: .8em; text-align: center; margin: 5px;">Helaas incompleet, maar zoveel mogelijk geprobeerd de oude Virtual Tour te herstellen voor het behoud van historie.</div>
+
+</body>
+</html>

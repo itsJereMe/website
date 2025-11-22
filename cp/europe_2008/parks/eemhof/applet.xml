@@ -1,0 +1,1873 @@
+<?xml version="1.0" encoding="utf-8"?>
+<visite>
+
+	<titre_uk>You are in DE EEMHOF</titre_uk>
+	<titre_nl>U bent in DE EEMHOF</titre_nl>
+	<titre_benl>U bent in DE EEMHOF</titre_benl>
+	<titre_befr>Vous êtes à DE EEMHOF</titre_befr>
+	<titre_fr>Vous êtes à DE EEMHOF</titre_fr>
+	<titre_de>Sie sind im Park DE EEMHOF</titre_de>
+	
+	<auto_scroll>1</auto_scroll>
+	<auto_scroll_time>2</auto_scroll_time>
+	<velocite>10</velocite>		
+	<bird>5</bird>
+	<panos>	
+///// 3d
+//domaine
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_13_lake_side_entrance.swf</filename>
+			<type>pano</type>
+			<name_uk>Lake side entrance</name_uk>
+			<name_nl>Ingang</name_nl>
+			<name_benl>Ingang</name_benl>
+			<name_befr>Entrée côté lac</name_befr>
+			<name_fr>Entrée côté lac</name_fr>
+			<name_de>Eingang Seeseite</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This Center Parcs village, located in ‘Flevoland’, is the ideal spot for all those who are into watersports!<br/><br/>The village is next to the splendid ‘Lake Eem’. Practise your swing on the 9-hole golf course or else visit the ‘dolfinarium Harderwijk’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Fühlen Sie sich im, am und auf dem Wasser ganz in Ihrem Element?<br/><br/>Dann ist De Eemhof der perfekte Park für Sie.<br/><br/>Mit seiner Lage am Eemmeer, einem Seitenarm des Ijselmeers und mit einem eigenen Yachthafen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_10_check_in.swf</filename>
+			<type>pano</type>
+			<name_uk>Check in</name_uk>
+			<name_nl>Check in</name_nl>
+			<name_benl>Check in</name_benl>
+			<name_befr>Check in</name_befr>
+			<name_fr>Check in</name_fr>
+			<name_de>Check-In</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This Center Parcs village, located in ‘Flevoland’, is the ideal spot for all those who are into watersports!<br/><br/>The village is next to the splendid ‘Lake Eem’. Practise your swing on the 9-hole golf course or else visit the ‘dolfinarium Harderwijk’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Fühlen Sie sich im, am und auf dem Wasser ganz in Ihrem Element?<br/><br/>Dann ist De Eemhof der perfekte Park für Sie.<br/><br/>Mit seiner Lage am Eemmeer, einem Seitenarm des Ijselmeers und mit einem eigenen Yachthafen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_11_lake_bridge.swf</filename>
+			<type>pano</type>
+			<name_uk>Lake bridge</name_uk>
+			<name_nl>Brug over meer</name_nl>
+			<name_benl>Brug over meer</name_benl>
+			<name_befr>Pont et lac</name_befr>
+			<name_fr>Pont et lac</name_fr>
+			<name_de>Brücke</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This Center Parcs village, located in ‘Flevoland’, is the ideal spot for all those who are into watersports!<br/><br/>The village is next to the splendid ‘Lake Eem’. Practise your swing on the 9-hole golf course or else visit the ‘dolfinarium Harderwijk’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Fühlen Sie sich im, am und auf dem Wasser ganz in Ihrem Element?<br/><br/>Dann ist De Eemhof der perfekte Park für Sie.<br/><br/>Mit seiner Lage am Eemmeer, einem Seitenarm des Ijselmeers und mit einem eigenen Yachthafen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_12_lake_panoramic_view.swf</filename>
+			<type>pano</type>
+			<name_uk>Lake panoramic view</name_uk>
+			<name_nl>Panoramaoverzicht meer</name_nl>
+			<name_benl>Panoramaoverzicht meer</name_benl>
+			<name_befr>Vue panoramique sur lac</name_befr>
+			<name_fr>Vue panoramique sur lac</name_fr>
+			<name_de>Seeblick</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This Center Parcs village, located in ‘Flevoland’, is the ideal spot for all those who are into watersports!<br/><br/>The village is next to the splendid ‘Lake Eem’. Practise your swing on the 9-hole golf course or else visit the ‘dolfinarium Harderwijk’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Fühlen Sie sich im, am und auf dem Wasser ganz in Ihrem Element?<br/><br/>Dann ist De Eemhof der perfekte Park für Sie.<br/><br/>Mit seiner Lage am Eemmeer, einem Seitenarm des Ijselmeers und mit einem eigenen Yachthafen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_14_marina.swf</filename>
+			<type>pano</type>
+			<name_uk>Marina</name_uk>
+			<name_nl>Jachthaven</name_nl>
+			<name_benl>Jachthaven</name_benl>
+			<name_befr>Marina</name_befr>
+			<name_fr>Marina</name_fr>
+			<name_de>Yachthafen</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This Center Parcs village, located in ‘Flevoland’, is the ideal spot for all those who are into watersports!<br/><br/>The village is next to the splendid ‘Lake Eem’. Practise your swing on the 9-hole golf course or else visit the ‘dolfinarium Harderwijk’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Fühlen Sie sich im, am und auf dem Wasser ganz in Ihrem Element?<br/><br/>Dann ist De Eemhof der perfekte Park für Sie.<br/><br/>Mit seiner Lage am Eemmeer, einem Seitenarm des Ijselmeers und mit einem eigenen Yachthafen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_15_marina_entrance.swf</filename>
+			<type>pano</type>
+			<name_uk>Marina entrance</name_uk>
+			<name_nl>Ingang jachthavenn</name_nl>
+			<name_benl>ingang jachthaven</name_benl>
+			<name_befr>Entrée Marina</name_befr>
+			<name_fr>Entrée Marina</name_fr>
+			<name_de>Yachthafen</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This Center Parcs village, located in ‘Flevoland’, is the ideal spot for all those who are into watersports!<br/><br/>The village is next to the splendid ‘Lake Eem’. Practise your swing on the 9-hole golf course or else visit the ‘dolfinarium Harderwijk’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Fühlen Sie sich im, am und auf dem Wasser ganz in Ihrem Element?<br/><br/>Dann ist De Eemhof der perfekte Park für Sie.<br/><br/>Mit seiner Lage am Eemmeer, einem Seitenarm des Ijselmeers und mit einem eigenen Yachthafen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_16_saffraan_restaurant.swf</filename>
+			<type>pano</type>
+			<name_uk>Saffraan Restaurant</name_uk>
+			<name_nl>Restaurant Saffraan</name_nl>
+			<name_benl>Restaurant Saffraan</name_benl>
+			<name_befr>Saffraan Restaurant</name_befr>
+			<name_fr>Saffraan Restaurant</name_fr>
+			<name_de>Restaurant Saffraan</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This Center Parcs village, located in ‘Flevoland’, is the ideal spot for all those who are into watersports!<br/><br/>The village is next to the splendid ‘Lake Eem’. Practise your swing on the 9-hole golf course or else visit the ‘dolfinarium Harderwijk’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Fühlen Sie sich im, am und auf dem Wasser ganz in Ihrem Element?<br/><br/>Dann ist De Eemhof der perfekte Park für Sie.<br/><br/>Mit seiner Lage am Eemmeer, einem Seitenarm des Ijselmeers und mit einem eigenen Yachthafen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_17_lake_panoramic_view.swf</filename>
+			<type>pano</type>
+			<name_uk>Lake panoramic view</name_uk>
+			<name_nl>Panoramaoverzicht meer</name_nl>
+			<name_benl>Panoramaoverzicht meer</name_benl>
+			<name_befr>Vue panoramique sur lac</name_befr>
+			<name_fr>Vue panoramique sur lac</name_fr>
+			<name_de>Seeblick</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This Center Parcs village, located in ‘Flevoland’, is the ideal spot for all those who are into watersports!<br/><br/>The village is next to the splendid ‘Lake Eem’. Practise your swing on the 9-hole golf course or else visit the ‘dolfinarium Harderwijk’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Fühlen Sie sich im, am und auf dem Wasser ganz in Ihrem Element?<br/><br/>Dann ist De Eemhof der perfekte Park für Sie.<br/><br/>Mit seiner Lage am Eemmeer, einem Seitenarm des Ijselmeers und mit einem eigenen Yachthafen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound></sound>
+			<filename>sequence_nature.swf</filename>
+			<type>video</type>
+			<name_uk>Nature, walking, biking video</name_uk>
+			<name_nl>Natuur, wandelen, fietsen video</name_nl>
+			<name_benl>Natuur, wandelen, fietsen video</name_benl>
+			<name_befr>Vidéo nature, balades à pied et à vélo</name_befr>
+			<name_fr>Vidéo nature, balades à pied et à vélo</name_fr>
+			<name_de>Video Natur</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This Center Parcs village, located in ‘Flevoland’, is the ideal spot for all those who are into watersports!<br/><br/>The village is next to the splendid ‘Lake Eem’. Practise your swing on the 9-hole golf course or else visit the ‘dolfinarium Harderwijk’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Fühlen Sie sich im, am und auf dem Wasser ganz in Ihrem Element?<br/><br/>Dann ist De Eemhof der perfekte Park für Sie.<br/><br/>Mit seiner Lage am Eemmeer, einem Seitenarm des Ijselmeers und mit einem eigenen Yachthafen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>100</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound></sound>
+			<filename>sequence_nature2.swf</filename>
+			<type>video</type>
+			<name_uk>Outdoor activities video</name_uk>
+			<name_nl>Outdoor activiteiten video</name_nl>
+			<name_benl>Outdoor activiteiten video</name_benl>
+			<name_befr>Vidéo actions outdoor</name_befr>
+			<name_fr>Vidéo actions outdoor</name_fr>
+			<name_de>Video Outdoor-Aktivitäten</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This Center Parcs village, located in ‘Flevoland’, is the ideal spot for all those who are into watersports!<br/><br/>The village is next to the splendid ‘Lake Eem’. Practise your swing on the 9-hole golf course or else visit the ‘dolfinarium Harderwijk’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Fühlen Sie sich im, am und auf dem Wasser ganz in Ihrem Element?<br/><br/>Dann ist De Eemhof der perfekte Park für Sie.<br/><br/>Mit seiner Lage am Eemmeer, einem Seitenarm des Ijselmeers und mit einem eigenen Yachthafen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+//activites		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_01_childrens_farm.swf</filename>
+			<type>pano</type>
+			<name_uk>Childrens farm</name_uk>
+			<name_nl>Kinderboerderij</name_nl>
+			<name_benl>Kinderboerderij</name_benl>
+			<name_befr>Ferme pour enfants</name_befr>
+			<name_fr>Ferme pour enfants</name_fr>
+			<name_de>Kinderbauernhof</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This Center Parcs village, located in ‘Flevoland’, is the ideal spot for all those who are into watersports!<br/><br/>The village is next to the splendid ‘Lake Eem’. Practise your swing on the 9-hole golf course or else visit the ‘dolfinarium Harderwijk’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Fühlen Sie sich im, am und auf dem Wasser ganz in Ihrem Element?<br/><br/>Dann ist De Eemhof der perfekte Park für Sie.<br/><br/>Mit seiner Lage am Eemmeer, einem Seitenarm des Ijselmeers und mit einem eigenen Yachthafen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_02_cycle_center.swf</filename>
+			<type>pano</type>
+			<name_uk>Cycle Center</name_uk>
+			<name_nl>Cycle Center</name_nl>
+			<name_benl>Cycle Center</name_benl>
+			<name_befr>Cycle Center</name_befr>
+			<name_fr>Cycle Center</name_fr>
+			<name_de>Cycle Center</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This Center Parcs village, located in ‘Flevoland’, is the ideal spot for all those who are into watersports!<br/><br/>The village is next to the splendid ‘Lake Eem’. Practise your swing on the 9-hole golf course or else visit the ‘dolfinarium Harderwijk’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Fühlen Sie sich im, am und auf dem Wasser ganz in Ihrem Element?<br/><br/>Dann ist De Eemhof der perfekte Park für Sie.<br/><br/>Mit seiner Lage am Eemmeer, einem Seitenarm des Ijselmeers und mit einem eigenen Yachthafen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_03_golf.swf</filename>
+			<type>pano</type>
+			<name_uk>Golf</name_uk>
+			<name_nl>Golf</name_nl>
+			<name_benl>Golf</name_benl>
+			<name_befr>Golf</name_befr>
+			<name_fr>Golf</name_fr>
+			<name_de>Pitch & Putt-Golfplatz</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This Center Parcs village, located in ‘Flevoland’, is the ideal spot for all those who are into watersports!<br/><br/>The village is next to the splendid ‘Lake Eem’. Practise your swing on the 9-hole golf course or else visit the ‘dolfinarium Harderwijk’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Fühlen Sie sich im, am und auf dem Wasser ganz in Ihrem Element?<br/><br/>Dann ist De Eemhof der perfekte Park für Sie.<br/><br/>Mit seiner Lage am Eemmeer, einem Seitenarm des Ijselmeers und mit einem eigenen Yachthafen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_04_golf_practice.swf</filename>
+			<type>pano</type>
+			<name_uk>Golf practice</name_uk>
+			<name_nl>Golfen</name_nl>
+			<name_benl>Golfen</name_benl>
+			<name_befr>Practice</name_befr>
+			<name_fr>Practice</name_fr>
+			<name_de>Pitch & Putt-Golfplatz</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This Center Parcs village, located in ‘Flevoland’, is the ideal spot for all those who are into watersports!<br/><br/>The village is next to the splendid ‘Lake Eem’. Practise your swing on the 9-hole golf course or else visit the ‘dolfinarium Harderwijk’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Fühlen Sie sich im, am und auf dem Wasser ganz in Ihrem Element?<br/><br/>Dann ist De Eemhof der perfekte Park für Sie.<br/><br/>Mit seiner Lage am Eemmeer, einem Seitenarm des Ijselmeers und mit einem eigenen Yachthafen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_05_midget_golf.swf</filename>
+			<type>pano</type>
+			<name_uk>Midget golf</name_uk>
+			<name_nl>Midgetgolf</name_nl>
+			<name_benl>Midgetgolf</name_benl>
+			<name_befr>Mini-Golf</name_befr>
+			<name_fr>Mini-Golf</name_fr>
+			<name_de>Minigolf</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This Center Parcs village, located in ‘Flevoland’, is the ideal spot for all those who are into watersports!<br/><br/>The village is next to the splendid ‘Lake Eem’. Practise your swing on the 9-hole golf course or else visit the ‘dolfinarium Harderwijk’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Fühlen Sie sich im, am und auf dem Wasser ganz in Ihrem Element?<br/><br/>Dann ist De Eemhof der perfekte Park für Sie.<br/><br/>Mit seiner Lage am Eemmeer, einem Seitenarm des Ijselmeers und mit einem eigenen Yachthafen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+			<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_06_pedalos_bridge.swf</filename>
+			<type>pano</type>
+			<name_uk>Pedalos bridge</name_uk>
+			<name_nl>Waterfietsen</name_nl>
+			<name_benl>Waterfietsen</name_benl>
+			<name_befr>Pont pédalos</name_befr>
+			<name_fr>Pont pédalos</name_fr>
+			<name_de>Tretboote</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This Center Parcs village, located in ‘Flevoland’, is the ideal spot for all those who are into watersports!<br/><br/>The village is next to the splendid ‘Lake Eem’. Practise your swing on the 9-hole golf course or else visit the ‘dolfinarium Harderwijk’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Fühlen Sie sich im, am und auf dem Wasser ganz in Ihrem Element?<br/><br/>Dann ist De Eemhof der perfekte Park für Sie.<br/><br/>Mit seiner Lage am Eemmeer, einem Seitenarm des Ijselmeers und mit einem eigenen Yachthafen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+			<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_07_tennis_court.swf</filename>
+			<type>pano</type>
+			<name_uk>Tennis court</name_uk>
+			<name_nl>Tennisbaan</name_nl>
+			<name_benl>Tennisbaan</name_benl>
+			<name_befr>Court de tennis</name_befr>
+			<name_fr>Court de tennis</name_fr>
+			<name_de>Tennisplatz</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This Center Parcs village, located in ‘Flevoland’, is the ideal spot for all those who are into watersports!<br/><br/>The village is next to the splendid ‘Lake Eem’. Practise your swing on the 9-hole golf course or else visit the ‘dolfinarium Harderwijk’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Fühlen Sie sich im, am und auf dem Wasser ganz in Ihrem Element?<br/><br/>Dann ist De Eemhof der perfekte Park für Sie.<br/><br/>Mit seiner Lage am Eemmeer, einem Seitenarm des Ijselmeers und mit einem eigenen Yachthafen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+			<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_08_trout_fish_pond.swf</filename>
+			<type>pano</type>
+			<name_uk>Trout fish pond</name_uk>
+			<name_nl>Forellenvisvijver</name_nl>
+			<name_benl>Forellenvisvijver</name_benl>
+			<name_befr>Etang de truite</name_befr>
+			<name_fr>Etang de truite</name_fr>
+			<name_de>Forellenteich</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This Center Parcs village, located in ‘Flevoland’, is the ideal spot for all those who are into watersports!<br/><br/>The village is next to the splendid ‘Lake Eem’. Practise your swing on the 9-hole golf course or else visit the ‘dolfinarium Harderwijk’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Fühlen Sie sich im, am und auf dem Wasser ganz in Ihrem Element?<br/><br/>Dann ist De Eemhof der perfekte Park für Sie.<br/><br/>Mit seiner Lage am Eemmeer, einem Seitenarm des Ijselmeers und mit einem eigenen Yachthafen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_09_trout_fish_pond_2.swf</filename>
+			<type>pano</type>
+			<name_uk>Trout fish pond 2</name_uk>
+			<name_nl>Forellenvisvijver 2</name_nl>
+			<name_benl>Forellenvisvijver 2</name_benl>
+			<name_befr>Etang de truite 2</name_befr>
+			<name_fr>Etang de truite 2</name_fr>
+			<name_de>Forellenteich</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This Center Parcs village, located in ‘Flevoland’, is the ideal spot for all those who are into watersports!<br/><br/>The village is next to the splendid ‘Lake Eem’. Practise your swing on the 9-hole golf course or else visit the ‘dolfinarium Harderwijk’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Fühlen Sie sich im, am und auf dem Wasser ganz in Ihrem Element?<br/><br/>Dann ist De Eemhof der perfekte Park für Sie.<br/><br/>Mit seiner Lage am Eemmeer, einem Seitenarm des Ijselmeers und mit einem eigenen Yachthafen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+//zone cottage		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_zc_18_cottages_zone_1.swf</filename>
+			<type>pano</type>
+			<name_uk>Zone 1</name_uk>
+			<name_nl>Cottages zone 1</name_nl>
+			<name_benl>Cottages zone 1</name_benl>
+			<name_befr>Zone de cottages 1</name_befr>
+			<name_fr>Zone de cottages 1</name_fr>
+			<name_de>Ferienhäuser im 100er-Bereich</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This Center Parcs village, located in ‘Flevoland’, is the ideal spot for all those who are into watersports!<br/><br/>The village is next to the splendid ‘Lake Eem’. Practise your swing on the 9-hole golf course or else visit the ‘dolfinarium Harderwijk’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Fühlen Sie sich im, am und auf dem Wasser ganz in Ihrem Element?<br/><br/>Dann ist De Eemhof der perfekte Park für Sie.<br/><br/>Mit seiner Lage am Eemmeer, einem Seitenarm des Ijselmeers und mit einem eigenen Yachthafen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_zc_19_cottages_zone_2.swf</filename>
+			<type>pano</type>
+			<name_uk>Zone 2</name_uk>
+			<name_nl>Cottages zone 2</name_nl>
+			<name_benl>Cottages zone 2</name_benl>
+			<name_befr>Zone de cottages 2</name_befr>
+			<name_fr>Zone de cottages 2</name_fr>
+			<name_de>Ferienhäuser im 200er-Bereich</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This Center Parcs village, located in ‘Flevoland’, is the ideal spot for all those who are into watersports!<br/><br/>The village is next to the splendid ‘Lake Eem’. Practise your swing on the 9-hole golf course or else visit the ‘dolfinarium Harderwijk’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Fühlen Sie sich im, am und auf dem Wasser ganz in Ihrem Element?<br/><br/>Dann ist De Eemhof der perfekte Park für Sie.<br/><br/>Mit seiner Lage am Eemmeer, einem Seitenarm des Ijselmeers und mit einem eigenen Yachthafen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_zc_20_cottages_zone_3.swf</filename>
+			<type>pano</type>
+			<name_uk>Zone 3</name_uk>
+			<name_nl>Cottages zone 3</name_nl>
+			<name_benl>Cottages zone 3</name_benl>
+			<name_befr>Zone de cottages 3</name_befr>
+			<name_fr>Zone de cottages 3</name_fr>
+			<name_de>Ferienhäuser im 300er-Bereich</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This Center Parcs village, located in ‘Flevoland’, is the ideal spot for all those who are into watersports!<br/><br/>The village is next to the splendid ‘Lake Eem’. Practise your swing on the 9-hole golf course or else visit the ‘dolfinarium Harderwijk’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Fühlen Sie sich im, am und auf dem Wasser ganz in Ihrem Element?<br/><br/>Dann ist De Eemhof der perfekte Park für Sie.<br/><br/>Mit seiner Lage am Eemmeer, einem Seitenarm des Ijselmeers und mit einem eigenen Yachthafen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_zc_21_cottages_zone_4.swf</filename>
+			<type>pano</type>
+			<name_uk>Zone 4</name_uk>
+			<name_nl>Cottages zone 4</name_nl>
+			<name_benl>Cottages zone 4</name_benl>
+			<name_befr>Zone de cottages 4</name_befr>
+			<name_fr>Zone de cottages 4</name_fr>
+			<name_de>Ferienhäuser im 400er-Bereich</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This Center Parcs village, located in ‘Flevoland’, is the ideal spot for all those who are into watersports!<br/><br/>The village is next to the splendid ‘Lake Eem’. Practise your swing on the 9-hole golf course or else visit the ‘dolfinarium Harderwijk’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Fühlen Sie sich im, am und auf dem Wasser ganz in Ihrem Element?<br/><br/>Dann ist De Eemhof der perfekte Park für Sie.<br/><br/>Mit seiner Lage am Eemmeer, einem Seitenarm des Ijselmeers und mit einem eigenen Yachthafen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_zc_22_cottages_zone_5.swf</filename>
+			<type>pano</type>
+			<name_uk>Zone 5</name_uk>
+			<name_nl>Cottages zone 5</name_nl>
+			<name_benl>Cottages zone 5</name_benl>
+			<name_befr>Zone de cottages 5</name_befr>
+			<name_fr>Zone de cottages 5</name_fr>
+			<name_de>Ferienhäuser im 500er-Bereich</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This Center Parcs village, located in ‘Flevoland’, is the ideal spot for all those who are into watersports!<br/><br/>The village is next to the splendid ‘Lake Eem’. Practise your swing on the 9-hole golf course or else visit the ‘dolfinarium Harderwijk’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Fühlen Sie sich im, am und auf dem Wasser ganz in Ihrem Element?<br/><br/>Dann ist De Eemhof der perfekte Park für Sie.<br/><br/>Mit seiner Lage am Eemmeer, einem Seitenarm des Ijselmeers und mit einem eigenen Yachthafen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_zc_23_cottages_zone_6.swf</filename>
+			<type>pano</type>
+			<name_uk>Zone 6</name_uk>
+			<name_nl>Cottages zone 6</name_nl>
+			<name_benl>Cottages zone 6</name_benl>
+			<name_befr>Zone de cottages 6</name_befr>
+			<name_fr>Zone de cottages 6</name_fr>
+			<name_de>Ferienhäuser im 600er-Bereich</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This Center Parcs village, located in ‘Flevoland’, is the ideal spot for all those who are into watersports!<br/><br/>The village is next to the splendid ‘Lake Eem’. Practise your swing on the 9-hole golf course or else visit the ‘dolfinarium Harderwijk’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Fühlen Sie sich im, am und auf dem Wasser ganz in Ihrem Element?<br/><br/>Dann ist De Eemhof der perfekte Park für Sie.<br/><br/>Mit seiner Lage am Eemmeer, einem Seitenarm des Ijselmeers und mit einem eigenen Yachthafen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_zc_24_cottages_zone_7.swf</filename>
+			<type>pano</type>
+			<name_uk>Zone 7</name_uk>
+			<name_nl>Cottages zone 7</name_nl>
+			<name_benl>Cottages zone 7</name_benl>
+			<name_befr>Zone de cottages 7</name_befr>
+			<name_fr>Zone de cottages 7</name_fr>
+			<name_de>Ferienhäuser im 700er-Bereich</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This Center Parcs village, located in ‘Flevoland’, is the ideal spot for all those who are into watersports!<br/><br/>The village is next to the splendid ‘Lake Eem’. Practise your swing on the 9-hole golf course or else visit the ‘dolfinarium Harderwijk’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Fühlen Sie sich im, am und auf dem Wasser ganz in Ihrem Element?<br/><br/>Dann ist De Eemhof der perfekte Park für Sie.<br/><br/>Mit seiner Lage am Eemmeer, einem Seitenarm des Ijselmeers und mit einem eigenen Yachthafen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>1500</x_pos>
+			<vitesse>-5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_zc_25_cottages_zone_8.swf</filename>
+			<type>pano</type>
+			<name_uk>Zone 8</name_uk>
+			<name_nl>Cottages zone 8</name_nl>
+			<name_benl>Cottages zone 8</name_benl>
+			<name_befr>Zone de cottages 8</name_befr>
+			<name_fr>Zone de cottages 8</name_fr>
+			<name_de>Ferienhäuser im 800er-Bereich</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This Center Parcs village, located in ‘Flevoland’, is the ideal spot for all those who are into watersports!<br/><br/>The village is next to the splendid ‘Lake Eem’. Practise your swing on the 9-hole golf course or else visit the ‘dolfinarium Harderwijk’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Fühlen Sie sich im, am und auf dem Wasser ganz in Ihrem Element?<br/><br/>Dann ist De Eemhof der perfekte Park für Sie.<br/><br/>Mit seiner Lage am Eemmeer, einem Seitenarm des Ijselmeers und mit einem eigenen Yachthafen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_zc_26_cottages_zone_9.swf</filename>
+			<type>pano</type>
+			<name_uk>Zone 9</name_uk>
+			<name_nl>Cottages zone 9</name_nl>
+			<name_benl>Cottages zone 9</name_benl>
+			<name_befr>Zone de cottages 9</name_befr>
+			<name_fr>Zone de cottages 9</name_fr>
+			<name_de>Ferienhäuser im 900er-Bereich</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>This Center Parcs village, located in ‘Flevoland’, is the ideal spot for all those who are into watersports!<br/><br/>The village is next to the splendid ‘Lake Eem’. Practise your swing on the 9-hole golf course or else visit the ‘dolfinarium Harderwijk’.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Dit Active Park, gelegen in Flevoland, is dé plek voor watersportliefhebbers!<br/><br/>Het park ligt aan het prachtige Eemmeer. Oefen uw golfswing op de 9-holes golfbaan of breng een bezoek aan het Dolfinarium Harderwijk.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Le Domaine de De Eemhof s'étend au bord du lac Eemmeer, à environ 30 km d'Amsterdam.<br/><br/>Particulièrement indiqué pour les amateurs de sports nautiques et de séjours au bord de l'eau, il vous surprendra également par ses activités inédites comme le mur d'escalade magnétique ou le Flow Rider.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Fühlen Sie sich im, am und auf dem Wasser ganz in Ihrem Element?<br/><br/>Dann ist De Eemhof der perfekte Park für Sie.<br/><br/>Mit seiner Lage am Eemmeer, einem Seitenarm des Ijselmeers und mit einem eigenen Yachthafen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+////2d
+//Aquamundo	
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_01_aquacafe.swf</filename>
+			<type>pano</type>
+			<name_uk>Aqua Café</name_uk>
+			<name_nl>Aqua Café</name_nl>
+			<name_benl>Aqua Café</name_benl>
+			<name_befr>Aqua Café</name_befr>
+			<name_fr>Aqua Café</name_fr>
+			<name_de>Aqua Café</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aqua Mundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains domaines de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aquamundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains parcs de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_02_central_island.swf</filename>
+			<type>pano</type>
+			<name_uk>Central island</name_uk>
+			<name_nl>Centraal eiland</name_nl>
+			<name_benl>Centraal eiland</name_benl>
+			<name_befr>Ile centrale</name_befr>
+			<name_fr>Ile centrale</name_fr>
+			<name_de>Rundumblick</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aqua Mundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains domaines de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aquamundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains parcs de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_03_flow_rider.swf</filename>
+			<type>pano</type>
+			<name_uk>Flow Rider</name_uk>
+			<name_nl>Flow Rider</name_nl>
+			<name_benl>Flow Rider</name_benl>
+			<name_befr>Flow Rider</name_befr>
+			<name_fr>Flow Rider</name_fr>
+			<name_de>Flow Rider</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aqua Mundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains domaines de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aquamundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains parcs de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_04_jacuzzi.swf</filename>
+			<type>pano</type>
+			<name_uk>Jacuzzi</name_uk>
+			<name_nl>Whirlpool</name_nl>
+			<name_benl>Whirlpool</name_benl>
+			<name_befr>Jacuzzi</name_befr>
+			<name_fr>Jacuzzi</name_fr>
+			<name_de>Whirlpool</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aqua Mundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains domaines de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aquamundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains parcs de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>1300</x_pos>
+			<vitesse>-5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_05_kids_pool.swf</filename>
+			<type>pano</type>
+			<name_uk>Kids pool</name_uk>
+			<name_nl>Kinder–Doe-Bad</name_nl>
+			<name_benl>Kinder–doe-bad</name_benl>
+			<name_befr>Piscine enfants</name_befr>
+			<name_fr>Piscine enfants</name_fr>
+			<name_de>Kleinkindbecken</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aqua Mundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains domaines de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aquamundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains parcs de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_06_outside_swimming_pool.swf</filename>
+			<type>pano</type>
+			<name_uk>Outside swimming pool</name_uk>
+			<name_nl>Buitenbad</name_nl>
+			<name_benl>Buitenbad</name_benl>
+			<name_befr>Piscine extérieur</name_befr>
+			<name_fr>Piscine extérieur</name_fr>
+			<name_de>Außenbecken</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aqua Mundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains domaines de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aquamundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains parcs de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_07_waves_swimming_pool_entrance.swf</filename>
+			<type>pano</type>
+			<name_uk>Waves swimming pool entrance</name_uk>
+			<name_nl>Ingang golfslagbad</name_nl>
+			<name_benl>Ingang golfslagbad</name_benl>
+			<name_befr>Entrée piscine à vagues</name_befr>
+			<name_fr>Entrée piscine à vagues</name_fr>
+			<name_de>Wellenbad</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aqua Mundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains domaines de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aquamundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains parcs de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_08_waves_swimming_pool.swf</filename>
+			<type>pano</type>
+			<name_uk>Waves swimming pool </name_uk>
+			<name_nl>Golfslagbad</name_nl>
+			<name_benl>Golfslagbad</name_benl>
+			<name_befr>Piscine à vagues</name_befr>
+			<name_fr>Piscine à vagues</name_fr>
+			<name_de>Wellenbad</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aqua Mundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains domaines de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aquamundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains parcs de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_09_rapids.swf</filename>
+			<type>pano</type>
+			<name_uk>Rapids</name_uk>
+			<name_nl>Stroomversnelling</name_nl>
+			<name_benl>Stroomversnelling</name_benl>
+			<name_befr>Rapides</name_befr>
+			<name_fr>Rapides</name_fr>
+			<name_de>Wildwasserbahn</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aqua Mundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains domaines de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aquamundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains parcs de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_10_rapids_river.swf</filename>
+			<type>pano</type>
+			<name_uk>Rapids river</name_uk>
+			<name_nl>Wildwaterbaan</name_nl>
+			<name_benl>Wildwaterbaan</name_benl>
+			<name_befr>Rivière sauvage</name_befr>
+			<name_fr>Rivière sauvage</name_fr>
+			<name_de>Wildwasserbahn</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aqua Mundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains domaines de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aquamundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains parcs de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_11_rapids_river_bridge.swf</filename>
+			<type>pano</type>
+			<name_uk>Rapids river bridge</name_uk>
+			<name_nl>Brug over Wildwaterbaan</name_nl>
+			<name_benl>Brug over Wildwaterbaan</name_benl>
+			<name_befr>Pont rivière sauvage</name_befr>
+			<name_fr>Pont rivière sauvage</name_fr>
+			<name_de>Wildwasserbahn</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aqua Mundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains domaines de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aquamundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains parcs de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_12_solarium.swf</filename>
+			<type>pano</type>
+			<name_uk>Solarium</name_uk>
+			<name_nl>Solarium</name_nl>
+			<name_benl>Solarium</name_benl>
+			<name_befr>Solarium</name_befr>
+			<name_fr>Solarium</name_fr>
+			<name_de>Sonnenhimmel</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aqua Mundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains domaines de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aquamundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains parcs de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+	
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_13_sunbathing_area.swf</filename>
+			<type>pano</type>
+			<name_uk>Sunbathing area</name_uk>
+			<name_nl>Buitenterras</name_nl>
+			<name_benl>Buitenterras</name_benl>
+			<name_befr>Solarium</name_befr>
+			<name_fr>Solarium</name_fr>
+			<name_de>Außenbereich</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aqua Mundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains domaines de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aquamundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains parcs de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+	
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_14_toboggan_access.swf</filename>
+			<type>pano</type>
+			<name_uk>Toboggan access</name_uk>
+			<name_nl>Toegang glijbanen</name_nl>
+			<name_benl>Toegang glijbanen</name_benl>
+			<name_befr>Entrée toboggan</name_befr>
+			<name_fr>Entrée toboggan</name_fr>
+			<name_de>Wasserrutsche</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aqua Mundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains domaines de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aquamundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains parcs de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound></sound>
+			<filename>sequence_wild_water.swf</filename>
+			<type>video</type>
+			<name_uk>Wild Water raften for kids video</name_uk>
+			<name_nl>Wild Water raften voor kinderen video</name_nl>
+			<name_benl>Wild Water raften voor kinderen video</name_benl>
+			<name_befr>Vidéo Wild Water rafting pour enfants</name_befr>
+			<name_fr>Vidéo Wild Water rafting pour enfants</name_fr>
+			<name_de>Video Wildwasser-Rafting</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aqua Mundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains domaines de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Avec ses Hot Whirlpools, sa rivière sauvage, sa piscine à vagues et ses ponts suspendus, l'Aquamundo est bien plus qu’une simple piscine.<br/><br/>Sans oublier la piscine extérieure chauffée ou même la possibilité dans certains parcs de nager en compagnie de requins et de barracudas en toute sécurité !</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+//aquasana
+		<pano map="2d" plan="aquasana.swf">
+			<sound>domaine.swf</sound>
+			<filename>sa_01_central_view.swf</filename>
+			<type>pano</type>
+			<name_uk>Central view</name_uk>
+			<name_nl>Overzicht Sauna/Aqua Sana</name_nl>
+			<name_benl>Overzicht Sauna/Aqua Sana</name_benl>
+			<name_befr>Vue centrale</name_befr>
+			<name_fr>Vue centrale</name_fr>
+			<name_de>Rundumblick</name_de>
+			<edito_uk><![CDATA[<p><titre>SAUNA</titre><br/>Pure relaxation: the sauna with Turkish bath and sauna meadow.<br/>You particularly visit the sauna for physical relaxation, health and improvement of your wellbeing.<br/>Moreover the sauna also has a purifying function.<br/><br/>As a result you will have more resistance and less stress.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>SAUNA</titre><br/>Puur relaxen: sauna met Turks stoombad en saunaweide.<br/>U bezoekt de sauna vooral voor lichamelijke ontspanning, gezondheid en verbetering van het welzijn.<br/>Daarnaast heeft de sauna ook een reinigende werking.<br/><br/>Met als gevolg: meer weerstand en minder stress.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>SAUNA</titre><br/>Puur relaxen: sauna met Turks stoombad en saunaweide.<br/>U bezoekt de sauna vooral voor lichamelijke ontspanning, gezondheid en verbetering van het welzijn.<br/>Daarnaast heeft de sauna ook een reinigende werking.<br/><br/>Met als gevolg: meer weerstand en minder stress.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>SAUNA</titre><br/>Pour une pure relaxation : sauna avec hammam oriental.<br/>Un moment de détente absolu pour votre corps, votre santé et votre bien-être.<br/><br/>Le sauna possède des vertus purifiantes : vous deviendrez plus résistant au stress.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>SAUNA</titre><br/>Pour une pure relaxation : sauna avec hammam oriental.<br/>Un moment de détente absolu pour votre corps, votre santé et votre bien-être.<br/><br/>Le sauna possède des vertus purifiantes : vous deviendrez plus résistant au stress.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>SAUNA</titre><br/>Pure Entspannung erwartet Sie in der Sauna mit türkischem Dampfbad und Whirlpool.<br/><br/>Sie werden sehen, spätestens nach der Abkühlung sind die Lebensgeister geweckt, der Stress ist verschwunden und Ihr Wohlbefinden hat sich gesteigert.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquasana.swf">
+			<sound>domaine.swf</sound>
+			<filename>sa_02_sauna.swf</filename>
+			<type>pano</type>
+			<name_uk>Sauna</name_uk>
+			<name_nl>Sauna</name_nl>
+			<name_benl>Sauna</name_benl>
+			<name_befr>Sauna</name_befr>
+			<name_fr>Sauna</name_fr>
+			<name_de>Sauna</name_de>
+			<edito_uk><![CDATA[<p><titre>SAUNA</titre><br/>Pure relaxation: the sauna with Turkish bath and sauna meadow.<br/>You particularly visit the sauna for physical relaxation, health and improvement of your wellbeing.<br/>Moreover the sauna also has a purifying function.<br/><br/>As a result you will have more resistance and less stress.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>SAUNA</titre><br/>Puur relaxen: sauna met Turks stoombad en saunaweide.<br/>U bezoekt de sauna vooral voor lichamelijke ontspanning, gezondheid en verbetering van het welzijn.<br/>Daarnaast heeft de sauna ook een reinigende werking.<br/><br/>Met als gevolg: meer weerstand en minder stress.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>SAUNA</titre><br/>Puur relaxen: sauna met Turks stoombad en saunaweide.<br/>U bezoekt de sauna vooral voor lichamelijke ontspanning, gezondheid en verbetering van het welzijn.<br/>Daarnaast heeft de sauna ook een reinigende werking.<br/><br/>Met als gevolg: meer weerstand en minder stress.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>SAUNA</titre><br/>Pour une pure relaxation : sauna avec hammam oriental.<br/>Un moment de détente absolu pour votre corps, votre santé et votre bien-être.<br/><br/>Le sauna possède des vertus purifiantes : vous deviendrez plus résistant au stress.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>SAUNA</titre><br/>Pour une pure relaxation : sauna avec hammam oriental.<br/>Un moment de détente absolu pour votre corps, votre santé et votre bien-être.<br/><br/>Le sauna possède des vertus purifiantes : vous deviendrez plus résistant au stress.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>SAUNA</titre><br/>Pure Entspannung erwartet Sie in der Sauna mit türkischem Dampfbad und Whirlpool.<br/><br/>Sie werden sehen, spätestens nach der Abkühlung sind die Lebensgeister geweckt, der Stress ist verschwunden und Ihr Wohlbefinden hat sich gesteigert.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquasana.swf">
+			<sound>domaine.swf</sound>
+			<filename>sa_03_swimming_pool.swf</filename>
+			<type>pano</type>
+			<name_uk>Swimming pool</name_uk>
+			<name_nl>Zwembad</name_nl>
+			<name_benl>Zwembad</name_benl>
+			<name_befr>Piscine</name_befr>
+			<name_fr>Piscine</name_fr>
+			<name_de>Pool im Saunabereich</name_de>
+			<edito_uk><![CDATA[<p><titre>SAUNA</titre><br/>Pure relaxation: the sauna with Turkish bath and sauna meadow.<br/>You particularly visit the sauna for physical relaxation, health and improvement of your wellbeing.<br/>Moreover the sauna also has a purifying function.<br/><br/>As a result you will have more resistance and less stress.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>SAUNA</titre><br/>Puur relaxen: sauna met Turks stoombad en saunaweide.<br/>U bezoekt de sauna vooral voor lichamelijke ontspanning, gezondheid en verbetering van het welzijn.<br/>Daarnaast heeft de sauna ook een reinigende werking.<br/><br/>Met als gevolg: meer weerstand en minder stress.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>SAUNA</titre><br/>Puur relaxen: sauna met Turks stoombad en saunaweide.<br/>U bezoekt de sauna vooral voor lichamelijke ontspanning, gezondheid en verbetering van het welzijn.<br/>Daarnaast heeft de sauna ook een reinigende werking.<br/><br/>Met als gevolg: meer weerstand en minder stress.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>SAUNA</titre><br/>Pour une pure relaxation : sauna avec hammam oriental.<br/>Un moment de détente absolu pour votre corps, votre santé et votre bien-être.<br/><br/>Le sauna possède des vertus purifiantes : vous deviendrez plus résistant au stress.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>SAUNA</titre><br/>Pour une pure relaxation : sauna avec hammam oriental.<br/>Un moment de détente absolu pour votre corps, votre santé et votre bien-être.<br/><br/>Le sauna possède des vertus purifiantes : vous deviendrez plus résistant au stress.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>SAUNA</titre><br/>Pure Entspannung erwartet Sie in der Sauna mit türkischem Dampfbad und Whirlpool.<br/><br/>Sie werden sehen, spätestens nach der Abkühlung sind die Lebensgeister geweckt, der Stress ist verschwunden und Ihr Wohlbefinden hat sich gesteigert.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+//marketsquare
+		<pano map="2d" plan="marketsquare.swf">
+			<sound>domaine.swf</sound>
+			<filename>ms_01_panoramic_view.swf</filename>
+			<type>pano</type>
+			<name_uk>Panoramic view</name_uk>
+			<name_nl>Panoramaoverzicht</name_nl>
+			<name_benl>Panoramaoverzicht</name_benl>
+			<name_befr>Vue panoramique</name_befr>
+			<name_fr>Vue panoramique</name_fr>
+			<name_de>Panoramablick</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET SQUARE</titre><br/>The Market Square is a convivial meeting place.<br/>If you love delicious food you should definitely try a culinary package! </p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET SQUARE</titre><br/>De Market Square is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen!</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET SQUARE</titre><br/>De Market Square is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen!</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Faites une pause sous le place...<br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Faites une pause sous le place...<br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Der Market Square ist der zentrale Treffpunkt im Park.<br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="marketsquare.swf">
+			<sound>domaine.swf</sound>
+			<filename>ms_03_market_square_avenue.swf</filename>
+			<type>pano</type>
+			<name_uk>Market Square avenue</name_uk>
+			<name_nl>Market Square</name_nl>
+			<name_benl>Market Square</name_benl>
+			<name_befr>Avenue Market Square</name_befr>
+			<name_fr>Avenue Market Square</name_fr>
+			<name_de>Market Square</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET SQUARE</titre><br/>The Market Square is a convivial meeting place.<br/>If you love delicious food you should definitely try a culinary package! </p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET SQUARE</titre><br/>De Market Square is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen!</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET SQUARE</titre><br/>De Market Square is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen!</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Faites une pause sous le place...<br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Faites une pause sous le place...<br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Der Market Square ist der zentrale Treffpunkt im Park.<br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="marketsquare.swf">
+			<sound>domaine.swf</sound>
+			<filename>ms_04_market_cafe_terrace.swf</filename>
+			<type>pano</type>
+			<name_uk>Market Café terrace</name_uk>
+			<name_nl>Terras Market Café</name_nl>
+			<name_benl>Terras Market Café</name_benl>
+			<name_befr>Terrasse Market Café</name_befr>
+			<name_fr>Terrasse Market Café</name_fr>
+			<name_de>Market Café</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET SQUARE</titre><br/>The Market Square is a convivial meeting place.<br/>If you love delicious food you should definitely try a culinary package! </p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET SQUARE</titre><br/>De Market Square is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen!</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET SQUARE</titre><br/>De Market Square is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen!</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Faites une pause sous le place...<br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Faites une pause sous le place...<br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Der Market Square ist der zentrale Treffpunkt im Park.<br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="marketsquare.swf">
+			<sound>domaine.swf</sound>
+			<filename>ms_05_hamilton_restaurant.swf</filename>
+			<type>pano</type>
+			<name_uk>Hamilton restaurant</name_uk>
+			<name_nl>Hamilton's Restaurant</name_nl>
+			<name_benl>Hamilton's Restaurant</name_benl>
+			<name_befr>Hamilton restaurant</name_befr>
+			<name_fr>Hamilton restaurant</name_fr>
+			<name_de>Hamilton´s Family Restaurant</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET SQUARE</titre><br/>The Market Square is a convivial meeting place.<br/>If you love delicious food you should definitely try a culinary package! </p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET SQUARE</titre><br/>De Market Square is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen!</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET SQUARE</titre><br/>De Market Square is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen!</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Faites une pause sous le place...<br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Faites une pause sous le place...<br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Der Market Square ist der zentrale Treffpunkt im Park.<br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="marketsquare.swf">
+			<sound>domaine.swf</sound>
+			<filename>ms_06_hamilton_bar.swf</filename>
+			<type>pano</type>
+			<name_uk>Hamilton bar</name_uk>
+			<name_nl>Hamilton´s Bar</name_nl>
+			<name_benl>Hamilton´s Bar</name_benl>
+			<name_befr>Bar Hamilton</name_befr>
+			<name_fr>Bar Hamilton</name_fr>
+			<name_de>Hamilton´s Bar</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET SQUARE</titre><br/>The Market Square is a convivial meeting place.<br/>If you love delicious food you should definitely try a culinary package! </p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET SQUARE</titre><br/>De Market Square is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen!</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET SQUARE</titre><br/>De Market Square is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen!</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Faites une pause sous le place...<br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Faites une pause sous le place...<br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Der Market Square ist der zentrale Treffpunkt im Park.<br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="marketsquare.swf">
+			<sound>domaine.swf</sound>
+			<filename>ms_07_bakery.swf</filename>
+			<type>pano</type>
+			<name_uk>Food Store</name_uk>
+			<name_nl>Food Store</name_nl>
+			<name_benl>Food Store</name_benl>
+			<name_befr>Supermarché</name_befr>
+			<name_fr>Supermarché</name_fr>
+			<name_de>Supermarkt</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET SQUARE</titre><br/>The Market Square is a convivial meeting place.<br/>If you love delicious food you should definitely try a culinary package! </p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET SQUARE</titre><br/>De Market Square is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen!</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET SQUARE</titre><br/>De Market Square is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen!</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Faites une pause sous le place...<br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Faites une pause sous le place...<br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Der Market Square ist der zentrale Treffpunkt im Park.<br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="marketsquare.swf">
+			<sound>domaine.swf</sound>
+			<filename>ms_08_fontain.swf</filename>
+			<type>pano</type>
+			<name_uk>Fontain</name_uk>
+			<name_nl>Fontein</name_nl>
+			<name_benl>Fontein</name_benl>
+			<name_befr>Fontaine</name_befr>
+			<name_fr>Fontaine</name_fr>
+			<name_de>Springbrunnen</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET SQUARE</titre><br/>The Market Square is a convivial meeting place.<br/>If you love delicious food you should definitely try a culinary package! </p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET SQUARE</titre><br/>De Market Square is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen!</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET SQUARE</titre><br/>De Market Square is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen!</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Faites une pause sous le place...<br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Faites une pause sous le place...<br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Der Market Square ist der zentrale Treffpunkt im Park.<br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="marketsquare.swf">
+			<sound>domaine.swf</sound>
+			<filename>ms_09_fashion_store.swf</filename>
+			<type>pano</type>
+			<name_uk>Fashion Store</name_uk>
+			<name_nl>Fashion Store</name_nl>
+			<name_benl>Fashion Store</name_benl>
+			<name_befr>Fashion Store</name_befr>
+			<name_fr>Fashion Store</name_fr>
+			<name_de>Fashion Store</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET SQUARE</titre><br/>The Market Square is a convivial meeting place.<br/>If you love delicious food you should definitely try a culinary package! </p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET SQUARE</titre><br/>De Market Square is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen!</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET SQUARE</titre><br/>De Market Square is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen!</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Faites une pause sous le place...<br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Faites une pause sous le place...<br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Der Market Square ist der zentrale Treffpunkt im Park.<br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="marketsquare.swf">
+			<sound>domaine.swf</sound>
+			<filename>ms_10_aquatic_water_fashion.swf</filename>
+			<type>pano</type>
+			<name_uk>Aquatic water fashion</name_uk>
+			<name_nl>Aquatique</name_nl>
+			<name_benl>Aquatique</name_benl>
+			<name_befr>Aquatic water fashion</name_befr>
+			<name_fr>Aquatic water fashion</name_fr>
+			<name_de>Aquatique</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET SQUARE</titre><br/>The Market Square is a convivial meeting place.<br/>If you love delicious food you should definitely try a culinary package! </p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET SQUARE</titre><br/>De Market Square is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen!</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET SQUARE</titre><br/>De Market Square is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen!</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Faites une pause sous le place...<br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Faites une pause sous le place...<br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Der Market Square ist der zentrale Treffpunkt im Park.<br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="marketsquare.swf">
+			<sound>domaine.swf</sound>
+			<filename>ms_11_appartment_side_entrance.swf</filename>
+			<type>pano</type>
+			<name_uk>Appartment side entrance</name_uk>
+			<name_nl>Zij-ingang appartement</name_nl>
+			<name_benl>Zij-ingang appartement</name_benl>
+			<name_befr>Entrée Appartements</name_befr>
+			<name_fr>Ingang appartement</name_fr>
+			<name_de>Eingang Market Square</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET SQUARE</titre><br/>The Market Square is a convivial meeting place.<br/>If you love delicious food you should definitely try a culinary package! </p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET SQUARE</titre><br/>De Market Square is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen!</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET SQUARE</titre><br/>De Market Square is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen!</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Faites une pause sous le place...<br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Faites une pause sous le place...<br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Der Market Square ist der zentrale Treffpunkt im Park.<br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="marketsquare.swf">
+			<sound>domaine.swf</sound>
+			<filename>ms_12_cafe_corner.swf</filename>
+			<type>pano</type>
+			<name_uk>Cafe Corner</name_uk>
+			<name_nl>Coffee Corner</name_nl>
+			<name_benl>Coffee Corner</name_benl>
+			<name_befr>Café Corner</name_befr>
+			<name_fr>Café Corner</name_fr>
+			<name_de>Café Corner</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET SQUARE</titre><br/>The Market Square is a convivial meeting place.<br/>If you love delicious food you should definitely try a culinary package! </p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET SQUARE</titre><br/>De Market Square is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen!</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET SQUARE</titre><br/>De Market Square is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen!</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Faites une pause sous le place...<br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Faites une pause sous le place...<br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Der Market Square ist der zentrale Treffpunkt im Park.<br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="marketsquare.swf">
+			<sound>domaine.swf</sound>
+			<filename>ms_13_fun_and_toys.swf</filename>
+			<type>pano</type>
+			<name_uk>Fun & Toys</name_uk>
+			<name_nl>Toys & Souvenirs</name_nl>
+			<name_benl>Toys & Souvenirs</name_benl>
+			<name_befr>Fun & Toys</name_befr>
+			<name_fr>Fun & Toys</name_fr>
+			<name_de>Fun & Toys</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET SQUARE</titre><br/>The Market Square is a convivial meeting place.<br/>If you love delicious food you should definitely try a culinary package! </p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET SQUARE</titre><br/>De Market Square is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen!</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET SQUARE</titre><br/>De Market Square is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen!</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Faites une pause sous le place...<br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Faites une pause sous le place...<br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Der Market Square ist der zentrale Treffpunkt im Park.<br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="marketsquare.swf">
+			<sound>domaine.swf</sound>
+			<filename>ms_14_market_restaurant_buffet.swf</filename>
+			<type>pano</type>
+			<name_uk>Market restaurant buffet</name_uk>
+			<name_nl>Buffet Market Restaurant</name_nl>
+			<name_benl>Buffet Market Restaurant</name_benl>
+			<name_befr>Buffet Market Restaurant</name_befr>
+			<name_fr>Buffet Market Restaurant</name_fr>
+			<name_de>Buffet im Market Restaurant</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET SQUARE</titre><br/>The Market Square is a convivial meeting place.<br/>If you love delicious food you should definitely try a culinary package! </p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET SQUARE</titre><br/>De Market Square is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen!</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET SQUARE</titre><br/>De Market Square is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen!</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Faites une pause sous le place...<br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Faites une pause sous le place...<br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Der Market Square ist der zentrale Treffpunkt im Park.<br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="marketsquare.swf">
+			<sound>domaine.swf</sound>
+			<filename>ms_15_market_cafe.swf</filename>
+			<type>pano</type>
+			<name_uk>Market Café</name_uk>
+			<name_nl>Market Café</name_nl>
+			<name_benl>Market Café</name_benl>
+			<name_befr>Market Café</name_befr>
+			<name_fr>Market Café</name_fr>
+			<name_de>Market Café</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET SQUARE</titre><br/>The Market Square is a convivial meeting place.<br/>If you love delicious food you should definitely try a culinary package! </p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET SQUARE</titre><br/>De Market Square is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen!</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET SQUARE</titre><br/>De Market Square is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen!</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Faites une pause sous le place...<br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Faites une pause sous le place...<br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Der Market Square ist der zentrale Treffpunkt im Park.<br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>1900</x_pos>
+			<vitesse>-5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="marketsquare.swf">
+			<sound>domaine.swf</sound>
+			<filename>ms_16_market_restaurant.swf</filename>
+			<type>pano</type>
+			<name_uk>Market restaurant</name_uk>
+			<name_nl>Market Restaurant</name_nl>
+			<name_benl>Market Restaurant</name_benl>
+			<name_befr>Market Restaurant</name_befr>
+			<name_fr>Market Restaurant</name_fr>
+			<name_de>Market Restaurant</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET SQUARE</titre><br/>The Market Square is a convivial meeting place.<br/>If you love delicious food you should definitely try a culinary package! </p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET SQUARE</titre><br/>De Market Square is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen!</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET SQUARE</titre><br/>De Market Square is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen!</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Faites une pause sous le place...<br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Faites une pause sous le place...<br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Der Market Square ist der zentrale Treffpunkt im Park.<br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="marketsquare.swf">
+			<sound>domaine.swf</sound>
+			<filename>ms_17_reception.swf</filename>
+			<type>pano</type>
+			<name_uk>Info desk</name_uk>
+			<name_nl>Info desk</name_nl>
+			<name_benl>Info desk</name_benl>
+			<name_befr>Info desk</name_befr>
+			<name_fr>Info desk</name_fr>
+			<name_de>Info Desk</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET SQUARE</titre><br/>The Market Square is a convivial meeting place.<br/>If you love delicious food you should definitely try a culinary package! </p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET SQUARE</titre><br/>De Market Square is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen!</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET SQUARE</titre><br/>De Market Square is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen!</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Faites une pause sous le place...<br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Faites une pause sous le place...<br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Der Market Square ist der zentrale Treffpunkt im Park.<br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="marketsquare.swf">
+			<sound>domaine.swf</sound>
+			<filename>ms_18_snack_corner.swf</filename>
+			<type>pano</type>
+			<name_uk>Snack Corner</name_uk>
+			<name_nl>Snack Corner</name_nl>
+			<name_benl>Snack Corner</name_benl>
+			<name_befr>Snack Corner</name_befr>
+			<name_fr>Snack Corner</name_fr>
+			<name_de>Snack Corner</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET SQUARE</titre><br/>The Market Square is a convivial meeting place.<br/>If you love delicious food you should definitely try a culinary package! </p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET SQUARE</titre><br/>De Market Square is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen!</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET SQUARE</titre><br/>De Market Square is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen!</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Faites une pause sous le place...<br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Faites une pause sous le place...<br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET SQUARE</titre><br/>Der Market Square ist der zentrale Treffpunkt im Park.<br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="marketsquare.swf">
+			<sound></sound>
+			<filename>sequence_market_dome.swf</filename>
+			<type>video</type>
+			<name_uk>Market Dome podium video</name_uk>
+			<name_nl>Market Dome podium video</name_nl>
+			<name_benl>Market Dome podium video</name_benl>
+			<name_befr>Vidéo scène Market-Dôme</name_befr>
+			<name_fr>Vidéo scène Market-Dôme</name_fr>
+			<name_de>Video Bühne im Market Dome</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes. Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes. Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+//actionfactory
+		<pano map="2d" plan="actionfactory.swf">
+			<sound>domaine.swf</sound>
+			<filename>af_01_action_factory_bar.swf</filename>
+			<type>pano</type>
+			<name_uk>Action Factory bar</name_uk>
+			<name_nl>Bar Action Factory</name_nl>
+			<name_benl>Bar Action Factory</name_benl>
+			<name_befr>Bar Action Factory</name_befr>
+			<name_fr>Bar Action Factory</name_fr>
+			<name_de>Action Factory Bar</name_de>
+				<edito_uk><![CDATA[<p><titre>ACTION FACTORY</titre><br/>The Action Factory is a hive of sports, games and entertainment activity.<br/><br/>Younger guests can come here every day for new activities. From Bingo and Lego corner to films and the children's disco. For adults there's climbing, abseiling, bowling and much more !<br/><br/>And in the evenings, this is the place to enjoy music, live entertainment or a swinging Salsa evening.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In de Action Factory is er regelmataig entertainment voor jong en oud.<br/>Zoals:<br/><br/>• kidsbios<br/>• lasersquash <br/>• golf <br/>• live muziek <br/>• disco of een swingende 60's-70's-80's Party</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In de Action Factory is er regelmataig entertainment voor jong en oud.<br/>Zoals:<br/><br/>• kidsbios<br/>• lasersquash <br/>• golf <br/>• live muziek <br/>• disco of een swingende 60's-70's-80's Party</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Passez à l'Aqua Cafe avant de vous rendre à l'action factory avec:<br/><br/>• Ciné-kids <br/>• laser-squash <br/>• Escalade sur mur magnétique </p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Passez à l'Aqua Cafe avant de vous rendre à l'action factory avec:<br/><br/>• Ciné-kids <br/>• laser-squash <br/>• Escalade sur mur magnétique </p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Wetterunabhängige Action Factory mit kostenlosen Kindereinrichtungen, vielen Sportmöglichkeiten, Restaurant und abendlicher Unterhaltung.<br/><br/>• Kinderkino<br/>• Laser-Squash<br/>• Minigolf<br/>• Live-Musik<br/>• 60er-, 70er- und 80er-Party</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="actionfactory.swf">
+			<sound>domaine.swf</sound>
+			<filename>af_02_action_factory_entrance.swf</filename>
+			<type>pano</type>
+			<name_uk>Action Factory entrance</name_uk>
+			<name_nl>Ingang Action Factory</name_nl>
+			<name_benl>Ingang Action Factory</name_benl>
+			<name_befr>Entrée Action Factory</name_befr>
+			<name_fr>Entrée Action Factory</name_fr>
+			<name_de>Rundumblick</name_de>
+			<edito_uk><![CDATA[<p><titre>ACTION FACTORY</titre><br/>The Action Factory is a hive of sports, games and entertainment activity.<br/><br/>Younger guests can come here every day for new activities. From Bingo and Lego corner to films and the children's disco. For adults there's climbing, abseiling, bowling and much more !<br/><br/>And in the evenings, this is the place to enjoy music, live entertainment or a swinging Salsa evening.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In de Action Factory is er regelmataig entertainment voor jong en oud.<br/>Zoals:<br/><br/>• kidsbios<br/>• lasersquash <br/>• golf <br/>• live muziek <br/>• disco of een swingende 60's-70's-80's Party</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In de Action Factory is er regelmataig entertainment voor jong en oud.<br/>Zoals:<br/><br/>• kidsbios<br/>• lasersquash <br/>• golf <br/>• live muziek <br/>• disco of een swingende 60's-70's-80's Party</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Passez à l'Aqua Cafe avant de vous rendre à l'action factory avec:<br/><br/>• Ciné-kids <br/>• laser-squash <br/>• Escalade sur mur magnétique </p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Passez à l'Aqua Cafe avant de vous rendre à l'action factory avec:<br/><br/>• Ciné-kids <br/>• laser-squash <br/>• Escalade sur mur magnétique </p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Wetterunabhängige Action Factory mit kostenlosen Kindereinrichtungen, vielen Sportmöglichkeiten, Restaurant und abendlicher Unterhaltung.<br/><br/>• Kinderkino<br/>• Laser-Squash<br/>• Minigolf<br/>• Live-Musik<br/>• 60er-, 70er- und 80er-Party</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="actionfactory.swf">
+			<sound>domaine.swf</sound>
+			<filename>af_03_bowling.swf</filename>
+			<type>pano</type>
+			<name_uk>Bowling</name_uk>
+			<name_nl>Bowling</name_nl>
+			<name_benl>Bowling</name_benl>
+			<name_befr>Bowling</name_befr>
+			<name_fr>Bowling</name_fr>
+			<name_de>Bowling</name_de>
+			<edito_uk><![CDATA[<p><titre>ACTION FACTORY</titre><br/>The Action Factory is a hive of sports, games and entertainment activity.<br/><br/>Younger guests can come here every day for new activities. From Bingo and Lego corner to films and the children's disco. For adults there's climbing, abseiling, bowling and much more !<br/><br/>And in the evenings, this is the place to enjoy music, live entertainment or a swinging Salsa evening.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In de Action Factory is er regelmataig entertainment voor jong en oud.<br/>Zoals:<br/><br/>• kidsbios<br/>• lasersquash <br/>• golf <br/>• live muziek <br/>• disco of een swingende 60's-70's-80's Party</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In de Action Factory is er regelmataig entertainment voor jong en oud.<br/>Zoals:<br/><br/>• kidsbios<br/>• lasersquash <br/>• golf <br/>• live muziek <br/>• disco of een swingende 60's-70's-80's Party</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Passez à l'Aqua Cafe avant de vous rendre à l'action factory avec:<br/><br/>• Ciné-kids <br/>• laser-squash <br/>• Escalade sur mur magnétique </p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Passez à l'Aqua Cafe avant de vous rendre à l'action factory avec:<br/><br/>• Ciné-kids <br/>• laser-squash <br/>• Escalade sur mur magnétique </p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Wetterunabhängige Action Factory mit kostenlosen Kindereinrichtungen, vielen Sportmöglichkeiten, Restaurant und abendlicher Unterhaltung.<br/><br/>• Kinderkino<br/>• Laser-Squash<br/>• Minigolf<br/>• Live-Musik<br/>• 60er-, 70er- und 80er-Party</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="actionfactory.swf">
+			<sound>domaine.swf</sound>
+			<filename>af_04_casino.swf</filename>
+			<type>pano</type>
+			<name_uk>Casino</name_uk>
+			<name_nl>Casino</name_nl>
+			<name_benl>Casino</name_benl>
+			<name_befr>Casino</name_befr>
+			<name_fr>Casino</name_fr>
+			<name_de>Casino</name_de>
+			<edito_uk><![CDATA[<p><titre>ACTION FACTORY</titre><br/>The Action Factory is a hive of sports, games and entertainment activity.<br/><br/>Younger guests can come here every day for new activities. From Bingo and Lego corner to films and the children's disco. For adults there's climbing, abseiling, bowling and much more !<br/><br/>And in the evenings, this is the place to enjoy music, live entertainment or a swinging Salsa evening.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In de Action Factory is er regelmataig entertainment voor jong en oud.<br/>Zoals:<br/><br/>• kidsbios<br/>• lasersquash <br/>• golf <br/>• live muziek <br/>• disco of een swingende 60's-70's-80's Party</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In de Action Factory is er regelmataig entertainment voor jong en oud.<br/>Zoals:<br/><br/>• kidsbios<br/>• lasersquash <br/>• golf <br/>• live muziek <br/>• disco of een swingende 60's-70's-80's Party</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Passez à l'Aqua Cafe avant de vous rendre à l'action factory avec:<br/><br/>• Ciné-kids <br/>• laser-squash <br/>• Escalade sur mur magnétique </p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Passez à l'Aqua Cafe avant de vous rendre à l'action factory avec:<br/><br/>• Ciné-kids <br/>• laser-squash <br/>• Escalade sur mur magnétique </p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Wetterunabhängige Action Factory mit kostenlosen Kindereinrichtungen, vielen Sportmöglichkeiten, Restaurant und abendlicher Unterhaltung.<br/><br/>• Kinderkino<br/>• Laser-Squash<br/>• Minigolf<br/>• Live-Musik<br/>• 60er-, 70er- und 80er-Party</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="actionfactory.swf">
+			<sound>domaine.swf</sound>
+			<filename>af_05_cinema.swf</filename>
+			<type>pano</type>
+			<name_uk>Cinema</name_uk>
+			<name_nl>Cinema</name_nl>
+			<name_benl>Cinema</name_benl>
+			<name_befr>Cinéma</name_befr>
+			<name_fr>Cinéma</name_fr>
+			<name_de>Kino</name_de>
+			<edito_uk><![CDATA[<p><titre>ACTION FACTORY</titre><br/>The Action Factory is a hive of sports, games and entertainment activity.<br/><br/>Younger guests can come here every day for new activities. From Bingo and Lego corner to films and the children's disco. For adults there's climbing, abseiling, bowling and much more !<br/><br/>And in the evenings, this is the place to enjoy music, live entertainment or a swinging Salsa evening.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In de Action Factory is er regelmataig entertainment voor jong en oud.<br/>Zoals:<br/><br/>• kidsbios<br/>• lasersquash <br/>• golf <br/>• live muziek <br/>• disco of een swingende 60's-70's-80's Party</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In de Action Factory is er regelmataig entertainment voor jong en oud.<br/>Zoals:<br/><br/>• kidsbios<br/>• lasersquash <br/>• golf <br/>• live muziek <br/>• disco of een swingende 60's-70's-80's Party</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Passez à l'Aqua Cafe avant de vous rendre à l'action factory avec:<br/><br/>• Ciné-kids <br/>• laser-squash <br/>• Escalade sur mur magnétique </p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Passez à l'Aqua Cafe avant de vous rendre à l'action factory avec:<br/><br/>• Ciné-kids <br/>• laser-squash <br/>• Escalade sur mur magnétique </p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Wetterunabhängige Action Factory mit kostenlosen Kindereinrichtungen, vielen Sportmöglichkeiten, Restaurant und abendlicher Unterhaltung.<br/><br/>• Kinderkino<br/>• Laser-Squash<br/>• Minigolf<br/>• Live-Musik<br/>• 60er-, 70er- und 80er-Party</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="actionfactory.swf">
+			<sound>domaine.swf</sound>
+			<filename>af_06_house_of_games.swf</filename>
+			<type>pano</type>
+			<name_uk>House of Games</name_uk>
+			<name_nl>House of Games</name_nl>
+			<name_benl>House of Games</name_benl>
+			<name_befr>House of Games</name_befr>
+			<name_fr>House of Games</name_fr>
+			<name_de>House of Games</name_de>
+			<edito_uk><![CDATA[<p><titre>ACTION FACTORY</titre><br/>The Action Factory is a hive of sports, games and entertainment activity.<br/><br/>Younger guests can come here every day for new activities. From Bingo and Lego corner to films and the children's disco. For adults there's climbing, abseiling, bowling and much more !<br/><br/>And in the evenings, this is the place to enjoy music, live entertainment or a swinging Salsa evening.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In de Action Factory is er regelmataig entertainment voor jong en oud.<br/>Zoals:<br/><br/>• kidsbios<br/>• lasersquash <br/>• golf <br/>• live muziek <br/>• disco of een swingende 60's-70's-80's Party</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In de Action Factory is er regelmataig entertainment voor jong en oud.<br/>Zoals:<br/><br/>• kidsbios<br/>• lasersquash <br/>• golf <br/>• live muziek <br/>• disco of een swingende 60's-70's-80's Party</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Passez à l'Aqua Cafe avant de vous rendre à l'action factory avec:<br/><br/>• Ciné-kids <br/>• laser-squash <br/>• Escalade sur mur magnétique </p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Passez à l'Aqua Cafe avant de vous rendre à l'action factory avec:<br/><br/>• Ciné-kids <br/>• laser-squash <br/>• Escalade sur mur magnétique </p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Wetterunabhängige Action Factory mit kostenlosen Kindereinrichtungen, vielen Sportmöglichkeiten, Restaurant und abendlicher Unterhaltung.<br/><br/>• Kinderkino<br/>• Laser-Squash<br/>• Minigolf<br/>• Live-Musik<br/>• 60er-, 70er- und 80er-Party</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="actionfactory.swf">
+			<sound>domaine.swf</sound>
+			<filename>af_07_kids_club.swf</filename>
+			<type>pano</type>
+			<name_uk>Kids Club</name_uk>
+			<name_nl>Kids Klub</name_nl>
+			<name_benl>Kids Klub</name_benl>
+			<name_befr>Kids Klub</name_befr>
+			<name_fr>Kids Club</name_fr>
+			<name_de>Kids Klub</name_de>
+			<edito_uk><![CDATA[<p><titre>ACTION FACTORY</titre><br/>The Action Factory is a hive of sports, games and entertainment activity.<br/><br/>Younger guests can come here every day for new activities. From Bingo and Lego corner to films and the children's disco. For adults there's climbing, abseiling, bowling and much more !<br/><br/>And in the evenings, this is the place to enjoy music, live entertainment or a swinging Salsa evening.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In de Action Factory is er regelmataig entertainment voor jong en oud.<br/>Zoals:<br/><br/>• kidsbios<br/>• lasersquash <br/>• golf <br/>• live muziek <br/>• disco of een swingende 60's-70's-80's Party</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In de Action Factory is er regelmataig entertainment voor jong en oud.<br/>Zoals:<br/><br/>• kidsbios<br/>• lasersquash <br/>• golf <br/>• live muziek <br/>• disco of een swingende 60's-70's-80's Party</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Passez à l'Aqua Cafe avant de vous rendre à l'action factory avec:<br/><br/>• Ciné-kids <br/>• laser-squash <br/>• Escalade sur mur magnétique </p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Passez à l'Aqua Cafe avant de vous rendre à l'action factory avec:<br/><br/>• Ciné-kids <br/>• laser-squash <br/>• Escalade sur mur magnétique </p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Wetterunabhängige Action Factory mit kostenlosen Kindereinrichtungen, vielen Sportmöglichkeiten, Restaurant und abendlicher Unterhaltung.<br/><br/>• Kinderkino<br/>• Laser-Squash<br/>• Minigolf<br/>• Live-Musik<br/>• 60er-, 70er- und 80er-Party</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="actionfactory.swf">
+			<sound>domaine.swf</sound>
+			<filename>af_08_mistery_mission_1.swf</filename>
+			<type>pano</type>
+			<name_uk>Mystery mission 1</name_uk>
+			<name_nl>Mystery Mission 1</name_nl>
+			<name_benl>Mystery Mission 1</name_benl>
+			<name_befr>Mission Mystère 1</name_befr>
+			<name_fr>Mission Mystère 1</name_fr>
+			<name_de>Mystery Mission</name_de>
+			<edito_uk><![CDATA[<p><titre>ACTION FACTORY</titre><br/>The Action Factory is a hive of sports, games and entertainment activity.<br/><br/>Younger guests can come here every day for new activities. From Bingo and Lego corner to films and the children's disco. For adults there's climbing, abseiling, bowling and much more !<br/><br/>And in the evenings, this is the place to enjoy music, live entertainment or a swinging Salsa evening.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In de Action Factory is er regelmataig entertainment voor jong en oud.<br/>Zoals:<br/><br/>• kidsbios<br/>• lasersquash <br/>• golf <br/>• live muziek <br/>• disco of een swingende 60's-70's-80's Party</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In de Action Factory is er regelmataig entertainment voor jong en oud.<br/>Zoals:<br/><br/>• kidsbios<br/>• lasersquash <br/>• golf <br/>• live muziek <br/>• disco of een swingende 60's-70's-80's Party</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Passez à l'Aqua Cafe avant de vous rendre à l'action factory avec:<br/><br/>• Ciné-kids <br/>• laser-squash <br/>• Escalade sur mur magnétique </p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Passez à l'Aqua Cafe avant de vous rendre à l'action factory avec:<br/><br/>• Ciné-kids <br/>• laser-squash <br/>• Escalade sur mur magnétique </p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Wetterunabhängige Action Factory mit kostenlosen Kindereinrichtungen, vielen Sportmöglichkeiten, Restaurant und abendlicher Unterhaltung.<br/><br/>• Kinderkino<br/>• Laser-Squash<br/>• Minigolf<br/>• Live-Musik<br/>• 60er-, 70er- und 80er-Party</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="actionfactory.swf">
+			<sound>domaine.swf</sound>
+			<filename>af_09_mistery_mission_2.swf</filename>
+			<type>pano</type>
+			<name_uk>Mystery mission 2</name_uk>
+			<name_nl>Mystery Mission 2</name_nl>
+			<name_benl>Mystery Mission 2</name_benl>
+			<name_befr>Mission Mystère 2</name_befr>
+			<name_fr>Mission Mystère 2</name_fr>
+			<name_de>Mystery Mission</name_de>
+			<edito_uk><![CDATA[<p><titre>ACTION FACTORY</titre><br/>The Action Factory is a hive of sports, games and entertainment activity.<br/><br/>Younger guests can come here every day for new activities. From Bingo and Lego corner to films and the children's disco. For adults there's climbing, abseiling, bowling and much more !<br/><br/>And in the evenings, this is the place to enjoy music, live entertainment or a swinging Salsa evening.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In de Action Factory is er regelmataig entertainment voor jong en oud.<br/>Zoals:<br/><br/>• kidsbios<br/>• lasersquash <br/>• golf <br/>• live muziek <br/>• disco of een swingende 60's-70's-80's Party</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In de Action Factory is er regelmataig entertainment voor jong en oud.<br/>Zoals:<br/><br/>• kidsbios<br/>• lasersquash <br/>• golf <br/>• live muziek <br/>• disco of een swingende 60's-70's-80's Party</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Passez à l'Aqua Cafe avant de vous rendre à l'action factory avec:<br/><br/>• Ciné-kids <br/>• laser-squash <br/>• Escalade sur mur magnétique </p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Passez à l'Aqua Cafe avant de vous rendre à l'action factory avec:<br/><br/>• Ciné-kids <br/>• laser-squash <br/>• Escalade sur mur magnétique </p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Wetterunabhängige Action Factory mit kostenlosen Kindereinrichtungen, vielen Sportmöglichkeiten, Restaurant und abendlicher Unterhaltung.<br/><br/>• Kinderkino<br/>• Laser-Squash<br/>• Minigolf<br/>• Live-Musik<br/>• 60er-, 70er- und 80er-Party</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="actionfactory.swf">
+			<sound>domaine.swf</sound>
+			<filename>af_10_mistery_mission_3.swf</filename>
+			<type>pano</type>
+			<name_uk>Mystery mission 3</name_uk>
+			<name_nl>Mystery Mission 3</name_nl>
+			<name_benl>Mystery Mission 3</name_benl>
+			<name_befr>Mission Mystère 3</name_befr>
+			<name_fr>Mission Mystère 3</name_fr>
+			<name_de>Mystery Mission</name_de>
+			<edito_uk><![CDATA[<p><titre>ACTION FACTORY</titre><br/>The Action Factory is a hive of sports, games and entertainment activity.<br/><br/>Younger guests can come here every day for new activities. From Bingo and Lego corner to films and the children's disco. For adults there's climbing, abseiling, bowling and much more !<br/><br/>And in the evenings, this is the place to enjoy music, live entertainment or a swinging Salsa evening.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In de Action Factory is er regelmataig entertainment voor jong en oud.<br/>Zoals:<br/><br/>• kidsbios<br/>• lasersquash <br/>• golf <br/>• live muziek <br/>• disco of een swingende 60's-70's-80's Party</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In de Action Factory is er regelmataig entertainment voor jong en oud.<br/>Zoals:<br/><br/>• kidsbios<br/>• lasersquash <br/>• golf <br/>• live muziek <br/>• disco of een swingende 60's-70's-80's Party</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Passez à l'Aqua Cafe avant de vous rendre à l'action factory avec:<br/><br/>• Ciné-kids <br/>• laser-squash <br/>• Escalade sur mur magnétique </p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Passez à l'Aqua Cafe avant de vous rendre à l'action factory avec:<br/><br/>• Ciné-kids <br/>• laser-squash <br/>• Escalade sur mur magnétique </p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Wetterunabhängige Action Factory mit kostenlosen Kindereinrichtungen, vielen Sportmöglichkeiten, Restaurant und abendlicher Unterhaltung.<br/><br/>• Kinderkino<br/>• Laser-Squash<br/>• Minigolf<br/>• Live-Musik<br/>• 60er-, 70er- und 80er-Party</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="actionfactory.swf">
+			<sound>domaine.swf</sound>
+			<filename>af_11_mistery_mission_4.swf</filename>
+			<type>pano</type>
+			<name_uk>Mystery mission 4</name_uk>
+			<name_nl>Mystery Mission 4</name_nl>
+			<name_benl>Mystery Mission 4</name_benl>
+			<name_befr>Mission Mystère 4</name_befr>
+			<name_fr>Mission Mystère 4</name_fr>
+			<name_de>Mystery Mission</name_de>
+			<edito_uk><![CDATA[<p><titre>ACTION FACTORY</titre><br/>The Action Factory is a hive of sports, games and entertainment activity.<br/><br/>Younger guests can come here every day for new activities. From Bingo and Lego corner to films and the children's disco. For adults there's climbing, abseiling, bowling and much more !<br/><br/>And in the evenings, this is the place to enjoy music, live entertainment or a swinging Salsa evening.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In de Action Factory is er regelmataig entertainment voor jong en oud.<br/>Zoals:<br/><br/>• kidsbios<br/>• lasersquash <br/>• golf <br/>• live muziek <br/>• disco of een swingende 60's-70's-80's Party</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In de Action Factory is er regelmataig entertainment voor jong en oud.<br/>Zoals:<br/><br/>• kidsbios<br/>• lasersquash <br/>• golf <br/>• live muziek <br/>• disco of een swingende 60's-70's-80's Party</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Passez à l'Aqua Cafe avant de vous rendre à l'action factory avec:<br/><br/>• Ciné-kids <br/>• laser-squash <br/>• Escalade sur mur magnétique </p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Passez à l'Aqua Cafe avant de vous rendre à l'action factory avec:<br/><br/>• Ciné-kids <br/>• laser-squash <br/>• Escalade sur mur magnétique </p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Wetterunabhängige Action Factory mit kostenlosen Kindereinrichtungen, vielen Sportmöglichkeiten, Restaurant und abendlicher Unterhaltung.<br/><br/>• Kinderkino<br/>• Laser-Squash<br/>• Minigolf<br/>• Live-Musik<br/>• 60er-, 70er- und 80er-Party</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="actionfactory.swf">
+			<sound>domaine.swf</sound>
+			<filename>af_12_outside_action_factory.swf</filename>
+			<type>pano</type>
+			<name_uk>Outside Action Factory</name_uk>
+			<name_nl>Exterieur Action Factory</name_nl>
+			<name_benl>Exterieur Action Factory</name_benl>
+			<name_befr>Action Factory extérieur</name_befr>
+			<name_fr>Action Factory extérieur</name_fr>
+			<name_de>Außenbereich</name_de>
+			<edito_uk><![CDATA[<p><titre>ACTION FACTORY</titre><br/>The Action Factory is a hive of sports, games and entertainment activity.<br/><br/>Younger guests can come here every day for new activities. From Bingo and Lego corner to films and the children's disco. For adults there's climbing, abseiling, bowling and much more !<br/><br/>And in the evenings, this is the place to enjoy music, live entertainment or a swinging Salsa evening.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In de Action Factory is er regelmataig entertainment voor jong en oud.<br/>Zoals:<br/><br/>• kidsbios<br/>• lasersquash <br/>• golf <br/>• live muziek <br/>• disco of een swingende 60's-70's-80's Party</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In de Action Factory is er regelmataig entertainment voor jong en oud.<br/>Zoals:<br/><br/>• kidsbios<br/>• lasersquash <br/>• golf <br/>• live muziek <br/>• disco of een swingende 60's-70's-80's Party</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Passez à l'Aqua Cafe avant de vous rendre à l'action factory avec:<br/><br/>• Ciné-kids <br/>• laser-squash <br/>• Escalade sur mur magnétique </p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Passez à l'Aqua Cafe avant de vous rendre à l'action factory avec:<br/><br/>• Ciné-kids <br/>• laser-squash <br/>• Escalade sur mur magnétique </p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Wetterunabhängige Action Factory mit kostenlosen Kindereinrichtungen, vielen Sportmöglichkeiten, Restaurant und abendlicher Unterhaltung.<br/><br/>• Kinderkino<br/>• Laser-Squash<br/>• Minigolf<br/>• Live-Musik<br/>• 60er-, 70er- und 80er-Party</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="actionfactory.swf">
+			<sound>domaine.swf</sound>
+			<filename>af_13_action_factory_cafe.swf</filename>
+			<type>pano</type>
+			<name_uk>Action Factory café</name_uk>
+			<name_nl>Café Action Factory</name_nl>
+			<name_benl>Café Action Factory</name_benl>
+			<name_befr>Café Action Factory</name_befr>
+			<name_fr>Café Action Factory</name_fr>
+			<name_de>Factory Café</name_de>
+			<edito_uk><![CDATA[<p><titre>ACTION FACTORY</titre><br/>The Action Factory is a hive of sports, games and entertainment activity.<br/><br/>Younger guests can come here every day for new activities. From Bingo and Lego corner to films and the children's disco. For adults there's climbing, abseiling, bowling and much more !<br/><br/>And in the evenings, this is the place to enjoy music, live entertainment or a swinging Salsa evening.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In de Action Factory is er regelmataig entertainment voor jong en oud.<br/>Zoals:<br/><br/>• kidsbios<br/>• lasersquash <br/>• golf <br/>• live muziek <br/>• disco of een swingende 60's-70's-80's Party</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In de Action Factory is er regelmataig entertainment voor jong en oud.<br/>Zoals:<br/><br/>• kidsbios<br/>• lasersquash <br/>• golf <br/>• live muziek <br/>• disco of een swingende 60's-70's-80's Party</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Passez à l'Aqua Cafe avant de vous rendre à l'action factory avec:<br/><br/>• Ciné-kids <br/>• laser-squash <br/>• Escalade sur mur magnétique </p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Passez à l'Aqua Cafe avant de vous rendre à l'action factory avec:<br/><br/>• Ciné-kids <br/>• laser-squash <br/>• Escalade sur mur magnétique </p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Wetterunabhängige Action Factory mit kostenlosen Kindereinrichtungen, vielen Sportmöglichkeiten, Restaurant und abendlicher Unterhaltung.<br/><br/>• Kinderkino<br/>• Laser-Squash<br/>• Minigolf<br/>• Live-Musik<br/>• 60er-, 70er- und 80er-Party</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>500</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="actionfactory.swf">
+			<sound>domaine.swf</sound>
+			<filename>af_14_central_view.swf</filename>
+			<type>pano</type>
+			<name_uk>Central view</name_uk>
+			<name_nl>Overzicht Action Factory</name_nl>
+			<name_benl>Overzicht Action Factory</name_benl>
+			<name_befr>Vue centrale</name_befr>
+			<name_fr>Vue centrale</name_fr>
+			<name_de>Rundumblick</name_de>
+			<edito_uk><![CDATA[<p><titre>ACTION FACTORY</titre><br/>The Action Factory is a hive of sports, games and entertainment activity.<br/><br/>Younger guests can come here every day for new activities. From Bingo and Lego corner to films and the children's disco. For adults there's climbing, abseiling, bowling and much more !<br/><br/>And in the evenings, this is the place to enjoy music, live entertainment or a swinging Salsa evening.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In de Action Factory is er regelmataig entertainment voor jong en oud.<br/>Zoals:<br/><br/>• kidsbios<br/>• lasersquash <br/>• golf <br/>• live muziek <br/>• disco of een swingende 60's-70's-80's Party</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>In de Action Factory is er regelmataig entertainment voor jong en oud.<br/>Zoals:<br/><br/>• kidsbios<br/>• lasersquash <br/>• golf <br/>• live muziek <br/>• disco of een swingende 60's-70's-80's Party</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Passez à l'Aqua Cafe avant de vous rendre à l'action factory avec:<br/><br/>• Ciné-kids <br/>• laser-squash <br/>• Escalade sur mur magnétique </p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Passez à l'Aqua Cafe avant de vous rendre à l'action factory avec:<br/><br/>• Ciné-kids <br/>• laser-squash <br/>• Escalade sur mur magnétique </p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>ACTION FACTORY</titre><br/>Wetterunabhängige Action Factory mit kostenlosen Kindereinrichtungen, vielen Sportmöglichkeiten, Restaurant und abendlicher Unterhaltung.<br/><br/>• Kinderkino<br/>• Laser-Squash<br/>• Minigolf<br/>• Live-Musik<br/>• 60er-, 70er- und 80er-Party</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+
+		<pano map="2d" plan="actionfactory.swf">
+			<sound></sound>
+			<filename>sequence_events_factory.swf</filename>
+			<type>video</type>
+			<name_uk>Events in Factory video</name_uk>
+			<name_nl>Factory evenementen video</name_nl>
+			<name_benl>Factory evenementen video</name_benl>
+			<name_befr>Vidéo événements dans le Factory</name_befr>
+			<name_fr>Vidéo événements dans le Factory</name_fr>
+			<name_de>Video Factory</name_de>
+			<edito_uk><![CDATA[<p><titre>ACTION FACTORY</titre><br/>The Action Factory is a hive of sports, games and entertainment activity.<br/><br/>Younger guests can come here every day for new activities. From Bingo and Lego corner to films and the children's disco. For adults there's climbing, abseiling, bowling and much more !<br/><br/>And in the evenings, this is the place to enjoy music, live entertainment or a swinging Salsa evening.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>De Action Factory bruist van sport, spel en entertainment.<br/><br/>De kleintjes kunnen hier elke dag terecht voor nieuwe, gratis activiteiten. Van bingo en legohoek tot films en de kinderdisco.<br/><br/>Voor volwassenen is er klimmen, abseilen, bowlen en nog veel meer ! En 's avonds is dit dé plek om te genieten van muziek, live entertainment of een swingende salsa-avond.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>ACTION FACTORY</titre><br/>De Action Factory bruist van sport, spel en entertainment.<br/><br/>De kleintjes kunnen hier elke dag terecht voor nieuwe, gratis activiteiten. Van bingo en legohoek tot films en de kinderdisco.<br/><br/>Voor volwassenen is er klimmen, abseilen, bowlen en nog veel meer ! En 's avonds is dit dé plek om te genieten van muziek, live entertainment of een swingende salsa-avond.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>L'Action Factory bouillonne de sport, jeu et de musique.<br/><br/>Ici chaque jour les enfants ont rendez-vous pour des activités nouveaux et gratuits.<br/><br/>Du bingo et coin lego jusqu'aux films et disco d'enfants, pour les adultes il y a escalade, descente, bowling et beaucoup plus...<br/><br/>En soirée c'est ici qu'on doit être pour jouir de la musique live...</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>ACTION FACTORY</titre><br/>L'Action Factory bouillonne de sport, jeu et de musique.<br/><br/>Ici chaque jour les enfants ont rendez-vous pour des activités nouveaux et gratuits.<br/><br/>Du bingo et coin lego jusqu'aux films et disco d'enfants, pour les adultes il y a escalade, descente, bowling et beaucoup plus...<br/><br/>En soirée c'est ici qu'on doit être pour jouir de la musique live...</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AVENTURE FACTORY</titre><br/>Die Action Factory lebt von Sport, Spiel und Entertainment. Mit z.B. Legoecke, Kinderdisco und Kino für die Kleinen und Klettern und Abseilen, Bowling und vielem mehr für die Großen.<br/><br/>Und am Abend trifft man sich hier, um das Live-Entertainment, die Musik oder einen Salsa-Abend zu genießen.<br/><br/>Auf jeden Fall ist hier für jeden Geschmack etwas dabei.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+//businesscenter
+		<pano map="2d" plan="businesscenter.swf">
+			<sound>domaine.swf</sound>
+			<filename>bc_01_business_entrance.swf</filename>
+			<type>pano</type>
+			<name_uk>Business entrance</name_uk>
+			<name_nl>Ingang Business Center</name_nl>
+			<name_benl>Ingang Business Center</name_benl>
+			<name_befr>Entrée business</name_befr>
+			<name_fr>Entrée business</name_fr>
+			<name_de>Eingang Business Center</name_de>
+			<edito_uk><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In our Business Centers you can keep meetings, brainstorming sessions and presentations undisturbed and in a quiet atmosphere.<br/><br/>All meeting rooms contain the latest technical innovations and can accommodate even the largest conferences.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In onze Business Centers kunt u in alle rust vergaderen, brainstormen en presentaties houden.<br/><br/>De vele zalen zijn voorzien van de nieuwste technische snufjes en wanneer de zalen geschakeld worden kunnen zij plaats bieden aan grote gezelschapen.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In onze Business Centers kunt u in alle rust vergaderen, brainstormen en presentaties houden.<br/><br/>De vele zalen zijn voorzien van de nieuwste technische snufjes en wanneer de zalen geschakeld worden kunnen zij plaats bieden aan grote gezelschapen.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>Dans nos Business Centers, vous pouvez vous réunir, faire du brainstorming et organiser des présentations en toute tranquillité.<br/><br/>Les nombreuses salles sont équipées des dernières technologies de pointe et lorsque les salles sont reliées entre elles, elle peuvent offrir de la place à des groupes importants.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>Dans nos Business Centers, vous pouvez vous réunir, faire du brainstorming et organiser des présentations en toute tranquillité.<br/><br/>Les nombreuses salles sont équipées des dernières technologies de pointe et lorsque les salles sont reliées entre elles, elle peuvent offrir de la place à des groupes importants.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In unseren Business Centern können Sie in aller Ruhe Ihre Versammlungen, Brainstorming und Präsentationen abhalten.<br/>Die variablen Räume sind mit den neuesten technischen Highlights ausgestattet und bieten Ihnen alles, was Sie zu einer professionellen Veranstaltung benötigen.<br/>Wir inszenieren Ihr (individuelles) Event von 5 bis zu 3.000 Personen.<br/>Fordern Sie uns!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="businesscenter.swf">
+			<sound>domaine.swf</sound>
+			<filename>bc_02_business_hall.swf</filename>
+			<type>pano</type>
+			<name_uk>Business hall</name_uk>
+			<name_nl>Hal Business Center</name_nl>
+			<name_benl>Hal Business Center</name_benl>
+			<name_befr>Business hall</name_befr>
+			<name_fr>Business hall</name_fr>
+			<name_de>Foyer</name_de>
+			<edito_uk><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In our Business Centers you can keep meetings, brainstorming sessions and presentations undisturbed and in a quiet atmosphere.<br/><br/>All meeting rooms contain the latest technical innovations and can accommodate even the largest conferences.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In onze Business Centers kunt u in alle rust vergaderen, brainstormen en presentaties houden.<br/><br/>De vele zalen zijn voorzien van de nieuwste technische snufjes en wanneer de zalen geschakeld worden kunnen zij plaats bieden aan grote gezelschapen.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In onze Business Centers kunt u in alle rust vergaderen, brainstormen en presentaties houden.<br/><br/>De vele zalen zijn voorzien van de nieuwste technische snufjes en wanneer de zalen geschakeld worden kunnen zij plaats bieden aan grote gezelschapen.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>Dans nos Business Centers, vous pouvez vous réunir, faire du brainstorming et organiser des présentations en toute tranquillité.<br/><br/>Les nombreuses salles sont équipées des dernières technologies de pointe et lorsque les salles sont reliées entre elles, elle peuvent offrir de la place à des groupes importants.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>Dans nos Business Centers, vous pouvez vous réunir, faire du brainstorming et organiser des présentations en toute tranquillité.<br/><br/>Les nombreuses salles sont équipées des dernières technologies de pointe et lorsque les salles sont reliées entre elles, elle peuvent offrir de la place à des groupes importants.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In unseren Business Centern können Sie in aller Ruhe Ihre Versammlungen, Brainstorming und Präsentationen abhalten.<br/>Die variablen Räume sind mit den neuesten technischen Highlights ausgestattet und bieten Ihnen alles, was Sie zu einer professionellen Veranstaltung benötigen.<br/>Wir inszenieren Ihr (individuelles) Event von 5 bis zu 3.000 Personen.<br/>Fordern Sie uns!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="businesscenter.swf">
+			<sound>domaine.swf</sound>
+			<filename>bc_03_business_large_meeting_room.swf</filename>
+			<type>pano</type>
+			<name_uk>Business large meeting room</name_uk>
+			<name_nl>Grote vergaderruimte Business Center</name_nl>
+			<name_benl>Grote vergaderruimte Business Center</name_benl>
+			<name_befr>Grande salle de réunion</name_befr>
+			<name_fr>Grande salle de réunion</name_fr>
+			<name_de>Tagungsraum</name_de>
+			<edito_uk><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In our Business Centers you can keep meetings, brainstorming sessions and presentations undisturbed and in a quiet atmosphere.<br/><br/>All meeting rooms contain the latest technical innovations and can accommodate even the largest conferences.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In onze Business Centers kunt u in alle rust vergaderen, brainstormen en presentaties houden.<br/><br/>De vele zalen zijn voorzien van de nieuwste technische snufjes en wanneer de zalen geschakeld worden kunnen zij plaats bieden aan grote gezelschapen.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In onze Business Centers kunt u in alle rust vergaderen, brainstormen en presentaties houden.<br/><br/>De vele zalen zijn voorzien van de nieuwste technische snufjes en wanneer de zalen geschakeld worden kunnen zij plaats bieden aan grote gezelschapen.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>Dans nos Business Centers, vous pouvez vous réunir, faire du brainstorming et organiser des présentations en toute tranquillité.<br/><br/>Les nombreuses salles sont équipées des dernières technologies de pointe et lorsque les salles sont reliées entre elles, elle peuvent offrir de la place à des groupes importants.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>Dans nos Business Centers, vous pouvez vous réunir, faire du brainstorming et organiser des présentations en toute tranquillité.<br/><br/>Les nombreuses salles sont équipées des dernières technologies de pointe et lorsque les salles sont reliées entre elles, elle peuvent offrir de la place à des groupes importants.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In unseren Business Centern können Sie in aller Ruhe Ihre Versammlungen, Brainstorming und Präsentationen abhalten.<br/>Die variablen Räume sind mit den neuesten technischen Highlights ausgestattet und bieten Ihnen alles, was Sie zu einer professionellen Veranstaltung benötigen.<br/>Wir inszenieren Ihr (individuelles) Event von 5 bis zu 3.000 Personen.<br/>Fordern Sie uns!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="businesscenter.swf">
+			<sound>domaine.swf</sound>
+			<filename>bc_04_business_lounge.swf</filename>
+			<type>pano</type>
+			<name_uk>Business lounge</name_uk>
+			<name_nl>Lounge Business Center</name_nl>
+			<name_benl>Lounge Business Center</name_benl>
+			<name_befr>Business lounge</name_befr>
+			<name_fr>Business lounge</name_fr>
+			<name_de>Business Lounge</name_de>
+			<edito_uk><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In our Business Centers you can keep meetings, brainstorming sessions and presentations undisturbed and in a quiet atmosphere.<br/><br/>All meeting rooms contain the latest technical innovations and can accommodate even the largest conferences.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In onze Business Centers kunt u in alle rust vergaderen, brainstormen en presentaties houden.<br/><br/>De vele zalen zijn voorzien van de nieuwste technische snufjes en wanneer de zalen geschakeld worden kunnen zij plaats bieden aan grote gezelschapen.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In onze Business Centers kunt u in alle rust vergaderen, brainstormen en presentaties houden.<br/><br/>De vele zalen zijn voorzien van de nieuwste technische snufjes en wanneer de zalen geschakeld worden kunnen zij plaats bieden aan grote gezelschapen.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>Dans nos Business Centers, vous pouvez vous réunir, faire du brainstorming et organiser des présentations en toute tranquillité.<br/><br/>Les nombreuses salles sont équipées des dernières technologies de pointe et lorsque les salles sont reliées entre elles, elle peuvent offrir de la place à des groupes importants.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>Dans nos Business Centers, vous pouvez vous réunir, faire du brainstorming et organiser des présentations en toute tranquillité.<br/><br/>Les nombreuses salles sont équipées des dernières technologies de pointe et lorsque les salles sont reliées entre elles, elle peuvent offrir de la place à des groupes importants.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In unseren Business Centern können Sie in aller Ruhe Ihre Versammlungen, Brainstorming und Präsentationen abhalten.<br/>Die variablen Räume sind mit den neuesten technischen Highlights ausgestattet und bieten Ihnen alles, was Sie zu einer professionellen Veranstaltung benötigen.<br/>Wir inszenieren Ihr (individuelles) Event von 5 bis zu 3.000 Personen.<br/>Fordern Sie uns!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="businesscenter.swf">
+			<sound>domaine.swf</sound>
+			<filename>bc_05_business_small_meeting_room.swf</filename>
+			<type>pano</type>
+			<name_uk>Business small meeting room</name_uk>
+			<name_nl>Kleine vergaderruimte Business Center</name_nl>
+			<name_benl>Kleine vergaderruimte Business Center</name_benl>
+			<name_befr>Petite salle de réunion</name_befr>
+			<name_fr>Petite salle de réunion</name_fr>
+			<name_de>Tagungsraum</name_de>
+			<edito_uk><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In our Business Centers you can keep meetings, brainstorming sessions and presentations undisturbed and in a quiet atmosphere.<br/><br/>All meeting rooms contain the latest technical innovations and can accommodate even the largest conferences.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In onze Business Centers kunt u in alle rust vergaderen, brainstormen en presentaties houden.<br/><br/>De vele zalen zijn voorzien van de nieuwste technische snufjes en wanneer de zalen geschakeld worden kunnen zij plaats bieden aan grote gezelschapen.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In onze Business Centers kunt u in alle rust vergaderen, brainstormen en presentaties houden.<br/><br/>De vele zalen zijn voorzien van de nieuwste technische snufjes en wanneer de zalen geschakeld worden kunnen zij plaats bieden aan grote gezelschapen.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>Dans nos Business Centers, vous pouvez vous réunir, faire du brainstorming et organiser des présentations en toute tranquillité.<br/><br/>Les nombreuses salles sont équipées des dernières technologies de pointe et lorsque les salles sont reliées entre elles, elle peuvent offrir de la place à des groupes importants.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>Dans nos Business Centers, vous pouvez vous réunir, faire du brainstorming et organiser des présentations en toute tranquillité.<br/><br/>Les nombreuses salles sont équipées des dernières technologies de pointe et lorsque les salles sont reliées entre elles, elle peuvent offrir de la place à des groupes importants.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In unseren Business Centern können Sie in aller Ruhe Ihre Versammlungen, Brainstorming und Präsentationen abhalten.<br/>Die variablen Räume sind mit den neuesten technischen Highlights ausgestattet und bieten Ihnen alles, was Sie zu einer professionellen Veranstaltung benötigen.<br/>Wir inszenieren Ihr (individuelles) Event von 5 bis zu 3.000 Personen.<br/>Fordern Sie uns!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+	</panos>
+</visite>

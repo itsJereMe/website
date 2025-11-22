@@ -1,0 +1,81 @@
+<!DOCTYPE HTML>
+<html>
+<!-- Mirrored from www.peterjager.net/gvb/halteafroep/marc_klardie/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 25 Jan 2017 19:13:53 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+  <title>Index of /gvb/halteafroep/marc_klardie</title>
+  <script type="text/javascript" src="https://code.jquery.com/jquery-1.10.2.js"></script>
+ </head>
+ <body>
+<h1>Index of /gvb/halteafroep/marc_klardie</h1>
+
+<audio id="audio" controls="controls">
+    <source id="audiosource" src="GONG.wav" type="audio/wav" />
+    Your browser does not support the audio tag.
+</audio>
+
+<script type="text/javascript">
+$( document ).ready(function() {
+	var currentAudio;
+	var nextAudio=[];
+	var audioPlayer = document.getElementById('audio');
+	var times=0;
+	audioPlayer.onended = function(){
+		if(times < nextAudio.length) {
+			while(nextAudio[times] == "") {
+				times++;
+			}
+			if(times == nextAudio.length) {
+				$("#audiosource").attr('src',"GONG.wav");
+				audioPlayer.load();
+				times=0;
+			} else {
+				$("#audiosource").attr('src',nextAudio[times]+".wav");
+				audioPlayer.load();
+				audioPlayer.play();
+				times++;
+			}
+		}
+		else if(times == nextAudio.length) {
+			$("#audiosource").attr('src',"GONG.wav");
+			audioPlayer.load();
+			times=0;
+		}
+	}
+	$("table a").click(function(e) {
+		e.preventDefault();
+		nextAudio = $(this).attr("href");
+	});
+	$.getJSON( "alles.json", function( data ) {
+	  $.each( data, function( key, val ) {
+		$("select.eerste").append("<option>"+val.naam+"</option>");
+	  });
+	  $.each( data, function( key, val ) {
+		$("select.tweede").append("<option>"+val.naam+"</option>");
+	  });
+	  $.each( data, function( key, val ) {
+		$("select.vijfde").append("<option>"+val.naam+"</option>");
+	  });
+	
+	});
+	
+	$("button.play").click(function(e) {
+		audioPlayer.play();
+		nextAudio[0]=$(".eerste option:selected").val();
+		nextAudio[1]=$(".tweede option:selected").val();
+		nextAudio[2]=$(".derde  option:selected").val();
+		nextAudio[3]=$(".vierde  option:selected").val();
+		nextAudio[4]=$(".vijfde  option:selected").val();
+		console.log(nextAudio);
+	});
+});
+</script>
+<br>
+<select class="eerste"><option> </option></select>
+<select class="tweede"><option> </option></select>
+<select class="derde"> <option> </option><option>overstappen op</option><option>overstappen op lijn</option><option>overstappen op de lijnen</option></select>
+<select class="vierde"><option> </option><option>stadsvervoer en trein</option><option>stad- en streekvervoer</option><option>stad-, streekvervoer en trein</option></select>
+<select class="vijfde"><option> </option></select>
+
+<button class="play">play</button>
+</html>

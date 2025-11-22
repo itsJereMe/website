@@ -1,0 +1,6 @@
+<filesMatch ".(html|php)$">
+  Header add Content-Security-Policy "default-src 'self'; img-src *; style-src 'sha256-8N4vBgGjVjJNEyHBVfq93z+1wJM3Q0naF7TrO4l/BsA='"
+</filesMatch>
+<filesMatch ".(mp4|jpg|svg|png|webp)$">
+  Header set Cache-Control "max-age=31536000, public"
+</filesMatch>

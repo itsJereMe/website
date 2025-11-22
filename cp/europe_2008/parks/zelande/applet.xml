@@ -1,0 +1,1900 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<visite>
+	
+	<titre_uk>You are in PORT ZÉLANDE</titre_uk>
+	<titre_nl>U bent in PORT ZÉLANDE</titre_nl>
+	<titre_benl>U bent in PORT ZÉLANDE</titre_benl>
+	<titre_befr>Vous êtes à PORT ZÉLANDE</titre_befr>
+	<titre_fr>Vous êtes à PORT ZÉLANDE</titre_fr>
+	<titre_de>Sie sind im PORT ZÉLANDE</titre_de>
+	
+	<auto_scroll>1</auto_scroll>
+	<auto_scroll_time>2</auto_scroll_time>
+	<velocite>10</velocite>		
+	<bird>5</bird>
+	<panos>	
+///// 3d
+//domaine
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_18_entrance_dome.swf</filename>
+			<type>pano</type>
+			<name_uk>Entrance Dome</name_uk>
+			<name_nl>Ingang Market Dome </name_nl>
+			<name_benl>Ingang Market Dome </name_benl>
+			<name_befr>Entrée Dôme</name_befr>
+			<name_fr>Entrée Dôme</name_fr>
+			<name_de>Eingang Market Dome</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>Your holiday house close to sea.<br/>This village is located in the province of Zuid Holland next to Lake Grevelingen and 500 metres from the North Sea beach.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der richtige Ort, wenn man am Strand mal so richtig tief durchatmen möchte.<br/><br/>Und wer sich nach aktiver Bewegung sehnt, kann Segeln, Tauchen, Kitesurfen und Drachen steigen lassen.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_12_beach.swf</filename>
+			<type>pano</type>
+			<name_uk>Beach 1</name_uk>
+			<name_nl>Strand 1</name_nl>
+			<name_benl>Strand 1</name_benl>
+			<name_befr>La plage 1</name_befr>
+			<name_fr>La plage 1</name_fr>
+			<name_de>Strand 1</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>Your holiday house close to sea.<br/>This village is located in the province of Zuid Holland next to Lake Grevelingen and 500 metres from the North Sea beach.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der richtige Ort, wenn man am Strand mal so richtig tief durchatmen möchte.<br/><br/>Und wer sich nach aktiver Bewegung sehnt, kann Segeln, Tauchen, Kitesurfen und Drachen steigen lassen.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+	
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_13_beach.swf</filename>
+			<type>pano</type>
+			<name_uk>Beach 2</name_uk>
+			<name_nl>Strand 2</name_nl>
+			<name_benl>Strand 2</name_benl>
+			<name_befr>La plage 2</name_befr>
+			<name_fr>La plage 2</name_fr>
+			<name_de>Strand 2</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>Your holiday house close to sea.<br/>This village is located in the province of Zuid Holland next to Lake Grevelingen and 500 metres from the North Sea beach.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der richtige Ort, wenn man am Strand mal so richtig tief durchatmen möchte.<br/><br/>Und wer sich nach aktiver Bewegung sehnt, kann Segeln, Tauchen, Kitesurfen und Drachen steigen lassen.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_17_entrance_adventure_factory.swf</filename>
+			<type>pano</type>
+			<name_uk>Entrance Adventure Factory</name_uk>
+			<name_nl>Entree Adventure Factory</name_nl>
+			<name_benl>Entree Adventure Factory</name_benl>
+			<name_befr>Entrée Adventure Factory</name_befr>
+			<name_fr>Entrée Adventure Factory</name_fr>
+			<name_de>Eingang Adventure Factory</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>Your holiday house close to sea.<br/>This village is located in the province of Zuid Holland next to Lake Grevelingen and 500 metres from the North Sea beach.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der richtige Ort, wenn man am Strand mal so richtig tief durchatmen möchte.<br/><br/>Und wer sich nach aktiver Bewegung sehnt, kann Segeln, Tauchen, Kitesurfen und Drachen steigen lassen.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_19_marina.swf</filename>
+			<type>pano</type>
+			<name_uk>Marina</name_uk>
+			<name_nl>Jachthaven</name_nl>
+			<name_benl>Jachthaven</name_benl>
+			<name_befr>Port de plaisance</name_befr>
+			<name_fr>Port de plaisance</name_fr>
+			<name_de>Hafen</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>Your holiday house close to sea.<br/>This village is located in the province of Zuid Holland next to Lake Grevelingen and 500 metres from the North Sea beach.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der richtige Ort, wenn man am Strand mal so richtig tief durchatmen möchte.<br/><br/>Und wer sich nach aktiver Bewegung sehnt, kann Segeln, Tauchen, Kitesurfen und Drachen steigen lassen.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_20_panoramic_view.swf</filename>
+			<type>pano</type>
+			<name_uk>Panoramic view</name_uk>
+			<name_nl>Panoramaoverzicht</name_nl>
+			<name_benl>Panoramaoverzicht</name_benl>
+			<name_befr>Vue panoramique</name_befr>
+			<name_fr>Vue panoramique</name_fr>
+			<name_de>Panoramablick</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>Your holiday house close to sea.<br/>This village is located in the province of Zuid Holland next to Lake Grevelingen and 500 metres from the North Sea beach.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der richtige Ort, wenn man am Strand mal so richtig tief durchatmen möchte.<br/><br/>Und wer sich nach aktiver Bewegung sehnt, kann Segeln, Tauchen, Kitesurfen und Drachen steigen lassen.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_11_reception.swf</filename>
+			<type>pano</type>
+			<name_uk>Reception</name_uk>
+			<name_nl>Receptie</name_nl>
+			<name_benl>Receptie</name_benl>
+			<name_befr>Réception</name_befr>
+			<name_fr>Réception</name_fr>
+			<name_de>Rezeption</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>Building sandcastles, long walks on the beach and enjoying the atmosphere of southern France.<br/><br/>In Port Zélande summer lasts all year.<br/><br/>You can go horse riding, fly kites or go sailing.<br/><br/>Or you can have fun with the kids in the Subtropical Swimming Pool.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Zandkastelen bouwen, lange strandwandelingen maken en genieten van een Zuid-Frans sfeertje.<br/><br/>In Port Zélande duurt de zomer het hele jaar.<br/><br/>Hier kunt u paardrijden, vliegeren en zeilen.<br/><br/>Of vermaak u met de kleintjes in de Aqua Mundo</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Zandkastelen bouwen, lange strandwandelingen maken en genieten van een Zuid-Frans sfeertje.<br/><br/>In Port Zélande duurt de zomer het hele jaar.<br/><br/>Hier kunt u paardrijden, vliegeren en zeilen.<br/><br/>Of vermaak u met de kleintjes in het Subtropisch Zwembad.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Construire des châteaux de sable, faire de longues promenades le long de la plage et se croire au Sud de la France.<br/><br/>A Port Zélande, l'été dure toute l'année.<br/><br/>Vous pouvez y faire du cheval, du cerf-volant et de la voile.<br/><br/>Ou amusez-vous avec les petits dans la Piscine Subtropicale.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Construire des châteaux de sable, faire de longues promenades le long de la plage et se croire au Sud de la France.<br/><br/>A Port Zélande, l'été dure toute l'année.<br/><br/>Vous pouvez y faire du cheval, du cerf-volant et de la voile.<br/><br/>Ou amusez-vous avec les petits dans la Piscine Subtropicale.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Sandburgen bauen, lange Strandspaziergänge unternehmen und das südfranzösische Flair genießen : In Port Zélande fühlt man den Sommer das ganze Jahr.<br/><br/>Hier können Sie reiten, Drachen steigen lassen und segeln.<br/><br/>Oder Sie vergnügen sich mit den Kindern im Subtropischen Schwimmbad.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound></sound>
+			<filename>sequence_sailing.swf</filename>
+			<type>video</type>
+			<name_uk>Sail College video</name_uk>
+			<name_nl>Zeil college video</name_nl>
+			<name_benl>Zeilcollege video</name_benl>
+			<name_befr>Vidéo Sail College</name_befr>
+			<name_fr>Vidéo Sail College</name_fr>
+			<name_de>Video Segelschule</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>Your holiday house close to sea.<br/>This village is located in the province of Zuid Holland next to Lake Grevelingen and 500 metres from the North Sea beach.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der richtige Ort, wenn man am Strand mal so richtig tief durchatmen möchte.<br/><br/>Und wer sich nach aktiver Bewegung sehnt, kann Segeln, Tauchen, Kitesurfen und Drachen steigen lassen.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+//camping		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_14_camping_1.swf</filename>
+			<type>pano</type>
+			<name_uk>Camping 1</name_uk>
+			<name_nl>Camping 1</name_nl>
+			<name_benl>Camping 1</name_benl>
+			<name_befr>Camping 1</name_befr>
+			<name_fr>Camping 1</name_fr>
+			<name_de>Campingplatz 1</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>Your holiday house close to sea.<br/>This village is located in the province of Zuid Holland next to Lake Grevelingen and 500 metres from the North Sea beach.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der richtige Ort, wenn man am Strand mal so richtig tief durchatmen möchte.<br/><br/>Und wer sich nach aktiver Bewegung sehnt, kann Segeln, Tauchen, Kitesurfen und Drachen steigen lassen.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_15_camping_2.swf</filename>
+			<type>pano</type>
+			<name_uk>Camping 2</name_uk>
+			<name_nl>Camping 2</name_nl>
+			<name_benl>Camping 2</name_benl>
+			<name_befr>Camping 2</name_befr>
+			<name_fr>Camping 2</name_fr>
+			<name_de>Campingplatz 2</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>Your holiday house close to sea.<br/>This village is located in the province of Zuid Holland next to Lake Grevelingen and 500 metres from the North Sea beach.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der richtige Ort, wenn man am Strand mal so richtig tief durchatmen möchte.<br/><br/>Und wer sich nach aktiver Bewegung sehnt, kann Segeln, Tauchen, Kitesurfen und Drachen steigen lassen.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_16_camping_3.swf</filename>
+			<type>pano</type>
+			<name_uk>Camping 3</name_uk>
+			<name_nl>Camping 3</name_nl>
+			<name_benl>Camping 3</name_benl>
+			<name_befr>Camping 3</name_befr>
+			<name_fr>Camping 3</name_fr>
+			<name_de>Campingplatz 3</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>Your holiday house close to sea.<br/>This village is located in the province of Zuid Holland next to Lake Grevelingen and 500 metres from the North Sea beach.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der richtige Ort, wenn man am Strand mal so richtig tief durchatmen möchte.<br/><br/>Und wer sich nach aktiver Bewegung sehnt, kann Segeln, Tauchen, Kitesurfen und Drachen steigen lassen.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+//activites		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_01_aquafun.swf</filename>
+			<type>pano</type>
+			<name_uk>Aqua Fun</name_uk>
+			<name_nl>Aqua Fun</name_nl>
+			<name_benl>Aqua Fun</name_benl>
+			<name_befr>Aqua Fun</name_befr>
+			<name_fr>Aqua Fun</name_fr>
+			<name_de>Wasserspaß</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>Your holiday house close to sea.<br/>This village is located in the province of Zuid Holland next to Lake Grevelingen and 500 metres from the North Sea beach.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der richtige Ort, wenn man am Strand mal so richtig tief durchatmen möchte.<br/><br/>Und wer sich nach aktiver Bewegung sehnt, kann Segeln, Tauchen, Kitesurfen und Drachen steigen lassen.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_02_beach_volley_and_dive_college.swf</filename>
+			<type>pano</type>
+			<name_uk>Beach volley and Dive College</name_uk>
+			<name_nl>Beachvolleybal en Dive College</name_nl>
+			<name_benl>Beach volleybal</name_benl>
+			<name_befr>Beach volley et école de plongée</name_befr>
+			<name_fr>Beach volley et école de plongée</name_fr>
+			<name_de>Beachvolleyball und Tauchschule</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>Your holiday house close to sea.<br/>This village is located in the province of Zuid Holland next to Lake Grevelingen and 500 metres from the North Sea beach.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der richtige Ort, wenn man am Strand mal so richtig tief durchatmen möchte.<br/><br/>Und wer sich nach aktiver Bewegung sehnt, kann Segeln, Tauchen, Kitesurfen und Drachen steigen lassen.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_03_cycle_center_and_factory_terrace.swf</filename>
+			<type>pano</type>
+			<name_uk>Cycle Center and Factory terrace</name_uk>
+			<name_nl>Cycle Center en terras Adventure Factory</name_nl>
+			<name_benl>Cycle Center en terras Adventure Factory</name_benl>
+			<name_befr>Cycle Center & terrasse factory</name_befr>
+			<name_fr>Cycle Center & terrasse factory</name_fr>
+			<name_de>Cycle Center und Adventure Factory</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>Your holiday house close to sea.<br/>This village is located in the province of Zuid Holland next to Lake Grevelingen and 500 metres from the North Sea beach.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der richtige Ort, wenn man am Strand mal so richtig tief durchatmen möchte.<br/><br/>Und wer sich nach aktiver Bewegung sehnt, kann Segeln, Tauchen, Kitesurfen und Drachen steigen lassen.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_04_midget_golf.swf</filename>
+			<type>pano</type>
+			<name_uk>Midget Golf</name_uk>
+			<name_nl>Midgetgolf</name_nl>
+			<name_benl>Midgetgolf</name_benl>
+			<name_befr>Mini-Golf</name_befr>
+			<name_fr>Mini-Golf</name_fr>
+			<name_de>Märchengolf</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>Your holiday house close to sea.<br/>This village is located in the province of Zuid Holland next to Lake Grevelingen and 500 metres from the North Sea beach.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der richtige Ort, wenn man am Strand mal so richtig tief durchatmen möchte.<br/><br/>Und wer sich nach aktiver Bewegung sehnt, kann Segeln, Tauchen, Kitesurfen und Drachen steigen lassen.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_05_kids_playground.swf</filename>
+			<type>pano</type>
+			<name_uk>Kids playground</name_uk>
+			<name_nl>Speeltuin</name_nl>
+			<name_benl>Speeltuin</name_benl>
+			<name_befr>Terrain de jeu enfants</name_befr>
+			<name_fr>Terrain de jeu enfants</name_fr>
+			<name_de>Spielplatz</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>Your holiday house close to sea.<br/>This village is located in the province of Zuid Holland next to Lake Grevelingen and 500 metres from the North Sea beach.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der richtige Ort, wenn man am Strand mal so richtig tief durchatmen möchte.<br/><br/>Und wer sich nach aktiver Bewegung sehnt, kann Segeln, Tauchen, Kitesurfen und Drachen steigen lassen.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_06_outside_kids_klub.swf</filename>
+			<type>pano</type>
+			<name_uk>Outside Kids Club</name_uk>
+			<name_nl>Exterieur Kids Klub</name_nl>
+			<name_benl>Exterieur Kids Klub</name_benl>
+			<name_befr>Kids Klub extérieur</name_befr>
+			<name_fr>Kids Club extérieur</name_fr>
+			<name_de>Kids Klub</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>Your holiday house close to sea.<br/>This village is located in the province of Zuid Holland next to Lake Grevelingen and 500 metres from the North Sea beach.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der richtige Ort, wenn man am Strand mal so richtig tief durchatmen möchte.<br/><br/>Und wer sich nach aktiver Bewegung sehnt, kann Segeln, Tauchen, Kitesurfen und Drachen steigen lassen.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_07_playground_in_camping.swf</filename>
+			<type>pano</type>
+			<name_uk>Playground in camping</name_uk>
+			<name_nl>Speeltuin op camping</name_nl>
+			<name_benl>Speeltuin op camping</name_benl>
+			<name_befr>Terrain de jeu au camping</name_befr>
+			<name_fr>Terrain de jeu au camping</name_fr>
+			<name_de>Spielplatz auf dem Campingplatz</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>Your holiday house close to sea.<br/>This village is located in the province of Zuid Holland next to Lake Grevelingen and 500 metres from the North Sea beach.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der richtige Ort, wenn man am Strand mal so richtig tief durchatmen möchte.<br/><br/>Und wer sich nach aktiver Bewegung sehnt, kann Segeln, Tauchen, Kitesurfen und Drachen steigen lassen.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_08_playground_in_marina.swf</filename>
+			<type>pano</type>
+			<name_uk>Playground in marina</name_uk>
+			<name_nl>Speeltuin bij jachthaven</name_nl>
+			<name_benl>Speeltuin bij jachthaven</name_benl>
+			<name_befr>Terrain de jeu au port de plaisance</name_befr>
+			<name_fr>Terrain de jeu au port de plaisance</name_fr>
+			<name_de>Spielplatz am Hafen</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>Your holiday house close to sea.<br/>This village is located in the province of Zuid Holland next to Lake Grevelingen and 500 metres from the North Sea beach.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der richtige Ort, wenn man am Strand mal so richtig tief durchatmen möchte.<br/><br/>Und wer sich nach aktiver Bewegung sehnt, kann Segeln, Tauchen, Kitesurfen und Drachen steigen lassen.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_09_sail_college.swf</filename>
+			<type>pano</type>
+			<name_uk>Sail college</name_uk>
+			<name_nl>Zeilschool</name_nl>
+			<name_benl>Zeilschool</name_benl>
+			<name_befr>Ecole de voile et de plongée</name_befr>
+			<name_fr>Ecole de voile et de plongée</name_fr>
+			<name_de>Sail & Dive College</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>Your holiday house close to sea.<br/>This village is located in the province of Zuid Holland next to Lake Grevelingen and 500 metres from the North Sea beach.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der richtige Ort, wenn man am Strand mal so richtig tief durchatmen möchte.<br/><br/>Und wer sich nach aktiver Bewegung sehnt, kann Segeln, Tauchen, Kitesurfen und Drachen steigen lassen.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>1000</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_ac_10_sail_college_2.swf</filename>
+			<type>pano</type>
+			<name_uk>Sail college</name_uk>
+			<name_nl>Zeilschool</name_nl>
+			<name_benl>Zeilschool</name_benl>
+			<name_befr>Ecole de voile et de plongée</name_befr>
+			<name_fr>Ecole de voile et de plongée</name_fr>
+			<name_de>Sail & Dive College</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>Your holiday house close to sea.<br/>This village is located in the province of Zuid Holland next to Lake Grevelingen and 500 metres from the North Sea beach.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der richtige Ort, wenn man am Strand mal so richtig tief durchatmen möchte.<br/><br/>Und wer sich nach aktiver Bewegung sehnt, kann Segeln, Tauchen, Kitesurfen und Drachen steigen lassen.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+	
+
+//zone cottage		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_zc_21_cottages_zone_1.swf</filename>
+			<type>pano</type>
+			<name_uk>Zone 1</name_uk>
+			<name_nl>Cottage zone 1</name_nl>
+			<name_benl>Cottage zone 1</name_benl>
+			<name_befr>Zone de cottages 1</name_befr>
+			<name_fr>Zone de cottages 1</name_fr>
+			<name_de>Ferienhäuser im 100er-Bereich</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>Your holiday house close to sea.<br/>This village is located in the province of Zuid Holland next to Lake Grevelingen and 500 metres from the North Sea beach.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der richtige Ort, wenn man am Strand mal so richtig tief durchatmen möchte.<br/><br/>Und wer sich nach aktiver Bewegung sehnt, kann Segeln, Tauchen, Kitesurfen und Drachen steigen lassen.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_zc_22_cottages_zone_2.swf</filename>
+			<type>pano</type>
+			<name_uk>Zone 2</name_uk>
+			<name_nl>Cottage zone 2</name_nl>
+			<name_benl>Cottage zone 2</name_benl>
+			<name_befr>Zone de cottages 2</name_befr>
+			<name_fr>Zone de cottages 2</name_fr>
+			<name_de>Ferienhäuser im 200er-Bereich</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>Your holiday house close to sea.<br/>This village is located in the province of Zuid Holland next to Lake Grevelingen and 500 metres from the North Sea beach.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der richtige Ort, wenn man am Strand mal so richtig tief durchatmen möchte.<br/><br/>Und wer sich nach aktiver Bewegung sehnt, kann Segeln, Tauchen, Kitesurfen und Drachen steigen lassen.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>1700</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_zc_23_cottages_zone_3.swf</filename>
+			<type>pano</type>
+			<name_uk>Zone 3</name_uk>
+			<name_nl>Cottage zone 3</name_nl>
+			<name_benl>Cottage zone 3</name_benl>
+			<name_befr>Zone de cottages 3</name_befr>
+			<name_fr>Zone de cottages 3</name_fr>
+			<name_de>Ferienhäuser im 300er-Bereich</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>Your holiday house close to sea.<br/>This village is located in the province of Zuid Holland next to Lake Grevelingen and 500 metres from the North Sea beach.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der richtige Ort, wenn man am Strand mal so richtig tief durchatmen möchte.<br/><br/>Und wer sich nach aktiver Bewegung sehnt, kann Segeln, Tauchen, Kitesurfen und Drachen steigen lassen.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_zc_24_cottages_zone_4.swf</filename>
+			<type>pano</type>
+			<name_uk>Zone 4</name_uk>
+			<name_nl>Cottage zone 4</name_nl>
+			<name_benl>Cottage zone 4</name_benl>
+			<name_befr>Zone de cottages 4</name_befr>
+			<name_fr>Zone de cottages 4</name_fr>
+			<name_de>Ferienhäuser im 400er-Bereich</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>Your holiday house close to sea.<br/>This village is located in the province of Zuid Holland next to Lake Grevelingen and 500 metres from the North Sea beach.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der richtige Ort, wenn man am Strand mal so richtig tief durchatmen möchte.<br/><br/>Und wer sich nach aktiver Bewegung sehnt, kann Segeln, Tauchen, Kitesurfen und Drachen steigen lassen.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_zc_25_cottages_zone_5.swf</filename>
+			<type>pano</type>
+			<name_uk>Zone 5</name_uk>
+			<name_nl>Cottage zone 5</name_nl>
+			<name_benl>Cottage zone 5</name_benl>
+			<name_befr>Zone de cottages 5</name_befr>
+			<name_fr>Zone de cottages 5</name_fr>
+			<name_de>Ferienhäuser im 500er-Bereich</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>Your holiday house close to sea.<br/>This village is located in the province of Zuid Holland next to Lake Grevelingen and 500 metres from the North Sea beach.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der richtige Ort, wenn man am Strand mal so richtig tief durchatmen möchte.<br/><br/>Und wer sich nach aktiver Bewegung sehnt, kann Segeln, Tauchen, Kitesurfen und Drachen steigen lassen.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_zc_26_cottages_zone_6.swf</filename>
+			<type>pano</type>
+			<name_uk>Zone 6</name_uk>
+			<name_nl>Cottage zone 6</name_nl>
+			<name_benl>Cottage zone 6</name_benl>
+			<name_befr>Zone de cottages 6</name_befr>
+			<name_fr>Zone de cottages 6</name_fr>
+			<name_de>Ferienhäuser im 600er-Bereich</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>Your holiday house close to sea.<br/>This village is located in the province of Zuid Holland next to Lake Grevelingen and 500 metres from the North Sea beach.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der richtige Ort, wenn man am Strand mal so richtig tief durchatmen möchte.<br/><br/>Und wer sich nach aktiver Bewegung sehnt, kann Segeln, Tauchen, Kitesurfen und Drachen steigen lassen.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_zc_27_cottages_zone_7.swf</filename>
+			<type>pano</type>
+			<name_uk>Zone 7</name_uk>
+			<name_nl>Cottage zone 7</name_nl>
+			<name_benl>Cottage zone 7</name_benl>
+			<name_befr>Zone de cottages 7</name_befr>
+			<name_fr>Zone de cottages 7</name_fr>
+			<name_de>Ferienhäuser im 700er-Bereich</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>Your holiday house close to sea.<br/>This village is located in the province of Zuid Holland next to Lake Grevelingen and 500 metres from the North Sea beach.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der richtige Ort, wenn man am Strand mal so richtig tief durchatmen möchte.<br/><br/>Und wer sich nach aktiver Bewegung sehnt, kann Segeln, Tauchen, Kitesurfen und Drachen steigen lassen.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_zc_28_cottages_zone_8.swf</filename>
+			<type>pano</type>
+			<name_uk>Zone 8</name_uk>
+			<name_nl>Cottage zone 8</name_nl>
+			<name_benl>Cottage zone 8</name_benl>
+			<name_befr>Zone de cottages 8</name_befr>
+			<name_fr>Zone de cottages 8</name_fr>
+			<name_de>Ferienhäuser im 800er-Bereich</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>Your holiday house close to sea.<br/>This village is located in the province of Zuid Holland next to Lake Grevelingen and 500 metres from the North Sea beach.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der richtige Ort, wenn man am Strand mal so richtig tief durchatmen möchte.<br/><br/>Und wer sich nach aktiver Bewegung sehnt, kann Segeln, Tauchen, Kitesurfen und Drachen steigen lassen.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="3d">
+			<sound>domaine.swf</sound>
+			<filename>do_zc_29_cottages_zone_9.swf</filename>
+			<type>pano</type>
+			<name_uk>Zone 9</name_uk>
+			<name_nl>Cottage zone 9</name_nl>
+			<name_benl>Cottage zone 9</name_benl>
+			<name_befr>Zone de cottages 9</name_befr>
+			<name_fr>Zone de cottages 9</name_fr>
+			<name_de>Ferienhäuser im 900er-Bereich</name_de>
+			<edito_uk><![CDATA[<p><titre>DOMAIN</titre><br/>Your holiday house close to sea.<br/>This village is located in the province of Zuid Holland next to Lake Grevelingen and 500 metres from the North Sea beach.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>PARK TERREIN</titre><br/>Uw vakantiehuisje vlakbij zee. Dit Active Park ligt in de provincie Zuid-Holland aan het Grevelingenmeer en 500 meter van het Noordzeestrand.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>DOMAINE</titre><br/>Situé tout près la mer du Nord et au lac de Grevelingen, le Domaine de Port Zélande vous accueille pour un séjour en famille au bord de l'eau.<br/><br/>Les plages et les dunes, l'école de voile ou encore l'Adventure Factory vous feront passer des vacances inoubliables.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>PARK</titre><br/>Der richtige Ort, wenn man am Strand mal so richtig tief durchatmen möchte.<br/><br/>Und wer sich nach aktiver Bewegung sehnt, kann Segeln, Tauchen, Kitesurfen und Drachen steigen lassen.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+////2d
+//Aquamundo	
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_01_aquacafe.swf</filename>
+			<type>pano</type>
+			<name_uk>Aqua Cafe</name_uk>
+			<name_nl>Aqua Café</name_nl>
+			<name_benl>Aqua Café</name_benl>
+			<name_befr>Aqua Café</name_befr>
+			<name_fr>Aqua Café</name_fr>
+			<name_de>Aqua Café</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_02_central_island.swf</filename>
+			<type>pano</type>
+			<name_uk>Central Island</name_uk>
+			<name_nl>Centraal Eiland</name_nl>
+			<name_benl>Centraal Eiland</name_benl>
+			<name_befr>Ile centrale</name_befr>
+			<name_fr>Ile centrale</name_fr>
+			<name_de>Central Island</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_03_inside_sunbathing_area.swf</filename>
+			<type>pano</type>
+			<name_uk>Outside terrace</name_uk>
+			<name_nl>Buitenterras</name_nl>
+			<name_benl>Buitenterras</name_benl>
+			<name_befr>Terrasse extérieure</name_befr>
+			<name_fr>Terrasse extérieure</name_fr>
+			<name_de>Außenterrasse</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>1500</x_pos>
+			<vitesse>-5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<!--
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_04_kids_pool.swf</filename>
+			<type>pano</type>
+			<name_uk>Kids pool</name_uk>
+			<name_nl>Kinder-Doe-Bad</name_nl>
+			<name_benl>Kinder–doe-bad</name_benl>
+			<name_befr>Piscine pour enfants</name_befr>
+			<name_fr>Piscine pour enfants</name_fr>
+			<name_de>Kinderbecken</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		-->
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_05_outside_swimming_pool.swf</filename>
+			<type>pano</type>
+			<name_uk>Outside swimming pool</name_uk>
+			<name_nl>Buitenbad</name_nl>
+			<name_benl>Buitenbad</name_benl>
+			<name_befr>Piscine extérieur</name_befr>
+			<name_fr>Piscine extérieur</name_fr>
+			<name_de>Außenbecken</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_06_panoramic_view.swf</filename>
+			<type>pano</type>
+			<name_uk>Panoramic view</name_uk>
+			<name_nl>Panoramaoverzicht</name_nl>
+			<name_benl>Panoramaoverzicht</name_benl>
+			<name_befr>Vue panoramique</name_befr>
+			<name_fr>Vue panoramique</name_fr>
+			<name_de>Panoramablick</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>1600</x_pos>
+			<vitesse>-5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_07_rapids_and_hydrajets.swf</filename>
+			<type>pano</type>
+			<name_uk>Hydrojets</name_uk>
+			<name_nl>Hydrojets</name_nl>
+			<name_benl>Hydrojets</name_benl>
+			<name_befr>Hydrajets</name_befr>
+			<name_fr>Hydrajets</name_fr>
+			<name_de>Hydrojets</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_08_solarium.swf</filename>
+			<type>pano</type>
+			<name_uk>Solarium</name_uk>
+			<name_nl>Solarium</name_nl>
+			<name_benl>Solarium</name_benl>
+			<name_befr>Solarium</name_befr>
+			<name_fr>Solarium</name_fr>
+			<name_de>Solarium</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_09_sun_bathing_area.swf</filename>
+			<type>pano</type>
+			<name_uk>Outside terrace</name_uk>
+			<name_nl>Buitenterras</name_nl>
+			<name_benl>Buitenterras</name_benl>
+			<name_befr>Terrasse extérieure</name_befr>
+			<name_fr>Terrasse extérieure</name_fr>
+			<name_de>Äußere Terrasse</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_10_waves_swimming_pool_and_jaccuzi.swf</filename>
+			<type>pano</type>
+			<name_uk>Waves swimming pool and jacuzzi</name_uk>
+			<name_nl>Golfslagbad en whirlpool</name_nl>
+			<name_benl>Golfslagbad en whirlpool</name_benl>
+			<name_befr>Piscine à vagues et jacuzzi</name_befr>
+			<name_fr>Piscine à vagues et jacuzzi</name_fr>
+			<name_de>Wellenbad und Whirlpool</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound>aquamundo.swf</sound>
+			<filename>am_11_waves_swimming_pool_entrance.swf</filename>
+			<type>pano</type>
+			<name_uk>Waves swimming pool entrance</name_uk>
+			<name_nl>Ingang golfslagbad</name_nl>
+			<name_benl>Ingang golfslagbad</name_benl>
+			<name_befr>Entrée piscine à vagues</name_befr>
+			<name_fr>Entrée piscine à vagues</name_fr>
+			<name_de>Wellenbad</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>1500</x_pos>
+			<vitesse>-5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquamundo.swf">
+			<sound></sound>
+			<filename>sequence_diving.swf</filename>
+			<type>video</type>
+			<name_uk>Dive College video</name_uk>
+			<name_nl>Dive College video</name_nl>
+			<name_benl>Dive College video</name_benl>
+			<name_befr>Vidéo Dive College</name_befr>
+			<name_fr>Vidéo Dive College</name_fr>
+			<name_de>Video Tauchschule</name_de>
+			<edito_uk><![CDATA[<p><titre>AQUA MUNDO</titre><br/>The Aqua Mundo (sub-tropical swimming pool)is an exciting green jungle for all ages.<br/>Full of spectacular water fun in chutes, wave pool, wild water rapids and safe children's pools</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>AQUA MUNDO</titre><br/>De Aqua Mundo is hét subtropisch zwemparadijs voor alle leeftijden.<br/>Vol spectaculair waterplezier met glijbanen, veilige kinderbaden, een golfslagbad en een wildwaterbaan.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>AQUA-MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Profitez toute l'année du climat tropical et d'une eau à 29°.<br/>Toboggans, piscine à vagues, rapides et pataugeoires.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>AQUA MUNDO</titre><br/>Im grünen Dschungel des Aqua Mundos kommen Groß und Klein auf ihre Kosten.<br/>Erleben Sie spektakulären Wasserspaß auf der Wildwasserbahn, im Wellenbad und im sicheren Kinderbecken.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+//marketdome
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_01_bakery.swf</filename>
+			<type>pano</type>
+			<name_uk>Bakery</name_uk>
+			<name_nl>Boulangerie</name_nl>
+			<name_benl>Boulangerie</name_benl>
+			<name_befr>Boulangerie</name_befr>
+			<name_fr>Boulangerie</name_fr>
+			<name_de>Bäckerei</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_02_fontains.swf</filename>
+			<type>pano</type>
+			<name_uk>Fontains</name_uk>
+			<name_nl>Fonteinen</name_nl>
+			<name_benl>Fonteinen</name_benl>
+			<name_befr>Fontaines</name_befr>
+			<name_fr>Fontaines</name_fr>
+			<name_de>Springbrunnen</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>1300</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_03_inside_fashion_store.swf</filename>
+			<type>pano</type>
+			<name_uk>Inside Fashion store</name_uk>
+			<name_nl>Interieur Fashion Store</name_nl>
+			<name_benl>Interieur Fashion Store</name_benl>
+			<name_befr>Au Fashion Store</name_befr>
+			<name_fr>Au Fashion Store</name_fr>
+			<name_de>Fashion Store</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_04_inside_toys_and_souvenirs.swf</filename>
+			<type>pano</type>
+			<name_uk>Inside Toys & Souvenirs</name_uk>
+			<name_nl>Interieur Toys & Souvenirs</name_nl>
+			<name_benl>Interieur Toys & Souvenirs</name_benl>
+			<name_befr>Au Toys & Souvenirs</name_befr>
+			<name_fr>Au Toys & Souvenirs</name_fr>
+			<name_de>Toys & Souvenirs</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_05_market_restaurant_buffet.swf</filename>
+			<type>pano</type>
+			<name_uk>Market Restaurant Buffet</name_uk>
+			<name_nl>Buffet Market Restaurant</name_nl>
+			<name_benl>Buffet Market Restaurant</name_benl>
+			<name_befr>Buffet Market Restaurant</name_befr>
+			<name_fr>Buffet Market Restaurant</name_fr>
+			<name_de>Buffet im Market Restaurant</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_06_market_cafe.swf</filename>
+			<type>pano</type>
+			<name_uk>Market Cafe</name_uk>
+			<name_nl>Market Café</name_nl>
+			<name_benl>Market Café</name_benl>
+			<name_befr>Market Café</name_befr>
+			<name_fr>Market Café</name_fr>
+			<name_de>Market Café</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_07_market_dome_entrance.swf</filename>
+			<type>pano</type>
+			<name_uk>Market Dome entrance</name_uk>
+			<name_nl>Ingang Market Dome</name_nl>
+			<name_benl>Ingang Market Dome</name_benl>
+			<name_befr>Entrée Market Dôme</name_befr>
+			<name_fr>Entrée Market Dôme</name_fr>
+			<name_de>Eingang Market Dome</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_08_market_dome_terrace.swf</filename>
+			<type>pano</type>
+			<name_uk>Market Dome terrace</name_uk>
+			<name_nl>Terras Market Dome</name_nl>
+			<name_benl>Terras Market Dome</name_benl>
+			<name_befr>Terrasse Market Dôme</name_befr>
+			<name_fr>Terrasse Market Dôme</name_fr>
+			<name_de>Market Dome</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_09_market_restaurant.swf</filename>
+			<type>pano</type>
+			<name_uk>Market Restaurant</name_uk>
+			<name_nl>Market Restaurant</name_nl>
+			<name_benl>Market Restaurant</name_benl>
+			<name_befr>Market Restaurant</name_befr>
+			<name_fr>Market Restaurant</name_fr>
+			<name_de>Market Restaurant</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_10_market_restaurant_entrance.swf</filename>
+			<type>pano</type>
+			<name_uk>Market Restaurant entrance</name_uk>
+			<name_nl>Ingang Market Restaurant</name_nl>
+			<name_benl>Ingang Market Restaurant</name_benl>
+			<name_befr>Entrée Market Restaurant</name_befr>
+			<name_fr>Entrée Market Restaurant</name_fr>
+			<name_de>Eingang Market Restaurant</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_11_outside_toys_and_souvenirs.swf</filename>
+			<type>pano</type>
+			<name_uk>Outside Toys and Souvenirs</name_uk>
+			<name_nl>Exterieur Toys & Souvenirs</name_nl>
+			<name_benl>Exterieur Toys & Souvenirs</name_benl>
+			<name_befr>Toys & Souvenirs extérieur</name_befr>
+			<name_fr>Toys & Souvenirs extérieur</name_fr>
+			<name_de>Toys & Souvenirs</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_13_pizzeria_il_giardino.swf</filename>
+			<type>pano</type>
+			<name_uk>Pizzeria Il Giardino</name_uk>
+			<name_nl>Pizzeria Il Giardino</name_nl>
+			<name_benl>Pizzeria Il Giardino</name_benl>
+			<name_befr>Pizzeria Il Giardino</name_befr>
+			<name_fr>Pizzeria Il Giardino</name_fr>
+			<name_de>Pizzeria Il Giardino</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_14_sharky_s_restaurant.swf</filename>
+			<type>pano</type>
+			<name_uk>Sharky's Restaurant</name_uk>
+			<name_nl>Ingang Sharky’s Bar & Grill</name_nl>
+			<name_benl>Ingang Sharky’s Bar & Grill</name_benl>
+			<name_befr>Restaurant Sharky's</name_befr>
+			<name_fr>Restaurant Sharky's</name_fr>
+			<name_de>Sharky's Restaurant</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_15_sharky_s_restaurant_entrance.swf</filename>
+			<type>pano</type>
+			<name_uk>Sharky´s Restaurant entrance</name_uk>
+			<name_nl>Ingang Sharky's Bar& Grill</name_nl>
+			<name_benl>Ingang Sharky's Bar& Grill</name_benl>
+			<name_befr>Entrée restaurant Sharky's</name_befr>
+			<name_fr>Entrée restaurant Sharky's</name_fr>
+			<name_de>Sharky´s Restaurant</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_16_market_cafe_terrace.swf</filename>
+			<type>pano</type>
+			<name_uk>Market Cafe terrace</name_uk>
+			<name_nl>Terras Market Café</name_nl>
+			<name_benl>Terras Market Café</name_benl>
+			<name_befr>Terrasse Market Café</name_befr>
+			<name_fr>Terrasse Market Café</name_fr>
+			<name_de>Market Café</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_17_central_terrace.swf</filename>
+			<type>pano</type>
+			<name_uk>Central terrace</name_uk>
+			<name_nl>Centraal terras</name_nl>
+			<name_benl>Centraal terras</name_benl>
+			<name_befr>Terrasse centrale</name_befr>
+			<name_fr>Terrasse centrale</name_fr>
+			<name_de>Terrasse</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_18_pizzeria_il_giardino_terrace.swf</filename>
+			<type>pano</type>
+			<name_uk>Pizzeria Il Giardino terrace</name_uk>
+			<name_nl>Terras Pizzeria Il Giardino</name_nl>
+			<name_benl>Terras Pizzeria Il Giardino</name_benl>
+			<name_befr>Terrasse Pizzeria Il Giardino</name_befr>
+			<name_fr>Terrasse Pizzeria Il Giardino</name_fr>
+			<name_de>Pizzeria Il Giardino</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_19_sharky_s_restaurant_terrace.swf</filename>
+			<type>pano</type>
+			<name_uk>Sharky´s Restaurant terrace</name_uk>
+			<name_nl>Terras Sharky's Bar & Grill</name_nl>
+			<name_benl>Terras Sharky's Bar & Grill</name_benl>
+			<name_befr>Terrasse restaurant Sharky's</name_befr>
+			<name_fr>Terrasse restaurant Sharky's</name_fr>
+			<name_de>Sharky´s Restaurant</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_20_billy_s_burger_entrance.swf</filename>
+			<type>pano</type>
+			<name_uk>Billy´s Burger terrace</name_uk>
+			<name_nl>Terras Billy´s Burger</name_nl>
+			<name_benl>Terras Billy´s Burger</name_benl>
+			<name_befr>Terrasse Billy's Burger</name_befr>
+			<name_fr>Terrasse Billy's Burger</name_fr>
+			<name_de>Billy´s Burger</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_21_bowling.swf</filename>
+			<type>pano</type>
+			<name_uk>Bowling</name_uk>
+			<name_nl>Bowling</name_nl>
+			<name_benl>Bowling</name_benl>
+			<name_befr>Bowling</name_befr>
+			<name_fr>Bowling</name_fr>
+			<name_de>Bowlingbahnen</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="marketdome.swf">
+			<sound>domaine.swf</sound>
+			<filename>md_22_house_of_games.swf</filename>
+			<type>pano</type>
+			<name_uk>House of Games</name_uk>
+			<name_nl>House of Games</name_nl>
+			<name_benl>House of Games</name_benl>
+			<name_befr>House of Games</name_befr>
+			<name_fr>House of Games</name_fr>
+			<name_de>House of Games</name_de>
+			<edito_uk><![CDATA[<p><titre>MARKET DOME</titre><br/>The Market Dome is a convivial meeting place.<br/><br/>If you love delicious food you should definitely try a culinary package!</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>MARKET DOME</titre><br/>De Market Dome is een gezellig ontmoetingspunt.<br/>Van 's ochtends vroeg tot in de late uurtjes.<br/>Trakteer uzelf op een nieuwe outfit uit de Fashion Store.<br/>En als u van lekker eten houdt, moet u zeker een Culinair Arrangement proberen! </p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>MARKET-DÔME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>MARKET DOME</titre><br/>Faites une pause sous le dôme...<br/><br/>Dégustez un bon dîner ou sirotez un cocktail en terrasse.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>MARKET DOME</titre><br/>Der Market Dome ist der zentrale Treffpunkt im Park.<br/><br/>Feinschmecker sollten unbedingt eines der kulinarischen Arrangements buchen!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+//aquasana	
+		<pano map="2d" plan="aquasana.swf">
+			<sound>domaine.swf</sound>
+			<filename>as_01_hammam.swf</filename>
+			<type>pano</type>
+			<name_uk>Hammam</name_uk>
+			<name_nl>Hammam</name_nl>
+			<name_benl>Hammam</name_benl>
+			<name_befr>Hammam</name_befr>
+			<name_fr>Hammam</name_fr>
+			<name_de>Hammam</name_de>
+			<edito_uk><![CDATA[<p><titre>SAUNA</titre><br/>Pure relaxation: the sauna with Turkish bath and sauna meadow.<br/>You particularly visit the sauna for physical relaxation, health and improvement of your wellbeing.<br/>Moreover the sauna also has a purifying function.<br/><br/>As a result you will have more resistance and less stress.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>SAUNA</titre><br/>Puur relaxen: sauna met Turks stoombad en saunaweide.<br/>U bezoekt de sauna vooral voor lichamelijke ontspanning, gezondheid en verbetering van het welzijn.<br/>Daarnaast heeft de sauna ook een reinigende werking.<br/><br/>Met als gevolg: meer weerstand en minder stress.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>SAUNA</titre><br/>Puur relaxen: sauna met Turks stoombad en saunaweide.<br/>U bezoekt de sauna vooral voor lichamelijke ontspanning, gezondheid en verbetering van het welzijn.<br/>Daarnaast heeft de sauna ook een reinigende werking.<br/><br/>Met als gevolg: meer weerstand en minder stress.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>SAUNA</titre><br/>Pour une pure relaxation : sauna avec hammam oriental.<br/>Un moment de détente absolu pour votre corps, votre santé et votre bien-être.<br/><br/>Le sauna possède des vertus purifiantes : vous deviendrez plus résistant au stress.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>SAUNA</titre><br/>Pour une pure relaxation : sauna avec hammam oriental.<br/>Un moment de détente absolu pour votre corps, votre santé et votre bien-être.<br/><br/>Le sauna possède des vertus purifiantes : vous deviendrez plus résistant au stress.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>SAUNA</titre><br/>Pure Entspannung erwartet Sie in der Sauna mit türkischem Dampfbad und Whirlpool.<br/><br/>Sie werden sehen, spätestens nach der Abkühlung sind die Lebensgeister geweckt, der Stress ist verschwunden und Ihr Wohlbefinden hat sich gesteigert.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquasana.swf">
+			<sound>domaine.swf</sound>
+			<filename>as_02_massage_room.swf</filename>
+			<type>pano</type>
+			<name_uk>Massage room</name_uk>
+			<name_nl>Massageruimte</name_nl>
+			<name_benl>Massageruimte</name_benl>
+			<name_befr>Salle de massage</name_befr>
+			<name_fr>Salle de massage</name_fr>
+			<name_de>Massageraum</name_de>
+			<edito_uk><![CDATA[<p><titre>SAUNA</titre><br/>Pure relaxation: the sauna with Turkish bath and sauna meadow.<br/>You particularly visit the sauna for physical relaxation, health and improvement of your wellbeing.<br/>Moreover the sauna also has a purifying function.<br/><br/>As a result you will have more resistance and less stress.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>SAUNA</titre><br/>Puur relaxen: sauna met Turks stoombad en saunaweide.<br/>U bezoekt de sauna vooral voor lichamelijke ontspanning, gezondheid en verbetering van het welzijn.<br/>Daarnaast heeft de sauna ook een reinigende werking.<br/><br/>Met als gevolg: meer weerstand en minder stress.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>SAUNA</titre><br/>Puur relaxen: sauna met Turks stoombad en saunaweide.<br/>U bezoekt de sauna vooral voor lichamelijke ontspanning, gezondheid en verbetering van het welzijn.<br/>Daarnaast heeft de sauna ook een reinigende werking.<br/><br/>Met als gevolg: meer weerstand en minder stress.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>SAUNA</titre><br/>Pour une pure relaxation : sauna avec hammam oriental.<br/>Un moment de détente absolu pour votre corps, votre santé et votre bien-être.<br/><br/>Le sauna possède des vertus purifiantes : vous deviendrez plus résistant au stress.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>SAUNA</titre><br/>Pour une pure relaxation : sauna avec hammam oriental.<br/>Un moment de détente absolu pour votre corps, votre santé et votre bien-être.<br/><br/>Le sauna possède des vertus purifiantes : vous deviendrez plus résistant au stress.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>SAUNA</titre><br/>Pure Entspannung erwartet Sie in der Sauna mit türkischem Dampfbad und Whirlpool.<br/><br/>Sie werden sehen, spätestens nach der Abkühlung sind die Lebensgeister geweckt, der Stress ist verschwunden und Ihr Wohlbefinden hat sich gesteigert.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquasana.swf">
+			<sound>domaine.swf</sound>
+			<filename>as_03_relaxing_area.swf</filename>
+			<type>pano</type>
+			<name_uk>Relaxing area</name_uk>
+			<name_nl>Relaxruimte</name_nl>
+			<name_benl>Relaxruimte</name_benl>
+			<name_befr>Zone de relaxation</name_befr>
+			<name_fr>Zone de relaxation</name_fr>
+			<name_de>Ruhebereich</name_de>
+			<edito_uk><![CDATA[<p><titre>SAUNA</titre><br/>Pure relaxation: the sauna with Turkish bath and sauna meadow.<br/>You particularly visit the sauna for physical relaxation, health and improvement of your wellbeing.<br/>Moreover the sauna also has a purifying function.<br/><br/>As a result you will have more resistance and less stress.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>SAUNA</titre><br/>Puur relaxen: sauna met Turks stoombad en saunaweide.<br/>U bezoekt de sauna vooral voor lichamelijke ontspanning, gezondheid en verbetering van het welzijn.<br/>Daarnaast heeft de sauna ook een reinigende werking.<br/><br/>Met als gevolg: meer weerstand en minder stress.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>SAUNA</titre><br/>Puur relaxen: sauna met Turks stoombad en saunaweide.<br/>U bezoekt de sauna vooral voor lichamelijke ontspanning, gezondheid en verbetering van het welzijn.<br/>Daarnaast heeft de sauna ook een reinigende werking.<br/><br/>Met als gevolg: meer weerstand en minder stress.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>SAUNA</titre><br/>Pour une pure relaxation : sauna avec hammam oriental.<br/>Un moment de détente absolu pour votre corps, votre santé et votre bien-être.<br/><br/>Le sauna possède des vertus purifiantes : vous deviendrez plus résistant au stress.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>SAUNA</titre><br/>Pour une pure relaxation : sauna avec hammam oriental.<br/>Un moment de détente absolu pour votre corps, votre santé et votre bien-être.<br/><br/>Le sauna possède des vertus purifiantes : vous deviendrez plus résistant au stress.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>SAUNA</titre><br/>Pure Entspannung erwartet Sie in der Sauna mit türkischem Dampfbad und Whirlpool.<br/><br/>Sie werden sehen, spätestens nach der Abkühlung sind die Lebensgeister geweckt, der Stress ist verschwunden und Ihr Wohlbefinden hat sich gesteigert.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquasana.swf">
+			<sound>domaine.swf</sound>
+			<filename>as_04_sauna.swf</filename>
+			<type>pano</type>
+			<name_uk>Sauna</name_uk>
+			<name_nl>Sauna</name_nl>
+			<name_benl>Sauna</name_benl>
+			<name_befr>Sauna</name_befr>
+			<name_fr>Sauna</name_fr>
+			<name_de>Sauna</name_de>
+			<edito_uk><![CDATA[<p><titre>SAUNA</titre><br/>Pure relaxation: the sauna with Turkish bath and sauna meadow.<br/>You particularly visit the sauna for physical relaxation, health and improvement of your wellbeing.<br/>Moreover the sauna also has a purifying function.<br/><br/>As a result you will have more resistance and less stress.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>SAUNA</titre><br/>Puur relaxen: sauna met Turks stoombad en saunaweide.<br/>U bezoekt de sauna vooral voor lichamelijke ontspanning, gezondheid en verbetering van het welzijn.<br/>Daarnaast heeft de sauna ook een reinigende werking.<br/><br/>Met als gevolg: meer weerstand en minder stress.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>SAUNA</titre><br/>Puur relaxen: sauna met Turks stoombad en saunaweide.<br/>U bezoekt de sauna vooral voor lichamelijke ontspanning, gezondheid en verbetering van het welzijn.<br/>Daarnaast heeft de sauna ook een reinigende werking.<br/><br/>Met als gevolg: meer weerstand en minder stress.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>SAUNA</titre><br/>Pour une pure relaxation : sauna avec hammam oriental.<br/>Un moment de détente absolu pour votre corps, votre santé et votre bien-être.<br/><br/>Le sauna possède des vertus purifiantes : vous deviendrez plus résistant au stress.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>SAUNA</titre><br/>Pour une pure relaxation : sauna avec hammam oriental.<br/>Un moment de détente absolu pour votre corps, votre santé et votre bien-être.<br/><br/>Le sauna possède des vertus purifiantes : vous deviendrez plus résistant au stress.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>SAUNA</titre><br/>Pure Entspannung erwartet Sie in der Sauna mit türkischem Dampfbad und Whirlpool.<br/><br/>Sie werden sehen, spätestens nach der Abkühlung sind die Lebensgeister geweckt, der Stress ist verschwunden und Ihr Wohlbefinden hat sich gesteigert.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquasana.swf">
+			<sound>domaine.swf</sound>
+			<filename>as_05_swimming_pool_and_jaccuzi.swf</filename>
+			<type>pano</type>
+			<name_uk>Swimming pool and jacuzzi</name_uk>
+			<name_nl>Zwembad en whirlpool</name_nl>
+			<name_benl>Zwembad en whirlpool</name_benl>
+			<name_befr>Piscine et jacuzzi</name_befr>
+			<name_fr>Piscine et jacuzzi</name_fr>
+			<name_de>Pool und Whirlpool</name_de>
+			<edito_uk><![CDATA[<p><titre>SAUNA</titre><br/>Pure relaxation: the sauna with Turkish bath and sauna meadow.<br/>You particularly visit the sauna for physical relaxation, health and improvement of your wellbeing.<br/>Moreover the sauna also has a purifying function.<br/><br/>As a result you will have more resistance and less stress.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>SAUNA</titre><br/>Puur relaxen: sauna met Turks stoombad en saunaweide.<br/>U bezoekt de sauna vooral voor lichamelijke ontspanning, gezondheid en verbetering van het welzijn.<br/>Daarnaast heeft de sauna ook een reinigende werking.<br/><br/>Met als gevolg: meer weerstand en minder stress.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>SAUNA</titre><br/>Puur relaxen: sauna met Turks stoombad en saunaweide.<br/>U bezoekt de sauna vooral voor lichamelijke ontspanning, gezondheid en verbetering van het welzijn.<br/>Daarnaast heeft de sauna ook een reinigende werking.<br/><br/>Met als gevolg: meer weerstand en minder stress.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>SAUNA</titre><br/>Pour une pure relaxation : sauna avec hammam oriental.<br/>Un moment de détente absolu pour votre corps, votre santé et votre bien-être.<br/><br/>Le sauna possède des vertus purifiantes : vous deviendrez plus résistant au stress.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>SAUNA</titre><br/>Pour une pure relaxation : sauna avec hammam oriental.<br/>Un moment de détente absolu pour votre corps, votre santé et votre bien-être.<br/><br/>Le sauna possède des vertus purifiantes : vous deviendrez plus résistant au stress.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>SAUNA</titre><br/>Pure Entspannung erwartet Sie in der Sauna mit türkischem Dampfbad und Whirlpool.<br/><br/>Sie werden sehen, spätestens nach der Abkühlung sind die Lebensgeister geweckt, der Stress ist verschwunden und Ihr Wohlbefinden hat sich gesteigert.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>1300</x_pos>
+			<vitesse>-5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquasana.swf">
+			<sound>domaine.swf</sound>
+			<filename>as_06_terrace.swf</filename>
+			<type>pano</type>
+			<name_uk>Terrace</name_uk>
+			<name_nl>Terras</name_nl>
+			<name_benl>Terras</name_benl>
+			<name_befr>Terrasse</name_befr>
+			<name_fr>Terrasse</name_fr>
+			<name_de>Terrasse</name_de>
+			<edito_uk><![CDATA[<p><titre>SAUNA</titre><br/>Pure relaxation: the sauna with Turkish bath and sauna meadow.<br/>You particularly visit the sauna for physical relaxation, health and improvement of your wellbeing.<br/>Moreover the sauna also has a purifying function.<br/><br/>As a result you will have more resistance and less stress.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>SAUNA</titre><br/>Puur relaxen: sauna met Turks stoombad en saunaweide.<br/>U bezoekt de sauna vooral voor lichamelijke ontspanning, gezondheid en verbetering van het welzijn.<br/>Daarnaast heeft de sauna ook een reinigende werking.<br/><br/>Met als gevolg: meer weerstand en minder stress.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>SAUNA</titre><br/>Puur relaxen: sauna met Turks stoombad en saunaweide.<br/>U bezoekt de sauna vooral voor lichamelijke ontspanning, gezondheid en verbetering van het welzijn.<br/>Daarnaast heeft de sauna ook een reinigende werking.<br/><br/>Met als gevolg: meer weerstand en minder stress.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>SAUNA</titre><br/>Pour une pure relaxation : sauna avec hammam oriental.<br/>Un moment de détente absolu pour votre corps, votre santé et votre bien-être.<br/><br/>Le sauna possède des vertus purifiantes : vous deviendrez plus résistant au stress.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>SAUNA</titre><br/>Pour une pure relaxation : sauna avec hammam oriental.<br/>Un moment de détente absolu pour votre corps, votre santé et votre bien-être.<br/><br/>Le sauna possède des vertus purifiantes : vous deviendrez plus résistant au stress.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>SAUNA</titre><br/>Pure Entspannung erwartet Sie in der Sauna mit türkischem Dampfbad und Whirlpool.<br/><br/>Sie werden sehen, spätestens nach der Abkühlung sind die Lebensgeister geweckt, der Stress ist verschwunden und Ihr Wohlbefinden hat sich gesteigert.</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>1100</x_pos>
+			<vitesse>-5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="aquasana.swf">
+			<sound>domaine.swf</sound>
+			<filename>as_07_feet_bath_and_showers.swf</filename>
+			<type>pano</type>
+			<name_uk>Feet bath and showers</name_uk>
+			<name_nl>Voetbad en douches</name_nl>
+			<name_benl>Voetbad en douches</name_benl>
+			<name_befr>Bain de pieds et douches</name_befr>
+			<name_fr>Bain de pieds et douches</name_fr>
+			<name_de>Fußbad und Duschen</name_de>
+			<edito_uk><![CDATA[<p><titre>SAUNA</titre><br/>Pure relaxation: the sauna with Turkish bath and sauna meadow.<br/>You particularly visit the sauna for physical relaxation, health and improvement of your wellbeing.<br/>Moreover the sauna also has a purifying function.<br/><br/>As a result you will have more resistance and less stress.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>SAUNA</titre><br/>Puur relaxen: sauna met Turks stoombad en saunaweide.<br/>U bezoekt de sauna vooral voor lichamelijke ontspanning, gezondheid en verbetering van het welzijn.<br/>Daarnaast heeft de sauna ook een reinigende werking.<br/><br/>Met als gevolg: meer weerstand en minder stress.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>SAUNA</titre><br/>Puur relaxen: sauna met Turks stoombad en saunaweide.<br/>U bezoekt de sauna vooral voor lichamelijke ontspanning, gezondheid en verbetering van het welzijn.<br/>Daarnaast heeft de sauna ook een reinigende werking.<br/><br/>Met als gevolg: meer weerstand en minder stress.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>SAUNA</titre><br/>Pour une pure relaxation : sauna avec hammam oriental.<br/>Un moment de détente absolu pour votre corps, votre santé et votre bien-être.<br/><br/>Le sauna possède des vertus purifiantes : vous deviendrez plus résistant au stress.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>SAUNA</titre><br/>Pour une pure relaxation : sauna avec hammam oriental.<br/>Un moment de détente absolu pour votre corps, votre santé et votre bien-être.<br/><br/>Le sauna possède des vertus purifiantes : vous deviendrez plus résistant au stress.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>SAUNA</titre><br/>Pure Entspannung erwartet Sie in der Sauna mit türkischem Dampfbad und Whirlpool.<br/><br/>Sie werden sehen, spätestens nach der Abkühlung sind die Lebensgeister geweckt, der Stress ist verschwunden und Ihr Wohlbefinden hat sich gesteigert.</p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+//adventurefactory
+		<pano map="2d" plan="adventurefactory.swf">
+			<sound>domaine.swf</sound>
+			<filename>af_01_adventure_factory_terrace.swf</filename>
+			<type>pano</type>
+			<name_uk>Adventure Factory terrace</name_uk>
+			<name_nl>Terras Adventure Factory</name_nl>
+			<name_benl>Terras Adventure Factory</name_benl>
+			<name_befr>Terrasse Adventure Factory</name_befr>
+			<name_fr>Terrasse Adventure Factory</name_fr>
+			<name_de>Terrasse Adventure Factory</name_de>
+			<edito_uk><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>The weather is always nice at the indoor Adventure Factory.<br/><br/>This sports and entertainment center is a guarantee for hours of fun. </p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>In de overdekte Adventure Factory is het altijd mooi weer.<br/><br/>Dit sport- en uitgaanscentrum garandeert u urenlang plezier. </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>In de overdekte Adventure Factory is het altijd mooi weer.<br/><br/>Dit sport- en uitgaanscentrum garandeert u urenlang plezier.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>Adventure Factory est un espace couvert dédié aux sports et aux loisirs pour toute la famille.<br/>Jouez aux jeux videos dans la House of Games, faites une partie de ping-pong, de mini golf ou de bowling virtuel, puis récupérez tranquillement en sirotant un verre en terrasse tout en regardant le spectacle du jour.<br/>Les enfants préféreront peut-être se dépenser à la Kids Disco.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>Adventure Factory est un espace couvert dédié aux sports et aux loisirs pour toute la famille.<br/>Jouez aux jeux videos dans la House of Games, faites une partie de ping-pong, de mini golf ou de bowling virtuel, puis récupérez tranquillement en sirotant un verre en terrasse tout en regardant le spectacle du jour.<br/>Les enfants préféreront peut-être se dépenser à la Kids Disco. </p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>In der überdachten Adventure Factory ist das ganze Jahr über Sommer.<br/>Hier können Sie Sport treiben, gemütlich zusammen sitzen und das Unterhaltungsprogramm genießen.<br/>Natürlich kommt auch der Nachwuchs nicht zu kurz. </p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="adventurefactory.swf">
+			<sound>domaine.swf</sound>
+			<filename>af_02_billiards_and_virtual_bowling.swf</filename>
+			<type>pano</type>
+			<name_uk>Billiard</name_uk>
+			<name_nl>Biljart</name_nl>
+			<name_benl>Biljart</name_benl>
+			<name_befr>Billard</name_befr>
+			<name_fr>Billard</name_fr>
+			<name_de>Billard</name_de>
+			<edito_uk><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>The weather is always nice at the indoor Adventure Factory.<br/><br/>This sports and entertainment center is a guarantee for hours of fun. </p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>In de overdekte Adventure Factory is het altijd mooi weer.<br/><br/>Dit sport- en uitgaanscentrum garandeert u urenlang plezier. </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>In de overdekte Adventure Factory is het altijd mooi weer.<br/><br/>Dit sport- en uitgaanscentrum garandeert u urenlang plezier.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>Adventure Factory est un espace couvert dédié aux sports et aux loisirs pour toute la famille.<br/>Jouez aux jeux videos dans la House of Games, faites une partie de ping-pong, de mini golf ou de bowling virtuel, puis récupérez tranquillement en sirotant un verre en terrasse tout en regardant le spectacle du jour.<br/>Les enfants préféreront peut-être se dépenser à la Kids Disco.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>Adventure Factory est un espace couvert dédié aux sports et aux loisirs pour toute la famille.<br/>Jouez aux jeux videos dans la House of Games, faites une partie de ping-pong, de mini golf ou de bowling virtuel, puis récupérez tranquillement en sirotant un verre en terrasse tout en regardant le spectacle du jour.<br/>Les enfants préféreront peut-être se dépenser à la Kids Disco. </p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>In der überdachten Adventure Factory ist das ganze Jahr über Sommer.<br/>Hier können Sie Sport treiben, gemütlich zusammen sitzen und das Unterhaltungsprogramm genießen.<br/>Natürlich kommt auch der Nachwuchs nicht zu kurz. </p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="adventurefactory.swf">
+			<sound>domaine.swf</sound>
+			<filename>af_03_adventure_factory_cafe.swf</filename>
+			<type>pano</type>
+			<name_uk>Adventure Factory Cafe</name_uk>
+			<name_nl>Café Adventure Factory</name_nl>
+			<name_benl>Café Adventure Factory</name_benl>
+			<name_befr>Café Adventure Factory</name_befr>
+			<name_fr>Café Adventure Factory</name_fr>
+			<name_de>Adventure Factory Café</name_de>
+			<edito_uk><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>The weather is always nice at the indoor Adventure Factory.<br/><br/>This sports and entertainment center is a guarantee for hours of fun. </p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>In de overdekte Adventure Factory is het altijd mooi weer.<br/><br/>Dit sport- en uitgaanscentrum garandeert u urenlang plezier. </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>In de overdekte Adventure Factory is het altijd mooi weer.<br/><br/>Dit sport- en uitgaanscentrum garandeert u urenlang plezier.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>Adventure Factory est un espace couvert dédié aux sports et aux loisirs pour toute la famille.<br/>Jouez aux jeux videos dans la House of Games, faites une partie de ping-pong, de mini golf ou de bowling virtuel, puis récupérez tranquillement en sirotant un verre en terrasse tout en regardant le spectacle du jour.<br/>Les enfants préféreront peut-être se dépenser à la Kids Disco.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>Adventure Factory est un espace couvert dédié aux sports et aux loisirs pour toute la famille.<br/>Jouez aux jeux videos dans la House of Games, faites une partie de ping-pong, de mini golf ou de bowling virtuel, puis récupérez tranquillement en sirotant un verre en terrasse tout en regardant le spectacle du jour.<br/>Les enfants préféreront peut-être se dépenser à la Kids Disco. </p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>In der überdachten Adventure Factory ist das ganze Jahr über Sommer.<br/>Hier können Sie Sport treiben, gemütlich zusammen sitzen und das Unterhaltungsprogramm genießen.<br/>Natürlich kommt auch der Nachwuchs nicht zu kurz. </p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>1100</x_pos>
+			<vitesse>-5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="adventurefactory.swf">
+			<sound>domaine.swf</sound>
+			<filename>af_04_kids_klub.swf</filename>
+			<type>pano</type>
+			<name_uk>Kids Club</name_uk>
+			<name_nl>Kids Klub</name_nl>
+			<name_benl>Kids Klub</name_benl>
+			<name_befr>Kids Klub</name_befr>
+			<name_fr>Kids Club</name_fr>
+			<name_de>Kids Klub</name_de>
+			<edito_uk><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>The weather is always nice at the indoor Adventure Factory.<br/><br/>This sports and entertainment center is a guarantee for hours of fun. </p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>In de overdekte Adventure Factory is het altijd mooi weer.<br/><br/>Dit sport- en uitgaanscentrum garandeert u urenlang plezier. </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>In de overdekte Adventure Factory is het altijd mooi weer.<br/><br/>Dit sport- en uitgaanscentrum garandeert u urenlang plezier.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>Adventure Factory est un espace couvert dédié aux sports et aux loisirs pour toute la famille.<br/>Jouez aux jeux videos dans la House of Games, faites une partie de ping-pong, de mini golf ou de bowling virtuel, puis récupérez tranquillement en sirotant un verre en terrasse tout en regardant le spectacle du jour.<br/>Les enfants préféreront peut-être se dépenser à la Kids Disco.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>Adventure Factory est un espace couvert dédié aux sports et aux loisirs pour toute la famille.<br/>Jouez aux jeux videos dans la House of Games, faites une partie de ping-pong, de mini golf ou de bowling virtuel, puis récupérez tranquillement en sirotant un verre en terrasse tout en regardant le spectacle du jour.<br/>Les enfants préféreront peut-être se dépenser à la Kids Disco. </p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>In der überdachten Adventure Factory ist das ganze Jahr über Sommer.<br/>Hier können Sie Sport treiben, gemütlich zusammen sitzen und das Unterhaltungsprogramm genießen.<br/>Natürlich kommt auch der Nachwuchs nicht zu kurz. </p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="adventurefactory.swf">
+			<sound>domaine.swf</sound>
+			<filename>af_05_midget_golf.swf</filename>
+			<type>pano</type>
+			<name_uk>Midget golf</name_uk>
+			<name_nl>Midgetgolf</name_nl>
+			<name_benl>Midgetgolf</name_benl>
+			<name_befr>Mini-Golf</name_befr>
+			<name_fr>Mini-Golf</name_fr>
+			<name_de>Märchengolf</name_de>
+			<edito_uk><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>The weather is always nice at the indoor Adventure Factory.<br/><br/>This sports and entertainment center is a guarantee for hours of fun. </p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>In de overdekte Adventure Factory is het altijd mooi weer.<br/><br/>Dit sport- en uitgaanscentrum garandeert u urenlang plezier. </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>In de overdekte Adventure Factory is het altijd mooi weer.<br/><br/>Dit sport- en uitgaanscentrum garandeert u urenlang plezier.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>Adventure Factory est un espace couvert dédié aux sports et aux loisirs pour toute la famille.<br/>Jouez aux jeux videos dans la House of Games, faites une partie de ping-pong, de mini golf ou de bowling virtuel, puis récupérez tranquillement en sirotant un verre en terrasse tout en regardant le spectacle du jour.<br/>Les enfants préféreront peut-être se dépenser à la Kids Disco.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>Adventure Factory est un espace couvert dédié aux sports et aux loisirs pour toute la famille.<br/>Jouez aux jeux videos dans la House of Games, faites une partie de ping-pong, de mini golf ou de bowling virtuel, puis récupérez tranquillement en sirotant un verre en terrasse tout en regardant le spectacle du jour.<br/>Les enfants préféreront peut-être se dépenser à la Kids Disco. </p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>In der überdachten Adventure Factory ist das ganze Jahr über Sommer.<br/>Hier können Sie Sport treiben, gemütlich zusammen sitzen und das Unterhaltungsprogramm genießen.<br/>Natürlich kommt auch der Nachwuchs nicht zu kurz. </p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="adventurefactory.swf">
+			<sound>domaine.swf</sound>
+			<filename>af_06_mini_karts.swf</filename>
+			<type>pano</type>
+			<name_uk>Mini Karts</name_uk>
+			<name_nl>Mini-cars</name_nl>
+			<name_benl>Mini-cars</name_benl>
+			<name_befr>Mini Karts</name_befr>
+			<name_fr>Mini Karts</name_fr>
+			<name_de>Miniflitzer</name_de>
+			<edito_uk><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>The weather is always nice at the indoor Adventure Factory.<br/><br/>This sports and entertainment center is a guarantee for hours of fun. </p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>In de overdekte Adventure Factory is het altijd mooi weer.<br/><br/>Dit sport- en uitgaanscentrum garandeert u urenlang plezier. </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>In de overdekte Adventure Factory is het altijd mooi weer.<br/><br/>Dit sport- en uitgaanscentrum garandeert u urenlang plezier.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>Adventure Factory est un espace couvert dédié aux sports et aux loisirs pour toute la famille.<br/>Jouez aux jeux videos dans la House of Games, faites une partie de ping-pong, de mini golf ou de bowling virtuel, puis récupérez tranquillement en sirotant un verre en terrasse tout en regardant le spectacle du jour.<br/>Les enfants préféreront peut-être se dépenser à la Kids Disco.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>Adventure Factory est un espace couvert dédié aux sports et aux loisirs pour toute la famille.<br/>Jouez aux jeux videos dans la House of Games, faites une partie de ping-pong, de mini golf ou de bowling virtuel, puis récupérez tranquillement en sirotant un verre en terrasse tout en regardant le spectacle du jour.<br/>Les enfants préféreront peut-être se dépenser à la Kids Disco. </p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>In der überdachten Adventure Factory ist das ganze Jahr über Sommer.<br/>Hier können Sie Sport treiben, gemütlich zusammen sitzen und das Unterhaltungsprogramm genießen.<br/>Natürlich kommt auch der Nachwuchs nicht zu kurz. </p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>500</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="adventurefactory.swf">
+			<sound>domaine.swf</sound>
+			<filename>af_07_reception.swf</filename>
+			<type>pano</type>
+			<name_uk>Reception</name_uk>
+			<name_nl>Receptie</name_nl>
+			<name_benl>Receptie</name_benl>
+			<name_befr>Réception</name_befr>
+			<name_fr>Réception</name_fr>
+			<name_de>Rezeption</name_de>
+			<edito_uk><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>The weather is always nice at the indoor Adventure Factory.<br/><br/>This sports and entertainment center is a guarantee for hours of fun. </p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>In de overdekte Adventure Factory is het altijd mooi weer.<br/><br/>Dit sport- en uitgaanscentrum garandeert u urenlang plezier. </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>In de overdekte Adventure Factory is het altijd mooi weer.<br/><br/>Dit sport- en uitgaanscentrum garandeert u urenlang plezier.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>Adventure Factory est un espace couvert dédié aux sports et aux loisirs pour toute la famille.<br/>Jouez aux jeux videos dans la House of Games, faites une partie de ping-pong, de mini golf ou de bowling virtuel, puis récupérez tranquillement en sirotant un verre en terrasse tout en regardant le spectacle du jour.<br/>Les enfants préféreront peut-être se dépenser à la Kids Disco.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>Adventure Factory est un espace couvert dédié aux sports et aux loisirs pour toute la famille.<br/>Jouez aux jeux videos dans la House of Games, faites une partie de ping-pong, de mini golf ou de bowling virtuel, puis récupérez tranquillement en sirotant un verre en terrasse tout en regardant le spectacle du jour.<br/>Les enfants préféreront peut-être se dépenser à la Kids Disco. </p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>In der überdachten Adventure Factory ist das ganze Jahr über Sommer.<br/>Hier können Sie Sport treiben, gemütlich zusammen sitzen und das Unterhaltungsprogramm genießen.<br/>Natürlich kommt auch der Nachwuchs nicht zu kurz. </p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		<!--
+		<pano map="2d" plan="adventurefactory.swf">
+			<sound>domaine.swf</sound>
+			<filename>af_08_sport_hall.swf</filename>
+			<type>pano</type>
+			<name_uk>Sport Hall</name_uk>
+			<name_nl>Sport Hall</name_nl>
+			<name_benl>Sporthal</name_benl>
+			<name_befr>Sport Hall</name_befr>
+			<name_fr>Sport Hall</name_fr>
+			<name_de>Sporthalle</name_de>
+			<edito_uk><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>The weather is always nice at the indoor Adventure Factory.<br/><br/>This sports and entertainment center is a guarantee for hours of fun. </p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>In de overdekte Adventure Factory is het altijd mooi weer.<br/><br/>Dit sport- en uitgaanscentrum garandeert u urenlang plezier. </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>In de overdekte Adventure Factory is het altijd mooi weer.<br/><br/>Dit sport- en uitgaanscentrum garandeert u urenlang plezier.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>Adventure Factory est un espace couvert dédié aux sports et aux loisirs pour toute la famille.<br/>Jouez aux jeux videos dans la House of Games, faites une partie de ping-pong, de mini golf ou de bowling virtuel, puis récupérez tranquillement en sirotant un verre en terrasse tout en regardant le spectacle du jour.<br/>Les enfants préféreront peut-être se dépenser à la Kids Disco.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>Adventure Factory est un espace couvert dédié aux sports et aux loisirs pour toute la famille.<br/>Jouez aux jeux videos dans la House of Games, faites une partie de ping-pong, de mini golf ou de bowling virtuel, puis récupérez tranquillement en sirotant un verre en terrasse tout en regardant le spectacle du jour.<br/>Les enfants préféreront peut-être se dépenser à la Kids Disco. </p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>In der überdachten Adventure Factory ist das ganze Jahr über Sommer.<br/>Hier können Sie Sport treiben, gemütlich zusammen sitzen und das Unterhaltungsprogramm genießen.<br/>Natürlich kommt auch der Nachwuchs nicht zu kurz. </p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		-->
+
+		<pano map="2d" plan="adventurefactory.swf">
+			<sound></sound>
+			<filename>sequence_events_factory.swf</filename>
+			<type>video</type>
+			<name_uk>Events in Factory video</name_uk>
+			<name_nl>Factory evenementen video</name_nl>
+			<name_benl>Factory evenementen video</name_benl>
+			<name_befr>Vidéo événements dans le Factory</name_befr>
+			<name_fr>Vidéo événements dans le Factory</name_fr>
+			<name_de>Video Factory</name_de>
+			<edito_uk><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>The weather is always nice at the indoor Adventure Factory.<br/><br/>This sports and entertainment center is a guarantee for hours of fun. </p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>In de overdekte Adventure Factory is het altijd mooi weer.<br/><br/>Dit sport- en uitgaanscentrum garandeert u urenlang plezier. </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>In de overdekte Adventure Factory is het altijd mooi weer.<br/><br/>Dit sport- en uitgaanscentrum garandeert u urenlang plezier.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>Adventure Factory est un espace couvert dédié aux sports et aux loisirs pour toute la famille.<br/>Jouez aux jeux videos dans la House of Games, faites une partie de ping-pong, de mini golf ou de bowling virtuel, puis récupérez tranquillement en sirotant un verre en terrasse tout en regardant le spectacle du jour.<br/>Les enfants préféreront peut-être se dépenser à la Kids Disco.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>Adventure Factory est un espace couvert dédié aux sports et aux loisirs pour toute la famille.<br/>Jouez aux jeux videos dans la House of Games, faites une partie de ping-pong, de mini golf ou de bowling virtuel, puis récupérez tranquillement en sirotant un verre en terrasse tout en regardant le spectacle du jour.<br/>Les enfants préféreront peut-être se dépenser à la Kids Disco. </p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>In der überdachten Adventure Factory ist das ganze Jahr über Sommer.<br/>Hier können Sie Sport treiben, gemütlich zusammen sitzen und das Unterhaltungsprogramm genießen.<br/>Natürlich kommt auch der Nachwuchs nicht zu kurz. </p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="adventurefactory.swf">
+			<sound></sound>
+			<filename>sequence_golf.swf</filename>
+			<type>video</type>
+			<name_uk>Indoor Midgetgolf video</name_uk>
+			<name_nl>Indoor midgetgolf video</name_nl>
+			<name_benl>Indoor midgetgolf video</name_benl>
+			<name_befr>Vidéo midgetgolf indoor</name_befr>
+			<name_fr>Vidéo midgetgolf indoor</name_fr>
+			<name_de>Video Minigolf</name_de>
+			<edito_uk><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>The weather is always nice at the indoor Adventure Factory.<br/><br/>This sports and entertainment center is a guarantee for hours of fun. </p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>In de overdekte Adventure Factory is het altijd mooi weer.<br/><br/>Dit sport- en uitgaanscentrum garandeert u urenlang plezier. </p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>In de overdekte Adventure Factory is het altijd mooi weer.<br/><br/>Dit sport- en uitgaanscentrum garandeert u urenlang plezier.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>Adventure Factory est un espace couvert dédié aux sports et aux loisirs pour toute la famille.<br/>Jouez aux jeux videos dans la House of Games, faites une partie de ping-pong, de mini golf ou de bowling virtuel, puis récupérez tranquillement en sirotant un verre en terrasse tout en regardant le spectacle du jour.<br/>Les enfants préféreront peut-être se dépenser à la Kids Disco.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>Adventure Factory est un espace couvert dédié aux sports et aux loisirs pour toute la famille.<br/>Jouez aux jeux videos dans la House of Games, faites une partie de ping-pong, de mini golf ou de bowling virtuel, puis récupérez tranquillement en sirotant un verre en terrasse tout en regardant le spectacle du jour.<br/>Les enfants préféreront peut-être se dépenser à la Kids Disco. </p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>ADVENTURE FACTORY</titre><br/>In der überdachten Adventure Factory ist das ganze Jahr über Sommer.<br/>Hier können Sie Sport treiben, gemütlich zusammen sitzen und das Unterhaltungsprogramm genießen.<br/>Natürlich kommt auch der Nachwuchs nicht zu kurz. </p>]]></edito_de>
+			<loop>1</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+//businesscenter	
+		<pano map="2d" plan="businesscenter.swf">
+			<sound>domaine.swf</sound>
+			<filename>bc_01_business_lounge.swf</filename>
+			<type>pano</type>
+			<name_uk>Business lounge</name_uk>
+			<name_nl>Lounge Business Center</name_nl>
+			<name_benl>Lounge Business Center</name_benl>
+			<name_befr>Salon Business</name_befr>
+			<name_fr>Salon Business</name_fr>
+			<name_de>Business Lounge</name_de>
+			<edito_uk><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In our Business Centers you can keep meetings, brainstorming sessions and presentations undisturbed and in a quiet atmosphere.<br/><br/>All meeting rooms contain the latest technical innovations and can accommodate even the largest conferences.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In onze Business Centers kunt u in alle rust vergaderen, brainstormen en presentaties houden.<br/><br/>De vele zalen zijn voorzien van de nieuwste technische snufjes en wanneer de zalen geschakeld worden kunnen zij plaats bieden aan grote gezelschapen.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In onze Business Centers kunt u in alle rust vergaderen, brainstormen en presentaties houden.<br/><br/>De vele zalen zijn voorzien van de nieuwste technische snufjes en wanneer de zalen geschakeld worden kunnen zij plaats bieden aan grote gezelschapen.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>Dans nos Business Centers, vous pouvez vous réunir, faire du brainstorming et organiser des présentations en toute tranquillité.<br/><br/>Les nombreuses salles sont équipées des dernières technologies de pointe et lorsque les salles sont reliées entre elles, elle peuvent offrir de la place à des groupes importants.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>Dans nos Business Centers, vous pouvez vous réunir, faire du brainstorming et organiser des présentations en toute tranquillité.<br/><br/>Les nombreuses salles sont équipées des dernières technologies de pointe et lorsque les salles sont reliées entre elles, elle peuvent offrir de la place à des groupes importants.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In unseren Business Centern können Sie in aller Ruhe Ihre Versammlungen, Brainstorming und Präsentationen abhalten.<br/>Die variablen Räume sind mit den neuesten technischen Highlights ausgestattet und bieten Ihnen alles, was Sie zu einer professionellen Veranstaltung benötigen.<br/>Wir inszenieren Ihr (individuelles) Event von 5 bis zu 3.000 Personen.<br/>Fordern Sie uns!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>900</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="businesscenter.swf">
+			<sound>domaine.swf</sound>
+			<filename>bc_02_business_entrance.swf</filename>
+			<type>pano</type>
+			<name_uk>Business Center entrance</name_uk>
+			<name_nl>Entree Business Center</name_nl>
+			<name_benl>Entree Business Center</name_benl>
+			<name_befr>Entrée Business Center</name_befr>
+			<name_fr>Entrée Business Center</name_fr>
+			<name_de>Eingang Business Center</name_de>
+			<edito_uk><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In our Business Centers you can keep meetings, brainstorming sessions and presentations undisturbed and in a quiet atmosphere.<br/><br/>All meeting rooms contain the latest technical innovations and can accommodate even the largest conferences.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In onze Business Centers kunt u in alle rust vergaderen, brainstormen en presentaties houden.<br/><br/>De vele zalen zijn voorzien van de nieuwste technische snufjes en wanneer de zalen geschakeld worden kunnen zij plaats bieden aan grote gezelschapen.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In onze Business Centers kunt u in alle rust vergaderen, brainstormen en presentaties houden.<br/><br/>De vele zalen zijn voorzien van de nieuwste technische snufjes en wanneer de zalen geschakeld worden kunnen zij plaats bieden aan grote gezelschapen.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>Dans nos Business Centers, vous pouvez vous réunir, faire du brainstorming et organiser des présentations en toute tranquillité.<br/><br/>Les nombreuses salles sont équipées des dernières technologies de pointe et lorsque les salles sont reliées entre elles, elle peuvent offrir de la place à des groupes importants.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>Dans nos Business Centers, vous pouvez vous réunir, faire du brainstorming et organiser des présentations en toute tranquillité.<br/><br/>Les nombreuses salles sont équipées des dernières technologies de pointe et lorsque les salles sont reliées entre elles, elle peuvent offrir de la place à des groupes importants.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In unseren Business Centern können Sie in aller Ruhe Ihre Versammlungen, Brainstorming und Präsentationen abhalten.<br/>Die variablen Räume sind mit den neuesten technischen Highlights ausgestattet und bieten Ihnen alles, was Sie zu einer professionellen Veranstaltung benötigen.<br/>Wir inszenieren Ihr (individuelles) Event von 5 bis zu 3.000 Personen.<br/>Fordern Sie uns!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="businesscenter.swf">
+			<sound>domaine.swf</sound>
+			<filename>bc_03_large_meeting_room.swf</filename>
+			<type>pano</type>
+			<name_uk>Large meeting room</name_uk>
+			<name_nl>Grote vergaderruimte Business Center</name_nl>
+			<name_benl>Grote vergaderruimte Business Center</name_benl>
+			<name_befr>Grande salle de réunion</name_befr>
+			<name_fr>Grande salle de réunion</name_fr>
+			<name_de>Tagungsraum</name_de>
+			<edito_uk><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In our Business Centers you can keep meetings, brainstorming sessions and presentations undisturbed and in a quiet atmosphere.<br/><br/>All meeting rooms contain the latest technical innovations and can accommodate even the largest conferences.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In onze Business Centers kunt u in alle rust vergaderen, brainstormen en presentaties houden.<br/><br/>De vele zalen zijn voorzien van de nieuwste technische snufjes en wanneer de zalen geschakeld worden kunnen zij plaats bieden aan grote gezelschapen.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In onze Business Centers kunt u in alle rust vergaderen, brainstormen en presentaties houden.<br/><br/>De vele zalen zijn voorzien van de nieuwste technische snufjes en wanneer de zalen geschakeld worden kunnen zij plaats bieden aan grote gezelschapen.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>Dans nos Business Centers, vous pouvez vous réunir, faire du brainstorming et organiser des présentations en toute tranquillité.<br/><br/>Les nombreuses salles sont équipées des dernières technologies de pointe et lorsque les salles sont reliées entre elles, elle peuvent offrir de la place à des groupes importants.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>Dans nos Business Centers, vous pouvez vous réunir, faire du brainstorming et organiser des présentations en toute tranquillité.<br/><br/>Les nombreuses salles sont équipées des dernières technologies de pointe et lorsque les salles sont reliées entre elles, elle peuvent offrir de la place à des groupes importants.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In unseren Business Centern können Sie in aller Ruhe Ihre Versammlungen, Brainstorming und Präsentationen abhalten.<br/>Die variablen Räume sind mit den neuesten technischen Highlights ausgestattet und bieten Ihnen alles, was Sie zu einer professionellen Veranstaltung benötigen.<br/>Wir inszenieren Ihr (individuelles) Event von 5 bis zu 3.000 Personen.<br/>Fordern Sie uns!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>1400</x_pos>
+			<vitesse>-5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="businesscenter.swf">
+			<sound>domaine.swf</sound>
+			<filename>bc_04_medium_meeting_room.swf</filename>
+			<type>pano</type>
+			<name_uk>Medium meeting room</name_uk>
+			<name_nl>Vergaderruimte Business Center</name_nl>
+			<name_benl>Vergaderruimte Business Center</name_benl>
+			<name_befr>Moyenne salle de réunion</name_befr>
+			<name_fr>Moyenne salle de réunion</name_fr>
+			<name_de>Tagungsraum</name_de>
+			<edito_uk><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In our Business Centers you can keep meetings, brainstorming sessions and presentations undisturbed and in a quiet atmosphere.<br/><br/>All meeting rooms contain the latest technical innovations and can accommodate even the largest conferences.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In onze Business Centers kunt u in alle rust vergaderen, brainstormen en presentaties houden.<br/><br/>De vele zalen zijn voorzien van de nieuwste technische snufjes en wanneer de zalen geschakeld worden kunnen zij plaats bieden aan grote gezelschapen.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In onze Business Centers kunt u in alle rust vergaderen, brainstormen en presentaties houden.<br/><br/>De vele zalen zijn voorzien van de nieuwste technische snufjes en wanneer de zalen geschakeld worden kunnen zij plaats bieden aan grote gezelschapen.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>Dans nos Business Centers, vous pouvez vous réunir, faire du brainstorming et organiser des présentations en toute tranquillité.<br/><br/>Les nombreuses salles sont équipées des dernières technologies de pointe et lorsque les salles sont reliées entre elles, elle peuvent offrir de la place à des groupes importants.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>Dans nos Business Centers, vous pouvez vous réunir, faire du brainstorming et organiser des présentations en toute tranquillité.<br/><br/>Les nombreuses salles sont équipées des dernières technologies de pointe et lorsque les salles sont reliées entre elles, elle peuvent offrir de la place à des groupes importants.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In unseren Business Centern können Sie in aller Ruhe Ihre Versammlungen, Brainstorming und Präsentationen abhalten.<br/>Die variablen Räume sind mit den neuesten technischen Highlights ausgestattet und bieten Ihnen alles, was Sie zu einer professionellen Veranstaltung benötigen.<br/>Wir inszenieren Ihr (individuelles) Event von 5 bis zu 3.000 Personen.<br/>Fordern Sie uns!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+		
+		<pano map="2d" plan="businesscenter.swf">
+			<sound>domaine.swf</sound>
+			<filename>bc_05_small_meeting_room.swf</filename>
+			<type>pano</type>
+			<name_uk>Small meeting room</name_uk>
+			<name_nl>Kleine vergaderruimte  Business Center</name_nl>
+			<name_benl>Kleine vergaderruimte  Business Center</name_benl>
+			<name_befr>Petite salle de réunion</name_befr>
+			<name_fr>Petite salle de réunion</name_fr>
+			<name_de>Tagungsraum</name_de>
+			<edito_uk><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In our Business Centers you can keep meetings, brainstorming sessions and presentations undisturbed and in a quiet atmosphere.<br/><br/>All meeting rooms contain the latest technical innovations and can accommodate even the largest conferences.</p>]]></edito_uk>
+			<edito_nl><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In onze Business Centers kunt u in alle rust vergaderen, brainstormen en presentaties houden.<br/><br/>De vele zalen zijn voorzien van de nieuwste technische snufjes en wanneer de zalen geschakeld worden kunnen zij plaats bieden aan grote gezelschapen.</p>]]></edito_nl>
+			<edito_benl><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In onze Business Centers kunt u in alle rust vergaderen, brainstormen en presentaties houden.<br/><br/>De vele zalen zijn voorzien van de nieuwste technische snufjes en wanneer de zalen geschakeld worden kunnen zij plaats bieden aan grote gezelschapen.</p>]]></edito_benl>
+			<edito_befr><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>Dans nos Business Centers, vous pouvez vous réunir, faire du brainstorming et organiser des présentations en toute tranquillité.<br/><br/>Les nombreuses salles sont équipées des dernières technologies de pointe et lorsque les salles sont reliées entre elles, elle peuvent offrir de la place à des groupes importants.</p>]]></edito_befr>
+			<edito_fr><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>Dans nos Business Centers, vous pouvez vous réunir, faire du brainstorming et organiser des présentations en toute tranquillité.<br/><br/>Les nombreuses salles sont équipées des dernières technologies de pointe et lorsque les salles sont reliées entre elles, elle peuvent offrir de la place à des groupes importants.</p>]]></edito_fr>
+			<edito_de><![CDATA[<p><titre>BUSINESS CENTER</titre><br/>In unseren Business Centern können Sie in aller Ruhe Ihre Versammlungen, Brainstorming und Präsentationen abhalten.<br/>Die variablen Räume sind mit den neuesten technischen Highlights ausgestattet und bieten Ihnen alles, was Sie zu einer professionellen Veranstaltung benötigen.<br/>Wir inszenieren Ihr (individuelles) Event von 5 bis zu 3.000 Personen.<br/>Fordern Sie uns!</p>]]></edito_de>
+			<loop>0</loop>
+			<x_pos>0</x_pos>
+			<vitesse>5</vitesse>			
+			<pano_change_timer>30</pano_change_timer>
+		</pano>
+
+	</panos>
+</visite>
